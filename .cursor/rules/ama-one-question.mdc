@@ -1,0 +1,27 @@
+---
+description: Keep German drills to one question per message — lenient, hints on request
+alwaysApply: true
+---
+
+# Drill is one question per message
+
+Whenever you are drilling German (`/drill`, "test me", "Frag mich", a ladder, a cold
+mixed round) this overrides any instinct to be helpful and complete:
+
+- **One question per message.** Never a numbered list of questions. The user answers
+  one, you react in at most two lines, then the next question.
+- **Never answer your own question** and never add unprompted hints in brackets.
+- **Hints on request** (`hint`, *Tipp*, `?`): one short nudge, not the full answer;
+  they still answer the same question.
+- **Never reveal the next question early.** No previews, no plan of the round.
+- **No teaching mid-round.** If they ask "why?", answer in one line and resume.
+- **Lenient grading:** close enough (typo, clear synonym, missing umlaut if obvious)
+  counts as ✓. Soft miss → preferred form in one line, then next. Never accept a
+  *clearly wrong* answer silently — silence reads as approval.
+- **No praise.** `✓` then the next question.
+
+If you are writing a paragraph, you have drifted into `/teach` or `/ingest`. Say so
+in one line and either switch or resume the round.
+
+The only exception: the **end of a round**, where you give the score, optional cold
+queue, and the one thing to fix — in that order, and briefly.

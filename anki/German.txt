@@ -1,0 +1,93 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:German
+#tags column:3
+
+# ── A1.1 Unit 1 — Hallo, wie geht's? ──
+Wie geht's?	How are you? (informal; short for Wie geht es dir?)	a1.1 unit_01 chunk
+Gut, und dir?	Good, and you? (after Wie geht's? — dir not du)	a1.1 unit_01 chunk
+Auch gut, danke.	Also good, thanks.	a1.1 unit_01 chunk
+Woher kommst du?	Where are you from? (informal)	a1.1 unit_01 chunk
+Ich komme aus X. — frame?	Ich komme aus X. (don't drop aus)	a1.1 unit_01 pattern
+kommen — du?	du kommst	a1.1 unit_01 verb
+sprechen — du / er?	du sprichst · er/sie spricht (vowel change)	a1.1 unit_01 verb
+Welche Sprachen sprichst du?	Which languages do you speak?	a1.1 unit_01 chunk
+Wie heißt du?	What's your name? (informal; lit. What are you called?)	a1.1 unit_01 chunk
+Ich heiße X.	My name is X.	a1.1 unit_01 chunk
+heißen — du?	du heißt (stem ends in ß — no extra s)	a1.1 unit_01 verb
+Schön dich kennenzulernen. / Freut mich.	Nice to meet you.	a1.1 unit_01 chunk
+Mahlzeit!	Enjoy your meal! / lunchtime greeting (regional)	a1.1 unit_01 chunk
+denn in a question (e.g. Woher kommst du denn?)	Modal particle — curiosity / softens the question; not “because”	a1.1 unit_01 pattern
+Woher kommst du denn?	Where are you from? (with denn — more natural/curious)	a1.1 unit_01 chunk
+man vs der Mann	man = one/people · der Mann = the man	a1.1 unit_01 pattern
+Sieht man das nicht?	Can't you / Doesn't one see that?	a1.1 unit_01 chunk
+eigentlich in a question (Wie heißt du eigentlich?)	≈ “by the way” (booklet: not English “actually”)	a1.1 unit_01 pattern
+Wie heißt du eigentlich?	What's your name, by the way?	a1.1 unit_01 chunk
+
+# ── A1.1 Unit 2 — Ich brauche Hilfe! ──
+Guten Morgen / Tag / Abend — when?	Morgen ~6–11 · Tag ~11–18 · Abend from ~18	a1.1 unit_02 chunk
+Ich habe eine Frage.	I have a question.	a1.1 unit_02 chunk
+Wie komme ich zur X?	How do I get to X?	a1.1 unit_02 chunk
+Wie bitte?	Pardon? / Say that again.	a1.1 unit_02 chunk
+Entschuldigung!	Excuse me / Sorry (general)	a1.1 unit_02 chunk
+Entschuldigen Sie! vs Entschuldige!	Formal vs informal excuse me	a1.1 unit_02 chunk
+Verzeihung!	Excuse me (more formal / old-fashioned than Entschuldigung)	a1.1 unit_02 chunk
+Es tut mir leid. — vs Entschuldigung?	Sympathy / soft apology; not always interchangeable with Entschuldigung	a1.1 unit_02 pattern
+dort drüben	over there	a1.1 unit_02 chunk
+das Gepäck	luggage — always singular (uncountable)	a1.1 unit_02 chunk
+Kein Problem.	No problem.	a1.1 unit_02 chunk
+Wie heißt das?	What's that called?	a1.1 unit_02 chunk
+Wie sagt man das auf Deutsch?	How do you say that in German? (impersonal man)	a1.1 unit_02 chunk
+Wie heißt X auf Deutsch? / Was heißt X auf Deutsch?	What's X called in German?	a1.1 unit_02 chunk
+Was bedeutet das?	What does that mean?	a1.1 unit_02 chunk
+Können Sie das bitte buchstabieren?	Can you please spell that? (formal)	a1.1 unit_02 chunk
+Ich brauche X.	I need X.	a1.1 unit_02 pattern
+Ich weiß (es) nicht.	I don't know (it).	a1.1 unit_02 chunk
+Gern geschehen. / Keine Ursache.	You're welcome.	a1.1 unit_02 chunk
+Auf Wiedersehen. vs Tschüss.	Formal goodbye vs informal bye	a1.1 unit_02 chunk
+der / die / das — rule?	Learn every noun with its article; plural is die	a1.1 unit_02 pattern
+der Geldautomat	the ATM (masculine)	a1.1 unit_02 chunk
+die Kreditkarte	the credit card (feminine)	a1.1 unit_02 chunk
+das Taxi	the taxi (neuter)	a1.1 unit_02 chunk
+Numbers 0–10	null eins zwei drei vier fünf sechs sieben acht neun zehn	a1.1 unit_02 chunk
+
+# ── A1.1 Unit 3 — Wie bitte? ──
+du vs Sie — when Sie?	Strangers, official situations, people you don't know well; Sie is capitalised	a1.1 unit_03 pattern
+Sind Sie noch frei?	Are you still free? (formal; e.g. taxi)	a1.1 unit_03 chunk
+Wohin wollen Sie fahren?	Where do you want to go? (formal; wohin = to where)	a1.1 unit_03 chunk
+Nach X.	To X. (nach + place name)	a1.1 unit_03 chunk
+Ich verstehe nicht.	I don't understand.	a1.1 unit_03 chunk
+Können Sie das noch mal wiederholen?	Can you please repeat that once more? (formal)	a1.1 unit_03 chunk
+Woher kommen Sie?	Where are you from? (formal; ≈ Woher sind Sie? / Ich bin aus …)	a1.1 unit_03 chunk
+Ich wohne in X.	I live in X.	a1.1 unit_03 pattern
+kommen aus vs wohnen in	Origin: aus · Residence: in	a1.1 unit_03 pattern
+sein — ich / du / er?	ich bin · du bist · er/sie/es ist	a1.1 unit_03 verb
+sein — wir / ihr / Sie?	wir sind · ihr seid · Sie/sie sind	a1.1 unit_03 verb
+Wie viel kostet das?	How much does it cost? (also: Das macht X Euro.)	a1.1 unit_03 chunk
+Bar oder mit Karte?	Cash or by card?	a1.1 unit_03 chunk
+Ich zahle bar. vs mit Karte	bar = adjective (no mit) · card takes mit	a1.1 unit_03 pattern
+Bitte schön.	Here you go.	a1.1 unit_03 chunk
+Numbers 11–20	elf zwölf dreizehn … neunzehn zwanzig	a1.1 unit_03 chunk
+
+# ── A1.1 Unit 4 — Willkommen Frau Koch! ──
+Wie geht es Ihnen?	How are you? (formal)	a1.1 unit_04 chunk
+Gut, und Ihnen?	Good, and you? (formal return — Ihnen not Sie)	a1.1 unit_04 chunk
+Wie heißen Sie?	What's your name? (formal)	a1.1 unit_04 chunk
+Frau / Herr + name	Formal address: Ms. / Mr. + family name	a1.1 unit_04 chunk
+Kann ich bitte einchecken?	Can I check in please?	a1.1 unit_04 chunk
+Hier ist mein Pass. / Ihre Reservierung.	Here's my passport / your reservation.	a1.1 unit_04 chunk
+Wo ist mein Zimmer?	Where is my room?	a1.1 unit_04 chunk
+Können Sie mir bitte helfen?	Can you please help me? (formal)	a1.1 unit_04 chunk
+Selbstverständlich!	Of course!	a1.1 unit_04 chunk
+mein / deine / Ihr — match what?	Possessive matches the noun's gender (mein Zimmer, meine Reservierung, Ihr Reisepass)	a1.1 unit_04 pattern
+haben — du / er?	du hast · er/sie/es hat	a1.1 unit_04 verb
+Ich habe Kopfschmerzen.	I have a headache.	a1.1 unit_04 chunk
+Ist hier eine Apotheke in der Nähe?	Is there a pharmacy nearby?	a1.1 unit_04 chunk
+eine → die (Apotheke)	First mention indefinite; when identified, definite	a1.1 unit_04 pattern
+Die Apotheke ist gleich um die Ecke.	The pharmacy is just around the corner.	a1.1 unit_04 chunk
+Die Apotheke ist geschlossen.	The pharmacy is closed.	a1.1 unit_04 chunk
+die Apotheke / die Bäckerei / der Supermarkt	pharmacy / bakery / supermarket (with articles)	a1.1 unit_04 chunk
+Bis später. / Bis gleich.	See you later / soon.	a1.1 unit_04 chunk
+das Zimmer · der Reisepass · die Zimmerkarte	room · passport · room card	a1.1 unit_04 chunk
+von X bis Y Uhr	from X to Y o'clock	a1.1 unit_04 chunk

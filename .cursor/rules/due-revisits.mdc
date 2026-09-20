@@ -1,0 +1,25 @@
+---
+description: Flag overdue MISTAKES.md revisits at the start of German sessions
+alwaysApply: true
+---
+
+# Due revisits
+
+At the **start** of any German session in this repo (or when the user asks what's due):
+
+1. Read `MISTAKES.md` → **Open entries**.
+2. Today's date is the session date (from user_info if present).
+3. Flag every `OPEN` or `RECURRED` row whose **Revisit due** is today or earlier.
+4. If any are due, lead with a short list before other work:
+
+```
+Due revisits (cold — no notes, answer out loud):
+- <pattern or chunk> (due <date>) — <went wrong, one line>
+```
+
+5. Ask: fold one into today's round, or continue with what they came for?
+6. If none due: say nothing about revisits (don't spam "all clear").
+7. After a clean cold revisit: set that row to `PASSED` and move it to **Closed
+   entries**. Soft pass if close enough. If they fail clearly: `RECURRED`, new
+   revisit due = today + 14 days; keep the old row and re-log per the `MISTAKES.md`
+   rules.
