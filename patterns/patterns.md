@@ -9,31 +9,40 @@ Taught by `/ingest`. Drilled by `/drill`. Source PDFs: `courses/`.
 
 ---
 
-## Index — A1.A units 1–4
+## Index — A1.1 units 1–6
 
 | Pattern | Frame | Met in |
 |---|---|---|
-| [Wie geht’s? / Gut, und dir?](#wie-gehts--gut-und-dir) | `Wie geht’s?` → `Gut, und dir?` | A1.A U1 |
-| [Woher kommst du? → Ich komme aus X.](#woher-kommst-du--ich-komme-aus-x) | `Woher kommst du?` → `Ich komme aus X.` | A1.A U1 |
-| [denn in questions](#denn-in-questions) | `… denn?` inside a question | A1.A U1 |
-| [man (not Mann)](#man-not-mann) | `man` = one / people | A1.A U1 |
-| [Welche Sprachen sprichst du?](#welche-sprachen-sprichst-du) | `Welche Sprachen sprichst du?` → `Ich spreche …` | A1.A U1 |
-| [Wie heißt du? → Ich heiße X.](#wie-heißt-du--ich-heiße-x) | `Wie heißt du?` → `Ich heiße X.` | A1.A U1 |
-| [eigentlich in questions](#eigentlich-in-questions) | `… eigentlich?` ≈ by the way | A1.A U1 |
-| [Guten Morgen/Tag/Abend](#guten-morgentagabend) | `Guten …!` | A1.A U2 |
-| [Entschuldigung! / Wie bitte?](#entschuldigung--wie-bitte) | `Entschuldigung!` / `Wie bitte?` | A1.A U2 |
-| [Wie sagt / heißt man das auf Deutsch?](#wie-sagt--heißt-man-das-auf-deutsch) | `Wie sagt man X auf Deutsch?` | A1.A U2 |
-| [Ich brauche X.](#ich-brauche-x) | `Ich brauche X.` | A1.A U2 |
-| [du vs Sie](#du-vs-sie) | register split | A1.A U3 |
-| [Sind Sie frei?](#sind-sie-frei) | `Sind Sie frei?` | A1.A U3 |
-| [Woher kommen Sie? / Ich wohne in X.](#woher-kommen-sie--ich-wohne-in-x) | formal origin + live-in | A1.A U3 |
-| [Bar oder mit Karte?](#bar-oder-mit-karte) | pay cash or card | A1.A U3 |
-| [Wie geht es Ihnen? / Gut, und Ihnen?](#wie-geht-es-ihnen--gut-und-ihnen) | formal how-are-you | A1.A U4 |
-| [Wie heißen Sie?](#wie-heißen-sie) | `Wie heißen Sie?` → `Ich heiße X.` | A1.A U4 |
-| [Wo ist mein/dein/Ihr X?](#wo-ist-meindeinihr-x) | possessive + place | A1.A U4 |
-| [Ist hier eine X? → Ja, die X …](#ist-hier-eine-x--ja-die-x) | indefinite → definite | A1.A U4 |
+| [Wie geht’s? / Gut, und dir?](#wie-gehts--gut-und-dir) | `Wie geht’s?` → `Gut, und dir?` | A1.1 U1 |
+| [Woher kommst du? → Ich komme aus X.](#woher-kommst-du--ich-komme-aus-x) | `Woher kommst du?` → `Ich komme aus X.` | A1.1 U1 |
+| [denn in questions](#denn-in-questions) | `… denn?` inside a question | A1.1 U1 |
+| [man (not Mann)](#man-not-mann) | `man` = one / people | A1.1 U1 |
+| [Welche Sprachen sprichst du?](#welche-sprachen-sprichst-du) | `Welche Sprachen sprichst du?` → `Ich spreche …` | A1.1 U1 |
+| [Wie heißt du? → Ich heiße X.](#wie-heißt-du--ich-heiße-x) | `Wie heißt du?` → `Ich heiße X.` | A1.1 U1 |
+| [eigentlich in questions](#eigentlich-in-questions) | `… eigentlich?` ≈ by the way | A1.1 U1 |
+| [Guten Morgen/Tag/Abend](#guten-morgentagabend) | `Guten …!` | A1.1 U2 |
+| [Entschuldigung! / Wie bitte?](#entschuldigung--wie-bitte) | `Entschuldigung!` / `Wie bitte?` | A1.1 U2 |
+| [Wie sagt / heißt man das auf Deutsch?](#wie-sagt--heißt-man-das-auf-deutsch) | `Wie sagt man X auf Deutsch?` | A1.1 U2 |
+| [Ich brauche X.](#ich-brauche-x) | `Ich brauche X.` | A1.1 U2 |
+| [du vs Sie](#du-vs-sie) | register split | A1.1 U3 |
+| [Sind Sie frei?](#sind-sie-frei) | `Sind Sie frei?` | A1.1 U3 |
+| [Woher kommen Sie? / Ich wohne in X.](#woher-kommen-sie--ich-wohne-in-x) | formal origin + live-in | A1.1 U3 |
+| [Bar oder mit Karte?](#bar-oder-mit-karte) | pay cash or card | A1.1 U3 |
+| [Wie geht es Ihnen? / Gut, und Ihnen?](#wie-geht-es-ihnen--gut-und-ihnen) | formal how-are-you | A1.1 U4 |
+| [Wie heißen Sie?](#wie-heißen-sie) | `Wie heißen Sie?` → `Ich heiße X.` | A1.1 U4 |
+| [Wo ist mein/dein/Ihr X?](#wo-ist-meindeinihr-x) | possessive + place | A1.1 U4 |
+| [Ist hier eine X? → Ja, die X …](#ist-hier-eine-x--ja-die-x) | indefinite → definite | A1.1 U4 |
+| [Ich hätte gerne X.](#ich-hätte-gerne-x) | `Ich hätte gerne X.` | A1.1 U5 |
+| [Das ist kein / keine X.](#das-ist-kein--keine-x) | negative article | A1.1 U5 |
+| [doch vs negative question](#doch-vs-negative-question) | contradict a negative Q | A1.1 U5 |
+| [Was kostet / Was kosten …?](#was-kostet--was-kosten-) | price sg/pl | A1.1 U5 |
+| [viel vs viele](#viel-vs-viele) | uncountable vs countable | A1.1 U5 |
+| [Ich bin X. / Ich arbeite als X.](#ich-bin-x--ich-arbeite-als-x) | job without article | A1.1 U6 |
+| [Was machst du beruflich?](#was-machst-du-beruflich) | ask about job | A1.1 U6 |
+| [Das ist … / Er / Sie / Sie](#das-ist----er--sie--sie) | introduce + pronouns | A1.1 U6 |
+| [ihr vs Sie (plural you)](#ihr-vs-sie-plural-you) | informal pl vs formal | A1.1 U6 |
 
-Seed patterns not yet in U1–4 (keep for later units): [Hast du X dabei?](#hast-du-x-dabei) · [Wohin + Verb](#wohin--verb-der-bewegung) · [Modalverb + Infinitiv](#modalverb--infinitiv-am-ende)
+Seed patterns not yet drilled from early units: [Hast du X dabei?](#hast-du-x-dabei) · [Wohin + Verb](#wohin--verb-der-bewegung) · [Modalverb + Infinitiv](#modalverb--infinitiv-am-ende)
 
 ---
 
@@ -61,7 +70,7 @@ Seed patterns not yet in U1–4 (keep for later units): [Hast du X dabei?](#hast
 **Traps**
 - *dir* after *Wie geht’s?* — *du* belongs with *Woher kommst du?*
 
-**Meta:** A1.A Unit 1 · Dialog 1 · added 2026-09-16
+**Meta:** A1.1 Unit 1 · Dialog 1 · added 2026-09-16
 
 ---
 
@@ -88,7 +97,7 @@ Seed patterns not yet in U1–4 (keep for later units): [Hast du X dabei?](#hast
 **Traps**
 - *aus* is required · countries with articles (*die Schweiz*) still take *aus der Schweiz* later — for now stick to bare names from the booklet.
 
-**Meta:** A1.A Unit 1 · Dialog 1 · added 2026-09-16
+**Meta:** A1.1 Unit 1 · Dialog 1 · added 2026-09-16
 
 ---
 
@@ -116,7 +125,7 @@ Seed patterns not yet in U1–4 (keep for later units): [Hast du X dabei?](#hast
 - Question-*denn* ≠ conjunction *denn* (“because”).
 - It does not change word order the way a full clause would.
 
-**Meta:** A1.A Unit 1 · Dialog 1 · added 2026-09-16
+**Meta:** A1.1 Unit 1 · Dialog 1 · added 2026-09-16
 
 ---
 
@@ -143,7 +152,7 @@ Seed patterns not yet in U1–4 (keep for later units): [Hast du X dabei?](#hast
 **Traps**
 - *man* ≠ *Mann* · *man* is never *der man*
 
-**Meta:** A1.A Unit 1 · Dialog 1 · added 2026-09-16
+**Meta:** A1.1 Unit 1 · Dialog 1 · added 2026-09-16
 
 ---
 
@@ -168,7 +177,7 @@ Seed patterns not yet in U1–4 (keep for later units): [Hast du X dabei?](#hast
 4. Du sprichst sehr gut Deutsch!
 5. Trap: *du sprechst* (wrong vowel)
 
-**Meta:** A1.A Unit 1 · Dialog 2 · added 2026-09-16
+**Meta:** A1.1 Unit 1 · Dialog 2 · added 2026-09-16
 
 ---
 
@@ -193,7 +202,7 @@ Seed patterns not yet in U1–4 (keep for later units): [Hast du X dabei?](#hast
 4. Freut mich.
 5. Trap: *Was heißt du?* (use *Wie*)
 
-**Meta:** A1.A Unit 1 · Dialog 3 · added 2026-09-16
+**Meta:** A1.1 Unit 1 · Dialog 3 · added 2026-09-16
 
 ---
 
@@ -220,7 +229,7 @@ Seed patterns not yet in U1–4 (keep for later units): [Hast du X dabei?](#hast
 **Traps**
 - Question-*eigentlich* ≠ dictionary “actually / really” in every sentence — learn the question chunk first.
 
-**Meta:** A1.A Unit 1 · Dialog 3 · added 2026-09-16
+**Meta:** A1.1 Unit 1 · Dialog 3 · added 2026-09-16
 
 ---
 
@@ -242,7 +251,7 @@ Seed patterns not yet in U1–4 (keep for later units): [Hast du X dabei?](#hast
 4. Pair with *Ich habe eine Frage.*
 5. Trap: *Guten Tag* at 8am (prefer *Morgen*)
 
-**Meta:** A1.A Unit 2 · Dialog 1 · added 2026-09-16
+**Meta:** A1.1 Unit 2 · Dialog 1 · added 2026-09-16
 
 ---
 
@@ -267,7 +276,7 @@ Seed patterns not yet in U1–4 (keep for later units): [Hast du X dabei?](#hast
 4. Es tut mir leid.
 5. Trap: only *Entschuldigung* when you mean sympathy for someone’s loss
 
-**Meta:** A1.A Unit 2 · Dialog 2–3 · added 2026-09-16
+**Meta:** A1.1 Unit 2 · Dialog 2–3 · added 2026-09-16
 
 ---
 
@@ -299,7 +308,7 @@ Seed patterns not yet in U1–4 (keep for later units): [Hast du X dabei?](#hast
 - *sagen* + *man* vs *heißen* — both booklet-approved; don’t invent *Wie sagt das?*
 - Keep *man* lowercase impersonal.
 
-**Meta:** A1.A Unit 2 · Dialog 3 · added 2026-09-16
+**Meta:** A1.1 Unit 2 · Dialog 3 · added 2026-09-16
 
 ---
 
@@ -322,7 +331,7 @@ Seed patterns not yet in U1–4 (keep for later units): [Hast du X dabei?](#hast
 4. Soften: *Ich brauche noch eine Karte.*
 5. Trap: inventing English word order with *brauchen*
 
-**Meta:** A1.A Unit 2 · Dialog 3 · added 2026-09-16
+**Meta:** A1.1 Unit 2 · Dialog 3 · added 2026-09-16
 
 ---
 
@@ -342,7 +351,7 @@ Seed patterns not yet in U1–4 (keep for later units): [Hast du X dabei?](#hast
 4. Switch answer particles: *und dir?* vs *und Ihnen?*
 5. Trap: *Sie* verb with *du* pronoun
 
-**Meta:** A1.A Unit 3 · Dialog 1 · added 2026-09-16
+**Meta:** A1.1 Unit 3 · Dialog 1 · added 2026-09-16
 
 ---
 
@@ -365,7 +374,7 @@ Seed patterns not yet in U1–4 (keep for later units): [Hast du X dabei?](#hast
 4. Ich verstehe nicht. / Können Sie das noch mal wiederholen?
 5. Trap: *Bist du frei?* to a taxi driver (register)
 
-**Meta:** A1.A Unit 3 · Dialog 1 · added 2026-09-16 · LÖSUNGEN: *wohin wollen Sie fahren*
+**Meta:** A1.1 Unit 3 · Dialog 1 · added 2026-09-16 · LÖSUNGEN: *wohin wollen Sie fahren*
 
 ---
 
@@ -390,7 +399,7 @@ Seed patterns not yet in U1–4 (keep for later units): [Hast du X dabei?](#hast
 4. Und Sie?
 5. Trap: *Ich wohne aus Sydney*
 
-**Meta:** A1.A Unit 3 · Dialog 2 · added 2026-09-16
+**Meta:** A1.1 Unit 3 · Dialog 2 · added 2026-09-16
 
 ---
 
@@ -416,7 +425,7 @@ Seed patterns not yet in U1–4 (keep for later units): [Hast du X dabei?](#hast
 4. Ich bezahle mit Karte.
 5. Trap: *Ich zahle mit bar*
 
-**Meta:** A1.A Unit 3 · Dialog 3 · added 2026-09-16
+**Meta:** A1.1 Unit 3 · Dialog 3 · added 2026-09-16
 
 ---
 
@@ -436,7 +445,7 @@ Seed patterns not yet in U1–4 (keep for later units): [Hast du X dabei?](#hast
 4. Contrast: *Wie geht’s?* (informal)
 5. Trap: *Gut, und Sie?*
 
-**Meta:** A1.A Unit 4 · Dialog 1 · added 2026-09-16
+**Meta:** A1.1 Unit 4 · Dialog 1 · added 2026-09-16
 
 ---
 
@@ -459,7 +468,7 @@ Seed patterns not yet in U1–4 (keep for later units): [Hast du X dabei?](#hast
 4. Wer sind Sie?
 5. Trap: *Wie heißt Sie?* (wrong person)
 
-**Meta:** A1.A Unit 4 · Dialog 1 · added 2026-09-16
+**Meta:** A1.1 Unit 4 · Dialog 1 · added 2026-09-16
 
 ---
 
@@ -482,7 +491,7 @@ Seed patterns not yet in U1–4 (keep for later units): [Hast du X dabei?](#hast
 4. Können Sie mir bitte helfen?
 5. Trap: *meine Zimmer* (neuter → *mein*)
 
-**Meta:** A1.A Unit 4 · Dialog 2 · added 2026-09-16
+**Meta:** A1.1 Unit 4 · Dialog 2 · added 2026-09-16
 
 ---
 
@@ -507,11 +516,233 @@ Seed patterns not yet in U1–4 (keep for later units): [Hast du X dabei?](#hast
 4. Die Apotheke ist geschlossen.
 5. Trap: *Ist hier die Apotheke?* when you don’t know which one yet
 
-**Meta:** A1.A Unit 4 · Dialog 3 · added 2026-09-16
+**Meta:** A1.1 Unit 4 · Dialog 3 · added 2026-09-16
 
 ---
 
-## Later seeds (not yet in U1–4)
+## Ich hätte gerne X.
+
+**Frame:** `Ich hätte gerne X.` / `Ich hätte gern X.`
+**Meaning:** I’d like X.
+**Slot:** X = thing from the shop (*Erdbeeren*, *Äpfel*, …)
+**Register:** polite shop talk (formal *Sie* around it)
+
+**Behind it:** Booklet: ≈ *Ich möchte Erdbeeren.* · *hätte gern(e)* a bit more formal.
+
+**Instances**
+- Ich hätte gerne Erdbeeren.
+- Welche Äpfel hätten Sie gern?
+- Was möchten Sie gerne?
+
+**Ladder**
+1. Ich hätte gerne Erdbeeren.
+2. Ich hätte gerne Äpfel.
+3. Welche … hätten Sie gern?
+4. Ich nehme die zwei Birnen hier.
+5. Trap: inventing English word order without *hätte gerne*
+
+**Meta:** A1.1 Unit 5 · Dialog 1 · added 2026-09-20
+
+---
+
+## Das ist kein / keine X.
+
+**Frame:** `Das ist kein X.` / `Das ist keine X.` / `Das sind keine X.`
+**Meaning:** That’s not a/any X. / Those aren’t X.
+**Slot:** X = noun — *kein* for m/n · *keine* for f + plural
+**Register:** either
+
+**Behind it:** Negates nouns with an indefinite article (booklet Negativartikel).
+
+**Instances**
+- Das ist kein Brot.
+- Das ist keine Birne.
+- Das sind keine Kartoffeln.
+
+**Ladder**
+1. Das ist kein Brot.
+2. Das ist keine Tasche.
+3. Das sind keine Äpfel.
+4. Kennen Sie keine Vollkornbrötchen?
+5. Trap: *Das ist keine Brot* (neuter → *kein*)
+
+**Meta:** A1.1 Unit 5 · Dialog 2 · added 2026-09-20
+
+---
+
+## doch vs negative question
+
+**Frame:** negative question → `Doch!` (+ positive fact)
+**Meaning:** Yes (I do / I am) — you contradict the negative assumption
+**Slot:** the positive correction
+**Register:** spoken
+
+**Behind it:** Positive Q → *ja/nein*. Negative Q you agree with → *nein*. Negative Q you reject → **doch**.
+
+**Instances**
+- Kennen Sie keine Vollkornbrötchen? → Doch, doch.
+- Bist du nicht von hier? → Doch! Ich bin von hier.
+- Hast du kein Auto? → Doch! Ich habe ein Auto.
+
+**Ladder**
+1. Wohnst du in Berlin? → Ja / Nein
+2. Hast du kein Fahrrad? → Nein, ich habe kein Fahrrad. *(agree)*
+3. Hast du kein Fahrrad? → Doch! Ich habe ein Fahrrad. *(contradict)*
+4. Verstehst du kein Deutsch? → Doch, ich verstehe Deutsch.
+5. Trap: answering *ja* when you mean *doch*
+
+**Meta:** A1.1 Unit 5 · Dialog 2 · added 2026-09-20
+
+---
+
+## Was kostet / Was kosten …?
+
+**Frame:** `Was kostet X?` / `Was kosten die X?` · also `Wie viel kostet …?`
+**Meaning:** How much does/do … cost?
+**Slot:** singular verb *kostet* · plural *kosten* · answer *Das macht X Euro.* / *Es kostet …*
+**Register:** shop
+
+**Instances**
+- Was kostet das Brötchen? → Es kostet 60 Cent.
+- Was kosten die Kekse?
+- Das macht dann 7,40 Euro.
+- Das ist zu teuer. / Stimmt so, danke.
+
+**Ladder**
+1. Was kostet das Brötchen?
+2. Was kosten die Bananen?
+3. Wie viel kostet das?
+4. Das macht dann … Euro.
+5. Trap: *Was kosten das Brot?*
+
+**Meta:** A1.1 Unit 5 · Dialog 2 · added 2026-09-20
+
+---
+
+## viel vs viele
+
+**Frame:** `viel` + uncountable · `viele` + countable · `Wie viel?` / `Wie viele?`
+**Meaning:** much / many · how much / how many
+**Slot:** noun type (mass vs count)
+**Register:** either
+
+**Instances**
+- Ich esse viel Obst. / Ich trinke viel Wasser.
+- Ich esse viele Würste.
+- Wie viel kostet das? / Wie viele Würste möchten Sie?
+
+**Ladder**
+1. Ich trinke viel Wasser.
+2. Ich esse viele Tomaten.
+3. Wie viel kostet das Wasser?
+4. Wie viele Würste hätten Sie gerne?
+5. Trap: *Wie viele kostet das?* / *viel Würste*
+
+**Meta:** A1.1 Unit 5 · Dialog 3 · added 2026-09-20
+
+---
+
+## Ich bin X. / Ich arbeite als X.
+
+**Frame:** `Ich bin X.` · `Ich arbeite als X.` · `Ich arbeite bei Y.`
+**Meaning:** I’m a(n) X. / I work as X. / I work at Y.
+**Slot:** X = job title **without article** · Y = company
+**Register:** either (*Was sind Sie von Beruf?* formal)
+
+**Behind it:** Booklet: ~~Ich bin eine Lehrerin.~~ → *Ich bin Lehrerin.* Feminine jobs often add *-in*.
+
+**Instances**
+- Ich bin Friseurin. / Ich bin Ingenieur.
+- Ich arbeite als Kellner. / Ich arbeite bei BMW.
+- Bist du Programmierer? → Nein, ich arbeite als Ingenieur.
+
+**Ladder**
+1. Ich bin Lehrerin.
+2. Ich arbeite als Kellner.
+3. Ich arbeite bei Siemens.
+4. der Arzt → die Ärztin · Ich bin Ärztin.
+5. Trap: *Ich bin eine Lehrerin*
+
+**Meta:** A1.1 Unit 6 · Dialog 1–2 · added 2026-09-20
+
+---
+
+## Was machst du beruflich?
+
+**Frame:** `Was machst du beruflich?` / `Was machen Sie beruflich?` / `Was bist du von Beruf?`
+**Meaning:** What do you do for a living?
+**Slot:** answer with *sein* / *arbeiten als* / *studieren* / *Ausbildung* / *Praktikum*
+**Register:** *du* casual · *Sie* / *von Beruf* formal
+
+**Instances**
+- Was machst du beruflich? → Ich bin Friseurin.
+- Was sind Sie von Beruf? → Ich bin Ingenieur.
+- Wo arbeitest du? → Ich arbeite bei Airbus.
+- Ich arbeite noch nicht. / Ich studiere. / Ich mache eine Ausbildung als …
+
+**Ladder**
+1. Was machst du beruflich?
+2. Was sind Sie von Beruf?
+3. (Als) was arbeitest du?
+4. Wo arbeitest du?
+5. Trap: answering with *eine* + job
+
+**Meta:** A1.1 Unit 6 · Dialog 2 · added 2026-09-20
+
+---
+
+## Das ist … / Er / Sie / Sie
+
+**Frame:** `Das ist X.` → `Er/Sie …` · `Das sind …` → `Sie …`
+**Meaning:** This is … → he/she/they …
+**Slot:** person(s); pronoun matches gender/number
+**Register:** either
+
+**Behind it:** Personal pronouns replace a named noun. *Freut mich.* ≈ *Schön dich kennenzulernen.*
+
+**Instances**
+- Das ist meine Freundin. Sie heißt Joana. Sie ist Lehrerin.
+- Das ist mein Freund. Er heißt Pietro. Er ist Ingenieur.
+- Das sind meine Freunde. Sie kommen aus Italien.
+- Wer ist das? / Freut mich.
+
+**Ladder**
+1. Das ist Katie. → Sie ist aus Australien.
+2. Das ist Gogo. → Er kommt aus Berlin.
+3. Das sind Joana und Pietro. → Sie sprechen Italienisch.
+4. Freut mich.
+5. Trap: *Das ist meine Freunde* (*sind*)
+
+**Meta:** A1.1 Unit 6 · Dialog 3 · added 2026-09-20
+
+---
+
+## ihr vs Sie (plural you)
+
+**Frame:** `Woher kommt ihr?` vs `Woher kommen Sie?`
+**Meaning:** informal “you all” vs formal “you” (one or many)
+**Slot:** verb agrees (*ihr kommt* · *Sie kommen*)
+**Register:** *ihr* = friends/young group · **Sie** = formal (always capital)
+
+**Behind it:** Also distinguish lowercase *sie* (she/they) from formal **Sie**.
+
+**Instances**
+- Woher kommt ihr zwei eigentlich?
+- Guten Tag! Woher kommen Sie?
+- Wie heißt ihr? → Wir heißen …
+
+**Ladder**
+1. Woher kommt ihr?
+2. Woher kommen Sie?
+3. Wie heißt ihr?
+4. Was sind Sie von Beruf?
+5. Trap: *ihr* to hotel staff · *sie* when you mean formal *Sie*
+
+**Meta:** A1.1 Unit 6 · Dialog 3 · added 2026-09-20
+
+---
+
+## Later seeds (not yet fully met)
 
 ### Hast du X dabei?
 
@@ -519,17 +750,17 @@ Seed patterns not yet in U1–4 (keep for later units): [Hast du X dabei?](#hast
 **Meaning:** Do you have X with you?
 **Slot:** X = accusative thing you carry
 **Register:** casual
-**Meta:** seed · not yet met in A1.A U1–4
+**Meta:** seed · not yet met in A1.1 U1–5
 
 ### Wohin + Verb der Bewegung
 
 **Frame:** `Wohin <verb>st du?` → `Ich <verb> nach/in/zu X.`
-**Meta:** seed · appears more fully from Unit 7+ · not drilled from U1–4 ingest
+**Meta:** seed · Unit 7+ · *wohin* already met lightly in U3
 
 ### Modalverb + Infinitiv am Ende
 
 **Frame:** `Ich <modal> … <infinitiv>.`
-**Meta:** seed · Unit 7 (*können/wollen*) · not drilled from U1–4 ingest
+**Meta:** seed · Unit 7 (*können/wollen*) · *wollen/möchten* appear in chunks earlier
 
 ---
 
@@ -547,6 +778,12 @@ Seed patterns not yet in U1–4 (keep for later units): [Hast du X dabei?](#hast
 | *eigentlich* in Q | Wie heißt du eigentlich? | “actually …” | booklet: by the way, not actually |
 | *bar* vs *mit Karte* | Ich zahle bar. | Ich bezahle mit Karte. | no *mit* before *bar* |
 | *das Gepäck* | always singular | ~~die Gepäcke~~ | uncountable |
+| *kein* vs *keine* | kein Brot (n) | keine Birne (f) / keine Äpfel (pl) | m/n vs f/pl |
+| *viel* vs *viele* | viel Wasser | viele Würste | mass vs count |
+| *doch* vs *ja* | Doch! (reject negative Q) | Ja (positive Q) | wrong particle on negative Q |
+| job + article | Ich bin Lehrerin. | ~~Ich bin eine Lehrerin.~~ | no article with profession |
+| *ihr* vs *Sie* | Woher kommt ihr? | Woher kommen Sie? | informal pl vs formal |
+| *sie* vs *Sie* | sie = she/they | Sie = formal you | capital = formal |
 
 ---
 

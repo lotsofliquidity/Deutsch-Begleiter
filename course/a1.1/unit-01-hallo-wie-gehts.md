@@ -1,4 +1,4 @@
-# A1.A Unit 1 — Hallo, wie geht’s?
+# A1.1 Unit 1 — Hallo, wie geht’s?
 
 **Source:** `courses/a1.1/` + LÖSUNGEN · **Setting:** Im Flugzeug · **Met:** 2026-09-16 · **Ingested**
 

@@ -2,9 +2,9 @@
 
 Source: [`A1-1-KOMPLETT.pdf`](A1-1-KOMPLETT.pdf) · answers: [`A1-1_LOESUNGEN_KOMPLETT.pdf`](A1-1_LOESUNGEN_KOMPLETT.pdf)
 
-**Ingested:** units 1–4 · **Not yet:** units 5–10
+**Ingested:** units 1–6 · **Not yet:** units 7–10
 
-Ask: `/ingest` → `Parse unit N` · `/drill` → `Drill me on A1.A Unit N`
+Ask: `/ingest` · `/teach` · `/drill`
 
 ---
 
@@ -14,9 +14,9 @@ Ask: `/ingest` → `Parse unit N` · `/drill` → `Drill me on A1.A Unit N`
 | 2 | Ich brauche Hilfe! | Im Flughafen | ingested | 25–43 |
 | 3 | Wie bitte? | Im Taxi | ingested | 44–65 |
 | 4 | Willkommen Frau Koch! | Im Hotel | ingested | 66–85 |
-| 5 | Sonst noch etwas? | Beim Einkaufen | map only | 86– |
-| 6 | Bist du Programmierer? | Im Café | map only | — |
-| 7 | Wo ist die S-Bahn? | Im Bahnhof | map only | — |
+| 5 | Sonst noch etwas? | Beim Einkaufen | ingested | 86–110 |
+| 6 | Bist du Programmierer? | Im Café | ingested | 111–134 |
+| 7 | Wo ist die S-Bahn? | Im Bahnhof | map only | 135– |
 | 8 | Was ist ein Rathaus? | In der Stadt | map only | — |
 | 9 | Was möchten Sie bestellen? | Im Restaurant | map only | — |
 | 10 | Ich suche eine WG. | Auf Wohnungssuche | map only | — |
@@ -55,12 +55,26 @@ Ask: `/ingest` → `Parse unit N` · `/drill` → `Drill me on A1.A Unit N`
 | 2 Wo ist mein Zimmer? | hotel words | possessives (*mein/dein/Ihr*), *haben* |
 | 3 Ist hier eine Apotheke? | shops | indefinite article |
 
-## Units 5–10 (map only)
+## Unit 5 — Sonst noch etwas?
+
+| Dialog | Themen | Grammatik |
+|---|---|---|
+| 1 Ich hätte gerne Erdbeeren. | fruit & veg | plural |
+| 2 Das ist kein Brot. | prices, numbers 21–100 | *kein/keine*, *doch* |
+| 3 Meinen Sie Hähnchenbrust? | sausage counter, sales talk, formal goodbye | *viel* / *viele* |
+
+## Unit 6 — Bist du Programmierer?
+
+| Dialog | Themen | Grammatik |
+|---|---|---|
+| 1 Ist der Platz noch frei? | jobs | *-in*, *arbeiten* |
+| 2 Oh, Liebling! | asking about jobs | — |
+| 3 Freut mich. | introductions | personal pronouns, *sie/Sie*, *ihr/Sie* |
+
+## Units 7–10 (map only)
 
 | Unit | Title | Setting | Highlights |
 |---|---|---|---|
-| 5 | Sonst noch etwas? | Einkaufen | plural, *kein*, *doch*, numbers 21–100 |
-| 6 | Bist du Programmierer? | Café | jobs, *-in*, *arbeiten*, pronouns |
 | 7 | Wo ist die S-Bahn? | Bahnhof | modals *können/wollen*, *fahren*, *möchten*, separable verbs |
 | 8 | Was ist ein Rathaus? | Stadt | directions, *wissen*, *nicht*, *man* |
 | 9 | Was möchten Sie bestellen? | Restaurant | accusative, *nehmen*, *essen* |

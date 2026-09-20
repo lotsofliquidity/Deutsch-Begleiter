@@ -1,4 +1,4 @@
-# d3utsch
+# Deutsch-Begleiter
 
 Three modes. Use the matching skill.
 
@@ -28,7 +28,7 @@ Possessives — der Koffer → mein / dein / Ihr
 
 ```
 /drill
-Drill me on A1.A Unit 3
+Drill me on A1.1 Unit 3
 ```
 
 ```
@@ -44,7 +44,7 @@ Mixed drill, 15 questions, cold.
 courses/                 # source PDFs + MAP.md per level
   a1.1/                  # A1-1 booklet + LÖSUNGEN + MAP.md
 course/                  # processed notes (one folder per booklet)
-  a1-a/                  # units 1–4 ingested
+  a1.1/                  # units 1–6 ingested
 patterns/patterns.md     # cross-unit frames — the real curriculum
 anki/German.txt          # Anki deck "German" (unit- / teach-tagged)
 MISTAKES.md              # selective error log (+14 day revisits)

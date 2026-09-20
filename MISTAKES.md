@@ -1,7 +1,7 @@
 # MISTAKES.md
 
 The German error log for the 9-week plan (14 Sep – 15 Nov 2026).
-Started in **W01**, with the first A1.A unit.
+Started in **W01**, with the first A1.1 unit.
 
 ---
 
@@ -43,7 +43,7 @@ with unit tags (`a1.1 unit_01`). One chunk = one card. Never card a whole ladder
 ```
 Date logged  : 2026-09-16
 Pattern/Chunk: Hast du X dabei?
-Booklet      : A1.A Unit 1
+Booklet      : A1.1 Unit 1
 Went wrong   : Escaped into English — could ask the question, couldn't answer it with a pronoun.
 Revisit due  : 2026-09-30
 Status       : OPEN
@@ -52,7 +52,7 @@ Status       : OPEN
 ```
 Date logged  : 2026-09-18
 Pattern/Chunk: Wohin + Verb der Bewegung
-Booklet      : A1.A Unit 2
+Booklet      : A1.1 Unit 2
 Went wrong   : Reached for `zu` with a city (~~zu Bern~~) — and didn't catch it on the
                second pass either.
 Revisit due  : 2026-10-02
@@ -102,7 +102,7 @@ closed; a row that fails goes back out 14 days.
 
 | Test | Week | Booklet | Open rows retried | Passed | Failed |
 |---|---|---|---|---|---|
-| A1.A | W02 | a1-a | | | |
+| A1.1 | W02 | a1.1 | | | |
 | A1.B | W03 | a1-b | | | |
 | A2.A | W05 | a2-a | | | |
 | A2.B | W06 | a2-b | | | |

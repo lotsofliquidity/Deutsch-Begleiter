@@ -26,7 +26,7 @@ Default round: **15 questions**.
 | Mode | Trigger | Source |
 |---|---|---|
 | **Ladder** | named pattern | `patterns/patterns.md` |
-| **Unit** | "Drill me on A1.A Unit 3" | that unit's chunks + patterns |
+| **Unit** | "Drill me on A1.1 Unit 3" | that unit's chunks + patterns |
 | **Cold mixed** | "mixed", "cold", "surprise" | shuffle across known patterns — do not clump |
 | **Due** | "What's due?" | overdue `MISTAKES.md` rows |
 

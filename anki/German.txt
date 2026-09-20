@@ -91,3 +91,44 @@ die Apotheke / die Bäckerei / der Supermarkt	pharmacy / bakery / supermarket (w
 Bis später. / Bis gleich.	See you later / soon.	a1.1 unit_04 chunk
 das Zimmer · der Reisepass · die Zimmerkarte	room · passport · room card	a1.1 unit_04 chunk
 von X bis Y Uhr	from X to Y o'clock	a1.1 unit_04 chunk
+
+# ── A1.1 Unit 5 — Sonst noch etwas? ──
+Ich hätte gerne X.	I'd like X. (≈ Ich möchte; hätte gern a bit more formal)	a1.1 unit_05 pattern
+Sonst noch etwas?	Anything else? (shop)	a1.1 unit_05 chunk
+der Apfel → Plural?	die Äpfel	a1.1 unit_05 noun
+die Erdbeere → Plural?	die Erdbeeren	a1.1 unit_05 noun
+das Obst — plural?	No plural (use die Früchte)	a1.1 unit_05 noun
+Learn noun with what?	Article + plural form	a1.1 unit_05 pattern
+Das ist kein Brot.	That's not bread. (kein for m/n)	a1.1 unit_05 chunk
+keine — when?	Feminine singular + all plurals	a1.1 unit_05 pattern
+Was kostet das Brötchen?	How much does the roll cost? (singular)	a1.1 unit_05 chunk
+Was kosten die Kekse?	How much are the cookies? (plural verb)	a1.1 unit_05 chunk
+Das macht dann X Euro.	That comes to X euros.	a1.1 unit_05 chunk
+Stimmt so, danke.	Keep the change, thanks.	a1.1 unit_05 chunk
+Negative question — you disagree?	Doch! (+ positive fact)	a1.1 unit_05 pattern
+Hast du kein Auto? — you have one	Doch! Ich habe ein Auto.	a1.1 unit_05 chunk
+viel vs viele	viel = uncountable · viele = countable	a1.1 unit_05 pattern
+Wie viel kostet das? vs Wie viele Würste?	How much (price/mass) vs how many (count)	a1.1 unit_05 pattern
+21 in German?	einundzwanzig (not einsund…)	a1.1 unit_05 chunk
+45 in German?	fünfundvierzig (ones before tens)	a1.1 unit_05 chunk
+Schönen Tag noch!	Have a nice (remaining) day! (formal goodbye)	a1.1 unit_05 chunk
+
+# ── A1.1 Unit 6 — Bist du Programmierer? ──
+Ist der Platz noch frei?	Is this seat still free?	a1.1 unit_06 chunk
+Was machst du beruflich?	What do you do for a living?	a1.1 unit_06 chunk
+Was sind Sie von Beruf?	What's your profession? (formal)	a1.1 unit_06 chunk
+Ich bin Lehrerin. — article?	No article with the job title	a1.1 unit_06 pattern
+Ich arbeite als X.	I work as X.	a1.1 unit_06 pattern
+Ich arbeite bei Y.	I work at company Y.	a1.1 unit_06 pattern
+der Kellner → feminine?	die Kellnerin	a1.1 unit_06 noun
+der Arzt → feminine?	die Ärztin	a1.1 unit_06 noun
+Kellnerin → plural?	die Kellnerinnen (-in → -innen)	a1.1 unit_06 noun
+arbeiten — du?	du arbeitest (extra e after stem t)	a1.1 unit_06 verb
+Wer ist das?	Who's that?	a1.1 unit_06 chunk
+Das ist meine Freundin. → pronoun?	Sie …	a1.1 unit_06 pattern
+Das ist mein Freund. → pronoun?	Er …	a1.1 unit_06 pattern
+Das sind meine Freunde. → pronoun?	Sie … (they)	a1.1 unit_06 pattern
+Freut mich.	Pleased to meet you.	a1.1 unit_06 chunk
+ihr vs Sie (you plural)	ihr = informal you-all · Sie = formal (1 or many)	a1.1 unit_06 pattern
+Woher kommt ihr?	Where do you (pl. informal) come from?	a1.1 unit_06 chunk
+sie vs Sie	sie = she/they · Sie = formal you (always capital)	a1.1 unit_06 pattern

@@ -25,7 +25,7 @@ Possessives with der Koffer / das Zimmer / die Reservierung
 
 ```
 /drill
-Drill me on A1.A Unit 2
+Drill me on A1.1 Unit 2
 ```
 
 ---
@@ -34,7 +34,7 @@ Drill me on A1.A Unit 2
 
 ```
 courses/a1.1/     # PDFs + MAP.md
-course/a1-a/      # unit-NN-*.md + notes.md  (from a1.1)
+course/a1.1/      # unit-NN-*.md + notes.md
 ```
 
 Per booklet folder:

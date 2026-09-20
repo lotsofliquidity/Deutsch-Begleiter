@@ -6,7 +6,7 @@ description: >-
   modal particles. Use when they say /teach, "teach me possessives / articles /
   conjugation", or ask how a table works. Explains with contrast tables, runs a
   short mini-check, adds Anki cards. Only teach what is already in notes/units
-  (A1.A U1–4 so far). Not for parsing units (/ingest) or full drill rounds (/drill).
+  (A1.1 U1–6 so far). Not for parsing units (/ingest) or full drill rounds (/drill).
 ---
 
 # Teach
@@ -48,25 +48,27 @@ These are all fair game for `/teach` **when present in notes/units**:
 When a later unit adds e.g. adjective endings or more conjunctions, thicken
 `notes.md` on ingest/teach — then those become teachable.
 
-## Learned so far — A1.A units 1–4 only
+## Learned so far — A1.1 units 1–6 only
 
 Teach **only** from this inventory unless `notes.md` has grown:
 
 | Category | In play |
 |---|---|
-| **Articles** | Definite *der/die/das/die* (U2) · Indefinite *ein/eine/ein* (U4) · *eine → die* when known |
-| **Possessives** | *mein/dein/Ihr* (+ *-e* for f/pl) nominative (U4) — matches **noun** gender |
-| **Nouns** | Always with article · capitalised · *das Gepäck* singular · hotel/shop nouns · countries ± article |
-| **Verbs** | *kommen*, *sprechen*, *heißen*, *sein*, *wohnen/leben*, *haben* (full Präsens in notes) |
-| **Adjectives** | *bar* (*Ich zahle bar* — no *mit*) |
-| **Adverbs** | *dort/da*, *dort drüben*, *noch mal* |
-| **Pronouns** | *du* vs *Sie* · *dir* / *Ihnen* · *man* ≠ *Mann* · *wer/wie/wo/woher/wohin* |
-| **Prepositions** | *aus* (origin) · *in* (live in) · *nach* + place · *mit* · *von…bis* · *zur* (*Wie komme ich zur…*) |
-| **Conjunctions** | *denn* = “because” only as trap vs question-particle *denn* |
-| **Interjections** | *Hä?*, informal greetings (*Hi/Hallo/Moin/Na*) if asked |
-| **Modal particles** | *denn* (questions) · *eigentlich* (≈ by the way) · *ja*, *doch* (flavour) |
+| **Articles** | Definite · indefinite · *eine → die* · *kein/keine* (U5) |
+| **Possessives** | *mein/dein/Ihr* nominative (U4) — matches **noun** gender |
+| **Nouns** | With article · plural with noun · jobs + *-in/-innen* (U6) · *das Obst* / *das Gepäck* |
+| **Verbs** | *kommen*, *sprechen*, *heißen*, *sein*, *wohnen/leben*, *haben*, *arbeiten* (+ stem *t* → *arbeitest*) · *kostet/kosten* |
+| **Adjectives** | *bar* · *teuer* in chunks |
+| **Adverbs** | *dort/da*, *dort drüben*, *noch mal*, *gerade/grad* |
+| **Pronouns** | *du/Sie* · *dir/Ihnen* · *man* · *er/sie/es/wir/ihr/sie* · *sie* vs **Sie** · *ihr* vs **Sie** (U6) |
+| **Prepositions** | *aus* · *in* · *nach* · *mit* · *von…bis* · *zur* · *als* (job) · *bei* (company) |
+| **Conjunctions** | *denn* particle vs “because” trap |
+| **Interjections** | *Hä?*, greetings if asked |
+| **Modal particles** | *denn* · *eigentlich* · *ja* · *doch* |
+| **Quantity** | *viel/viele* · numbers 0–100 |
+| **Jobs** | no article with title · *sein* / *arbeiten als* / *arbeiten bei* |
 
-**Not yet** (do not teach as paradigms): adjective declension, dative/accusative article tables beyond what’s above, separable verbs, modal verbs as a system, relative pronouns, etc.
+**Not yet:** adjective declension, full case tables beyond what’s above, separable verbs, modal verbs as a system, relative pronouns, etc.
 
 ## Triggers
 
@@ -147,6 +149,30 @@ Nach vs in — city name direction?	nach + bare place name	a1.1 teach prepositio
 ```
 denn in a question	curiosity / softens; not “because”	a1.1 teach particles unit_01
 eigentlich in a question	≈ “by the way” (not “actually”)	a1.1 teach particles unit_01
+```
+
+**Adjectives**
+
+```
+Ich zahle ___?	bar (no mit)	a1.1 teach adjectives unit_03
+```
+
+**Quantity / Negativartikel (U5)**
+
+```
+viel vs viele	viel = mass · viele = count	a1.1 teach quantity unit_05
+Wie viel kostet das? vs Wie viele Würste?	how much (price/mass) vs how many	a1.1 teach quantity unit_05
+kein vs keine	kein = m/n · keine = f + plural	a1.1 teach articles unit_05
+Negative Q you reject?	Doch!	a1.1 teach particles unit_05
+```
+
+**Jobs / pronouns (U6)**
+
+```
+Ich bin Lehrerin — article?	No article	a1.1 teach jobs unit_06
+arbeiten — du?	du arbeitest	a1.1 teach verbs unit_06
+ihr vs Sie	ihr = informal you-all · Sie = formal	a1.1 teach pronouns unit_06
+Das ist Katie. → pronoun?	Sie …	a1.1 teach pronouns unit_06
 ```
 
 Escape `<` `>` `&` if `#html:true`. No tabs inside a field.

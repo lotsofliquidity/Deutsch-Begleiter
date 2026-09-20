@@ -1,6 +1,6 @@
-# A1.A notes
+# A1.1 notes
 
-Grammar spine from ingested units 1–4. Re-read in under 2 minutes before a drill.
+Grammar spine from ingested units 1–6. Re-read in under 2 minutes before a drill.
 
 ---
 
@@ -54,6 +54,16 @@ Grammar spine from ingested units 1–4. Re-read in under 2 minutes before a dri
 | du **hast** | ihr habt |
 | er/sie/es **hat** | Sie/sie haben |
 
+### arbeiten (U6) — extra *e* after stem *t*
+
+| | |
+|---|---|
+| ich arbeite | wir arbeiten |
+| du **arbeitest** | ihr **arbeitet** |
+| er/sie/es **arbeitet** | Sie/sie arbeiten |
+
+Same insert-*e* pattern: stems in *t/d/n/m* — *finden* (*du findest*), *öffnen*, *atmen*, *zeichnen*, *antworten*.
+
 ---
 
 ## Articles
@@ -89,6 +99,52 @@ Examples: *mein Zimmer* (n), *meine Reservierung* (f), *Ihr Reisepass* (m).
 
 ---
 
+## Negativartikel *kein/keine* (U5)
+
+| | m | n | f | pl |
+|---|---|---|---|---|
+| indefinite | ein | ein | eine | — |
+| negative | **kein** | **kein** | **keine** | **keine** |
+
+*Das ist kein Brot.* · *Das ist keine Birne.* · *Das sind keine Kartoffeln.*
+
+---
+
+## Plural (U5) — learn with the noun
+
+Hardly fixed rules — always learn **singular + plural**. Tendencies:
+
+| Tendency | Example |
+|---|---|
+| many *-e* nouns → *-n* | die Tomate → die Tomaten |
+| many m/n → *-e* (± umlaut) | der Markt → die Märkte |
+| some m/n → *-er* (± umlaut) | der Mann → die Männer |
+| *-ung/-ion* → *-en* | die Reservierung → die Reservierungen |
+| *-a/-i/-o/-u*, loans → *-s* | die Kiwi → die Kiwis |
+| *-er/-en/-el/-chen/-lein* often no ending (± umlaut) | der Apfel → die Äpfel · das Messer → die Messer |
+
+*das Obst* — no plural (use *die Früchte*). *das Gemüse* — plural rare.
+
+---
+
+## viel / viele (U5)
+
+| | Use | Example |
+|---|---|---|
+| **viel** / **Wie viel?** | uncountable / price | viel Wasser · Wie viel kostet das? |
+| **viele** / **Wie viele?** | countable | viele Würste · Wie viele Tomaten? |
+
+---
+
+## doch (U5) — contradict a negative question
+
+| Question type | Agree | Disagree |
+|---|---|---|
+| Positive (*Wohnst du in Berlin?*) | *Ja* | *Nein* |
+| Negative (*Hast du kein Auto?*) | *Nein* (you don’t) | ***Doch!*** (you do) |
+
+---
+
 ## Discourse bits (U1) — booklet asterisks
 
 | Form | In questions / speech | Not |
@@ -121,6 +177,8 @@ Also marked in U1 dialog notes (flavour, not separate drills yet): *ja*, *doch* 
 
 **11–20 (U3):** elf, zwölf, dreizehn, vierzehn, fünfzehn, sechzehn, siebzehn, achtzehn, neunzehn, zwanzig
 
+**21–100 (U5):** ones before tens — *dreiundzwanzig*, *fünfundvierzig* · *einundzwanzig* (not *eins*) · *sechzig* / *siebzig* (not *sechs-/sieben-*) · *(ein)hundert*
+
 ---
 
 ## Register quick hits
@@ -133,6 +191,30 @@ Also marked in U1 dialog notes (flavour, not separate drills yet): *ja*, *doch* 
 | Tschüss / Bis später | Auf Wiedersehen |
 
 *Frau / Herr* + family name for formal address.
+
+---
+
+## Jobs (U6)
+
+- Feminine usually = masculine + **-in** (*Kellner → Kellnerin*); special: *Arzt → Ärztin*, *Koch → Köchin*, *Krankenpfleger → Krankenschwester*
+- Plural of *-in*: **-innen** (*die Kellnerinnen*)
+- Name the job **without** article: *Ich bin Lehrerin.* ~~Ich bin eine Lehrerin.~~
+- Frames: *sein + Beruf* · *arbeiten als + Beruf* · *arbeiten bei + Firma*
+
+---
+
+## Personal pronouns (U6) — nominative
+
+| | |
+|---|---|
+| ich | wir |
+| du | ihr *(informal plural you)* |
+| er / sie / es | sie *(they)* · **Sie** *(formal you, always capital)* |
+
+- *sie* (she/they) capital only at sentence start · **Sie** (formal) always capital
+- *ihr* = informal “you all” · **Sie** = formal one or many
+
+Introducing: *Das ist mein Freund. Er …* · *Das ist meine Freundin. Sie …* · *Das sind meine Freunde. Sie …*
 
 ---
 

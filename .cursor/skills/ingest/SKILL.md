@@ -24,7 +24,7 @@ freeform tutor and you do not run drills (`/drill`).
 | Anki | `anki/German.txt` |
 | Mistakes | `MISTAKES.md` |
 
-Booklet map: `a1.1` PDFs → processed under `course/a1-a/`. Never invent German —
+Booklet map: `a1.1` PDFs → processed under `course/a1.1/`. Never invent German —
 check booklet + `_LOESUNGEN` in `courses/`.
 
 ## Primary workflow — parse a unit
