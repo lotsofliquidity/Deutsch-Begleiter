@@ -70,6 +70,27 @@ def validate(path: str) -> list[str]:
         if n > 1 and key:
             problems.append(f"duplicate front (~{n}×): {key!r}")
 
+    # Chunk fronts must not leak the answer inside parentheses.
+    # Disambiguators = English sense/register only (pointing, farther, informal…).
+    for line_no, front, back, tags in cards:
+        if "chunk" not in tags:
+            continue
+        back_toks = {
+            t
+            for t in re.findall(r"[A-Za-zÄÖÜäöüß]{4,}", back.lower())
+        }
+        for paren in re.findall(r"\(([^)]*)\)", front):
+            paren_toks = re.findall(r"[A-Za-zÄÖÜäöüß]{4,}", paren.lower())
+            leaks = sorted({t for t in paren_toks if t in back_toks})
+            if leaks:
+                problems.append(
+                    f"line {line_no}: chunk front paren leaks answer {leaks} -> {front[:60]!r}"
+                )
+            if re.search(r"[ÄÖÜäöüß]", paren):
+                problems.append(
+                    f"line {line_no}: chunk front paren has German letters -> {front[:60]!r}"
+                )
+
     return problems
 
 

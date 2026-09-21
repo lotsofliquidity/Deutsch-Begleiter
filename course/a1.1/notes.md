@@ -165,7 +165,12 @@ Also marked in U1 dialog notes (flavour, not separate drills yet): *ja*, *doch* 
 | **wohin** | direction *to* somewhere (*Wohin wollen Sie fahren?*) |
 | **Ich zahle bar** | *bar* = adjective — no *mit* · card: *mit Karte* |
 | **Wie viel kostet das?** | also *Das macht X Euro.* |
-| **dort drüben / da drüben** | over there |
+| **da drüben** | over there (pointing, often nearer / visible) |
+| **dort drüben** | over there (farther away) |
+| **gleich da drüben** | right / just over there |
+| **hier** | here (near you) |
+| **dort** | there (farther) |
+| **das hier / das dort** | this one here / that one there |
 | **von … bis …** | from … to … (time) |
 | Thanks reactions | *Gern geschehen.* · *Keine Ursache.* · *Kein Problem.* |
 

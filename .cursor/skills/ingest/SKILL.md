@@ -50,9 +50,10 @@ check booklet + `_LOESUNGEN` in `courses/`.
 5. Distill lookups into **`course/<booklet>/notes.md`** (tight tables only).
 6. Append cards to **`anki/German.txt`**:
    - `#deck:German`, three tab-separated fields, tags **`a1.1 unit_NN`** (+ optional `chunk`/`verb`/`pattern`/`noun`)
-   - **Direction = production:** cue/English/situation on the **front**, German on the **back** (for survival chunks, nouns, and frames you must say). Disambiguate register on the front when needed (*informal* / *formal* / *with denn*).
+   - **Direction = production:** cue/English/situation on the **front**, German on the **back** (for survival chunks, nouns, and frames you must say). Disambiguate register/sense on the front in **English only** (*informal* / *formal* / *pointing* / *farther* / *curious / softened*) — never put the German answer in the cue (`~~(da drüben)~~`, `~~(with denn)~~`, `~~(hätten gern)~~`).
    - **Atomic cards (hard):** one job per card.
      - `chunk` back = German **only** (no particle asides, no “don't drop X”, no conjugation tips).
+     - `chunk` front = English cue; parentheses = English sense/register only (validator flags answer leaks).
      - `pattern` = one grammar question → one short rule (particles, traps, frames).
      - `verb` = forms only; `noun` = `article + sg · article + pl`.
      - Two acceptable replies → two cards, not `A / B` on one back.

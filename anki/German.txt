@@ -6,7 +6,7 @@
 
 # ── A1.1 Unit 1 — Hallo, wie geht's? ──
 How are you? (informal)	Wie geht's?	a1.1 unit_01 chunk
-Good, and you? (informal — dir)	Gut, und dir?	a1.1 unit_01 chunk
+Good, and you? (informal return)	Gut, und dir?	a1.1 unit_01 chunk
 Also good, thanks.	Auch gut, danke.	a1.1 unit_01 chunk
 Where are you from? (informal)	Woher kommst du?	a1.1 unit_01 chunk
 I come from X. — frame?	Ich komme aus X.	a1.1 unit_01 pattern
@@ -17,10 +17,10 @@ What's your name? (informal)	Wie heißt du?	a1.1 unit_01 chunk
 My name is X.	Ich heiße X.	a1.1 unit_01 chunk
 heißen — du?	du heißt	a1.1 unit_01 verb
 Nice to meet you.	Schön dich kennenzulernen.	a1.1 unit_01 chunk
-Pleased to meet you. (freut)	Freut mich.	a1.1 unit_01 chunk
+Pleased to meet you.	Freut mich.	a1.1 unit_01 chunk
 Enjoy your meal! / lunchtime greeting	Mahlzeit!	a1.1 unit_01 chunk
 What does denn do in questions?	Softens / adds friendliness (not “because”)	a1.1 unit_01 pattern
-Where are you from? (with denn)	Woher kommst du denn?	a1.1 unit_01 chunk
+Where are you from? (curious / softened)	Woher kommst du denn?	a1.1 unit_01 chunk
 man vs der Mann	man = one/people · der Mann = the man	a1.1 unit_01 pattern
 Can't you / Doesn't one see that?	Sieht man das nicht?	a1.1 unit_01 chunk
 What does eigentlich do in questions?	≈ “by the way” (not English “actually”)	a1.1 unit_01 pattern
@@ -37,7 +37,7 @@ I speak ___ fluently.	Ich spreche fließend ___.	a1.1 unit_01 chunk
 A little French.	Etwas Französisch.	a1.1 unit_01 chunk
 My nickname is ___.	Mein Spitzname ist ___.	a1.1 unit_01 chunk
 What are you doing here?	Was machst du hier?	a1.1 unit_01 chunk
-Over there…	Da drüben …	a1.1 unit_01 chunk
+Over there… (pointing)	Da drüben …	a1.1 unit_01 chunk
 Oh yes, that's right.	Ach ja, stimmt.	a1.1 unit_01 chunk
 Have fun in ___.	Viel Spaß in ___.	a1.1 unit_01 chunk
 Good morning!	Guten Morgen!	a1.1 unit_01 chunk
@@ -54,16 +54,16 @@ I speak fluent German, English, Chinese, Japanese and of course the language of 
 There is the Brandenburg Gate.	Da ist das Brandenburger Tor.	a1.1 unit_01 chunk
 My nickname is Gogo.	Mein Spitzname ist Gogo.	a1.1 unit_01 chunk
 Yes, I know.	Ja, ich weiß.	a1.1 unit_01 chunk
-It's right over there.	Da drüben ist sie doch.	a1.1 unit_01 chunk
+It's right over there. (pointing)	Da drüben ist sie doch.	a1.1 unit_01 chunk
 Have fun in Berlin, Katie Kangaroo.	Viel Spaß in Berlin, Katie Känguru.	a1.1 unit_01 chunk
-I'm fine, and you? (informal — dir)	Mir geht's gut, und dir?	a1.1 unit_01 chunk
+I'm fine, and you? (informal return)	Mir geht's gut, und dir?	a1.1 unit_01 chunk
 How are you — so-so?	Es geht.	a1.1 unit_01 chunk
-How are you — so-so? (geht so)	Geht so.	a1.1 unit_01 chunk
+How are you — so-so? (alt)	Geht so.	a1.1 unit_01 chunk
 How are you — very good?	Sehr gut.	a1.1 unit_01 chunk
 How are you — bad?	Schlecht.	a1.1 unit_01 chunk
 Who are you? (informal)	Wer bist du?	a1.1 unit_01 chunk
-What's your name? (Name ist…)	Wie ist dein Name?	a1.1 unit_01 chunk
-My name is X. (Name ist…)	Mein Name ist X.	a1.1 unit_01 chunk
+What's your name? (alt phrasing)	Wie ist dein Name?	a1.1 unit_01 chunk
+My name is X. (alt phrasing)	Mein Name ist X.	a1.1 unit_01 chunk
 # ── A1.1 Unit 2 — Ich brauche Hilfe! ──
 Good morning / day / evening — which when?	Guten Morgen ~6–11 · Guten Tag ~11–18 · Guten Abend from ~18	a1.1 unit_02 chunk
 I have a question.	Ich habe eine Frage.	a1.1 unit_02 chunk
@@ -71,9 +71,9 @@ How do I get to X?	Wie komme ich zur X?	a1.1 unit_02 chunk
 Pardon? / Say that again.	Wie bitte?	a1.1 unit_02 chunk
 Excuse me / sorry (general)	Entschuldigung!	a1.1 unit_02 chunk
 Excuse me — formal / informal?	Entschuldigen Sie! · Entschuldige!	a1.1 unit_02 chunk
-Excuse me. (Verzeihung)	Verzeihung!	a1.1 unit_02 chunk
+Excuse me. (old-fashioned)	Verzeihung!	a1.1 unit_02 chunk
 Es tut mir leid vs Entschuldigung?	Leid = sympathy; Entschuldigung = interrupt / sorry	a1.1 unit_02 pattern
-Over there. (dort)	dort drüben	a1.1 unit_02 chunk
+Over there. (farther)	dort drüben	a1.1 unit_02 chunk
 No problem.	Kein Problem.	a1.1 unit_02 chunk
 What's that called?	Wie heißt das?	a1.1 unit_02 chunk
 How do you say that in German?	Wie sagt man das auf Deutsch?	a1.1 unit_02 chunk
@@ -83,7 +83,7 @@ Can you please spell that? (formal)	Können Sie das bitte buchstabieren?	a1.1 un
 I need X. — frame?	Ich brauche X.	a1.1 unit_02 pattern
 I don't know.	Ich weiß (es) nicht.	a1.1 unit_02 chunk
 You're welcome.	Gern geschehen.	a1.1 unit_02 chunk
-You're welcome. (keine Ursache)	Keine Ursache.	a1.1 unit_02 chunk
+You're welcome. (alt)	Keine Ursache.	a1.1 unit_02 chunk
 Goodbye — formal / informal?	Auf Wiedersehen. · Tschüss.	a1.1 unit_02 chunk
 der / die / das — rule?	Learn every noun with its article; plural is die	a1.1 unit_02 pattern
 Numbers 0–10 in German?	null eins zwei drei vier fünf sechs sieben acht neun zehn	a1.1 unit_02 chunk
@@ -99,7 +99,7 @@ I need money.	Ich brauche Geld.	a1.1 unit_02 chunk
 I need another map/card.	Ich brauche noch eine Karte.	a1.1 unit_02 chunk
 That's very nice of you.	Das ist sehr nett von Ihnen.	a1.1 unit_02 chunk
 Thank you.	Vielen Dank.	a1.1 unit_02 chunk
-Thanks. (schön)	Danke schön.	a1.1 unit_02 chunk
+Thanks. (polite)	Danke schön.	a1.1 unit_02 chunk
 Bye. (informal)	Tschüss.	a1.1 unit_02 chunk
 See you later. (informal)	Bis später.	a1.1 unit_02 chunk
 I have one more question.	Ich habe noch eine Frage.	a1.1 unit_02 chunk
@@ -120,7 +120,7 @@ Good morning! How can I help?	Guten Morgen! Wie kann ich helfen?	a1.1 unit_02 ch
 I have a question. How do I get to Feierabendstraße?	Ich habe eine Frage. Wie komme ich zur Feierabendstraße?	a1.1 unit_02 chunk
 You (form.) have to go by train or by bus.	Da müssen Sie mit dem Zug oder mit dem Bus fahren.	a1.1 unit_02 chunk
 OK, understood. But I have so much luggage.	OK, alles klar. Aber ich habe so viel Gepäck.	a1.1 unit_02 chunk
-Exit five, over there.	Ausgang fünf, dort drüben.	a1.1 unit_02 chunk
+Exit five, over there. (farther)	Ausgang fünf, dort drüben.	a1.1 unit_02 chunk
 OK. Thank you very much. Goodbye (formal).	OK. Danke schön. Auf Wiedersehen.	a1.1 unit_02 chunk
 Susi, are you still there?	Susi, bist du noch dran?	a1.1 unit_02 chunk
 Katie has another question.	Katie hat noch eine Frage.	a1.1 unit_02 chunk
@@ -139,13 +139,13 @@ Here you go. But I’ll need it back.	Hier, bitte. Aber ich brauch' sie wieder.	
 OK, thank you. That's very nice of you.	OK, danke schön. Das ist sehr nett von Ihnen.	a1.1 unit_02 chunk
 Yes, of course Romeo is castrated.	Ja, natürlich ist Romeo kastriert.	a1.1 unit_02 chunk
 Ouch, that hurts.	Autsch, das tut doch weh.	a1.1 unit_02 chunk
-Thanks a lot. (danke sehr)	Danke sehr.	a1.1 unit_02 chunk
-Thank you very much. (herzlichen)	Herzlichen Dank!	a1.1 unit_02 chunk
-Here you go / you're welcome. (bitte sehr)	Bitte sehr.	a1.1 unit_02 chunk
+Thanks a lot.	Danke sehr.	a1.1 unit_02 chunk
+Thank you very much. (warm)	Herzlichen Dank!	a1.1 unit_02 chunk
+Here you go. (polite handoff)	Bitte sehr.	a1.1 unit_02 chunk
 See you tomorrow.	Bis morgen!	a1.1 unit_02 chunk
-See you soon. (bald)	Bis bald!	a1.1 unit_02 chunk
+See you soon.	Bis bald!	a1.1 unit_02 chunk
 See you (then)!	Bis dann!	a1.1 unit_02 chunk
-Bye! (Ciao)	Tschau! / Ciao!	a1.1 unit_02 chunk
+Bye! (Italian loan)	Tschau! / Ciao!	a1.1 unit_02 chunk
 # ── A1.1 Unit 3 — Wie bitte? ──
 When do you use Sie?	Strangers / official; always capitalised	a1.1 unit_03 pattern
 Are you still free? (formal)	Sind Sie noch frei?	a1.1 unit_03 chunk
@@ -163,7 +163,7 @@ Cash or by card?	Bar oder mit Karte?	a1.1 unit_03 chunk
 bar vs mit Karte?	bar alone · mit Karte (no mit bar)	a1.1 unit_03 pattern
 Here you go.	Bitte schön.	a1.1 unit_03 chunk
 Numbers 11–20 in German?	elf zwölf dreizehn … neunzehn zwanzig	a1.1 unit_03 chunk
-Is there a hotel there?	Ist dort ein Hotel?	a1.1 unit_03 chunk
+Is there a hotel there? (farther)	Ist dort ein Hotel?	a1.1 unit_03 chunk
 Where exactly do you live?	Wo genau wohnen Sie?	a1.1 unit_03 chunk
 And you? (formal)	Und Sie?	a1.1 unit_03 chunk
 Are you from Berlin?	Sind Sie aus Berlin?	a1.1 unit_03 chunk
@@ -194,7 +194,7 @@ Told you (form.).	Ich hab's Ihnen gesagt.	a1.1 unit_03 chunk
 But you'll stay with me, Bärchen, won't you?	Aber du bleibst bei mir, Bärchen, oder?	a1.1 unit_03 chunk
 # ── A1.1 Unit 4 — Willkommen Frau Koch! ──
 How are you? (formal)	Wie geht es Ihnen?	a1.1 unit_04 chunk
-Good, and you? (formal — Ihnen)	Gut, und Ihnen?	a1.1 unit_04 chunk
+Good, and you? (formal return)	Gut, und Ihnen?	a1.1 unit_04 chunk
 What's your name? (formal)	Wie heißen Sie?	a1.1 unit_04 chunk
 Formal address — Ms. / Mr. + family name?	Frau / Herr + Nachname	a1.1 unit_04 chunk
 Can I check in please?	Kann ich bitte einchecken?	a1.1 unit_04 chunk
@@ -219,9 +219,9 @@ Welcome!	Willkommen!	a1.1 unit_04 chunk
 Here's your reservation.	Hier ist Ihre Reservierung.	a1.1 unit_04 chunk
 Here's my passport.	Hier ist mein Pass.	a1.1 unit_04 chunk
 Yes, sure. / Yes, gladly.	Ja, gerne.	a1.1 unit_04 chunk
-Your room is right over there.	Ihr Zimmer ist gleich da drüben.	a1.1 unit_04 chunk
+Your room is right over there. (just there)	Ihr Zimmer ist gleich da drüben.	a1.1 unit_04 chunk
 See you later.	Bis später.	a1.1 unit_04 chunk
-See you soon. (gleich)	Bis gleich.	a1.1 unit_04 chunk
+See you soon. (in a bit)	Bis gleich.	a1.1 unit_04 chunk
 Welcome! How are you? (formal)	Willkommen! Wie geht es Ihnen?	a1.1 unit_04 chunk
 reception (hotel desk)	die Rezeption · die Rezeptionen	a1.1 unit_04 noun
 passport	der Reisepass · die Reisepässe	a1.1 unit_04 noun
@@ -254,7 +254,7 @@ The schnapps here helps against headaches.	Der Schnaps hier, der hilft gegen Kop
 Much better.	Viel besser.	a1.1 unit_04 chunk
 Tomorrow everything will be open again.	Morgen hat auch alles wieder offen.	a1.1 unit_04 chunk
 Who are you? (formal)	Wer sind Sie?	a1.1 unit_04 chunk
-What's your name? (Ihr Name)	Wie ist Ihr Name?	a1.1 unit_04 chunk
+What's your name? (formal alt)	Wie ist Ihr Name?	a1.1 unit_04 chunk
 Have a nice evening!	Schönen Abend!	a1.1 unit_04 chunk
 Have a nice weekend!	Schönes Wochenende!	a1.1 unit_04 chunk
 check in	einchecken	a1.1 unit_04 chunk
@@ -278,15 +278,15 @@ German numbers 21+ — ones or tens first?	Ones before tens	a1.1 unit_05 pattern
 45 in German?	fünfundvierzig	a1.1 unit_05 chunk
 Have a nice day! (formal goodbye)	Schönen Tag noch!	a1.1 unit_05 chunk
 Do you have apples?	Haben Sie Äpfel?	a1.1 unit_05 chunk
-I'll take these two … here.	Ich nehme die zwei … hier.	a1.1 unit_05 chunk
+I'll take these two … here. (near)	Ich nehme die zwei … hier.	a1.1 unit_05 chunk
 Here, try! (formal)	Hier, probieren Sie mal!	a1.1 unit_05 chunk
-that one there / this one here?	das dort / das hier	a1.1 unit_05 chunk
+that one there (farther) / this one here (near)?	das dort / das hier	a1.1 unit_05 chunk
 That's too expensive.	Das ist zu teuer.	a1.1 unit_05 chunk
 much fruit / many sausages?	viel Obst / viele Würste	a1.1 unit_05 chunk
 What would you like? (formal shop)	Was möchten Sie gerne?	a1.1 unit_05 chunk
 What do you wish? (formal shop)	Was wünschen Sie?	a1.1 unit_05 chunk
-How many ___ would you like? (hätten gern)	Wie viele ___ hätten Sie gerne?	a1.1 unit_05 chunk
-How many would you like? (möchten)	Wie viele möchten Sie?	a1.1 unit_05 chunk
+How many ___ would you like? (polite “would like”)	Wie viele ___ hätten Sie gerne?	a1.1 unit_05 chunk
+How many would you like? (“want”)	Wie viele möchten Sie?	a1.1 unit_05 chunk
 Goodbye (formal).	Auf Wiedersehen!	a1.1 unit_05 chunk
 strawberry	die Erdbeere · die Erdbeeren	a1.1 unit_05 noun
 apple	der Apfel · die Äpfel	a1.1 unit_05 noun
@@ -316,7 +316,7 @@ What do you want now?	Was wollen Sie jetzt?	a1.1 unit_05 chunk
 Delicious! Free for you today.	Lecker! Für Sie heute umsonst.	a1.1 unit_05 chunk
 That's very nice. Thank you very much.	Das ist aber nett. Vielen Dank.	a1.1 unit_05 chunk
 Good day, how can I help you (form.)?	Guten Tag, wie kann ich Ihnen helfen?	a1.1 unit_05 chunk
-Um, that one there, please.	Ähm, das dort, bitte.	a1.1 unit_05 chunk
+Um, that one there, please. (farther)	Ähm, das dort, bitte.	a1.1 unit_05 chunk
 Don't you (form.) know whole-grain bread rolls?	Kennen Sie keine Vollkornbrötchen?	a1.1 unit_05 chunk
 Um, how much does the bread roll cost?	Ähm, was kostet das Brötchen?	a1.1 unit_05 chunk
 It costs 60 cents.	Es kostet 60 Cent.	a1.1 unit_05 chunk
@@ -328,7 +328,7 @@ For example: “Brat” breast and “Curry” breast…	Zum Beispiel: “Brat�
 Sorry, I don't speak German that well yet.	Tut mir leid, ich spreche noch nicht so gut Deutsch.	a1.1 unit_05 chunk
 How many sausages would you (form.) like?	Wie viele Würste hätten Sie gerne?	a1.1 unit_05 chunk
 Oh, that's many sausages.	Oh, das sind sehr viele Würste.	a1.1 unit_05 chunk
-I'll take those two there.	Ich nehme die da.	a1.1 unit_05 chunk
+I'll take those two there. (pointing)	Ich nehme die da.	a1.1 unit_05 chunk
 Payment is at the cash register, okay?	Bezahlen an der Kasse, ne?	a1.1 unit_05 chunk
 Is that everything? (shop)	Ist das alles?	a1.1 unit_05 chunk
 # ── A1.1 Unit 6 — Bist du Programmierer? ──

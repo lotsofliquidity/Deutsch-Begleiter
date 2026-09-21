@@ -2,11 +2,35 @@
 
 Deck file: [`German.txt`](German.txt) · deck name in Anki: **German**
 
-## Import
+## Import (keep your progress)
 
-Anki → **File → Import** → pick `German.txt` → confirm Tab separator, fields Front / Back / Tags.
+Anki → **File → Import** → pick `German.txt` → Tab separator, fields Front / Back / Tags.
 
-Re-importing updates cards that share the same front.
+Import options that matter:
+
+- **Update existing notes when first field matches** = on
+- Match scope: **Note type** (or Note type and deck: **German**)
+
+**What keeps scheduling**
+
+| Change in `German.txt` | What Anki does | Progress |
+|---|---|---|
+| Same front, edit back/tags | Updates that note | Kept |
+| New line (new front) | New note | New card (fine) |
+| **Renamed front** | Treated as **new** note; old note stays | Old progress stays on the *old* front; new front starts at zero |
+
+So: **edit backs freely and re-import.** Renaming a front breaks the match.
+
+**If you must rename a front**
+
+1. In Anki **Browse**, find the card, edit the Front there (scheduling stays on that note).
+2. Mirror the same front text in `German.txt`.
+3. Or: re-import the new front, then **suspend/delete** the old orphan — you lose that card’s history.
+
+**Optional (renames-safe later):** export the deck from Anki with **Include unique identifier (GUID)**, keep a GUID column in the text file, and match on GUID when importing. Then you can rename Front and still update in place. Not set up in this repo yet — say if you want that.
+
+**After a big re-import:** Browse → sort by *Created* / search `deck:German is:new` and suspend obvious duplicates from renamed fronts.
+
 
 ## Tags
 
@@ -31,16 +55,17 @@ python3 validate_deck.py
 | `verb` | Lemma — person? | Form(s) only |
 | `noun` | English | `article + sg · article + pl` |
 
-- Register lives on the **front** (*informal* / *formal* / *with denn*) — never as a lesson on the back.
+- Register / sense cues live on the **front** (*informal* / *formal* / *pointing* / *farther*) — English only, never as a lesson on the back.
+- **Never put the German answer on the front.** No `(da drüben)`, `(hätten gern)`, `(Verzeihung)` in parentheses — that turns production into confirmation. Disambiguate with English sense (*curious / softened*, *polite*, *old-fashioned*).
 - Never glue particle/grammar asides onto a chunk (`denn again`, `don't drop aus`, `job = no article`).
 - Alternatives (`Gern geschehen` vs `Keine Ursache`) = **two cards**, not `A / B` on one back.
 - Contrast pairs (`dir` vs `du`, `bar` vs `mit Karte`) = a `pattern` card; each sayable line stays its own `chunk`.
 - Neue Chunk dialog lines stay one English → one German. No teaching parentheses.
+
+`validate_deck.py` flags chunk fronts whose parentheses leak a word from the back.
 
 ## Also
 
 - Card **every Neue Chunk** and phrase-box bullet worth saying, plus frames / particles — not whole drill ladders.
 - New cards from `/ingest`, `/teach`, or `/drill` cold queue.
 - Teach tags look like `a1.1 teach possessives`.
-
-**Re-import note:** Anki matches on the **front**. Changed fronts create new cards — suspend/delete the old ones after import.
