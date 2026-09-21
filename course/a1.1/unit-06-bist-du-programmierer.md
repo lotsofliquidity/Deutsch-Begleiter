@@ -4,27 +4,52 @@
 
 ## Chunks from this unit
 
-| Chunk | Meaning | Note |
-|---|---|---|
-| Ist der Platz hier noch frei? | Is this seat still free? | |
-| Bist du Programmierer? | Are you a programmer? | job = no article |
-| Ich arbeite als Ingenieur. | I work as an engineer. | *als* + job · no article |
-| Ich arbeite bei BMW. | I work at BMW. | *bei* + company |
-| Ich bin Friseurin. | I’m a hairdresser (f). | *sein* + job · **not** *eine Friseurin* |
-| Was machst du beruflich? | What do you do for a living? | also *Was machen Sie beruflich?* |
-| Was sind Sie von Beruf? | What’s your profession? | formal |
-| (Als) was arbeitest du? | What do you work as? | |
-| Wo arbeitest du? | Where do you work? | |
-| Ich rufe später zurück. | I’ll call back later. | |
-| Ich habe Durst. | I’m thirsty. | |
-| Wo ist denn die Kellnerin? | Where’s the waitress? | *-in* job form |
-| Wer ist das? | Who’s that? | |
-| Das ist meine Freundin … | This is my girlfriend/friend (f) … | |
-| Freut mich. | Pleased to meet you. | ≈ *Schön dich kennenzulernen* |
-| Woher kommt ihr zwei eigentlich? | Where do you two come from? | *ihr* = informal plural *you* |
-| Wir kommen aus Italien. | We’re from Italy. | |
+Booklet **Neue Chunks** (all 10 per dialog from LÖSUNGEN).
 
-**Jobs (*-in*):** *der Kellner → die Kellnerin* · *der Arzt → die Ärztin* · *der Koch → die Köchin* · plural *-in* → *-innen* (*die Kellnerinnen*)
+### Dialog 1 — Ist der Platz noch frei?
+
+| # | Chunk | Meaning |
+|---|---|---|
+| 1 | Ah, Pamela, mein Schatz. | Ah, Pamela, my darling. |
+| 2 | Ich rufe später zurück. | I'll call back later. |
+| 3 | Ist der Platz hier noch frei? | Is this spot here still free? |
+| 4 | Für schöne Frauen doch immer! | For beautiful women always! |
+| 5 | Frauen sind doch viel wichtiger als Arbeit. | Women are much more important than work. |
+| 6 | Woher kommt eine so hübsche Frau? | Where does such a pretty woman come from? |
+| 7 | Bist du Programmierer? | Are you a programmer? |
+| 8 | Äh, nein, ich arbeite als Ingenieur. | Uh, no, I work as an engineer. |
+| 9 | Ich hab' Durst. | I'm thirsty. |
+| 10 | Wo ist denn die Kellnerin? | Where is the waitress? |
+
+### Dialog 2 — Oh, Liebling!
+
+| # | Chunk | Meaning |
+|---|---|---|
+| 1 | Und was machst du beruflich? | And what do you do for a living? |
+| 2 | In Australien bin ich Friseurin. | I am a hairdresser in Australia. |
+| 3 | Ah! Du machst Leute schön? | Ah! You make people pretty? |
+| 4 | Die Hunde? Wieso die Hunde? | The dogs? Why the dogs? |
+| 5 | Meine Spezialität sind Pudel und Dackel. | My specialties are poodles and dachshunds. |
+| 6 | Ich liebe Dackel. | I love dachshunds. |
+| 7 | Ich habe auch einen Dackel. | I also have a dachshund. |
+| 8 | Hallo Anastasia, ich rufe dich später zurück. | Hi Anastasia, I'll call you back later. |
+| 9 | Ich arbeite gerade. | I'm working right now. |
+| 10 | Was machst du schon hier? | What are you already doing here? |
+
+### Dialog 3 — Freut mich.
+
+| # | Chunk | Meaning |
+|---|---|---|
+| 1 | Oh, wer ist das? | Oh, who's that? |
+| 2 | Äh, das ist meine Freundin Natalia. | Uh, that is my girlfriend Natalia. |
+| 3 | Mein Sonnenschein. | My sunshine. |
+| 4 | Äh, freut mich, Joana. | Uh, pleased to meet you, Joana. |
+| 5 | Joana spricht kaum Deutsch. | Joana hardly speaks German. |
+| 6 | Woher kommt ihr zwei eigentlich? | Where do you two come from, by the way? |
+| 7 | Na, wir kommen aus Italien. | Well, we’re from Italy. |
+| 8 | Hört man das nicht? | Can't you hear that? |
+| 9 | Oh, warte kurz, meine Mutter ruft grad an. | Oh, hold on a second, my mom is calling right now. |
+| 10 | So Pietro, jetzt gibt's Prügel. | So Pietro, now you’ll get punched. |
 
 ## Patterns introduced
 

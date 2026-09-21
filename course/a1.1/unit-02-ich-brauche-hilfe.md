@@ -4,40 +4,52 @@
 
 ## Chunks from this unit
 
-| Chunk | Meaning | Note |
-|---|---|---|
-| Guten Morgen / Tag / Abend | formal hello by time | ~6–11 / 11–18 / from 18 |
-| Wie kann ich helfen? | How can I help? | |
-| Ich habe eine Frage. | I have a question. | |
-| Wie komme ich zur X? | How do I get to X? | *zur* + street/place |
-| Wie bitte? | Pardon? | |
-| mit dem Zug / mit dem Bus | by train / by bus | |
-| das Gepäck | luggage | **always singular** (uncountable) |
-| Wo sind die Taxis? | Where are the taxis? | |
-| dort drüben | over there | *dort* = *da* |
-| Danke schön. Auf Wiedersehen. | Thanks. Goodbye (formal). | |
-| Bist du noch dran? | Are you still there? | on the phone |
-| Entschuldigen Sie? / Entschuldigung! | Excuse me (formal / general) | *Verzeihung* = more formal/old-fashioned |
-| Entschuldige! | Excuse me (informal) | |
-| Es tut mir leid. / Tut mir leid. | I’m sorry | sympathy — not always = *Entschuldigung* |
-| Ja, bitte? | Yes, please? / Can I help you? | |
-| Kann ich … mit Kreditkarte bezahlen? | Can I pay by credit card? | |
-| Ich brauche Geld. / Ich brauche noch eine Karte. | I need money / another map/card | |
-| Wie heißt das? | What’s that called? | |
-| Das heißt „der Geldautomat“. | That’s called “the ATM”. | answer with article |
-| Kein Problem. | No problem. | |
-| Verzeihung! | Excuse me (polite) | |
-| Was bedeutet das? | What does that mean? | survival set |
-| Was heißt … / Wie heißt … auf Deutsch? | What’s … called in German? | |
-| Wie sagt man … auf Deutsch? | How do you say … in German? | *man* |
-| Ich weiß (es) nicht. | I don’t know (it). | |
-| Können Sie das bitte buchstabieren? | Can you please spell that? | |
-| Das ist sehr nett von Ihnen. | That’s very nice of you. | |
-| Vielen Dank. / Danke schön. | Thank you | |
-| Keine Ursache. / Gern geschehen. | You’re welcome | booklet thanks reactions |
-| Tschüss. / Bis später. | Bye / See you later | informal goodbye |
+Booklet **Neue Chunks** (all 10 per dialog from LÖSUNGEN).
 
-**Nouns + article:** *der Geldautomat*, *die Kreditkarte*, *das Taxi*, *das Gepäck*, *der Zug*, *der Bus*, *der Flughafen*
+### Dialog 1 — Ich habe eine Frage.
+
+| # | Chunk | Meaning |
+|---|---|---|
+| 1 | Ach, Susi, warte mal kurz. | Oh, Susi, wait a minute. |
+| 2 | Guten Morgen! Wie kann ich helfen? | Good morning! How can I help? |
+| 3 | Ich habe eine Frage. Wie komme ich zur Feierabendstraße? | I have a question. How do I get to Feierabendstraße? |
+| 4 | Wie bitte? | Pardon me? |
+| 5 | Da müssen Sie mit dem Zug oder mit dem Bus fahren. | You (form.) have to go by train or by bus. |
+| 6 | OK, alles klar. Aber ich habe so viel Gepäck. | OK, understood. But I have so much luggage. |
+| 7 | Wo sind die Taxis? | Where are the cabs? |
+| 8 | Ausgang fünf, dort drüben. | Exit five, over there. |
+| 9 | OK. Danke schön. Auf Wiedersehen. | OK. Thank you very much. Goodbye (formal). |
+| 10 | Susi, bist du noch dran? | Susi, are you still there? |
+
+### Dialog 2 — Wie heißt das?
+
+| # | Chunk | Meaning |
+|---|---|---|
+| 1 | Katie hat noch eine Frage. | Katie has another question. |
+| 2 | Entschuldigen Sie? | Excuse me! |
+| 3 | Ja, bitte? | Yes, please? |
+| 4 | Kann ich das Taxi mit Kreditkarte bezahlen? | Can I pay for the cab by credit card? |
+| 5 | Also ja, ich brauche Geld. | So yes, I need money. |
+| 6 | Also was ich meinte ist... | So what I meant is… |
+| 7 | Wie heißt das? Ähm. Die Bankmaschine. | What's it called? Um. The bank machine. |
+| 8 | Das heißt “der Geldautomat”. | That is called “the ATM”. And the ATM is over there. |
+| 9 | Ah, OK, danke schön. Tschüss. | Ah, OK, thank you very much. Bye. |
+| 10 | Ich bin schon so verliebt. Romeo, mein Schatz. | I am already so in love. Romeo, my darling. |
+
+### Dialog 3 — Ich brauche eine Karte.
+
+| # | Chunk | Meaning |
+|---|---|---|
+| 1 | Du Susi, heute Abend kann ich leider nicht. | Susi, unfortunately I can't tonight. |
+| 2 | Heute Abend seh' ich endlich Romeo. | Tonight I’m finally seeing Romeo. |
+| 3 | Oh, Verzeihung! Ich habe noch eine Frage. | Oh, excuse me! I have one more question. |
+| 4 | Kein Problem. Heute ist so ein schöner Tag. | No problem. Today is such a beautiful day. |
+| 5 | Ah, schön. Ich brauche noch eine Karte. | Ah, nice. I also need a card. |
+| 6 | Hier, bitte. Aber ich brauch' sie wieder. | Here you go. But I’ll need it back. |
+| 7 | Wie sagt man das auf Deutsch? | How do you say that in German? |
+| 8 | OK, danke schön. Das ist sehr nett von Ihnen. | OK, thank you. That's very nice of you. |
+| 9 | Ja, natürlich ist Romeo kastriert. | Yes, of course Romeo is castrated. |
+| 10 | Autsch, das tut doch weh. | Ouch, that hurts. |
 
 ## Patterns introduced
 

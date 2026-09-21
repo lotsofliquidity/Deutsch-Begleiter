@@ -4,33 +4,52 @@
 
 ## Chunks from this unit
 
-| Chunk | Meaning | Note |
+Booklet **Neue Chunks** (all 10 per dialog from LÖSUNGEN).
+
+### Dialog 1 — Sind Sie frei?
+
+| # | Chunk | Meaning |
 |---|---|---|
-| Guten Tag! Sind Sie noch frei? | Hello! Are you still free? | formal; taxis/services |
-| Wohin wollen Sie fahren? | Where do you want to go? | LÖSUNGEN; *wohin* = to where |
-| Nach Marzahn. / Nach X. | To Marzahn / to X. | *nach* + place name |
-| Ist dort ein Hotel? | Is there a hotel there? | |
-| Wie bitte? | Pardon? | |
-| Ich verstehe nicht. | I don’t understand. | |
-| Können Sie das noch mal wiederholen? | Can you repeat that once more? | *noch mal* = *noch einmal* |
-| Woher kommen Sie? | Where are you from? (formal) | = *Woher sind Sie?* |
-| Ich komme aus Australien. | I’m from Australia. | = *Ich bin aus Australien.* |
-| Wo genau wohnen Sie? | Where exactly do you live? | |
-| Ich wohne in Sydney. | I live in Sydney. | *wohnen in* · also *leben* |
-| Und Sie? | And you? (formal) | |
-| Sind Sie aus Berlin? | Are you from Berlin? | |
-| Gerne. | Gladly. / With pleasure. | |
-| Ich lebe schon sehr lange hier. | I’ve lived here a long time. | |
-| Wir sind da. | We’re here. / We’ve arrived. | |
-| Wie viel kostet das? | How much does it cost? | also *Das macht X Euro.* |
-| Bar oder mit Karte? | Cash or card? | |
-| Ich zahle bar. / Ich bezahle mit Karte. | I pay cash / by card. | *bar* = adjective, no preposition |
-| Bitte schön. | Here you go. | |
-| Ihr Wechselgeld. | Your change. | |
+| 1 | Guten Tag! | Good day! |
+| 2 | Sind Sie noch frei? | Are you (form.) still free? |
+| 3 | Ja, wohin wollen Sie fahren? | Yes, where do you (form.) want to go? |
+| 4 | Nach Marzahn. | To Marzahn. |
+| 5 | Ist dort ein Hotel? | Is there a hotel? |
+| 6 | Wie bitte? | Pardon me? |
+| 7 | Ich verstehe nicht. | I don't understand. |
+| 8 | Können Sie das noch mal wiederholen? | Can you (form.) repeat that once again? |
+| 9 | Wollen Sie da wirklich übernachten? | Do you (form.) really want to spend the night there? |
+| 10 | Schauen Sie, ich mach’ einfach das Dach auf. | Look, I'll just open the roof. |
 
-**Numbers 11–20:** elf, zwölf, dreizehn, vierzehn, fünfzehn, sechzehn, siebzehn, achtzehn, neunzehn, zwanzig
+### Dialog 2 — Woher kommen Sie?
 
-**Countries:** most no article; exceptions e.g. *die Schweiz*, *die Türkei*, *der Irak*, *die USA* (*aus den USA*)
+| # | Chunk | Meaning |
+|---|---|---|
+| 1 | Und woher kommen Sie? | And where are you (form.) from? |
+| 2 | Ich komme aus Australien. | I come from Australia. |
+| 3 | Was? Steigen Sie sofort aus. | What? Get out of the car right now. |
+| 4 | Nein, war nur Spaß. | No, just kidding. |
+| 5 | Ach, wo genau wohnen Sie in Australien? | Oh, where exactly do you (form.) live in Australia? |
+| 6 | Ich wohne in Sydney. | I live in Sydney. |
+| 7 | Und Sie? | And you (form.)? |
+| 8 | Sind Sie aus Berlin? | Are you (form.) from Berlin? |
+| 9 | Gerne. | Gladly. |
+| 10 | Ich lebe schon sehr lange hier. | I have lived here for a very long time. |
+
+### Dialog 3 — Bar oder mit Karte?
+
+| # | Chunk | Meaning |
+|---|---|---|
+| 1 | Wir sind da. | We are here. |
+| 2 | Das ist Ihr Hotel. | This is your (form.) hotel. |
+| 3 | Wie viel kostet das? | How much does it cost? |
+| 4 | Bar oder mit Karte? | Cash or by card? |
+| 5 | Hier sind 20 Euro. | Here are 20 euros. |
+| 6 | Ihr Wechselgeld. | Your (form.) change. |
+| 7 | Bitte schön. | Here you go. |
+| 8 | Lassen Sie mich hier alleine? | Are you (form.) leaving me here alone? |
+| 9 | Ich hab's Ihnen gesagt. | Told you (form.). |
+| 10 | Aber du bleibst bei mir, Bärchen, oder? | But you'll stay with me, Bärchen, won't you? |
 
 ## Patterns introduced
 

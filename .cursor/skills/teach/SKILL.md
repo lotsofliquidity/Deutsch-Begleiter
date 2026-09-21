@@ -93,6 +93,7 @@ If they want volume under pressure → `/drill`. If they want a new unit parsed 
 
 5. **Anki** — append **4–8 atomic cards** to `anki/German.txt`  
    - Not the whole table as one card  
+   - **Production direction:** cue on front, German on back (same as survival chunks / nouns)
    - Tags: `a1.1 teach <topic>` (e.g. `a1.1 teach articles`) + `unit_NN` when clear  
    - Run `python3 anki/validate_deck.py`  
    - Tell them count + tag

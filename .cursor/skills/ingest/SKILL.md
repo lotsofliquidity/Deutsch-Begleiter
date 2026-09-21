@@ -30,21 +30,28 @@ check booklet + `_LOESUNGEN` in `courses/`.
 ## Primary workflow — parse a unit
 
 1. Confirm level + unit (e.g. A1.1 Unit 3). Create folders if needed.
-2. Read the unit from the PDF (and LÖSUNGEN when checking forms).
-   **Do not skip dialog footnotes / asterisk glosses** (*denn*, *man*, *eigentlich*,
+2. Read the unit from the PDF **and LÖSUNGEN**.
+   **Neue Chunks are mandatory:** each dialog has a **Neue Chunks** exercise
+   (almost always **10 lines**). Copy **all of them** from LÖSUNGEN into the unit
+   file — do not curate a “best of” subset. Organise by dialog
+   (`### Dialog N — <title>`).
+   **Also** keep dialog footnotes / asterisk glosses (*denn*, *man*, *eigentlich*,
    *ja*, *doch*, register tips). If the booklet flags it, it belongs in chunks/notes —
    not only the big “Grammatik:” headings.
 3. Write **`course/<booklet>/unit-NN-<slug>.md`** (kebab slug, no umlauts).
 4. Upsert produceable frames into **`patterns/patterns.md`** (Meta: booklet + unit).
 5. Distill lookups into **`course/<booklet>/notes.md`** (tight tables only).
 6. Append cards to **`anki/German.txt`**:
-   - `#deck:German`, three tab-separated fields, tags **`a1.1 unit_NN`** (+ optional `chunk`/`verb`/`pattern`)
-   - Frames, survival chunks, **and** flagged particles — not every ladder rung or noun dump
+   - `#deck:German`, three tab-separated fields, tags **`a1.1 unit_NN`** (+ optional `chunk`/`verb`/`pattern`/`noun`)
+   - **Direction = production:** cue/English/situation on the **front**, German on the **back** (for survival chunks, nouns, and frames you must say). Disambiguate register on the front when needed (*informal* / *formal* / *with denn*).
+   - **Every Neue Chunk → one card** (all 10 per dialog). Also card frames, flagged particles, and high-value traps.
+   - **Unit noun lists → one card per noun**: English (or bare lemma) on front; back = `der/die/das X · die Y` (sg + pl together). Uncountables: note “no plural”.
+   - Still skip full drill ladders and random dialog nouns not on the unit list
 7. Mark the unit ingested on **`courses/<level>/MAP.md`**.
 8. Run `python3 anki/validate_deck.py`.
 9. In chat: 3–6 sentence summary + offer `/drill` on this unit. Do not dump the library.
 
-**Unit file shape:** chunks table · patterns introduced · drill ladder · what tripped me up.
+**Unit file shape:** Neue Chunks by dialog (complete) · patterns introduced · drill ladder · what tripped me up.
 
 **Pattern quality bar:** fixed frame + swappable slot · 5–8 rung ladder · register · no invented German.
 

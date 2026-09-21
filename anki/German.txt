@@ -5,130 +5,370 @@
 #tags column:3
 
 # ── A1.1 Unit 1 — Hallo, wie geht's? ──
-Wie geht's?	How are you? (informal; short for Wie geht es dir?)	a1.1 unit_01 chunk
-Gut, und dir?	Good, and you? (after Wie geht's? — dir not du)	a1.1 unit_01 chunk
-Auch gut, danke.	Also good, thanks.	a1.1 unit_01 chunk
-Woher kommst du?	Where are you from? (informal)	a1.1 unit_01 chunk
+How are you? (informal)	Wie geht's? (informal; short for Wie geht es dir?)	a1.1 unit_01 chunk
+Good, and you? (informal — dir)	Gut, und dir? (after Wie geht's? — dir not du)	a1.1 unit_01 chunk
+Also good, thanks.	Auch gut, danke.	a1.1 unit_01 chunk
+Where are you from? (informal)	Woher kommst du? (informal)	a1.1 unit_01 chunk
 Ich komme aus X. — frame?	Ich komme aus X. (don't drop aus)	a1.1 unit_01 pattern
 kommen — du?	du kommst	a1.1 unit_01 verb
 sprechen — du / er?	du sprichst · er/sie spricht (vowel change)	a1.1 unit_01 verb
-Welche Sprachen sprichst du?	Which languages do you speak?	a1.1 unit_01 chunk
-Wie heißt du?	What's your name? (informal; lit. What are you called?)	a1.1 unit_01 chunk
-Ich heiße X.	My name is X.	a1.1 unit_01 chunk
+Which languages do you speak?	Welche Sprachen sprichst du?	a1.1 unit_01 chunk
+What's your name? (informal)	Wie heißt du? (informal; lit. What are you called?)	a1.1 unit_01 chunk
+My name is X.	Ich heiße X.	a1.1 unit_01 chunk
 heißen — du?	du heißt (stem ends in ß — no extra s)	a1.1 unit_01 verb
-Schön dich kennenzulernen. / Freut mich.	Nice to meet you.	a1.1 unit_01 chunk
-Mahlzeit!	Enjoy your meal! / lunchtime greeting (regional)	a1.1 unit_01 chunk
+Nice to meet you.	Schön dich kennenzulernen. / Freut mich.	a1.1 unit_01 chunk
+Enjoy your meal! / lunchtime greeting	Mahlzeit! (regional)	a1.1 unit_01 chunk
 denn in a question (e.g. Woher kommst du denn?)	Modal particle — curiosity / softens the question; not “because”	a1.1 unit_01 pattern
-Woher kommst du denn?	Where are you from? (with denn — more natural/curious)	a1.1 unit_01 chunk
+Where are you from? (with denn)	Woher kommst du denn? (with denn — more natural/curious)	a1.1 unit_01 chunk
 man vs der Mann	man = one/people · der Mann = the man	a1.1 unit_01 pattern
-Sieht man das nicht?	Can't you / Doesn't one see that?	a1.1 unit_01 chunk
+Can't you / Doesn't one see that?	Sieht man das nicht?	a1.1 unit_01 chunk
 eigentlich in a question (Wie heißt du eigentlich?)	≈ “by the way” (booklet: not English “actually”)	a1.1 unit_01 pattern
-Wie heißt du eigentlich?	What's your name, by the way?	a1.1 unit_01 chunk
+What's your name, by the way?	Wie heißt du eigentlich?	a1.1 unit_01 chunk
+Informal hellos?	Hi! / Hallo! / Moin / Na? / Hallihallo!	a1.1 unit_01 chunk
+What's up? (colloquial)	Hi! Was geht ab?	a1.1 unit_01 chunk
+I'm from Australia	Ich komme aus Australien. (don't drop aus · also Wo kommst du her?)	a1.1 unit_01 chunk
+And you? (informal)	Und du?	a1.1 unit_01 chunk
+Of course. (casual)	Na klar.	a1.1 unit_01 chunk
+Where's my …?	Wo ist denn mein …? (denn again)	a1.1 unit_01 chunk
+Thanks for …	Danke für … (e.g. Danke für die Erdnüsse)	a1.1 unit_01 chunk
+You speak German really well!	Du sprichst aber gut Deutsch! (sprechen: du sprichst)	a1.1 unit_01 chunk
+I speak … fluently	Ich spreche fließend …	a1.1 unit_01 chunk
+A little French	Etwas Französisch. (etwas + language)	a1.1 unit_01 chunk
+My nickname is …	Mein Spitzname ist …	a1.1 unit_01 chunk
+What are you doing here?	Was machst du hier?	a1.1 unit_01 chunk
+Over there… (Da drüben)	Da drüben …	a1.1 unit_01 chunk
+Oh yes, that's right. / Agrees	Ach ja, stimmt. (Stimmt ≈ that's right)	a1.1 unit_01 chunk
+Have fun in …	Viel Spaß in …	a1.1 unit_01 chunk
+Good morning!	Guten Morgen!	a1.1 unit_01 chunk
+Hello! How are you?	Hallo! Wie geht's? (= Wie geht's?)	a1.1 unit_01 chunk
+My name is Katie	Ich heiße Katie und du? (and yours?)	a1.1 unit_01 chunk
 
+Good, and you?	Gut, und dir?	a1.1 unit_01 chunk
+Where are you from?	Woher kommst du denn?	a1.1 unit_01 chunk
+I am from Australia.	Ich komme aus Australien.	a1.1 unit_01 chunk
+How cool!	Wie cool!	a1.1 unit_01 chunk
+Eh? Damn, where's my seat belt?	Hä? Verdammt, wo ist denn mein Anschnallgurt?	a1.1 unit_01 chunk
+Katie is sleeping and Gogo is hungry and bored.	Katie schläft und Gogo hat Hunger und Langeweile.	a1.1 unit_01 chunk
+Thanks for the peanuts.	Danke für die Erdnüsse.	a1.1 unit_01 chunk
+Ah, almost.	Ah, fast.	a1.1 unit_01 chunk
+Enjoy your meal!	Mahlzeit!	a1.1 unit_01 chunk
+A typical German idiom for horror.	Eine typisch deutsche Redewendung für Entsetzen.	a1.1 unit_01 chunk
+I speak fluent German, English, Chinese, Japanese and of course the language of love.	Ich spreche fließend Deutsch, Englisch, Chinesisch, Japanisch und natürlich die Sprache der Liebe.	a1.1 unit_01 chunk
+There is the Brandenburg Gate.	Da ist das Brandenburger Tor.	a1.1 unit_01 chunk
+My name is Katie and yours?	Ich heiße Katie und du?	a1.1 unit_01 chunk
+My nickname is Gogo.	Mein Spitzname ist Gogo.	a1.1 unit_01 chunk
+Yes, I know.	Ja, ich weiß.	a1.1 unit_01 chunk
+It's right over there.	Da drüben ist sie doch.	a1.1 unit_01 chunk
+Oh yes, that's right.	Ach ja, stimmt.	a1.1 unit_01 chunk
+Have fun in Berlin, Katie Kangaroo.	Viel Spaß in Berlin, Katie Känguru.	a1.1 unit_01 chunk
 # ── A1.1 Unit 2 — Ich brauche Hilfe! ──
-Guten Morgen / Tag / Abend — when?	Morgen ~6–11 · Tag ~11–18 · Abend from ~18	a1.1 unit_02 chunk
-Ich habe eine Frage.	I have a question.	a1.1 unit_02 chunk
-Wie komme ich zur X?	How do I get to X?	a1.1 unit_02 chunk
-Wie bitte?	Pardon? / Say that again.	a1.1 unit_02 chunk
-Entschuldigung!	Excuse me / Sorry (general)	a1.1 unit_02 chunk
-Entschuldigen Sie! vs Entschuldige!	Formal vs informal excuse me	a1.1 unit_02 chunk
-Verzeihung!	Excuse me (more formal / old-fashioned than Entschuldigung)	a1.1 unit_02 chunk
+Good morning / day / evening — which when?	Guten Morgen ~6–11 · Guten Tag ~11–18 · Guten Abend from ~18	a1.1 unit_02 chunk
+I have a question.	Ich habe eine Frage.	a1.1 unit_02 chunk
+How do I get to X?	Wie komme ich zur X?	a1.1 unit_02 chunk
+Pardon? / Say that again.	Wie bitte?	a1.1 unit_02 chunk
+Excuse me / sorry (general)	Entschuldigung!	a1.1 unit_02 chunk
+Excuse me — formal vs informal?	Entschuldigen Sie! (formal) · Entschuldige! (informal)	a1.1 unit_02 chunk
+Excuse me (Verzeihung)	Verzeihung! (more formal/old-fashioned)	a1.1 unit_02 chunk
 Es tut mir leid. — vs Entschuldigung?	Sympathy / soft apology; not always interchangeable with Entschuldigung	a1.1 unit_02 pattern
-dort drüben	over there	a1.1 unit_02 chunk
-das Gepäck	luggage — always singular (uncountable)	a1.1 unit_02 chunk
-Kein Problem.	No problem.	a1.1 unit_02 chunk
-Wie heißt das?	What's that called?	a1.1 unit_02 chunk
-Wie sagt man das auf Deutsch?	How do you say that in German? (impersonal man)	a1.1 unit_02 chunk
-Wie heißt X auf Deutsch? / Was heißt X auf Deutsch?	What's X called in German?	a1.1 unit_02 chunk
-Was bedeutet das?	What does that mean?	a1.1 unit_02 chunk
-Können Sie das bitte buchstabieren?	Can you please spell that? (formal)	a1.1 unit_02 chunk
+over there (dort drüben)	dort drüben	a1.1 unit_02 chunk
+No problem.	Kein Problem.	a1.1 unit_02 chunk
+What's that called?	Wie heißt das?	a1.1 unit_02 chunk
+How do you say that in German?	Wie sagt man das auf Deutsch? (impersonal man)	a1.1 unit_02 chunk
+What's X called in German?	Wie heißt X auf Deutsch? / Was heißt X auf Deutsch?	a1.1 unit_02 chunk
+What does that mean?	Was bedeutet das?	a1.1 unit_02 chunk
+Can you please spell that?	Können Sie das bitte buchstabieren? (formal)	a1.1 unit_02 chunk
 Ich brauche X.	I need X.	a1.1 unit_02 pattern
-Ich weiß (es) nicht.	I don't know (it).	a1.1 unit_02 chunk
-Gern geschehen. / Keine Ursache.	You're welcome.	a1.1 unit_02 chunk
-Auf Wiedersehen. vs Tschüss.	Formal goodbye vs informal bye	a1.1 unit_02 chunk
+I don't know	Ich weiß (es) nicht. (it).)	a1.1 unit_02 chunk
+You're welcome.	Gern geschehen. / Keine Ursache.	a1.1 unit_02 chunk
+Goodbye — formal vs informal?	Auf Wiedersehen. (formal) · Tschüss. (informal)	a1.1 unit_02 chunk
 der / die / das — rule?	Learn every noun with its article; plural is die	a1.1 unit_02 pattern
-der Geldautomat	the ATM (masculine)	a1.1 unit_02 chunk
-die Kreditkarte	the credit card (feminine)	a1.1 unit_02 chunk
-das Taxi	the taxi (neuter)	a1.1 unit_02 chunk
-Numbers 0–10	null eins zwei drei vier fünf sechs sieben acht neun zehn	a1.1 unit_02 chunk
+Numbers 0–10 in German?	null eins zwei drei vier fünf sechs sieben acht neun zehn	a1.1 unit_02 chunk
+How can I help?	Wie kann ich helfen?	a1.1 unit_02 chunk
+by train / by bus?	mit dem Zug / mit dem Bus	a1.1 unit_02 chunk
+Where are the taxis?	Wo sind die Taxis?	a1.1 unit_02 chunk
+Thanks. Goodbye	Danke schön. Auf Wiedersehen. (formal).)	a1.1 unit_02 chunk
+Are you still there?	Bist du noch dran? (on the phone)	a1.1 unit_02 chunk
+Yes, please? / Can I help you?	Ja, bitte?	a1.1 unit_02 chunk
+Can I pay by credit card?	Kann ich … mit Kreditkarte bezahlen?	a1.1 unit_02 chunk
+I need money / I need another map/card.	Ich brauche Geld. / Ich brauche noch eine Karte.	a1.1 unit_02 chunk
+That's very nice of you.	Das ist sehr nett von Ihnen.	a1.1 unit_02 chunk
+Thank you	Vielen Dank. / Danke schön.	a1.1 unit_02 chunk
+Bye / See you later (informal).	Tschüss. / Bis später.	a1.1 unit_02 chunk
+I have one more / another question.	Ich habe noch eine Frage.	a1.1 unit_02 chunk
+my darling / dear (affectionate)	mein Schatz	a1.1 unit_02 chunk
+Excuse me? (formal — Entschuldigen Sie)	Entschuldigen Sie?	a1.1 unit_02 chunk
+I'm sorry	Tut mir leid. (short form of Es tut mir leid)	a1.1 unit_02 chunk
+That's called "the ATM"	Das heißt „der Geldautomat". (answer with article)	a1.1 unit_02 chunk
+Excuse me? (formal) / Excuse me! (general)	Entschuldigen Sie? / Entschuldigung!	a1.1 unit_02 chunk
+ATM	der Geldautomat · die Geldautomaten	a1.1 unit_02 noun
+credit card	die Kreditkarte · die Kreditkarten	a1.1 unit_02 noun
+taxi	das Taxi · die Taxis	a1.1 unit_02 noun
+luggage	das Gepäck · no plural (uncountable)	a1.1 unit_02 noun
+train	der Zug · die Züge	a1.1 unit_02 noun
+bus	der Bus · die Busse	a1.1 unit_02 noun
+airport	der Flughafen · die Flughäfen	a1.1 unit_02 noun
 
+luggage (always singular / uncountable)?	das Gepäck	a1.1 unit_02 chunk
+Oh, Susi, wait a minute.	Ach, Susi, warte mal kurz.	a1.1 unit_02 chunk
+Good morning! How can I help?	Guten Morgen! Wie kann ich helfen?	a1.1 unit_02 chunk
+I have a question. How do I get to Feierabendstraße?	Ich habe eine Frage. Wie komme ich zur Feierabendstraße?	a1.1 unit_02 chunk
+You (form.) have to go by train or by bus.	Da müssen Sie mit dem Zug oder mit dem Bus fahren.	a1.1 unit_02 chunk
+OK, understood. But I have so much luggage.	OK, alles klar. Aber ich habe so viel Gepäck.	a1.1 unit_02 chunk
+Exit five, over there.	Ausgang fünf, dort drüben.	a1.1 unit_02 chunk
+OK. Thank you very much. Goodbye (formal).	OK. Danke schön. Auf Wiedersehen.	a1.1 unit_02 chunk
+Susi, are you still there?	Susi, bist du noch dran?	a1.1 unit_02 chunk
+Katie has another question.	Katie hat noch eine Frage.	a1.1 unit_02 chunk
+Can I pay for the cab by credit card?	Kann ich das Taxi mit Kreditkarte bezahlen?	a1.1 unit_02 chunk
+So what I meant is…	Also was ich meinte ist...	a1.1 unit_02 chunk
+What's it called? Um. The bank machine.	Wie heißt das? Ähm. Die Bankmaschine.	a1.1 unit_02 chunk
+That is called “the ATM”. And the ATM is over there.	Das heißt “der Geldautomat”.	a1.1 unit_02 chunk
+Ah, OK, thank you very much. Bye.	Ah, OK, danke schön. Tschüss.	a1.1 unit_02 chunk
+I am already so in love. Romeo, my darling.	Ich bin schon so verliebt. Romeo, mein Schatz.	a1.1 unit_02 chunk
+Susi, unfortunately I can't tonight.	Du Susi, heute Abend kann ich leider nicht.	a1.1 unit_02 chunk
+Tonight I’m finally seeing Romeo.	Heute Abend seh' ich endlich Romeo.	a1.1 unit_02 chunk
+Oh, excuse me! I have one more question.	Oh, Verzeihung! Ich habe noch eine Frage.	a1.1 unit_02 chunk
+No problem. Today is such a beautiful day.	Kein Problem. Heute ist so ein schöner Tag.	a1.1 unit_02 chunk
+Ah, nice. I also need a card.	Ah, schön. Ich brauche noch eine Karte.	a1.1 unit_02 chunk
+Here you go. But I’ll need it back.	Hier, bitte. Aber ich brauch' sie wieder.	a1.1 unit_02 chunk
+OK, thank you. That's very nice of you.	OK, danke schön. Das ist sehr nett von Ihnen.	a1.1 unit_02 chunk
+Yes, of course Romeo is castrated.	Ja, natürlich ist Romeo kastriert.	a1.1 unit_02 chunk
+Ouch, that hurts.	Autsch, das tut doch weh.	a1.1 unit_02 chunk
 # ── A1.1 Unit 3 — Wie bitte? ──
 du vs Sie — when Sie?	Strangers, official situations, people you don't know well; Sie is capitalised	a1.1 unit_03 pattern
-Sind Sie noch frei?	Are you still free? (formal; e.g. taxi)	a1.1 unit_03 chunk
-Wohin wollen Sie fahren?	Where do you want to go? (formal; wohin = to where)	a1.1 unit_03 chunk
-Nach X.	To X. (nach + place name)	a1.1 unit_03 chunk
-Ich verstehe nicht.	I don't understand.	a1.1 unit_03 chunk
-Können Sie das noch mal wiederholen?	Can you please repeat that once more? (formal)	a1.1 unit_03 chunk
-Woher kommen Sie?	Where are you from? (formal; ≈ Woher sind Sie? / Ich bin aus …)	a1.1 unit_03 chunk
+Are you still free?	Sind Sie noch frei? (formal; e.g. taxi)	a1.1 unit_03 chunk
+Where do you want to go?	Wohin wollen Sie fahren? (formal; wohin = to where)	a1.1 unit_03 chunk
+To [place name]?	Nach X.	a1.1 unit_03 chunk
+I don't understand.	Ich verstehe nicht.	a1.1 unit_03 chunk
+Can you please repeat that once more?	Können Sie das noch mal wiederholen? (formal)	a1.1 unit_03 chunk
+Where are you from? (formal)	Woher kommen Sie? (formal; ≈ Woher sind Sie? / Ich bin aus …)	a1.1 unit_03 chunk
 Ich wohne in X.	I live in X.	a1.1 unit_03 pattern
 kommen aus vs wohnen in	Origin: aus · Residence: in	a1.1 unit_03 pattern
 sein — ich / du / er?	ich bin · du bist · er/sie/es ist	a1.1 unit_03 verb
 sein — wir / ihr / Sie?	wir sind · ihr seid · Sie/sie sind	a1.1 unit_03 verb
-Wie viel kostet das?	How much does it cost? (also: Das macht X Euro.)	a1.1 unit_03 chunk
-Bar oder mit Karte?	Cash or by card?	a1.1 unit_03 chunk
+How much does it cost?	Wie viel kostet das? (also: Das macht X Euro.)	a1.1 unit_03 chunk
+Cash or by card?	Bar oder mit Karte?	a1.1 unit_03 chunk
 Ich zahle bar. vs mit Karte	bar = adjective (no mit) · card takes mit	a1.1 unit_03 pattern
-Bitte schön.	Here you go.	a1.1 unit_03 chunk
-Numbers 11–20	elf zwölf dreizehn … neunzehn zwanzig	a1.1 unit_03 chunk
+Here you go.	Bitte schön.	a1.1 unit_03 chunk
+Numbers 11–20 in German?	elf zwölf dreizehn … neunzehn zwanzig	a1.1 unit_03 chunk
+Is there a hotel there?	Ist dort ein Hotel?	a1.1 unit_03 chunk
+Where exactly do you live?	Wo genau wohnen Sie?	a1.1 unit_03 chunk
+And you? (formal)	Und Sie? (formal)	a1.1 unit_03 chunk
+Are you from Berlin?	Sind Sie aus Berlin?	a1.1 unit_03 chunk
+Gladly. / With pleasure.	Gerne.	a1.1 unit_03 chunk
+I've lived here a long time.	Ich lebe schon sehr lange hier.	a1.1 unit_03 chunk
+We're here. / We've arrived.	Wir sind da.	a1.1 unit_03 chunk
+Your change.	Ihr Wechselgeld.	a1.1 unit_03 chunk
+Hello! Are you still free?	Guten Tag! Sind Sie noch frei? (formal; e.g. taxi)	a1.1 unit_03 chunk
+To Marzahn	Nach Marzahn. (nach + place name)	a1.1 unit_03 chunk
+I live in Sydney	Ich wohne in Sydney. (wohnen in)	a1.1 unit_03 chunk
+I pay cash	Ich zahle bar. (bar = adjective, no mit)	a1.1 unit_03 chunk
+I pay by card	Ich bezahle mit Karte. (mit + Karte)	a1.1 unit_03 chunk
+To Marzahn / to [place]?	Nach Marzahn. / Nach X.	a1.1 unit_03 chunk
+I pay cash / I pay by card.	Ich zahle bar. / Ich bezahle mit Karte.	a1.1 unit_03 chunk
 
+Good day!	Guten Tag!	a1.1 unit_03 chunk
+Are you (form.) still free?	Sind Sie noch frei?	a1.1 unit_03 chunk
+Yes, where do you (form.) want to go?	Ja, wohin wollen Sie fahren?	a1.1 unit_03 chunk
+Do you (form.) really want to spend the night there?	Wollen Sie da wirklich übernachten?	a1.1 unit_03 chunk
+Look, I'll just open the roof.	Schauen Sie, ich mach’ einfach das Dach auf.	a1.1 unit_03 chunk
+And where are you (form.) from?	Und woher kommen Sie?	a1.1 unit_03 chunk
+What? Get out of the car right now.	Was? Steigen Sie sofort aus.	a1.1 unit_03 chunk
+No, just kidding.	Nein, war nur Spaß.	a1.1 unit_03 chunk
+Oh, where exactly do you (form.) live in Australia?	Ach, wo genau wohnen Sie in Australien?	a1.1 unit_03 chunk
+This is your (form.) hotel.	Das ist Ihr Hotel.	a1.1 unit_03 chunk
+Here are 20 euros.	Hier sind 20 Euro.	a1.1 unit_03 chunk
+Are you (form.) leaving me here alone?	Lassen Sie mich hier alleine?	a1.1 unit_03 chunk
+Told you (form.).	Ich hab's Ihnen gesagt.	a1.1 unit_03 chunk
+But you'll stay with me, Bärchen, won't you?	Aber du bleibst bei mir, Bärchen, oder?	a1.1 unit_03 chunk
 # ── A1.1 Unit 4 — Willkommen Frau Koch! ──
-Wie geht es Ihnen?	How are you? (formal)	a1.1 unit_04 chunk
-Gut, und Ihnen?	Good, and you? (formal return — Ihnen not Sie)	a1.1 unit_04 chunk
-Wie heißen Sie?	What's your name? (formal)	a1.1 unit_04 chunk
-Frau / Herr + name	Formal address: Ms. / Mr. + family name	a1.1 unit_04 chunk
-Kann ich bitte einchecken?	Can I check in please?	a1.1 unit_04 chunk
-Hier ist mein Pass. / Ihre Reservierung.	Here's my passport / your reservation.	a1.1 unit_04 chunk
-Wo ist mein Zimmer?	Where is my room?	a1.1 unit_04 chunk
-Können Sie mir bitte helfen?	Can you please help me? (formal)	a1.1 unit_04 chunk
-Selbstverständlich!	Of course!	a1.1 unit_04 chunk
+How are you? (formal)	Wie geht es Ihnen? (formal)	a1.1 unit_04 chunk
+Good, and you? (formal — Ihnen)	Gut, und Ihnen? (formal return — Ihnen not Sie)	a1.1 unit_04 chunk
+What's your name? (formal)	Wie heißen Sie? (formal)	a1.1 unit_04 chunk
+Formal address — Ms. / Mr. + family name?	Frau / Herr + Nachname	a1.1 unit_04 chunk
+Can I check in please?	Kann ich bitte einchecken?	a1.1 unit_04 chunk
+Here's my passport / your reservation.	Hier ist mein Pass. / Ihre Reservierung.	a1.1 unit_04 chunk
+Where is my room?	Wo ist mein Zimmer?	a1.1 unit_04 chunk
+Can you please help me?	Können Sie mir bitte helfen? (formal)	a1.1 unit_04 chunk
+Of course! (polite)	Selbstverständlich!	a1.1 unit_04 chunk
 mein / deine / Ihr — match what?	Possessive matches the noun's gender (mein Zimmer, meine Reservierung, Ihr Reisepass)	a1.1 unit_04 pattern
 haben — du / er?	du hast · er/sie/es hat	a1.1 unit_04 verb
-Ich habe Kopfschmerzen.	I have a headache.	a1.1 unit_04 chunk
-Ist hier eine Apotheke in der Nähe?	Is there a pharmacy nearby?	a1.1 unit_04 chunk
+I have a headache.	Ich habe Kopfschmerzen.	a1.1 unit_04 chunk
+Is there a pharmacy nearby?	Ist hier eine Apotheke in der Nähe?	a1.1 unit_04 chunk
 eine → die (Apotheke)	First mention indefinite; when identified, definite	a1.1 unit_04 pattern
-Die Apotheke ist gleich um die Ecke.	The pharmacy is just around the corner.	a1.1 unit_04 chunk
-Die Apotheke ist geschlossen.	The pharmacy is closed.	a1.1 unit_04 chunk
-die Apotheke / die Bäckerei / der Supermarkt	pharmacy / bakery / supermarket (with articles)	a1.1 unit_04 chunk
-Bis später. / Bis gleich.	See you later / soon.	a1.1 unit_04 chunk
-das Zimmer · der Reisepass · die Zimmerkarte	room · passport · room card	a1.1 unit_04 chunk
-von X bis Y Uhr	from X to Y o'clock	a1.1 unit_04 chunk
+The pharmacy is just around the corner.	Die Apotheke ist gleich um die Ecke.	a1.1 unit_04 chunk
+The pharmacy is closed.	Die Apotheke ist geschlossen.	a1.1 unit_04 chunk
+See you later / soon.	Bis später. / Bis gleich.	a1.1 unit_04 chunk
+from X to Y o’clock?	von X bis Y Uhr	a1.1 unit_04 chunk
+Is anyone there?	Ist da jemand?	a1.1 unit_04 chunk
+Breakfast is from 7 to 10	Frühstück ist von 7 bis 10 Uhr. (von … bis …)	a1.1 unit_04 chunk
+Help yourself	Bedienen Sie sich. (formal)	a1.1 unit_04 chunk
+Here's your room card.	Hier ist Ihre Zimmerkarte.	a1.1 unit_04 chunk
+I'm off.	Ich geh' dann mal.	a1.1 unit_04 chunk
+Today is Sunday	Heute ist Sonntag. (shops usually closed)	a1.1 unit_04 chunk
+Welcome!	Willkommen!	a1.1 unit_04 chunk
+Here's your reservation.	Hier ist Ihre Reservierung.	a1.1 unit_04 chunk
+Here's my passport.	Hier ist mein Pass.	a1.1 unit_04 chunk
+Yes, sure. / Yes, gladly.	Ja, gerne.	a1.1 unit_04 chunk
+Formal address — Ms. / Mr. + family name (Nachname)?	Frau / Herr + Nachname	a1.1 unit_04 chunk
+Your room is right over there.	Ihr Zimmer ist gleich da drüben.	a1.1 unit_04 chunk
+See you later.	Bis später.	a1.1 unit_04 chunk
+See you soon.	Bis gleich.	a1.1 unit_04 chunk
+Welcome! How are you?	Willkommen! Wie geht es Ihnen? (formal)	a1.1 unit_04 chunk
+reception (hotel desk)	die Rezeption · die Rezeptionen	a1.1 unit_04 noun
+passport	der Reisepass · die Reisepässe	a1.1 unit_04 noun
+room	das Zimmer · die Zimmer	a1.1 unit_04 noun
+room card / key card	die Zimmerkarte · die Zimmerkarten	a1.1 unit_04 noun
+key	der Schlüssel · die Schlüssel	a1.1 unit_04 noun
+breakfast	das Frühstück · die Frühstücke	a1.1 unit_04 noun
+elevator / lift	der Fahrstuhl · die Fahrstühle (= Aufzug / Lift)	a1.1 unit_04 noun
+suitcase	der Koffer · die Koffer	a1.1 unit_04 noun
+bag	die Tasche · die Taschen	a1.1 unit_04 noun
+backpack	der Rucksack · die Rucksäcke	a1.1 unit_04 noun
+Wi‑Fi / WLAN	das WLAN · die WLANs	a1.1 unit_04 noun
+password	das Passwort · die Passwörter	a1.1 unit_04 noun
+pharmacy	die Apotheke · die Apotheken	a1.1 unit_04 noun
+bakery	die Bäckerei · die Bäckereien	a1.1 unit_04 noun
+butcher’s shop	die Fleischerei · die Fleischereien	a1.1 unit_04 noun
+market	der Markt · die Märkte	a1.1 unit_04 noun
+supermarket	der Supermarkt · die Supermärkte	a1.1 unit_04 noun
+fruit and vegetable shop	der Obst- und Gemüseladen · die Obst- und Gemüseläden	a1.1 unit_04 noun
 
+Yes, that's right, Mr.… Uh.	Ja, das ist richtig, Herr.... Äh.	a1.1 unit_04 chunk
+Like the sauerkraut to eat.	Wie das Sauerkraut zum Essen.	a1.1 unit_04 chunk
+Speaking of food, breakfast at our hotel is from 7 to 10.	Apropos Essen, Frühstück ist bei uns von 7 bis 10 Uhr.	a1.1 unit_04 chunk
+My suitcase is very heavy.	Mein Koffer ist sehr schwer.	a1.1 unit_04 chunk
+Come (form.), I'll show you (form.).	Kommen Sie, ich zeig's Ihnen.	a1.1 unit_04 chunk
+You're (form.) right about that.	Da haben Sie recht.	a1.1 unit_04 chunk
+But in German we say “WLAN”.	Auf Deutsch sagen wir aber “WLAN”.	a1.1 unit_04 chunk
+Ah yes, today is Sunday.	Ach ja, heute ist Sonntag.	a1.1 unit_04 chunk
+Der Schnaps hier, der hilft gegen Kopfschmerz. (The schnapps here helps against	Der Schnaps hier, der hilft gegen Kopfschmerz. (The schnapps here helps against	a1.1 unit_04 chunk
+Much better. (U4 D3)	Viel besser.	a1.1 unit_04 chunk
+Tomorrow everything will be open again.	Morgen hat auch alles wieder offen.	a1.1 unit_04 chunk
 # ── A1.1 Unit 5 — Sonst noch etwas? ──
 Ich hätte gerne X.	I'd like X. (≈ Ich möchte; hätte gern a bit more formal)	a1.1 unit_05 pattern
-Sonst noch etwas?	Anything else? (shop)	a1.1 unit_05 chunk
-der Apfel → Plural?	die Äpfel	a1.1 unit_05 noun
-die Erdbeere → Plural?	die Erdbeeren	a1.1 unit_05 noun
-das Obst — plural?	No plural (use die Früchte)	a1.1 unit_05 noun
+Anything else?	Sonst noch etwas? (shop)	a1.1 unit_05 chunk
 Learn noun with what?	Article + plural form	a1.1 unit_05 pattern
-Das ist kein Brot.	That's not bread. (kein for m/n)	a1.1 unit_05 chunk
+That's not bread	Das ist kein Brot. (kein for m/n)	a1.1 unit_05 chunk
 keine — when?	Feminine singular + all plurals	a1.1 unit_05 pattern
-Was kostet das Brötchen?	How much does the roll cost? (singular)	a1.1 unit_05 chunk
-Was kosten die Kekse?	How much are the cookies? (plural verb)	a1.1 unit_05 chunk
-Das macht dann X Euro.	That comes to X euros.	a1.1 unit_05 chunk
-Stimmt so, danke.	Keep the change, thanks.	a1.1 unit_05 chunk
+How much does the roll cost?	Was kostet das Brötchen? (singular)	a1.1 unit_05 chunk
+How much are the cookies?	Was kosten die Kekse? (plural verb)	a1.1 unit_05 chunk
+That comes to X euros.	Das macht dann X Euro.	a1.1 unit_05 chunk
+Keep the change, thanks.	Stimmt so, danke.	a1.1 unit_05 chunk
 Negative question — you disagree?	Doch! (+ positive fact)	a1.1 unit_05 pattern
-Hast du kein Auto? — you have one	Doch! Ich habe ein Auto.	a1.1 unit_05 chunk
+Negative question “Hast du kein Auto?” — you DO have one?	Doch! Ich habe ein Auto.	a1.1 unit_05 chunk
 viel vs viele	viel = uncountable · viele = countable	a1.1 unit_05 pattern
 Wie viel kostet das? vs Wie viele Würste?	How much (price/mass) vs how many (count)	a1.1 unit_05 pattern
 21 in German?	einundzwanzig (not einsund…)	a1.1 unit_05 chunk
 45 in German?	fünfundvierzig (ones before tens)	a1.1 unit_05 chunk
-Schönen Tag noch!	Have a nice (remaining) day! (formal goodbye)	a1.1 unit_05 chunk
+Have a nice	Schönen Tag noch! (remaining) day! (formal goodbye)	a1.1 unit_05 chunk
+Do you have apples?	Haben Sie Äpfel?	a1.1 unit_05 chunk
+I'll take these two … here.	Ich nehme die zwei … hier.	a1.1 unit_05 chunk
+Here, try!	Hier, probieren Sie mal! (formal)	a1.1 unit_05 chunk
+that one there / this one here?	das dort / das hier (gender: der/die/das da)	a1.1 unit_05 chunk
+That's too expensive.	Das ist zu teuer.	a1.1 unit_05 chunk
+much fruit / many sausages?	viel Obst / viele Würste	a1.1 unit_05 chunk
+What would you like?	Was möchten Sie gerne? (formal shop)	a1.1 unit_05 chunk
+How many … would you like?	Wie viele … hätten Sie gerne? (countable)	a1.1 unit_05 chunk
+Goodbye (formal).	Auf Wiedersehen!	a1.1 unit_05 chunk
+Formal goodbye / Have a nice day!	Auf Wiedersehen! / Schönen Tag noch!	a1.1 unit_05 chunk
+strawberry	die Erdbeere · die Erdbeeren	a1.1 unit_05 noun
+apple	der Apfel · die Äpfel	a1.1 unit_05 noun
+pear	die Birne · die Birnen	a1.1 unit_05 noun
+orange (fruit)	die Orange · die Orangen	a1.1 unit_05 noun
+banana	die Banane · die Bananen	a1.1 unit_05 noun
+cherry	die Kirsche · die Kirschen	a1.1 unit_05 noun
+fruit (collective)	das Obst · no plural (use die Früchte)	a1.1 unit_05 noun
+vegetables (collective)	das Gemüse · plural rare (die Gemüsesorten)	a1.1 unit_05 noun
+tomato	die Tomate · die Tomaten	a1.1 unit_05 noun
+potato	die Kartoffel · die Kartoffeln	a1.1 unit_05 noun
+cucumber	die Gurke · die Gurken	a1.1 unit_05 noun
+onion	die Zwiebel · die Zwiebeln	a1.1 unit_05 noun
+carrot	die Karotte · die Karotten (also die Möhre · die Möhren)	a1.1 unit_05 noun
+bean	die Bohne · die Bohnen	a1.1 unit_05 noun
+bread roll	das Brötchen · die Brötchen	a1.1 unit_05 noun
+cookie / biscuit	der Keks · die Kekse	a1.1 unit_05 noun
+sausage	die Wurst · die Würste	a1.1 unit_05 noun
+bread	das Brot · die Brote	a1.1 unit_05 noun
 
+Good day, what would you (form.) like?	Guten Tag, was möchten Sie gerne?	a1.1 unit_05 chunk
+I’d like to have strawberries.	Ich hätte gerne Erdbeeren.	a1.1 unit_05 chunk
+Of course we have apples.	Natürlich haben wir Äpfel.	a1.1 unit_05 chunk
+Which apples would you (form.) like (to have)?	Welche Äpfel hätten Sie gern?	a1.1 unit_05 chunk
+I'll take the two pears here.	Ich nehme die zwei Birnen hier.	a1.1 unit_05 chunk
+What do you want now?	Was wollen Sie jetzt?	a1.1 unit_05 chunk
+Delicious! Free for you today.	Lecker! Für Sie heute umsonst.	a1.1 unit_05 chunk
+That's very nice. Thank you very much.	Das ist aber nett. Vielen Dank.	a1.1 unit_05 chunk
+Good day, how can I help you (form.)?	Guten Tag, wie kann ich Ihnen helfen?	a1.1 unit_05 chunk
+Um, that one there, please.	Ähm, das dort, bitte.	a1.1 unit_05 chunk
+Don't you (form.) know whole-grain bread rolls?	Kennen Sie keine Vollkornbrötchen?	a1.1 unit_05 chunk
+Um, how much does the bread roll cost?	Ähm, was kostet das Brötchen?	a1.1 unit_05 chunk
+It costs 60 cents.	Es kostet 60 Cent.	a1.1 unit_05 chunk
+That makes 7.40 euros.	Das macht dann 7,40 Euro.	a1.1 unit_05 chunk
+I need a breast, please.	Ich brauche eine Brust, bitte.	a1.1 unit_05 chunk
+Ah, you (form.) mean chicken breast?	Ah, Sie meinen Hähnchenbrust?	a1.1 unit_05 chunk
+No, the Germans eat a lot of breast.	Nein, die Deutschen essen doch viel Brust.	a1.1 unit_05 chunk
+For example: “Brat” breast and “Curry” breast…	Zum Beispiel: “Brat”-Brust und “Curry”-Brust…	a1.1 unit_05 chunk
+Sorry, I don't speak German that well yet.	Tut mir leid, ich spreche noch nicht so gut Deutsch.	a1.1 unit_05 chunk
+How many sausages would you (form.) like?	Wie viele Würste hätten Sie gerne?	a1.1 unit_05 chunk
+Oh, that's many sausages.	Oh, das sind sehr viele Würste.	a1.1 unit_05 chunk
+I'll take those two there.	Ich nehme die da.	a1.1 unit_05 chunk
+Payment is at the cash register, okay?	Bezahlen an der Kasse, ne?	a1.1 unit_05 chunk
 # ── A1.1 Unit 6 — Bist du Programmierer? ──
-Ist der Platz noch frei?	Is this seat still free?	a1.1 unit_06 chunk
-Was machst du beruflich?	What do you do for a living?	a1.1 unit_06 chunk
-Was sind Sie von Beruf?	What's your profession? (formal)	a1.1 unit_06 chunk
+Is this seat still free?	Ist der Platz noch frei?	a1.1 unit_06 chunk
+What do you do for a living?	Was machst du beruflich?	a1.1 unit_06 chunk
+What's your profession?	Was sind Sie von Beruf? (formal)	a1.1 unit_06 chunk
 Ich bin Lehrerin. — article?	No article with the job title	a1.1 unit_06 pattern
 Ich arbeite als X.	I work as X.	a1.1 unit_06 pattern
 Ich arbeite bei Y.	I work at company Y.	a1.1 unit_06 pattern
-der Kellner → feminine?	die Kellnerin	a1.1 unit_06 noun
-der Arzt → feminine?	die Ärztin	a1.1 unit_06 noun
-Kellnerin → plural?	die Kellnerinnen (-in → -innen)	a1.1 unit_06 noun
 arbeiten — du?	du arbeitest (extra e after stem t)	a1.1 unit_06 verb
-Wer ist das?	Who's that?	a1.1 unit_06 chunk
+Who's that?	Wer ist das?	a1.1 unit_06 chunk
 Das ist meine Freundin. → pronoun?	Sie …	a1.1 unit_06 pattern
 Das ist mein Freund. → pronoun?	Er …	a1.1 unit_06 pattern
 Das sind meine Freunde. → pronoun?	Sie … (they)	a1.1 unit_06 pattern
-Freut mich.	Pleased to meet you.	a1.1 unit_06 chunk
+Pleased to meet you.	Freut mich.	a1.1 unit_06 chunk
 ihr vs Sie (you plural)	ihr = informal you-all · Sie = formal (1 or many)	a1.1 unit_06 pattern
-Woher kommt ihr?	Where do you (pl. informal) come from?	a1.1 unit_06 chunk
+Where do you	Woher kommt ihr? (pl. informal) come from?)	a1.1 unit_06 chunk
 sie vs Sie	sie = she/they · Sie = formal you (always capital)	a1.1 unit_06 pattern
+Are you a programmer?	Bist du Programmierer? (job = no article)	a1.1 unit_06 chunk
+I work as an engineer	Ich arbeite als Ingenieur. (als + job · no article)	a1.1 unit_06 chunk
+I work at BMW	Ich arbeite bei BMW. (bei + company)	a1.1 unit_06 chunk
+I'm a hairdresser	Ich bin Friseurin. (f). (sein + job · not eine Friseurin)	a1.1 unit_06 chunk
+What do you work as?	(Als) was arbeitest du?	a1.1 unit_06 chunk
+Where do you work?	Wo arbeitest du?	a1.1 unit_06 chunk
+I'll call back later.	Ich rufe später zurück.	a1.1 unit_06 chunk
+I'm thirsty.	Ich habe Durst.	a1.1 unit_06 chunk
+Where's the waitress?	Wo ist denn die Kellnerin? (-in job form)	a1.1 unit_06 chunk
+We're from Italy.	Wir kommen aus Italien.	a1.1 unit_06 chunk
+Oh, darling!	Oh, Liebling!	a1.1 unit_06 chunk
+Is this seat here still free?	Ist der Platz hier noch frei?	a1.1 unit_06 chunk
+This is my girlfriend / friend	Das ist meine Freundin … (f) …)	a1.1 unit_06 chunk
+Where do you two come from?	Woher kommt ihr zwei eigentlich? (ihr = informal plural)	a1.1 unit_06 chunk
+waiter	der Kellner · die Kellner · f: die Kellnerin · die Kellnerinnen	a1.1 unit_06 noun
+doctor	der Arzt · die Ärzte · f: die Ärztin · die Ärztinnen	a1.1 unit_06 noun
+cook / chef	der Koch · die Köche · f: die Köchin · die Köchinnen	a1.1 unit_06 noun
+teacher	der Lehrer · die Lehrer · f: die Lehrerin · die Lehrerinnen	a1.1 unit_06 noun
+programmer	der Programmierer · die Programmierer · f: die Programmiererin · die Programmiererinnen	a1.1 unit_06 noun
+engineer	der Ingenieur · die Ingenieure · f: die Ingenieurin · die Ingenieurinnen	a1.1 unit_06 noun
+hairdresser	der Friseur · die Friseure · f: die Friseurin · die Friseurinnen	a1.1 unit_06 noun
+Ah, Pamela, my darling.	Ah, Pamela, mein Schatz.	a1.1 unit_06 chunk
+For beautiful women always!	Für schöne Frauen doch immer!	a1.1 unit_06 chunk
+Women are much more important than work.	Frauen sind doch viel wichtiger als Arbeit.	a1.1 unit_06 chunk
+Where does such a pretty woman come from?	Woher kommt eine so hübsche Frau?	a1.1 unit_06 chunk
+Uh, no, I work as an engineer.	Äh, nein, ich arbeite als Ingenieur.	a1.1 unit_06 chunk
+Where is the waitress?	Wo ist denn die Kellnerin?	a1.1 unit_06 chunk
+I am a hairdresser in Australia.	In Australien bin ich Friseurin.	a1.1 unit_06 chunk
+Ah! You make people pretty?	Ah! Du machst Leute schön?	a1.1 unit_06 chunk
+The dogs? Why the dogs?	Die Hunde? Wieso die Hunde?	a1.1 unit_06 chunk
+My specialties are poodles and dachshunds.	Meine Spezialität sind Pudel und Dackel.	a1.1 unit_06 chunk
+I love dachshunds.	Ich liebe Dackel.	a1.1 unit_06 chunk
+I also have a dachshund.	Ich habe auch einen Dackel.	a1.1 unit_06 chunk
+Hi Anastasia, I'll call you back later.	Hallo Anastasia, ich rufe dich später zurück.	a1.1 unit_06 chunk
+I'm working right now.	Ich arbeite gerade.	a1.1 unit_06 chunk
+What are you already doing here?	Was machst du schon hier?	a1.1 unit_06 chunk
+Uh, that is my girlfriend Natalia.	Äh, das ist meine Freundin Natalia.	a1.1 unit_06 chunk
+My sunshine.	Mein Sonnenschein.	a1.1 unit_06 chunk
+Joana hardly speaks German.	Joana spricht kaum Deutsch.	a1.1 unit_06 chunk
+Where do you two come from, by the way?	Woher kommt ihr zwei eigentlich?	a1.1 unit_06 chunk
+Can't you hear that?	Hört man das nicht?	a1.1 unit_06 chunk
+Oh, hold on a second, my mom is calling right now.	Oh, warte kurz, meine Mutter ruft grad an.	a1.1 unit_06 chunk
+So Pietro, now you’ll get punched.	So Pietro, jetzt gibt's Prügel.	a1.1 unit_06 chunk

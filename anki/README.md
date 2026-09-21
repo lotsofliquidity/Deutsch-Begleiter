@@ -23,6 +23,10 @@ python3 validate_deck.py
 ## Rules of thumb
 
 - One fact per card.
-- Card **chunks** and **frames**, not whole drill ladders.
+- **Production direction:** English / situation cue on the **front**, German on the **back** (survival chunks, nouns, sayable frames). Mark *informal* / *formal* on the front when both exist.
+- Card **every Neue Chunk** (all ~10 per dialog from LÖSUNGEN), plus **frames** / particles — not whole drill ladders.
+- **Nouns:** one card each — front English/lemma, back `article + singular · article + plural`.
 - New cards come from `/ingest` (unit parse), `/teach` (paradigms), or `/drill` cold queue.
 - Teach tags look like `a1.1 teach possessives`.
+
+**Re-import note:** Anki matches on the **front**. Flipping direction creates new cards — delete or suspend the old German-front versions after import.
