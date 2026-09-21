@@ -669,16 +669,19 @@ Seed patterns not yet drilled from early units: [Hast du X dabei?](#hast-du-x-da
 
 ## Was machst du beruflich?
 
-**Frame:** `Was machst du beruflich?` / `Was machen Sie beruflich?` / `Was bist du von Beruf?`
+**Frame:** `Was machst du beruflich?` / `Was machen Sie beruflich?` / `Was sind Sie von Beruf?`
 **Meaning:** What do you do for a living?
 **Slot:** answer with *sein* / *arbeiten als* / *studieren* / *Ausbildung* / *Praktikum*
 **Register:** *du* casual · *Sie* / *von Beruf* formal
 
 **Instances**
 - Was machst du beruflich? → Ich bin Friseurin.
+- Was machen Sie beruflich? → Ich arbeite noch nicht. / Ich studiere. / Ich bin Studentin.
 - Was sind Sie von Beruf? → Ich bin Ingenieur.
-- Wo arbeitest du? → Ich arbeite bei Airbus.
-- Ich arbeite noch nicht. / Ich studiere. / Ich mache eine Ausbildung als …
+- (Als) was arbeitest du? → Ich arbeite als Kellner.
+- Wo arbeitest du? → Ich arbeite bei BMW.
+- Ich mache eine Ausbildung als/zur Friseurin.
+- Ich mache ein Praktikum bei Siemens.
 
 **Ladder**
 1. Was machst du beruflich?

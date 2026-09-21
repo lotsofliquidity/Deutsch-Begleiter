@@ -51,6 +51,10 @@ Booklet **Neue Chunks** (all 10 per dialog from LÖSUNGEN).
 | 9 | Ach ja, stimmt. | Oh yes, that's right. |
 | 10 | Viel Spaß in Berlin, Katie Känguru. | Have fun in Berlin, Katie Kangaroo. |
 
+**Also — phrase boxes:**
+- *Wie geht’s?* answers: *Mir geht’s gut, und dir?* · *Sehr gut.* · *Es geht. / Geht so.* · *Schlecht.*
+- *Nach dem Namen fragen:* *Wer bist du?* · *Wie ist dein Name?* · *Mein Name ist …* (alongside *Wie heißt du?*)
+
 ## Patterns introduced
 
 - [`Wie geht’s? / Gut, und dir?`](../../patterns/patterns.md#wie-gehts--gut-und-dir)

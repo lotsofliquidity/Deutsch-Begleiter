@@ -10,7 +10,7 @@ Re-importing updates cards that share the same front.
 
 ## Tags
 
-Every card: `a1.1 unit_NN` plus optional `chunk` / `verb` / `pattern`.
+Every card: `a1.1 unit_NN` plus optional `chunk` / `verb` / `pattern` / `noun`.
 
 Filter in Anki: `tag:unit_01` or `deck:German tag:a1.1`.
 
@@ -20,13 +20,27 @@ Filter in Anki: `tag:unit_01` or `deck:German tag:a1.1`.
 python3 validate_deck.py
 ```
 
-## Rules of thumb
+## Atomic cards (hard rules)
 
-- One fact per card.
-- **Production direction:** English / situation cue on the **front**, German on the **back** (survival chunks, nouns, sayable frames). Mark *informal* / *formal* on the front when both exist.
-- Card **every Neue Chunk** (all ~10 per dialog from LÖSUNGEN), plus **frames** / particles — not whole drill ladders.
-- **Nouns:** one card each — front English/lemma, back `article + singular · article + plural`.
-- New cards come from `/ingest` (unit parse), `/teach` (paradigms), or `/drill` cold queue.
+**One job per card.** If the back teaches two things, split it.
+
+| Tag | Front | Back |
+|---|---|---|
+| `chunk` | English / situation cue | German only |
+| `pattern` | One grammar question | One short rule |
+| `verb` | Lemma — person? | Form(s) only |
+| `noun` | English | `article + sg · article + pl` |
+
+- Register lives on the **front** (*informal* / *formal* / *with denn*) — never as a lesson on the back.
+- Never glue particle/grammar asides onto a chunk (`denn again`, `don't drop aus`, `job = no article`).
+- Alternatives (`Gern geschehen` vs `Keine Ursache`) = **two cards**, not `A / B` on one back.
+- Contrast pairs (`dir` vs `du`, `bar` vs `mit Karte`) = a `pattern` card; each sayable line stays its own `chunk`.
+- Neue Chunk dialog lines stay one English → one German. No teaching parentheses.
+
+## Also
+
+- Card **every Neue Chunk** and phrase-box bullet worth saying, plus frames / particles — not whole drill ladders.
+- New cards from `/ingest`, `/teach`, or `/drill` cold queue.
 - Teach tags look like `a1.1 teach possessives`.
 
-**Re-import note:** Anki matches on the **front**. Flipping direction creates new cards — delete or suspend the old German-front versions after import.
+**Re-import note:** Anki matches on the **front**. Changed fronts create new cards — suspend/delete the old ones after import.

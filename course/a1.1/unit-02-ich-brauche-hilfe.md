@@ -51,6 +51,10 @@ Booklet **Neue Chunks** (all 10 per dialog from LÖSUNGEN).
 | 9 | Ja, natürlich ist Romeo kastriert. | Yes, of course Romeo is castrated. |
 | 10 | Autsch, das tut doch weh. | Ouch, that hurts. |
 
+**Also — phrase boxes:**
+- *Sich bedanken:* *Danke sehr.* · *Herzlichen Dank!* · *Bitte sehr.* · *Gern. / Gerne.* (plus *Vielen Dank*, *gern geschehen*, *Keine Ursache* already carded)
+- *Sich verabschieden (informell):* *Bis bald!* · *Bis morgen!* · *Bis dann!* · *Tschau! / Ciao!*
+
 ## Patterns introduced
 
 - [`Guten Morgen/Tag/Abend`](../../patterns/patterns.md#guten-morgentagabend)

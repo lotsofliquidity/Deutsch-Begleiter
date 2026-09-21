@@ -36,6 +36,11 @@ Booklet **Neue Chunks** (all 10 per dialog from LÖSUNGEN).
 | 9 | Ich arbeite gerade. | I'm working right now. |
 | 10 | Was machst du schon hier? | What are you already doing here? |
 
+**Also — Asking about someone’s job (booklet):**
+- Q: *Was machst du beruflich?* · *Was machen Sie beruflich?* · *Was sind Sie von Beruf?* · *(Als) was arbeitest du?* · *Wo arbeitest du?*
+- A: *Ich bin …* · *Ich arbeite als …* · *Ich arbeite bei …* · *Ich arbeite noch nicht.* · *Ich studiere.* · *Ich bin Student/Studentin.* · *Ich mache eine Ausbildung als/zur …* · *Ich mache ein Praktikum bei …*
+- No article with the job: *Ich bin Lehrerin.* (not *eine Lehrerin*)
+
 ### Dialog 3 — Freut mich.
 
 | # | Chunk | Meaning |
@@ -51,6 +56,8 @@ Booklet **Neue Chunks** (all 10 per dialog from LÖSUNGEN).
 | 9 | Oh, warte kurz, meine Mutter ruft grad an. | Oh, hold on a second, my mom is calling right now. |
 | 10 | So Pietro, jetzt gibt's Prügel. | So Pietro, now you’ll get punched. |
 
+**Also:** *Schön, dich zu sehen.* (nice to see you — vs *Schön dich kennenzulernen* = first meeting)
+
 ## Patterns introduced
 
 - [`Ich bin X. / Ich arbeite als X.`](../../patterns/patterns.md#ich-bin-x--ich-arbeite-als-x) — new
@@ -62,7 +69,7 @@ Booklet **Neue Chunks** (all 10 per dialog from LÖSUNGEN).
 ## Drill ladder
 
 1. Ist der Platz noch frei?
-2. Was machst du beruflich? → Ich bin … / Ich arbeite als …
+2. Was machst du beruflich? → Ich bin … / Ich arbeite als … / Ich arbeite noch nicht.
 3. der Lehrer → die …? · Ich bin Lehrerin. *(no article)*
 4. Das ist meine Freundin. Sie heißt … / Das sind meine Freunde. Sie …
 5. Woher kommt ihr? vs Woher kommen Sie?

@@ -51,6 +51,10 @@ Booklet **Neue Chunks** (all 10 per dialog from LÖSUNGEN).
 | 9 | Ich nehme die da. | I'll take those two there. |
 | 10 | Bezahlen an der Kasse, ne? | Payment is at the cash register, okay? |
 
+**Also — phrase boxes:**
+- *Verkaufsgespräch:* *Ist das alles?* · *Was wünschen Sie?* · *Wie viele möchten Sie?*
+- *Sich verabschieden (formell):* *Schönen Tag noch!* · *Schönen Abend!* · *Schönes Wochenende!*
+
 ## Patterns introduced
 
 - [`Ich hätte gerne X.`](../../patterns/patterns.md#ich-hätte-gerne-x) — new

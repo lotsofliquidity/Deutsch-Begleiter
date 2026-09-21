@@ -47,9 +47,14 @@ Booklet **Neue Chunks** (all 10 per dialog from LÖSUNGEN).
 | 5 | Bis gleich. | See you soon. |
 | 6 | Die Apotheke ist geschlossen. | The pharmacy is closed. |
 | 7 | Ach ja, heute ist Sonntag. | Ah yes, today is Sunday. |
-| 8 | Der Schnaps hier, der hilft gegen Kopfschmerz. (The schnapps here helps against |  |
+| 8 | Der Schnaps hier, der hilft gegen Kopfschmerz. | The schnapps here helps against headache. |
 | 9 | Viel besser. | Much better. |
 | 10 | Morgen hat auch alles wieder offen. | Tomorrow everything will be open again. |
+
+**Also — phrase boxes:**
+- *Nach dem Namen fragen (formell):* *Wer sind Sie?* · *Wie ist Ihr Name?*
+- *Sich verabschieden (formell):* *Schönen Abend!* · *Schönes Wochenende!* (plus *Auf Wiedersehen*, *Schönen Tag noch*)
+- *Wörter im Hotel:* *die Rezeption* · *der Fahrstuhl* · *das Frühstück* · *das Passwort* · *das WLAN* · *einchecken / auschecken*
 
 ## Patterns introduced
 
