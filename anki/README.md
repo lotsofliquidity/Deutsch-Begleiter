@@ -60,12 +60,18 @@ python3 validate_deck.py
 - Never glue particle/grammar asides onto a chunk (`denn again`, `don't drop aus`, `job = no article`).
 - Alternatives (`Gern geschehen` vs `Keine Ursache`) = **two cards**, not `A / B` on one back.
 - Contrast pairs (`dir` vs `du`, `bar` vs `mit Karte`) = a `pattern` card; each sayable line stays its own `chunk`.
-- Neue Chunk dialog lines stay one English → one German. No teaching parentheses.
+- **Frame, not dialog line.** Back = the reusable chunk (`Steigen Sie ein.`), not the
+  full Neue Chunk sentence with comedy/names/glue. Unit `.md` still stores all 10
+  lines; Anki does not. Prefer `Ich komme aus X.` over a filled place name when
+  the slot is the point. Slot marker is **`X`** — especially when German sits on
+  both sides (`Ich steige am X ein.` · `Hier steht X drauf.`).
+- No teaching parentheses on chunk backs.
 
 `validate_deck.py` flags chunk fronts whose parentheses leak a word from the back.
 
 ## Also
 
-- Card **every Neue Chunk** and phrase-box bullet worth saying, plus frames / particles — not whole drill ladders.
+- Card **frames** from Neue Chunks + phrase-box bullets worth saying — not whole
+  dialog lines, not drill ladders.
 - New cards from `/ingest`, `/teach`, or `/drill` cold queue.
 - Teach tags look like `a1.1 teach possessives`.

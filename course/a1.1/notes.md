@@ -1,6 +1,6 @@
 # A1.1 notes
 
-Grammar spine from ingested units 1–6. Re-read in under 2 minutes before a drill.
+Grammar spine from ingested units 1–7. Re-read in under 2 minutes before a drill.
 
 ---
 
@@ -63,6 +63,40 @@ Grammar spine from ingested units 1–6. Re-read in under 2 minutes before a dri
 | er/sie/es **arbeitet** | Sie/sie arbeiten |
 
 Same insert-*e* pattern: stems in *t/d/n/m* — *finden* (*du findest*), *öffnen*, *atmen*, *zeichnen*, *antworten*.
+
+### können (U7) — modal · ich/er = kann
+
+| | |
+|---|---|
+| ich **kann** | wir können |
+| du kannst | ihr könnt |
+| er/sie/es **kann** | Sie/sie können |
+
+### wollen (U7) — modal · ich/er = will
+
+| | |
+|---|---|
+| ich **will** | wir wollen |
+| du willst | ihr wollt |
+| er/sie/es **will** | Sie/sie wollen |
+
+### möchten (U7) — polite “would like” · ich/er = möchte
+
+| | |
+|---|---|
+| ich **möchte** | wir möchten |
+| du möchtest | ihr möchtet |
+| er/sie/es **möchte** | Sie/sie möchten |
+
+*möchten* ≈ soft *wollen* (tickets, shops, cafés). Can stand alone: *Was möchten Sie?*
+
+### fahren (U7) — vowel change *a → ä* in du/er
+
+| | |
+|---|---|
+| ich fahre | wir fahren |
+| du **fährst** | ihr fahrt |
+| er/sie/es **fährt** | Sie/sie fahren |
 
 ---
 
@@ -220,6 +254,54 @@ Also marked in U1 dialog notes (flavour, not separate drills yet): *ja*, *doch* 
 - *ihr* = informal “you all” · **Sie** = formal one or many
 
 Introducing: *Das ist mein Freund. Er …* · *Das ist meine Freundin. Sie …* · *Das sind meine Freunde. Sie …*
+
+---
+
+## Modal sentence bracket (U7)
+
+Modal conjugated in position **1** (yes/no) or **2** (statement / W-question); **infinitive at the end**.
+
+| Type | Example |
+|---|---|
+| Statement | *Ich kann gut Deutsch sprechen.* |
+| W-question | *Wo kann ich eine Fahrkarte kaufen?* |
+| Yes/No | *Kann ich die S-Bahn nehmen?* |
+
+Same tip as other modals: *ich* = *er/sie/es* form · *wir* = *sie/Sie* form.
+
+---
+
+## Separable verbs (U7) — Bahn
+
+Prefix → **end** of the main clause; stem conjugates in the middle.
+
+| Infinitive | Example |
+|---|---|
+| einsteigen | *Ich steige ein.* |
+| aussteigen | *Steigen Sie aus?* |
+| umsteigen | *Wo steigst du um?* |
+| abfahren | *Die S-Bahn fährt am Bahnsteig 2 ab.* |
+| mitfahren | *Ich fahre bei dir mit.* |
+| zurückfahren | *Fahren Sie heute Abend zurück?* |
+| ankommen | *Wann kommen wir an?* |
+
+Also met: *ankommen, anrufen, anfangen, einkaufen, mitbringen, mitkommen, …*
+
+---
+
+## Station orientation (U7)
+
+| Form | Note |
+|---|---|
+| **hier / dort / da** | here / there |
+| **dahinten** | back there |
+| **da oben** | up there |
+| **dort drüben / da drüben** | over there (pointing) |
+| **dorthin / dahin** | (to) there — answers *Wohin?* |
+| **hin und zurück** | round trip · *einfach* / *nur hin* = one-way |
+| **aber** (particle) | unexpected flavour (*Das Wort ist aber lang!*) — not always “but” |
+
+Transport nouns: *die S-Bahn, die U-Bahn, der Bus, der Zug, die Straßenbahn, das Auto, das Fahrrad, das Flugzeug*
 
 ---
 

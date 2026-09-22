@@ -58,7 +58,15 @@ check booklet + `_LOESUNGEN` in `courses/`.
      - `verb` = forms only; `noun` = `article + sg · article + pl`.
      - Two acceptable replies → two cards, not `A / B` on one back.
      - Register / disambiguation on the **front**, never as a mini-lesson on the back.
-   - **Every Neue Chunk → one card** (all 10 per dialog). **Every phrase-box bullet worth saying → one card.** Also card frames, flagged particles, and high-value traps.
+   - **Card the frame, not the dialog line.** Unit file keeps all 10 Neue Chunks
+     verbatim; Anki gets the reusable bit only (`Wo kann ich … kaufen?`, not
+     *Und wo kann ich das Ticket kaufen?*). Skip comedy, names, and long glue.
+     Prefer a slot frame (`Ich komme aus X.`) over a filled example
+     (`… aus Australien`) when the slot is the point. Mid-phrase slots
+     (German before **and** after) use `X`: `Ich steige am X ein.` ·
+     `Wie viele X hätten Sie gerne?` End slots also use `X`: `Danke für X.`
+     One job per card — split stacked clauses (*einsteigen* ≠ *bis zum …*).
+   - **Every phrase-box bullet worth saying → one card.** Also card frames, flagged particles, and high-value traps.
    - **Unit noun lists → one card per noun**: English (or bare lemma) on front; back = `der/die/das X · die Y` (sg + pl together). Uncountables: note “no plural”.
    - Still skip full drill ladders and random dialog nouns not on the unit list
 7. Mark the unit ingested on **`courses/<level>/MAP.md`**.

@@ -2,7 +2,7 @@
 
 Source: [`A1-1-KOMPLETT.pdf`](A1-1-KOMPLETT.pdf) · answers: [`A1-1_LOESUNGEN_KOMPLETT.pdf`](A1-1_LOESUNGEN_KOMPLETT.pdf)
 
-**Ingested:** units 1–6 · **Not yet:** units 7–10
+**Ingested:** units 1–7 · **Not yet:** units 8–10
 
 Ask: `/ingest` · `/teach` · `/drill`
 
@@ -16,7 +16,7 @@ Ask: `/ingest` · `/teach` · `/drill`
 | 4 | Willkommen Frau Koch! | Im Hotel | ingested | 66–85 |
 | 5 | Sonst noch etwas? | Beim Einkaufen | ingested | 86–110 |
 | 6 | Bist du Programmierer? | Im Café | ingested | 111–134 |
-| 7 | Wo ist die S-Bahn? | Im Bahnhof | map only | 135– |
+| 7 | Wo ist die S-Bahn? | Im Bahnhof | ingested | 135–159 |
 | 8 | Was ist ein Rathaus? | In der Stadt | map only | — |
 | 9 | Was möchten Sie bestellen? | Im Restaurant | map only | — |
 | 10 | Ich suche eine WG. | Auf Wohnungssuche | map only | — |
@@ -71,11 +71,18 @@ Ask: `/ingest` · `/teach` · `/drill`
 | 2 Oh, Liebling! | asking about jobs | — |
 | 3 Freut mich. | introductions | personal pronouns, *sie/Sie*, *ihr/Sie* |
 
-## Units 7–10 (map only)
+## Unit 7 — Wo ist die S-Bahn?
+
+| Dialog | Themen | Grammatik |
+|---|---|---|
+| 1 Der Fahrkartenautomat | orientation (*Wo/Wohin*, *hier/dort*) | *können*, *wollen*, Satzklammer |
+| 2 Am Schalter | buying a ticket | *fahren*, *möchten* |
+| 3 Im Zug | means of transport | separable verbs |
+
+## Units 8–10 (map only)
 
 | Unit | Title | Setting | Highlights |
 |---|---|---|---|
-| 7 | Wo ist die S-Bahn? | Bahnhof | modals *können/wollen*, *fahren*, *möchten*, separable verbs |
 | 8 | Was ist ein Rathaus? | Stadt | directions, *wissen*, *nicht*, *man* |
 | 9 | Was möchten Sie bestellen? | Restaurant | accusative, *nehmen*, *essen* |
 | 10 | Ich suche eine WG. | Wohnung | time, weekdays, *am/um/Wann?*, verb position |

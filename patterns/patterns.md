@@ -9,7 +9,7 @@ Taught by `/ingest`. Drilled by `/drill`. Source PDFs: `courses/`.
 
 ---
 
-## Index — A1.1 units 1–6
+## Index — A1.1 units 1–7
 
 | Pattern | Frame | Met in |
 |---|---|---|
@@ -41,8 +41,12 @@ Taught by `/ingest`. Drilled by `/drill`. Source PDFs: `courses/`.
 | [Was machst du beruflich?](#was-machst-du-beruflich) | ask about job | A1.1 U6 |
 | [Das ist … / Er / Sie / Sie](#das-ist----er--sie--sie) | introduce + pronouns | A1.1 U6 |
 | [ihr vs Sie (plural you)](#ihr-vs-sie-plural-you) | informal pl vs formal | A1.1 U6 |
+| [Modalverb + Infinitiv am Ende](#modalverb--infinitiv-am-ende) | modal pos. 2 → infinitive end | A1.1 U7 |
+| [Wo ist / Ich suche / Wo finde ich X?](#wo-ist--ich-suche--wo-finde-ich-x) | ask / look for a place | A1.1 U7 |
+| [Wohin möchten Sie fahren?](#wohin-möchten-sie-fahren) | ticket destination | A1.1 U7 |
+| [Trennbare Verben (Bahn)](#trennbare-verben-bahn) | stem mid · prefix end | A1.1 U7 |
 
-Seed patterns not yet drilled from early units: [Hast du X dabei?](#hast-du-x-dabei) · [Wohin + Verb](#wohin--verb-der-bewegung) · [Modalverb + Infinitiv](#modalverb--infinitiv-am-ende)
+Seed patterns not yet drilled from early units: [Hast du X dabei?](#hast-du-x-dabei) · [Wohin + Verb](#wohin--verb-der-bewegung)
 
 ---
 
@@ -745,6 +749,120 @@ Seed patterns not yet drilled from early units: [Hast du X dabei?](#hast-du-x-da
 
 ---
 
+## Modalverb + Infinitiv am Ende
+
+**Frame:** `Ich <modal> … <infinitiv>.` · Q: `<Modal> … <infinitiv>?`
+**Meaning:** can / want (+ main verb at the end)
+**Slot:** modal (*kann/will/möchte…*) conjugated; second verb = bare infinitive at clause end
+**Register:** either (*können* ability/possibility · *wollen* want · *möchten* polite want)
+
+**Behind it:** Satzklammer — modal in position 1 (yes/no) or 2 (statement / W-question); infinitive last. Modal can stand alone when the verb is clear: *Kannst du Deutsch?* · *Wohin wollen Sie?*
+
+**Instances**
+- Ich kann gut Deutsch sprechen.
+- Wo kann ich eine Fahrkarte kaufen?
+- Ich will das Brandenburger Tor besuchen.
+- Wollen Sie eine Fahrkarte kaufen?
+- Kann ich die S-Bahn nehmen?
+
+**Ladder**
+1. Ich kann Deutsch sprechen.
+2. Wo kann ich das Ticket kaufen?
+3. Ich will … besuchen.
+4. Wollen Sie … kaufen?
+5. Kann ich die S-Bahn nehmen?
+6. Trap: *Ich kann sprechen gut Deutsch* (infinitive not at end)
+
+**Traps**
+- Putting the infinitive next to the modal (*~~Ich will besuchen Berlin.~~*)
+- Mixing *wollen* (blunt) and *möchten* (polite shop/ticket)
+
+**Meta:** A1.1 Unit 7 · Dialog 1 · added 2026-09-22
+
+---
+
+## Wo ist / Ich suche / Wo finde ich X?
+
+**Frame:** `Wo ist X?` / `Ich suche X.` / `Wo finde ich X?` → `Hier/Dort/Da … ist X.`
+**Meaning:** Where is …? / I’m looking for … / Where do I find …?
+**Slot:** X = place or thing (*S-Bahn*, *Fahrkartenautomat*)
+**Register:** either (station survival)
+
+**Behind it:** *hier* near you · *dort/da* farther · *dort drüben / da drüben* over there (pointing). *Wohin* = direction you’re going (*Dorthin / Dahin*).
+
+**Instances**
+- Wo ist die S-Bahn? / Ich suche die S-Bahn. / Wo finde ich die S-Bahn?
+- Hier ist die S-Bahn. / Dort / Da ist die S-Bahn. / Da drüben ist die S-Bahn.
+- Dahinten ist ein Fahrkartenautomat.
+- Wie komme ich dorthin?
+
+**Ladder**
+1. Wo ist die S-Bahn?
+2. Ich suche den Fahrkartenschalter.
+3. Dahinten ist ein Fahrkartenautomat.
+4. Wie komme ich dorthin?
+5. Trap: *Wo* when you mean *Wohin* (direction)
+
+**Meta:** A1.1 Unit 7 · Dialog 1 · added 2026-09-22
+
+---
+
+## Wohin möchten Sie fahren?
+
+**Frame:** `Wohin möchten Sie fahren?` → `Ich möchte nach/zu X (fahren).`
+**Meaning:** Where would you like to go? → I’d like to go to X.
+**Slot:** destination (*zum Alexanderplatz*, *nach Hamburg*)
+**Register:** polite counter/shop (*möchten* ≈ soft *wollen*)
+
+**Behind it:** Ticket talk: *einfach* vs *hin und zurück* · *Wann fährt … ab?* · *Wo fährt … ab?* → *Am Bahnsteig …*
+
+**Instances**
+- Guten Tag, ich hätte gern eine Fahrkarte.
+- Wohin möchten Sie fahren? — Ich möchte zum Alexanderplatz fahren.
+- Hin und zurück? — Ja, hin und zurück. / Ich fahre nur hin.
+- Wann fährt die nächste S-Bahn? — … in ca. 20 Minuten.
+- Wo fährt die S-Bahn ab? — Am Bahnsteig 2.
+
+**Ladder**
+1. Ich hätte gern eine Fahrkarte.
+2. Wohin möchten Sie fahren?
+3. Ich möchte zum Alexanderplatz.
+4. Hin und zurück?
+5. Wann fährt die nächste S-Bahn?
+6. Trap: *Ich will* at the counter when *möchte / hätte gern* fits better
+
+**Meta:** A1.1 Unit 7 · Dialog 2 · added 2026-09-22
+
+---
+
+## Trennbare Verben (Bahn)
+
+**Frame:** `Ich <stem> … <prefix>.` · Q: `<Stem> … <prefix>?`
+**Meaning:** separable prefix → end of the clause (main clause)
+**Slot:** *ein-/aus-/umsteigen* · *ab-/mit-/zurückfahren* · *ankommen*
+**Register:** either (train/bus talk)
+
+**Behind it:** Prefix separates from the conjugated core and sits at the end — same bracket idea as modals. Infinitive stays glued: *aussteigen*, *abfahren*.
+
+**Instances**
+- Ich steige am Alexanderplatz ein. / … aus.
+- Wo steigst du um?
+- Die S-Bahn fährt am Bahnsteig 2 ab.
+- Wann kommen wir an?
+- Bitte alle aussteigen!
+
+**Ladder**
+1. Ich steige ein.
+2. Steigen Sie aus.
+3. Wo steigst du um?
+4. Die S-Bahn fährt ab.
+5. Wann kommen wir an?
+6. Trap: *Ich einsteige* / *Die S-Bahn abfährt* in a main clause
+
+**Meta:** A1.1 Unit 7 · Dialog 3 · added 2026-09-22
+
+---
+
 ## Later seeds (not yet fully met)
 
 ### Hast du X dabei?
@@ -758,12 +876,7 @@ Seed patterns not yet drilled from early units: [Hast du X dabei?](#hast-du-x-da
 ### Wohin + Verb der Bewegung
 
 **Frame:** `Wohin <verb>st du?` → `Ich <verb> nach/in/zu X.`
-**Meta:** seed · Unit 7+ · *wohin* already met lightly in U3
-
-### Modalverb + Infinitiv am Ende
-
-**Frame:** `Ich <modal> … <infinitiv>.`
-**Meta:** seed · Unit 7 (*können/wollen*) · *wollen/möchten* appear in chunks earlier
+**Meta:** seed · met lightly U3/U7 (*wohin möchten Sie fahren*) — still expand with motion verbs
 
 ---
 
@@ -787,6 +900,10 @@ Seed patterns not yet drilled from early units: [Hast du X dabei?](#hast-du-x-da
 | job + article | Ich bin Lehrerin. | ~~Ich bin eine Lehrerin.~~ | no article with profession |
 | *ihr* vs *Sie* | Woher kommt ihr? | Woher kommen Sie? | informal pl vs formal |
 | *sie* vs *Sie* | sie = she/they | Sie = formal you | capital = formal |
+| modal word order | Ich kann Deutsch sprechen. | ~~Ich kann sprechen Deutsch.~~ | infinitive at end |
+| *du fährst* | vowel change *a→ä* | ~~du fahrst~~ | *fahren* irregular in du/er |
+| separable prefix | Ich steige aus. | ~~Ich aussteige.~~ | prefix to end in main clause |
+| *wollen* vs *möchten* | Ich will … | Ich möchte … | blunt vs polite want |
 
 ---
 
