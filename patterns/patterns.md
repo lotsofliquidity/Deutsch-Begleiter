@@ -9,7 +9,7 @@ Taught by `/ingest`. Drilled by `/drill`. Source PDFs: `courses/`.
 
 ---
 
-## Index — A1.1 units 1–7
+## Index — A1.1 units 1–10
 
 | Pattern | Frame | Met in |
 |---|---|---|
@@ -45,6 +45,17 @@ Taught by `/ingest`. Drilled by `/drill`. Source PDFs: `courses/`.
 | [Wo ist / Ich suche / Wo finde ich X?](#wo-ist--ich-suche--wo-finde-ich-x) | ask / look for a place | A1.1 U7 |
 | [Wohin möchten Sie fahren?](#wohin-möchten-sie-fahren) | ticket destination | A1.1 U7 |
 | [Trennbare Verben (Bahn)](#trennbare-verben-bahn) | stem mid · prefix end | A1.1 U7 |
+| [Wegbeschreibung](#wegbeschreibung) | directions + *zur/zum* | A1.1 U8 |
+| [nicht vs kein](#nicht-vs-kein) | verb/adjective vs noun | A1.1 U8 |
+| [Akkusativ der wird den](#akkusativ-der-wird-den) | masculine *der* → *den* | A1.1 U9 |
+| [Akkusativ einen und keinen](#akkusativ-einen-und-keinen) | masculine *ein/kein* → *einen/keinen* | A1.1 U9 |
+| [Was möchten Sie bestellen?](#was-möchten-sie-bestellen) | order food or a drink | A1.1 U9 |
+| [Hat es Ihnen geschmeckt?](#hat-es-ihnen-geschmeckt) | how did it taste? | A1.1 U9 |
+| [Zusammen oder getrennt?](#zusammen-oder-getrennt) | pay together or separate | A1.1 U9 |
+| [Wie spät ist es?](#wie-spät-ist-es) | ask and say the time | A1.1 U10 |
+| [am / um / in der Nacht](#am--um--in-der-nacht) | *Wann?* + day or clock | A1.1 U10 |
+| [Hast du Zeit?](#hast-du-zeit) | arrange to meet | A1.1 U10 |
+| [Verbposition](#verbposition) | verb stays in position 2 | A1.1 U10 |
 
 Seed patterns not yet drilled from early units: [Hast du X dabei?](#hast-du-x-dabei) · [Wohin + Verb](#wohin--verb-der-bewegung)
 
@@ -145,6 +156,7 @@ Seed patterns not yet drilled from early units: [Hast du X dabei?](#hast-du-x-da
 **Instances**
 - Sieht man das nicht?
 - Wie sagt man das auf Deutsch? *(same *man* — Unit 2 survival chunk)*
+- Man muss vorsichtig sein. / Hier muss man aufpassen. *(U8)*
 
 **Ladder**
 1. Sieht man das nicht?
@@ -863,6 +875,332 @@ Seed patterns not yet drilled from early units: [Hast du X dabei?](#hast-du-x-da
 
 ---
 
+## Wegbeschreibung
+
+**Frame:** `Wo ist X?` / `Wie komme ich zur/zum X?` → `Du gehst …` / `Sie gehen …`
+**Meaning:** ask the way → go straight / right / left / turn
+**Slot:** place (*die Post* → *zur* · *der Bahnhof* / *das Rathaus* → *zum*) · direction
+**Register:** *du* with peers · *Sie* with strangers
+
+**Behind it:** *suchen* takes accusative (*die Post* / *den Bahnhof*). *abbiegen* is separable: *Du biegst … ab.*
+
+**Instances**
+- Wo ist der Alexanderplatz? / Wo finde ich das Brandenburger Tor? / Ich suche den Bahnhof.
+- Wie komme ich zur Auguststraße? / Wie komme ich zum Bahnhof?
+- Du gehst geradeaus. / Du gehst nach rechts. / Du gehst nach links.
+- Du biegst die nächste Straße rechts ab. / Sie biegen die nächste Straße links ab.
+- Das ist in der Nähe. / Das ist nicht weit. / Das ist weit weg.
+- Ich bin nicht von hier.
+
+**Ladder**
+1. Wo ist X? / Ich suche X.
+2. Wie komme ich zur X? vs zum X?
+3. Du gehst geradeaus.
+4. Du gehst nach rechts / nach links.
+5. Du biegst die nächste Straße rechts ab.
+6. Das ist in der Nähe. / Das ist weit weg.
+7. Trap: *zum* with a feminine street · *Ich suche der Bahnhof*
+
+**Meta:** A1.1 Unit 8 · Dialog 1 · added 2026-09-25
+
+---
+
+## nicht vs kein
+
+**Frame:** `… nicht.` (verb / adjective) · `kein/keine` + noun
+**Meaning:** *nicht* negates the action or description · *kein* negates a noun
+**Slot:** verb/adjective vs noun
+**Register:** either
+
+**Behind it:** Booklet: *Ich arbeite nicht.* · *Das ist nicht weit.* vs *Ich habe keine Zeit.* · *Hier sind keine Geschäfte.*
+
+**Instances**
+- Nein, ich arbeite nicht.
+- Das Brandenburger Tor ist nicht weit.
+- Ich bin nicht von hier.
+- Nein, ich habe keine Zeit.
+- Nein, hier sind keine Geschäfte.
+
+**Ladder**
+1. Ich arbeite nicht.
+2. Berlin ist nicht weit weg.
+3. Ich habe keine Zeit.
+4. Hier sind keine Geschäfte.
+5. Trap: *Ich habe nicht Zeit* · *Ich arbeite kein*
+
+**Meta:** A1.1 Unit 8 · Dialog 1 · added 2026-09-25
+
+---
+
+## Akkusativ der wird den
+
+**Frame:** `Ich nehme den X.` (m) · `die X` (f) · `das X` (n)
+**Meaning:** as an object, masculine *der* becomes *den*
+**Slot:** the dish or thing you take, order, recommend, want
+**Register:** either
+
+**Behind it:** The subject stays nominative. Only masculine *der* → *den*. *die* and *das* stay.
+
+**Instances**
+- Ich nehme den Schweinebraten.
+- Ich nehme die Gemüsesuppe.
+- Katie nimmt das Sauerkraut.
+- Der Kellner empfiehlt den Schweinebraten.
+- Wir möchten die Speisekarte.
+- Ich möchte die Käsespätzle.
+
+**Ladder**
+1. Ich nehme den Schweinebraten.
+2. Ich nehme die Gemüsesuppe.
+3. Ich nehme das Sauerkraut.
+4. Er empfiehlt den Schweinebraten.
+5. Wir nehmen den Nachtisch.
+6. Nimmst du den Tomatensalat?
+7. Trap: *Ich nehme der Schweinebraten* · *den* with *Gemüsesuppe*
+
+**Meta:** A1.1 Unit 9 · Dialog 1 · added 2026-09-25
+
+---
+
+## Akkusativ einen und keinen
+
+**Frame:** `Ich nehme einen X.` / `Ich möchte keinen X.` (m) · *eine/keine* (f) · *ein/kein* (n) · *keine* (pl)
+**Meaning:** masculine *ein* → *einen*, *kein* → *keinen* as an object
+**Slot:** drink or food you order or refuse
+**Register:** either
+
+**Behind it:** Same masculine-only change as *der* → *den*. Spoken, the ending often drops: *Ich hab’ kein’ Hunger.* = *Ich habe keinen Hunger.*
+
+**Instances**
+- Ich trinke einen Weißwein. / keinen Weißwein.
+- Sie nimmt eine Apfelschorle. / keine Apfelschorle.
+- Katie nimmt ein Bier. / kein Bier.
+- Wir haben keine Getränke.
+- Nein, ich möchte keinen Kaffee.
+- Nein, wir haben keinen Platz.
+
+**Ladder**
+1. Ich nehme einen Weißwein.
+2. Ich möchte keinen Kaffee.
+3. Ich möchte keine Apfelschorle.
+4. Sie nimmt kein Bier.
+5. Wir haben keine Suppen.
+6. Wir haben momentan keinen Weißwein.
+7. Trap: *keinen* with neuter *Bier* · *kein* with masculine *Kaffee*
+
+**Meta:** A1.1 Unit 9 · Dialog 2 · added 2026-09-25
+
+---
+
+## Was möchten Sie bestellen?
+
+**Frame:** `Was möchten Sie bestellen?` / `Was möchten Sie trinken?` → `Ich nehme …`
+**Meaning:** what would you like to order / drink? → I’ll take …
+**Slot:** dish or drink
+**Register:** formal with the waiter · *möchten* polite
+
+**Behind it:** Table: *Haben Sie einen Platz für zwei Personen?* · *Hier ist die Speisekarte.* *Was für X haben Sie?* asks the kind.
+
+**Instances**
+- Guten Abend! Haben Sie einen Platz für zwei Personen, bitte?
+- Ja, natürlich. Gleich hier drüben.
+- Was möchten Sie bestellen? — Ich nehme den Schweinebraten.
+- Was möchten Sie trinken? — Ich nehme einen Weißwein.
+- Möchten Sie auch etwas trinken?
+- Ich kann die Käsespätzle empfehlen. / Kommt sofort.
+
+**Ladder**
+1. Haben Sie einen Platz für zwei Personen?
+2. Was möchten Sie bestellen?
+3. Ich nehme den Schweinebraten.
+4. Was möchten Sie trinken?
+5. Ich nehme einen Weißwein.
+6. Was für Bier haben Sie?
+7. Trap: *Ich nehme der Schweinebraten* · blunt *ich will* to the waiter
+
+**Meta:** A1.1 Unit 9 · Dialog 1–2 · added 2026-09-25
+
+---
+
+## Hat es Ihnen geschmeckt?
+
+**Frame:** `Hat es Ihnen geschmeckt?` → `Ja, es hat mir geschmeckt.` / `Es war lecker.`
+**Meaning:** did you like the meal? → it tasted good / it was delicious
+**Slot:** how it tasted (*sehr gut* · *gut* · *nicht so gut* · *nicht*)
+**Register:** *Hat es Ihnen geschmeckt?* formal · *Bist du satt?* informal
+
+**Behind it:** Booklet: past forms get explained at the next level. Present taste: *Das schmeckt …* · *Das ist lecker.*
+
+**Instances**
+- Das schmeckt sehr gut. / Das schmeckt nicht.
+- Das ist lecker. / Die sind so lecker.
+- Hat es Ihnen geschmeckt? — Ja, sehr gut. Danke.
+- Ja, es hat mir geschmeckt. / Es war lecker.
+- Nein, es hat nicht geschmeckt.
+- Na, bist du satt? — Ja, das war lecker.
+
+**Ladder**
+1. Das schmeckt sehr gut.
+2. Das ist lecker.
+3. Hat es Ihnen geschmeckt?
+4. Ja, es hat mir geschmeckt.
+5. Nein, es hat nicht geschmeckt.
+6. Bist du satt?
+7. Trap: answering *Hat es Ihnen geschmeckt?* with only *Ja* and no taste word
+
+**Meta:** A1.1 Unit 9 · Dialog 3 · added 2026-09-25
+
+---
+
+## Zusammen oder getrennt?
+
+**Frame:** `Möchten Sie zusammen oder getrennt zahlen?` → `Wir zahlen zusammen.` / `Wir zahlen getrennt.`
+**Meaning:** pay together or separately
+**Slot:** *zusammen* · *getrennt*
+**Register:** formal waiter question · you answer in the *wir* or just name it
+
+**Behind it:** *Die Rechnung, bitte.* · *Guten Appetit!* before the meal. *Stimmt so* (keep the change) is already U5.
+
+**Instances**
+- Guten Appetit!
+- Hat alles gepasst?
+- Die Rechnung, bitte.
+- Möchten Sie zusammen oder getrennt zahlen?
+- Wir zahlen zusammen.
+- Wir zahlen getrennt.
+
+**Ladder**
+1. Guten Appetit!
+2. Hat alles gepasst?
+3. Die Rechnung, bitte.
+4. Möchten Sie zusammen oder getrennt zahlen?
+5. Wir zahlen zusammen.
+6. Wir zahlen getrennt.
+7. Trap: *Ich zahle getrennt* when the question asked *Sie* and the group pays *wir*
+
+**Meta:** A1.1 Unit 9 · Dialog 3 · added 2026-09-25
+
+---
+
+## Wie spät ist es?
+
+**Frame:** `Wie spät ist es?` / `Wie viel Uhr ist es?` → `Es ist …`
+**Meaning:** What time is it?
+**Slot:** private 12-hour time, or official *Uhr*
+**Register:** either
+
+**Behind it:** Private time may drop *Uhr* (*Es ist sechs.*). *halb* + hour = 30 minutes **before** that hour (*halb sieben* = 6:30). *Viertel vor/nach*, *zwanzig vor/nach*, *kurz vor/nach*. *Es ist eins.* / *Es ist ein Uhr.* Sometimes *Es ist um sechs.* Never *Es ist um sechs Uhr.* Official speech: *18 Uhr 30*, *sechzehn Uhr.*
+
+**Instances**
+- Wie spät ist es? — Es ist sechs.
+- Es ist halb sieben. / Viertel vor sieben.
+- zwanzig nach zehn. / zwanzig vor fünf.
+- Wie viel Uhr ist es? — Es ist sechzehn Uhr.
+- Eine Stunde hat 60 Minuten.
+
+**Ladder**
+1. Wie spät ist es?
+2. Es ist sechs.
+3. Es ist halb sieben.
+4. Es ist Viertel vor sieben.
+5. Wie viel Uhr ist es?
+6. Es ist sechzehn Uhr.
+7. Trap: *halb sechs* for 6:30 · *Es ist um sechs Uhr*
+
+**Meta:** A1.1 Unit 10 · Dialog 1 · added 2026-09-26
+
+---
+
+## am / um / in der Nacht
+
+**Frame:** `Wann …?` → `am` + weekday/daytime · `um` + clock · `in der Nacht`
+**Meaning:** on a day or part of day · at a clock time · at night
+**Slot:** *Dienstag* / *Abend* / *sieben* / *Nacht*
+**Register:** either
+
+**Behind it:** *Um wie viel Uhr?* also asks the clock and answers with *um*. *Am Montagmorgen* can drop *am*. Weekday + daytime can be one word (*Dienstagabend*). *Dienstag abends* = on Tuesday evenings.
+
+**Instances**
+- Wann kann ich das Zimmer sehen? — Am Dienstag. / Um sieben.
+- Um wie viel Uhr? — Um 7 Uhr.
+- Am Abend geht Katie mit Jonas essen.
+- Am Sonntag sind die Geschäfte geschlossen.
+- Am Wochenende arbeiten viele Leute nicht.
+- In der Nacht fährt der Zug.
+
+**Ladder**
+1. Am Dienstag.
+2. Am Abend.
+3. Um sieben.
+4. Um wie viel Uhr?
+5. In der Nacht.
+6. Am Montagmorgen.
+7. Trap: *am Nacht* · *um Abend*
+
+**Meta:** A1.1 Unit 10 · Dialog 2 · added 2026-09-26
+
+---
+
+## Hast du Zeit?
+
+**Frame:** `Hast du Zeit?` / `Kannst du um X?` / `Geht es auch …?`
+**Meaning:** Are you free? → yes I have time / no / that works
+**Slot:** *heute* · *morgen* · *am Wochenende* · a clock time
+**Register:** informal arrange-to-meet · *Sie* if you are the one calling a listing
+
+**Behind it:** *Ja, ich habe Zeit.* / *Nein, ich habe leider keine Zeit.* *Ja, kann ich.* / *Nein, kann ich nicht.* *Ja, das geht.* / *Das passt.* / *Nein, das geht nicht.* *Ich habe keine Zeit.* (U8) is the short form.
+
+**Instances**
+- Hast du heute Nachmittag Zeit?
+- Hast du morgen Zeit? — Ja, ich habe Zeit.
+- Nein, heute habe ich keine Zeit.
+- Kannst du um 19 Uhr? — Nein, um 19 Uhr kann ich nicht.
+- Geht es auch morgen? — Ja, das geht. / Das passt.
+- Ich habe am Montag um 20 Uhr Zeit.
+
+**Ladder**
+1. Hast du morgen Zeit?
+2. Ja, ich habe Zeit.
+3. Nein, heute habe ich keine Zeit.
+4. Kannst du um 19 Uhr?
+5. Geht es auch morgen?
+6. Das passt.
+7. Trap: *Ich habe nicht Zeit*
+
+**Meta:** A1.1 Unit 10 · Dialog 3 · added 2026-09-26
+
+---
+
+## Verbposition
+
+**Frame:** `<time / leider> <verb> <subject> …`
+**Meaning:** the verb stays in position 2 when time or *leider* is first
+**Slot:** *heute* · *am Nachmittag* · *um 19 Uhr* · *leider*
+**Register:** either
+
+**Behind it:** Same sentence, three starts: *Ich habe heute leider keine Zeit.* · *Heute habe ich leider keine Zeit.* · *Leider habe ich heute keine Zeit.*
+
+**Instances**
+- Heute habe ich keine Zeit.
+- Am Nachmittag lernt ihr Deutsch.
+- Leider kann ich nicht kommen.
+- Um 19 Uhr ist die Besichtigung.
+- Um 10 Uhr fährt die S-Bahn ab.
+- Übermorgen sind wir in Hamburg.
+
+**Ladder**
+1. Ich habe heute keine Zeit.
+2. Heute habe ich keine Zeit.
+3. Leider kann ich nicht kommen.
+4. Um 19 Uhr ist die Besichtigung.
+5. Am Morgen fährst du mit der S-Bahn.
+6. Übermorgen sind wir in Hamburg.
+7. Trap: *Heute ich habe keine Zeit*
+
+**Meta:** A1.1 Unit 10 · Dialog 3 · added 2026-09-26
+
+---
+
 ## Later seeds (not yet fully met)
 
 ### Hast du X dabei?
@@ -904,6 +1242,15 @@ Seed patterns not yet drilled from early units: [Hast du X dabei?](#hast-du-x-da
 | *du fährst* | vowel change *a→ä* | ~~du fahrst~~ | *fahren* irregular in du/er |
 | separable prefix | Ich steige aus. | ~~Ich aussteige.~~ | prefix to end in main clause |
 | *wollen* vs *möchten* | Ich will … | Ich möchte … | blunt vs polite want |
+| *nicht* vs *kein* | Ich arbeite nicht. | Ich habe keine Zeit. | verb/adj vs noun |
+| *zur* vs *zum* | zur Auguststraße (f) | zum Bahnhof (m) | how-do-I-get-to |
+| accusative *der* | den Schweinebraten | ~~der Schweinebraten~~ as object | only masculine definite changes |
+| *keinen* vs *kein* | keinen Kaffee (m) | kein Bier (n) | accusative negative, masculine only |
+| *du nimmst* | du nimmst | ~~du nimmt~~ | *nehmen* irregular in du/er |
+| *du isst* | du isst | ~~du esst~~ | *essen* irregular; *ihr esst* |
+| *halb* + hour | halb sieben = 6:30 | ~~halb sechs~~ for 6:30 | *halb* names the next hour |
+| *in der Nacht* | in der Nacht | ~~am Nacht~~ | night is *in*, not *am* |
+| verb position 2 | Heute habe ich Zeit. | ~~Heute ich habe Zeit.~~ | time first, subject after the verb |
 
 ---
 

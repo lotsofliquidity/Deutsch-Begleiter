@@ -410,3 +410,340 @@ to bring along	mitbringen	a1.1 unit_07 verb
 to come along	mitkommen	a1.1 unit_07 verb
 Always looking for X.	auf der Suche nach X	a1.1 unit_07 chunk
 It says X on it.	Hier steht X drauf.	a1.1 unit_07 chunk
+# ── A1.1 Unit 8 — Was ist ein Rathaus? ──
+Are you from here? (informal)	Bist du von hier?	a1.1 unit_08 chunk
+What do you want to know?	Was möchtest du wissen?	a1.1 unit_08 chunk
+I'm looking for X.	Ich suche X.	a1.1 unit_08 chunk
+I'm looking for the post office.	Ich suche die Post.	a1.1 unit_08 chunk
+I'm looking for the station.	Ich suche den Bahnhof.	a1.1 unit_08 chunk
+That's not far.	Das ist nicht weit.	a1.1 unit_08 chunk
+Where is X?	Wo ist X?	a1.1 unit_08 chunk
+Where can I find X?	Wo finde ich X?	a1.1 unit_08 chunk
+How do I get to X? (masculine or neuter)	Wie komme ich zum X?	a1.1 unit_08 chunk
+Go straight ahead. (informal)	Du gehst geradeaus.	a1.1 unit_08 chunk
+Go straight ahead. (formal)	Sie gehen geradeaus.	a1.1 unit_08 chunk
+Go right. (informal)	Du gehst nach rechts.	a1.1 unit_08 chunk
+Go right. (formal)	Sie gehen nach rechts.	a1.1 unit_08 chunk
+Go left. (informal)	Du gehst nach links.	a1.1 unit_08 chunk
+Go left. (formal)	Sie gehen nach links.	a1.1 unit_08 chunk
+Turn right at the next street. (informal)	Du biegst die nächste Straße rechts ab.	a1.1 unit_08 chunk
+Turn left at the next street. (informal)	Du biegst die nächste Straße links ab.	a1.1 unit_08 chunk
+Turn right at the next street. (formal)	Sie biegen die nächste Straße rechts ab.	a1.1 unit_08 chunk
+Turn left at the next street. (formal)	Sie biegen die nächste Straße links ab.	a1.1 unit_08 chunk
+That's nearby.	Das ist in der Nähe.	a1.1 unit_08 chunk
+That's far away.	Das ist weit weg.	a1.1 unit_08 chunk
+I'm not from here.	Ich bin nicht von hier.	a1.1 unit_08 chunk
+I don't know that.	Das weiß ich nicht.	a1.1 unit_08 chunk
+Thanks anyway.	Trotzdem danke.	a1.1 unit_08 chunk
+What a pity.	Schade.	a1.1 unit_08 chunk
+Do you know where X is? (informal)	Weißt du, wo X ist?	a1.1 unit_08 chunk
+I'm not working.	Ich arbeite nicht.	a1.1 unit_08 chunk
+I don't have time.	Ich habe keine Zeit.	a1.1 unit_08 chunk
+There are no shops here.	Hier sind keine Geschäfte.	a1.1 unit_08 chunk
+nicht vs kein?	nicht = verb/adjective · kein = noun	a1.1 unit_08 pattern
+zur vs zum?	zur + feminine · zum + masculine/neuter	a1.1 unit_08 pattern
+wissen — ich / er?	weiß	a1.1 unit_08 verb
+wissen — du?	du weißt	a1.1 unit_08 verb
+wissen — ihr?	ihr wisst	a1.1 unit_08 verb
+wissen — wir / Sie?	wissen	a1.1 unit_08 verb
+masculine thing → pronoun?	er	a1.1 unit_08 pattern
+neuter thing → pronoun?	es	a1.1 unit_08 pattern
+feminine thing → pronoun?	sie	a1.1 unit_08 pattern
+What is that? (curious)	Was ist denn das?	a1.1 unit_08 chunk
+You could say that.	Kann man so sagen.	a1.1 unit_08 chunk
+Let's keep going.	Weiter geht's.	a1.1 unit_08 chunk
+for free	umsonst	a1.1 unit_08 chunk
+Come with me. (informal)	Komm mit.	a1.1 unit_08 chunk
+I have all day.	Ich habe den ganzen Tag Zeit.	a1.1 unit_08 chunk
+That would be nice.	Das wäre nett.	a1.1 unit_08 chunk
+Here we are.	Hier sind wir.	a1.1 unit_08 chunk
+Watch out!	Vorsicht!	a1.1 unit_08 chunk
+Attention! (sign / warning)	Achtung!	a1.1 unit_08 chunk
+Out of the way.	Aus dem Weg.	a1.1 unit_08 chunk
+This is a bike lane.	Das ist ein Fahrradweg.	a1.1 unit_08 chunk
+You have to be careful here.	Hier muss man aufpassen.	a1.1 unit_08 chunk
+Are you hungry?	Hast du Hunger?	a1.1 unit_08 chunk
+My treat. (informal)	Ich lad' dich ein.	a1.1 unit_08 chunk
+Yes, I am. (confirming)	Ja, schon.	a1.1 unit_08 chunk
+Really?	Wirklich?	a1.1 unit_08 chunk
+tower	der Turm · die Türme	a1.1 unit_08 noun
+monument	das Denkmal · die Denkmäler	a1.1 unit_08 noun
+church	die Kirche · die Kirchen	a1.1 unit_08 noun
+cathedral	der Dom · die Dome	a1.1 unit_08 noun
+museum	das Museum · die Museen	a1.1 unit_08 noun
+town hall	das Rathaus · die Rathäuser	a1.1 unit_08 noun
+gate	das Tor · die Tore	a1.1 unit_08 noun
+sight / attraction	die Sehenswürdigkeit · die Sehenswürdigkeiten	a1.1 unit_08 noun
+city	die Stadt · die Städte	a1.1 unit_08 noun
+building	das Gebäude · die Gebäude	a1.1 unit_08 noun
+TV tower	der Fernsehturm · die Fernsehtürme	a1.1 unit_08 noun
+city tour	die Stadtführung · die Stadtführungen	a1.1 unit_08 noun
+mayor	der Bürgermeister · die Bürgermeister	a1.1 unit_08 noun
+street	die Straße · die Straßen	a1.1 unit_08 noun
+post office	die Post · no plural	a1.1 unit_08 noun
+bike lane	der Fahrradweg · die Fahrradwege	a1.1 unit_08 noun
+footpath	der Fußgängerweg · die Fußgängerwege	a1.1 unit_08 noun
+pedestrian	der Fußgänger · die Fußgänger	a1.1 unit_08 noun
+cyclist	der Radfahrer · die Radfahrer	a1.1 unit_08 noun
+traffic light	die Ampel · die Ampeln	a1.1 unit_08 noun
+road sign	das Verkehrsschild · die Verkehrsschilder	a1.1 unit_08 noun
+# ── A1.1 Unit 9 — Was möchten Sie bestellen? ──
+Good evening!	Guten Abend!	a1.1 unit_09 chunk
+Do you have a table for two? (formal)	Haben Sie einen Platz für zwei Personen, bitte?	a1.1 unit_09 chunk
+Yes, of course.	Ja, natürlich.	a1.1 unit_09 chunk
+Right over here.	Gleich hier drüben.	a1.1 unit_09 chunk
+Here is the menu.	Hier ist die Speisekarte.	a1.1 unit_09 chunk
+I'd like to try something typically German.	Ich möchte etwas typisch Deutsches probieren.	a1.1 unit_09 chunk
+I'll take X. (ordering)	Ich nehme X.	a1.1 unit_09 chunk
+I'm a vegetarian. (masculine)	Ich bin Vegetarier.	a1.1 unit_09 chunk
+I can recommend X.	Ich kann X empfehlen.	a1.1 unit_09 chunk
+They're so delicious.	Die sind so lecker.	a1.1 unit_09 chunk
+Coming right up.	Kommt sofort.	a1.1 unit_09 chunk
+Would you like something to drink too? (formal)	Möchten Sie auch etwas trinken?	a1.1 unit_09 chunk
+We don't have X at the moment. (masculine)	Wir haben momentan keinen X.	a1.1 unit_09 chunk
+What kind of X do you have? (formal)	Was für X haben Sie?	a1.1 unit_09 chunk
+I'd like to try that.	Das möchte ich mal probieren.	a1.1 unit_09 chunk
+I'll take a non-alcoholic beer.	Ich nehme ein alkoholfreies Bier.	a1.1 unit_09 chunk
+For you, always.	Für dich immer.	a1.1 unit_09 chunk
+You didn't have to do that.	Das wär' doch nicht nötig gewesen.	a1.1 unit_09 chunk
+Cheers!	Prost!	a1.1 unit_09 chunk
+To us!	Auf uns!	a1.1 unit_09 chunk
+Thank you very much for X.	Vielen Dank für X.	a1.1 unit_09 chunk
+Do you want an appetizer? (formal)	Nehmen Sie eine Vorspeise?	a1.1 unit_09 chunk
+What would you like to order? (formal)	Was möchten Sie bestellen?	a1.1 unit_09 chunk
+What would you like to drink? (formal)	Was möchten Sie trinken?	a1.1 unit_09 chunk
+We'd like the menu.	Wir möchten die Speisekarte.	a1.1 unit_09 chunk
+He recommends X. (masculine)	Er empfiehlt den X.	a1.1 unit_09 chunk
+Would you like an apple spritzer? (informal)	Möchtest du eine Apfelschorle?	a1.1 unit_09 chunk
+No, I don't want an apple spritzer.	Nein, ich möchte keine Apfelschorle.	a1.1 unit_09 chunk
+No, we don't have a table.	Nein, wir haben keinen Platz.	a1.1 unit_09 chunk
+Would you like a coffee? (formal)	Möchten Sie einen Kaffee?	a1.1 unit_09 chunk
+No, I don't want a coffee.	Nein, ich möchte keinen Kaffee.	a1.1 unit_09 chunk
+Are you eating a salad? (formal)	Essen Sie einen Salat?	a1.1 unit_09 chunk
+No, I'm not eating a salad.	Nein, ich esse keinen Salat.	a1.1 unit_09 chunk
+Do you have soups? (formal)	Haben Sie Suppen?	a1.1 unit_09 chunk
+No, we don't have soups.	Nein, wir haben keine Suppen.	a1.1 unit_09 chunk
+I'm not hungry. (spoken)	Ich hab' kein' Hunger.	a1.1 unit_09 chunk
+Bon appétit!	Guten Appetit!	a1.1 unit_09 chunk
+Could you pass me X? (informal)	Magst du mir X rüberreichen?	a1.1 unit_09 chunk
+Thanks, likewise.	Danke gleichfalls.	a1.1 unit_09 chunk
+Are you full? (informal)	Bist du satt?	a1.1 unit_09 chunk
+That looks good.	Das sieht gut aus!	a1.1 unit_09 chunk
+Was everything alright?	Hat alles gepasst?	a1.1 unit_09 chunk
+The bill, please.	Die Rechnung, bitte.	a1.1 unit_09 chunk
+Do you want to pay together or separately? (formal)	Möchten Sie zusammen oder getrennt zahlen?	a1.1 unit_09 chunk
+It was nice to meet you.	War schön, dich kennenzulernen.	a1.1 unit_09 chunk
+That tastes very good.	Das schmeckt sehr gut.	a1.1 unit_09 chunk
+That doesn't taste good.	Das schmeckt nicht.	a1.1 unit_09 chunk
+That's delicious.	Das ist lecker.	a1.1 unit_09 chunk
+Did you like the meal? (formal)	Hat es Ihnen geschmeckt?	a1.1 unit_09 chunk
+Yes, it tasted good to me.	Ja, es hat mir geschmeckt.	a1.1 unit_09 chunk
+It was delicious.	Es war lecker.	a1.1 unit_09 chunk
+Yes, very good. Thanks.	Ja, sehr gut. Danke.	a1.1 unit_09 chunk
+No, it didn't taste good.	Nein, es hat nicht geschmeckt.	a1.1 unit_09 chunk
+We'll pay together.	Wir zahlen zusammen.	a1.1 unit_09 chunk
+We'll pay separately.	Wir zahlen getrennt.	a1.1 unit_09 chunk
+Would you like a dessert too? (formal)	Möchten Sie noch einen Nachtisch?	a1.1 unit_09 chunk
+No thanks.	Nein Danke.	a1.1 unit_09 chunk
+Yes, another ice cream, please.	Ja, noch ein Eis, bitte.	a1.1 unit_09 chunk
+There's still a free table over here.	Ja, hier drüben ist noch was frei.	a1.1 unit_09 chunk
+We don't have a table anymore.	Nein, wir haben keinen Platz mehr.	a1.1 unit_09 chunk
+something good	etwas Gutes	a1.1 unit_09 chunk
+something vegetarian	etwas Vegetarisches	a1.1 unit_09 chunk
+Accusative — masculine definite?	der → den	a1.1 unit_09 pattern
+Accusative — feminine / neuter definite?	die / das (unchanged)	a1.1 unit_09 pattern
+Accusative — masculine indefinite?	ein → einen	a1.1 unit_09 pattern
+Accusative — masculine negative?	kein → keinen	a1.1 unit_09 pattern
+After etwas, what happens to the adjective?	capital noun ending in -es	a1.1 unit_09 pattern
+was vs etwas?	was = etwas	a1.1 unit_09 pattern
+Spoken ending you may not hear?	kein' = keinen	a1.1 unit_09 pattern
+nehmen — ich?	ich nehme	a1.1 unit_09 verb
+nehmen — du / er?	du nimmst · er/sie/es nimmt	a1.1 unit_09 verb
+nehmen — ihr?	ihr nehmt	a1.1 unit_09 verb
+nehmen — wir / Sie?	nehmen	a1.1 unit_09 verb
+essen — ich?	ich esse	a1.1 unit_09 verb
+essen — du / er?	du isst · er/sie/es isst	a1.1 unit_09 verb
+essen — ihr?	ihr esst	a1.1 unit_09 verb
+essen — wir / Sie?	essen	a1.1 unit_09 verb
+empfehlen — ich / er?	ich empfehle · er/sie/es empfiehlt	a1.1 unit_09 verb
+menu	die Speisekarte	a1.1 unit_09 noun
+dish	das Gericht · die Gerichte	a1.1 unit_09 noun
+appetizer	die Vorspeise · die Vorspeisen	a1.1 unit_09 noun
+dessert	das Dessert · die Desserts	a1.1 unit_09 noun
+dessert course	die Nachspeise · die Nachspeisen	a1.1 unit_09 noun
+dessert (late in the meal)	der Nachtisch · die Nachtische	a1.1 unit_09 noun
+roast pork	der Schweinebraten	a1.1 unit_09 noun
+vegetable soup	die Gemüsesuppe	a1.1 unit_09 noun
+cheese spaetzle	die Käsespätzle	a1.1 unit_09 noun
+sauerkraut	das Sauerkraut	a1.1 unit_09 noun
+tomato salad	der Tomatensalat	a1.1 unit_09 noun
+coleslaw	der Krautsalat	a1.1 unit_09 noun
+salad	der Salat	a1.1 unit_09 noun
+white wine	der Weißwein	a1.1 unit_09 noun
+beer	das Bier	a1.1 unit_09 noun
+red wine	der Rotwein	a1.1 unit_09 noun
+apple spritzer	die Apfelschorle	a1.1 unit_09 noun
+coffee	der Kaffee	a1.1 unit_09 noun
+restaurant	das Restaurant	a1.1 unit_09 noun
+cutlery	das Besteck	a1.1 unit_09 noun
+bill (restaurant)	die Rechnung	a1.1 unit_09 noun
+pen	der Stift	a1.1 unit_09 noun
+table	der Tisch	a1.1 unit_09 noun
+chair	der Stuhl	a1.1 unit_09 noun
+computer	der Computer	a1.1 unit_09 noun
+ball	der Ball	a1.1 unit_09 noun
+# ── A1.1 Unit 10 — Ich suche eine WG. ──
+One moment, please.	Moment, bitte.	a1.1 unit_10 chunk
+Why are you awake so early? (formal, curious)	Warum sind Sie denn schon so früh wach?	a1.1 unit_10 chunk
+Breakfast isn't until seven.	Frühstück ist doch erst um sieben.	a1.1 unit_10 chunk
+What time is it?	Wie spät ist es?	a1.1 unit_10 chunk
+What time is it? (alt)	Wie viel Uhr ist es?	a1.1 unit_10 chunk
+I'm so excited.	Ich bin so aufgeregt.	a1.1 unit_10 chunk
+I'm looking for a room.	Ich suche ein Zimmer.	a1.1 unit_10 chunk
+I'm looking for a flat.	Ich suche eine Wohnung.	a1.1 unit_10 chunk
+Do you need help? (formal)	Brauchen Sie Hilfe?	a1.1 unit_10 chunk
+What does WG mean?	Was bedeutet "WG"?	a1.1 unit_10 chunk
+WG means shared flat.	WG bedeutet Wohngemeinschaft.	a1.1 unit_10 chunk
+Already furnished!	Bereits möbliert!	a1.1 unit_10 chunk
+I'll give them a call.	Ich rufe da mal an.	a1.1 unit_10 chunk
+We only have a shared room free.	Wir haben nur ein WG-Zimmer frei.	a1.1 unit_10 chunk
+Does the room have furniture?	Hat das Zimmer Möbel?	a1.1 unit_10 chunk
+Yes, it's furnished.	Ja, es ist möbliert.	a1.1 unit_10 chunk
+There is already furniture in the room.	Es sind bereits Möbel im Zimmer.	a1.1 unit_10 chunk
+How much is the rent?	Was kostet die Miete?	a1.1 unit_10 chunk
+It costs X euros.	Sie kostet X Euro.	a1.1 unit_10 chunk
+The deposit is X euros.	Die Kaution ist X Euro hoch.	a1.1 unit_10 chunk
+Where is the flat?	Wo ist die Wohnung?	a1.1 unit_10 chunk
+We live very centrally.	Wir wohnen sehr zentral.	a1.1 unit_10 chunk
+When is the room available?	Wann ist das Zimmer verfügbar?	a1.1 unit_10 chunk
+Available immediately.	Ab sofort.	a1.1 unit_10 chunk
+It's six.	Es ist sechs.	a1.1 unit_10 chunk
+It's six o'clock.	Es ist sechs Uhr.	a1.1 unit_10 chunk
+It's about six. (no Uhr)	Es ist um sechs.	a1.1 unit_10 chunk
+It's one.	Es ist eins.	a1.1 unit_10 chunk
+It's one o'clock.	Es ist ein Uhr.	a1.1 unit_10 chunk
+6:30 (private time)	Es ist halb sieben.	a1.1 unit_10 chunk
+6:45 (private time)	Viertel vor sieben	a1.1 unit_10 chunk
+2:15 (private time)	Viertel nach zwei	a1.1 unit_10 chunk
+7:20 (private time)	zwanzig nach sieben	a1.1 unit_10 chunk
+4:40 (private time)	zwanzig vor fünf	a1.1 unit_10 chunk
+10:20 p.m. (private time)	zwanzig nach zehn	a1.1 unit_10 chunk
+just after six	kurz nach sechs	a1.1 unit_10 chunk
+just before seven	kurz vor sieben	a1.1 unit_10 chunk
+4 p.m. (official)	Es ist sechzehn Uhr.	a1.1 unit_10 chunk
+6:30 p.m. (official, spoken)	18 Uhr 30	a1.1 unit_10 chunk
+An hour has 60 minutes.	Eine Stunde hat 60 Minuten.	a1.1 unit_10 chunk
+A minute has 60 seconds.	Eine Minute hat 60 Sekunden.	a1.1 unit_10 chunk
+What does halb plus the hour mean?	30 minutes before that hour	a1.1 unit_10 pattern
+It's about six — wrong with Uhr?	Es ist um sechs. Never Es ist um sechs Uhr.	a1.1 unit_10 pattern
+East/south 6:15?	viertel sieben	a1.1 unit_10 pattern
+East/south 6:45?	drei viertel sieben	a1.1 unit_10 pattern
+Good luck.	Viel Glück.	a1.1 unit_10 chunk
+Is the room still available?	Ist das Zimmer noch frei?	a1.1 unit_10 chunk
+Can you cook? (informal)	Kannst du kochen?	a1.1 unit_10 chunk
+What an idiot!	Was für ein Idiot!	a1.1 unit_10 chunk
+Are you renting out a room? (formal)	Sie vermieten ein Zimmer?	a1.1 unit_10 chunk
+Exactly.	Genau.	a1.1 unit_10 chunk
+That's right.	Das ist richtig.	a1.1 unit_10 chunk
+When can I see it?	Wann kann ich es sehen?	a1.1 unit_10 chunk
+How many people are you? (informal plural)	Wie viele Leute seid ihr?	a1.1 unit_10 chunk
+Clothes are forbidden.	Klamotten sind verboten.	a1.1 unit_10 chunk
+Unfortunately that's not for me.	Das ist leider nichts für mich.	a1.1 unit_10 chunk
+on Tuesday	am Dienstag	a1.1 unit_10 chunk
+in the evening	am Abend	a1.1 unit_10 chunk
+on Tuesday evening	am Dienstagabend	a1.1 unit_10 chunk
+at night	in der Nacht	a1.1 unit_10 chunk
+at seven	um sieben	a1.1 unit_10 chunk
+at 7 o'clock	um 7 Uhr	a1.1 unit_10 chunk
+At what time?	Um wie viel Uhr?	a1.1 unit_10 chunk
+When?	Wann?	a1.1 unit_10 chunk
+Shops are closed on Sunday.	Am Sonntag sind die Geschäfte geschlossen.	a1.1 unit_10 chunk
+Many people don't work on the weekend.	Am Wochenende arbeiten viele Leute nicht.	a1.1 unit_10 chunk
+The train runs at night.	In der Nacht fährt der Zug.	a1.1 unit_10 chunk
+Monday morning as one word?	der Montagmorgen	a1.1 unit_10 pattern
+Saturday night as one word?	die Samstagnacht	a1.1 unit_10 pattern
+on the (spoken)	aufm = auf dem	a1.1 unit_10 pattern
+a (spoken, feminine)	'ne = eine	a1.1 unit_10 pattern
+When + a day uses?	am	a1.1 unit_10 pattern
+When + a clock time uses?	um	a1.1 unit_10 pattern
+When + night uses?	in der Nacht	a1.1 unit_10 pattern
+I'm calling about X.	Ich rufe wegen X an.	a1.1 unit_10 chunk
+When is the viewing?	Wann ist die Besichtigung?	a1.1 unit_10 chunk
+Do you have time this afternoon?	Hast du heute Nachmittag Zeit?	a1.1 unit_10 chunk
+Do you have time today?	Hast du heute Zeit?	a1.1 unit_10 chunk
+Do you have time tomorrow?	Hast du morgen Zeit?	a1.1 unit_10 chunk
+When do you have time?	Wann hast du Zeit?	a1.1 unit_10 chunk
+Yes, I have time.	Ja, ich habe Zeit.	a1.1 unit_10 chunk
+No, unfortunately I don't have time.	Nein, ich habe leider keine Zeit.	a1.1 unit_10 chunk
+No, I don't have time today.	Nein, heute habe ich keine Zeit.	a1.1 unit_10 chunk
+I have time on Monday at 8 pm.	Ich habe am Montag um 20 Uhr Zeit.	a1.1 unit_10 chunk
+Yes, I have time on the weekend.	Ja, ich habe am Wochenende Zeit.	a1.1 unit_10 chunk
+Are you free at 7 pm?	Kannst du um 19 Uhr?	a1.1 unit_10 chunk
+Yes, I can.	Ja, kann ich.	a1.1 unit_10 chunk
+No, I can't.	Nein, kann ich nicht.	a1.1 unit_10 chunk
+No, I can't at 7 pm.	Nein, um 19 Uhr kann ich nicht.	a1.1 unit_10 chunk
+Is tomorrow also possible?	Geht es auch morgen?	a1.1 unit_10 chunk
+Is today also possible?	Geht es auch heute?	a1.1 unit_10 chunk
+Yes, that's possible.	Ja, das geht.	a1.1 unit_10 chunk
+That works.	Das passt.	a1.1 unit_10 chunk
+No, that's not possible.	Nein, das geht nicht.	a1.1 unit_10 chunk
+Yes, Monday works too.	Ja, am Montag geht es auch.	a1.1 unit_10 chunk
+Are you free tomorrow evening?	Kannst du morgen Abend?	a1.1 unit_10 chunk
+Tomorrow we have time.	Morgen haben wir Zeit.	a1.1 unit_10 chunk
+Yes. (casual)	Jo.	a1.1 unit_10 chunk
+Where do you live? (informal plural)	Wo wohnt ihr?	a1.1 unit_10 chunk
+Where do I have to ring the bell?	Wo muss ich klingeln?	a1.1 unit_10 chunk
+What's the name on the doorbell?	Wie ist der Name an der Klingel?	a1.1 unit_10 chunk
+Say, do we know each other?	Sag mal, kennen wir uns?	a1.1 unit_10 chunk
+Can I view the room?	Kann ich das Zimmer besichtigen?	a1.1 unit_10 chunk
+When do you want to come?	Wann willst du kommen?	a1.1 unit_10 chunk
+Your voice sounds familiar.	Deine Stimme kommt mir irgendwie bekannt vor.	a1.1 unit_10 chunk
+It's me. (spoken)	Ich bin's.	a1.1 unit_10 chunk
+It's me. (full)	Ich bin es.	a1.1 unit_10 chunk
+yesterday	gestern	a1.1 unit_10 chunk
+today	heute	a1.1 unit_10 chunk
+tomorrow	morgen	a1.1 unit_10 chunk
+the day after tomorrow	übermorgen	a1.1 unit_10 chunk
+this afternoon	heute Nachmittag	a1.1 unit_10 chunk
+tomorrow evening	morgen Abend	a1.1 unit_10 chunk
+Today I don't have time.	Heute habe ich keine Zeit.	a1.1 unit_10 chunk
+Unfortunately I can't come.	Leider kann ich nicht kommen.	a1.1 unit_10 chunk
+The viewing is at 7 pm.	Um 19 Uhr ist die Besichtigung.	a1.1 unit_10 chunk
+The day after tomorrow we're in Hamburg.	Übermorgen sind wir in Hamburg.	a1.1 unit_10 chunk
+Time or leider first — where is the verb?	Position 2, then the subject	a1.1 unit_10 pattern
+shared flat	die WG	a1.1 unit_10 noun
+shared flat (spelled out)	Wohngemeinschaft	a1.1 unit_10 noun
+room in a shared flat	das WG-Zimmer	a1.1 unit_10 noun
+old building	der Altbau	a1.1 unit_10 noun
+size	die Größe	a1.1 unit_10 noun
+rent including heat	die Warmmiete	a1.1 unit_10 noun
+basic rent	die Kaltmiete	a1.1 unit_10 noun
+extra costs	die Nebenkosten	a1.1 unit_10 noun
+deposit	die Kaution	a1.1 unit_10 noun
+rent	die Miete	a1.1 unit_10 noun
+availability	die Verfügbarkeit	a1.1 unit_10 noun
+flat	die Wohnung	a1.1 unit_10 noun
+central location	zentrale Lage	a1.1 unit_10 noun
+ad	die Anzeige	a1.1 unit_10 noun
+viewing	die Besichtigung	a1.1 unit_10 noun
+doorbell	die Klingel	a1.1 unit_10 noun
+week	die Woche · die Wochen	a1.1 unit_10 noun
+day	der Tag · die Tage	a1.1 unit_10 noun
+Monday	der Montag	a1.1 unit_10 noun
+Tuesday	der Dienstag	a1.1 unit_10 noun
+Wednesday	der Mittwoch	a1.1 unit_10 noun
+Thursday	der Donnerstag	a1.1 unit_10 noun
+Friday	der Freitag	a1.1 unit_10 noun
+Saturday	der Samstag	a1.1 unit_10 noun
+Saturday (northern name)	der Sonnabend	a1.1 unit_10 noun
+Sunday	der Sonntag	a1.1 unit_10 noun
+weekend	das Wochenende	a1.1 unit_10 noun
+morning	der Morgen	a1.1 unit_10 noun
+late morning	der Vormittag	a1.1 unit_10 noun
+noon	der Mittag	a1.1 unit_10 noun
+afternoon	der Nachmittag	a1.1 unit_10 noun
+evening	der Abend	a1.1 unit_10 noun
+night	die Nacht	a1.1 unit_10 noun
+hour	die Stunde · die Stunden	a1.1 unit_10 noun
+minute	die Minute · die Minuten	a1.1 unit_10 noun
+second	die Sekunde · die Sekunden	a1.1 unit_10 noun

@@ -2,7 +2,7 @@
 
 Source: [`A1-1-KOMPLETT.pdf`](A1-1-KOMPLETT.pdf) · answers: [`A1-1_LOESUNGEN_KOMPLETT.pdf`](A1-1_LOESUNGEN_KOMPLETT.pdf)
 
-**Ingested:** units 1–7 · **Not yet:** units 8–10
+**Ingested:** units 1–10 · **Not yet:** —
 
 Ask: `/ingest` · `/teach` · `/drill`
 
@@ -17,9 +17,9 @@ Ask: `/ingest` · `/teach` · `/drill`
 | 5 | Sonst noch etwas? | Beim Einkaufen | ingested | 86–110 |
 | 6 | Bist du Programmierer? | Im Café | ingested | 111–134 |
 | 7 | Wo ist die S-Bahn? | Im Bahnhof | ingested | 135–159 |
-| 8 | Was ist ein Rathaus? | In der Stadt | map only | — |
-| 9 | Was möchten Sie bestellen? | Im Restaurant | map only | — |
-| 10 | Ich suche eine WG. | Auf Wohnungssuche | map only | — |
+| 8 | Was ist ein Rathaus? | In der Stadt | ingested | 160–179 |
+| 9 | Was möchten Sie bestellen? | Im Restaurant | ingested | 180–202 |
+| 10 | Ich suche eine WG. | Auf Wohnungssuche | ingested | 203–223 |
 
 ---
 
@@ -79,10 +79,26 @@ Ask: `/ingest` · `/teach` · `/drill`
 | 2 Am Schalter | buying a ticket | *fahren*, *möchten* |
 | 3 Im Zug | means of transport | separable verbs |
 
-## Units 8–10 (map only)
+## Unit 8 — Was ist ein Rathaus?
 
-| Unit | Title | Setting | Highlights |
-|---|---|---|---|
-| 8 | Was ist ein Rathaus? | Stadt | directions, *wissen*, *nicht*, *man* |
-| 9 | Was möchten Sie bestellen? | Restaurant | accusative, *nehmen*, *essen* |
-| 10 | Ich suche eine WG. | Wohnung | time, weekdays, *am/um/Wann?*, verb position |
+| Dialog | Themen | Grammatik |
+|---|---|---|
+| 1 Ich bin jetzt dein Stadtführer. | directions (*zur/zum*, *geradeaus*) | *wissen*, *nicht* vs *kein* |
+| 2 Die Stadtführung beginnt. | sights | *er/sie/es* for things |
+| 3 Vorsicht! | on the street | *man* |
+
+## Unit 9 — Was möchten Sie bestellen?
+
+| Dialog | Themen | Grammatik |
+|---|---|---|
+| 1 Ich nehme den Schweinebraten. | menu | *nehmen*, definite accusative (*der* → *den*) |
+| 2 Ich nehme einen Weißwein. | ordering | indefinite / negative accusative (*einen/keinen*) |
+| 3 Zusammen oder getrennt? | liking the meal, paying | *essen* |
+
+## Unit 10 — Ich suche eine WG.
+
+| Dialog | Themen | Grammatik |
+|---|---|---|
+| 1 Wie spät ist es? | flat ad, telling the time | private vs official clock, *halb* |
+| 2 Vielleicht am Dienstag? | weekdays, day-parts | *am* / *um* / *in der Nacht*, *Wann?* |
+| 3 Morgen haben wir Zeit. | arranging to meet | verb stays in position 2 |

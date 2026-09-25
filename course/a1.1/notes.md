@@ -1,6 +1,6 @@
 # A1.1 notes
 
-Grammar spine from ingested units 1–7. Re-read in under 2 minutes before a drill.
+Grammar spine from ingested units 1–10. Re-read in under 2 minutes before a drill.
 
 ---
 
@@ -284,8 +284,9 @@ Prefix → **end** of the main clause; stem conjugates in the middle.
 | mitfahren | *Ich fahre bei dir mit.* |
 | zurückfahren | *Fahren Sie heute Abend zurück?* |
 | ankommen | *Wann kommen wir an?* |
+| anfangen | *Wann fängt X an?* — *er/es **fängt** … an* (*a → ä*, like *fahren*) |
 
-Also met: *ankommen, anrufen, anfangen, einkaufen, mitbringen, mitkommen, …*
+Also met: *anrufen, einkaufen, mitbringen, mitkommen, …*
 
 ---
 
@@ -310,3 +311,145 @@ Transport nouns: *die S-Bahn, die U-Bahn, der Bus, der Zug, die Straßenbahn, da
 Most: no article (*Deutschland, Australien*). Exceptions with article: *die Schweiz, die Türkei, der Irak, die USA, …*
 
 *kommen aus* / *Ich bin aus* + country · *wohnen in* / *leben in* + place · *aus den USA* (dative plural)
+
+---
+
+## wissen (U8)
+
+| | |
+|---|---|
+| ich **weiß** | wir wissen |
+| du **weißt** | ihr **wisst** |
+| er/sie/es **weiß** | Sie/sie wissen |
+
+*Weißt du, wo X ist?* · *Ich weiß es nicht.* / *Das weiß ich nicht.*
+
+---
+
+## nicht vs kein (U8)
+
+| Negate | With | Example |
+|---|---|---|
+| verb | **nicht** | *Ich arbeite nicht.* |
+| adjective | **nicht** | *Das ist nicht weit.* |
+| noun | **kein/keine** | *Ich habe keine Zeit.* · *keine Geschäfte* |
+
+---
+
+## Directions (U8)
+
+| Ask | |
+|---|---|
+| Where? | *Wo ist X?* · *Wo finde ich X?* · *Ich suche* + accusative (*die Post* / *den Bahnhof*) |
+| How? | *Wie komme ich **zur** X?* (f) · *Wie komme ich **zum** X?* (m/n) |
+
+| Say the way | informal | formal |
+|---|---|---|
+| straight | *Du gehst geradeaus.* | *Sie gehen geradeaus.* |
+| right / left | *Du gehst nach rechts/links.* | *Sie gehen nach rechts/links.* |
+| turn | *Du biegst die nächste Straße rechts/links ab.* | *Sie biegen … ab.* |
+
+Near / far: *in der Nähe* · *nicht weit* · *weit weg* · lost: *Ich bin nicht von hier.*
+
+Thing pronouns (nominative): *der → er* · *das → es* · *die → sie* (also plural *sie*). *das Mädchen* often *sie* in speech.
+
+*man* + verb like *er* (*Man muss vorsichtig sein.*) — already vs *der Mann* (U1).
+
+Street: *der Fahrradweg* · *der Fußgängerweg* · *die Ampel* · *das Verkehrsschild* · *Vorsicht!* · *Achtung!*
+
+---
+
+## nehmen (U9) — irregular in du / er
+
+| | |
+|---|---|
+| ich nehme | wir nehmen |
+| du **nimmst** | ihr nehmt |
+| er/sie/es **nimmt** | Sie/sie nehmen |
+
+## essen (U9) — irregular in du / er
+
+| | |
+|---|---|
+| ich esse | wir essen |
+| du **isst** | ihr esst |
+| er/sie/es **isst** | Sie/sie essen |
+
+*empfehlen* (attested): *ich empfehle* · *er/sie/es empfiehlt*.
+
+## Accusative (U9)
+
+Only the **masculine** article changes. Subject stays nominative.
+
+| | m | f | n | pl |
+|---|---|---|---|---|
+| Nom definite | der | die | das | die |
+| **Akk definite** | **den** | die | das | die |
+| Nom indefinite | ein | eine | ein | — |
+| **Akk indefinite** | **einen** | eine | ein | — |
+| Nom negative | kein | keine | kein | keine |
+| **Akk negative** | **keinen** | keine | kein | keine |
+
+*Ich nehme den Schweinebraten.* · *die Gemüsesuppe.* · *das Sauerkraut.*
+*einen / keinen Weißwein* · *eine / keine Apfelschorle* · *ein / kein Bier* · *keine Getränke*
+
+Spoken, the ending often drops: *Ich hab’ kein’ Hunger.* = *Ich habe keinen Hunger.*
+
+Same object case with *nehmen, möchten, empfehlen, haben, wollen, kaufen, brauchen, suchen, finden, trinken, essen, bestellen*.
+
+After *etwas* / *was* (= *etwas*), an adjective becomes a capitalized noun in *-es*: *etwas Deutsches* · *etwas Gutes* · *etwas Vegetarisches*. Adjective *deutsch* stays lowercase.
+
+---
+
+## Time (U10)
+
+Private clock is 12-hour. *Uhr* is optional: *Es ist sechs Uhr.* = *Es ist sechs.* *Es ist um sechs.* is possible. *Es ist um sechs Uhr.* is not.
+
+| | |
+|---|---|
+| ask | *Wie spät ist es?* · *Wie viel Uhr ist es?* |
+| one | *Es ist eins.* · *Es ist ein Uhr.* |
+| 6:30 | *Es ist halb sieben.* (*halb* + the **next** hour) |
+| 6:45 | *Viertel vor sieben* |
+| 2:15 | *Viertel nach zwei* |
+| 7:20 | *zwanzig nach sieben* |
+| 4:40 | *zwanzig vor fünf* |
+| 6:02 / 6:57 | *kurz nach sechs* · *kurz vor sieben* |
+
+Official: write *18:30 Uhr*, say *18 Uhr 30*. *Es ist sechzehn Uhr.*
+
+*die Stunde* = 60 *Minuten* · *die Minute* = 60 *Sekunden*.
+
+East and parts of the south (not the usual system): *viertel sieben* = 6:15 · *drei viertel sieben* = 6:45. Dialog: *drei viertel sechs* = 5:45.
+
+## Weekdays and day-parts (U10)
+
+*der Montag, Dienstag, Mittwoch, Donnerstag, Freitag, Samstag (Sonnabend), Sonntag.* *das Wochenende* = Sat + Sun.
+
+*der Morgen, der Vormittag, der Mittag, der Nachmittag, der Abend.* *die Nacht.*
+
+Exercise bands: 7:30 *Morgen* · 11:00 *Vormittag* · 12:30 *Mittag* · 16:00 *Nachmittag* · 18:30 *Abend* · 23:30 *Nacht*.
+
+Together as one word: *der Montagmorgen* · *der Donnerstagnachmittag* · *die Samstagnacht*. *Dienstagabend* (Tuesday evening) · *Dienstag abends* (Tuesday evenings).
+
+## am / um / in der Nacht (U10)
+
+| Ask | Answer with |
+|---|---|
+| *Wann?* + weekday or daytime | **am** (*am Dienstag* · *am Abend* · *am Dienstagabend*) |
+| *Wann?* / *Um wie viel Uhr?* + clock | **um** (*um sieben* · *um 7 Uhr* · *um 19 Uhr*) |
+| night | **in der Nacht** |
+
+*Am Montagmorgen komme ich an.* — also possible without *am*.
+
+*gestern* · *heute* · *morgen* · *übermorgen* · *heute Nachmittag* · *morgen Abend*
+
+## Verb position (U10)
+
+The verb stays in position **2**. Position 1 can be the subject or another word. If another word is first, the subject follows the verb.
+
+| Position 1 | Position 2 | |
+|---|---|---|
+| Ich | habe | heute leider keine Zeit. |
+| Heute | habe | ich leider keine Zeit. |
+| Leider | habe | ich heute keine Zeit. |
