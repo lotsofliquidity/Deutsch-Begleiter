@@ -56,6 +56,11 @@ Taught by `/ingest`. Drilled by `/drill`. Source PDFs: `courses/`.
 | [am / um / in der Nacht](#am--um--in-der-nacht) | *Wann?* + day or clock | A1.1 U10 |
 | [Hast du Zeit?](#hast-du-zeit) | arrange to meet | A1.1 U10 |
 | [Verbposition](#verbposition) | verb stays in position 2 | A1.1 U10 |
+| [Adjektiv verstärken](#adjektiv-verstärken) | *echt/gar nicht* before an adjective | A1.2 U1 |
+| [Wie findest du X?](#wie-findest-du-x) | like / find nice | A1.2 U1 |
+| [Es gibt](#es-gibt) | there is + accusative | A1.2 U1 |
+| [Präteritum sein und haben](#präteritum-sein-und-haben) | *war/hatte* | A1.2 U1 |
+| [müssen plus Infinitiv](#müssen-plus-infinitiv) | have to + infinitive at the end | A1.2 U1 |
 
 Seed patterns not yet drilled from early units: [Hast du X dabei?](#hast-du-x-dabei) · [Wohin + Verb](#wohin--verb-der-bewegung)
 
@@ -1201,6 +1206,156 @@ Seed patterns not yet drilled from early units: [Hast du X dabei?](#hast-du-x-da
 
 ---
 
+## Adjektiv verstärken
+
+**Frame:** `X ist <echt/wirklich/sehr> <Adj>.` · `X ist gar/überhaupt nicht <Adj>.`
+**Meaning:** turn an adjective up, or negate it hard (“not at all”)
+**Slot:** adjective (*groß, toll, dunkel, hell*)
+**Register:** either
+
+**Behind it:** High: *sehr, total, echt, wirklich*. Low: *ziemlich, ein bisschen, nicht so*. Negative *sehr* = *gar nicht* / *überhaupt nicht*.
+
+**Instances**
+- Die Wohnung ist echt groß.
+- Berlin ist wirklich toll.
+- Das Wohnzimmer ist nicht so hell.
+- Ich finde es überhaupt nicht dunkel.
+- Der Tisch ist gar nicht alt.
+- Heute habe ich gar keine Zeit.
+
+**Ladder**
+1. Die Wohnung ist echt groß.
+2. Berlin gefällt mir sehr gut.
+3. Das Wohnzimmer ist nicht so hell.
+4. Ich finde es ziemlich hell.
+5. Der Balkon ist überhaupt nicht dunkel.
+6. Heute habe ich gar keine Zeit.
+7. Trap: *nicht groß* when you mean *gar nicht*
+
+**Meta:** A1.2 Unit 1 · Dialog 1–2 · added 2026-09-28
+
+---
+
+## Wie findest du X?
+
+**Frame:** `Wie findest du X?` → `Ich finde X schön.` · `Gefällt dir X?` → `Ja, sehr gut.`
+**Meaning:** How do you find X? / Do you like X?
+**Slot:** flat, room, furniture, city
+**Register:** informal *du*
+
+**Behind it:** *finden* + adjective, or *gefallen* + *mir/dir*. Booklet: learn *gefällt mir sehr gut* / *Ja, sehr gut* as fixed phrases until the end of A1.2.
+
+**Instances**
+- Wie findest du die Wohnung? — Ich finde sie schön.
+- Die Wohnung ist schön.
+- Gefällt dir dein Zimmer? — Ja, sehr gut.
+- Gefällt's dir nicht?
+- Wie findest du die Möbel? — Sie sind echt schön.
+- Nein, finde ich nicht.
+
+**Ladder**
+1. Wie findest du die Wohnung?
+2. Ich finde sie schön.
+3. Gefällt dir Berlin?
+4. Ja, sehr gut.
+5. Gefällt's dir nicht?
+6. Wie findest du den Schrank?
+7. Trap: *Ich gefalle die Wohnung*
+
+**Meta:** A1.2 Unit 1 · Dialog 2 · added 2026-09-28
+
+---
+
+## Es gibt
+
+**Frame:** `Es gibt <acc> X.` · `Gibt es X?`
+**Meaning:** there is / there are
+**Slot:** thing in the accusative (*einen Tisch, ein Sofa, kein Sofa, viele Zimmer*)
+**Register:** either
+
+**Behind it:** *Es gibt* stays singular even when the thing is plural. The thing takes the accusative, same masculine change as A1.1.
+
+**Instances**
+- Es gibt einen Tisch. / Es gibt ein Sofa.
+- Es gibt kein Sofa. / Es gibt keinen Spiegel.
+- Es gibt keine Lampe. / Es gibt keine Betten.
+- Es gibt zwei Regale. / Es gibt viele Zimmer.
+- Gibt es einen Tisch? — Ja, es gibt einen Tisch.
+- Was gibt es in Berlin? — Es gibt viele Sehenswürdigkeiten.
+
+**Ladder**
+1. Es gibt einen Sessel.
+2. Es gibt ein Fenster.
+3. Es gibt kein Sofa.
+4. Es gibt keinen Spiegel.
+5. Es gibt zwei Regale.
+6. Gibt es eine Lampe?
+7. Trap: *Es gibt der Tisch* · *Es geben viele Zimmer*
+
+**Meta:** A1.2 Unit 1 · Dialog 2 · added 2026-09-28
+
+---
+
+## Präteritum sein und haben
+
+**Frame:** `Ich war …` · `Ich hatte …` · `Wo warst du?`
+**Meaning:** was / had — the past these two verbs use in speech
+**Slot:** place, thing, time
+**Register:** either
+
+**Behind it:** *ich* = *er* (*war, hatte*). *wir* = *Sie* (*waren, hatten*). Other verbs still wait for the perfect.
+
+**Instances**
+- Wo warst du gestern? — Ich war in Frankreich.
+- Ich war noch nie hier.
+- Ich hatte eine kleine Wohnung.
+- Wir waren in München. Wir hatten viel Spaß.
+- Hatten Sie ein schönes Wochenende?
+- Du hattest viel Zeit.
+
+**Ladder**
+1. Ich war in Frankreich.
+2. Wo warst du gestern?
+3. Wir waren in Hamburg.
+4. Ich hatte eine kleine Wohnung.
+5. Hattet ihr ein Auto?
+6. Du hattest viel Zeit.
+7. Trap: *ich warte* for “I was” · *ich habe gehabt* when the booklet uses *hatte*
+
+**Meta:** A1.2 Unit 1 · Dialog 1 · added 2026-09-28
+
+---
+
+## müssen plus Infinitiv
+
+**Frame:** `Ich muss … <Infinitiv>.` · `Was muss ich <Infinitiv>?`
+**Meaning:** have to
+**Slot:** chore or action
+**Register:** either
+
+**Behind it:** *ich/er muss*, *du musst*, *ihr müsst*. Infinitive at the end. A separable verb stays in one piece there: *ausziehen*, not *aus … ziehen*.
+
+**Instances**
+- Ich muss Deutsch lernen.
+- Was muss ich putzen?
+- Muss ich die Schuhe ausziehen?
+- Ich ziehe die Schuhe aus. / Ich muss die Schuhe ausziehen.
+- Man muss sein Geschirr immer selber spülen.
+- Wann musst du arbeiten?
+
+**Ladder**
+1. Ich muss Deutsch lernen.
+2. Du musst die Küche putzen.
+3. Was müssen wir machen?
+4. Ich muss die Schuhe ausziehen.
+5. Wir müssen den Müll rausbringen.
+6. Wann musst du arbeiten?
+7. Trap: *Ich muss ausziehen die Schuhe* · *du muss*
+
+**Meta:** A1.2 Unit 1 · Dialog 3 · added 2026-09-28
+
+---
+
 ## Later seeds (not yet fully met)
 
 ### Hast du X dabei?
@@ -1251,6 +1406,9 @@ Seed patterns not yet drilled from early units: [Hast du X dabei?](#hast-du-x-da
 | *halb* + hour | halb sieben = 6:30 | ~~halb sechs~~ for 6:30 | *halb* names the next hour |
 | *in der Nacht* | in der Nacht | ~~am Nacht~~ | night is *in*, not *am* |
 | verb position 2 | Heute habe ich Zeit. | ~~Heute ich habe Zeit.~~ | time first, subject after the verb |
+| *es gibt* + article | Es gibt einen Tisch. | ~~Es gibt der Tisch.~~ | singular *gibt* + accusative |
+| *du liest* | du liest | ~~du liesst~~ | *lesen* stem in *s*, no extra *s* |
+| *müssen* + separable | Ich muss die Schuhe ausziehen. | ~~Ich muss aus die Schuhe ziehen.~~ | infinitive stays whole |
 
 ---
 

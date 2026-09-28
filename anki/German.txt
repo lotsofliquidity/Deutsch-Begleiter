@@ -588,8 +588,8 @@ restaurant	das Restaurant	a1.1 unit_09 noun
 cutlery	das Besteck	a1.1 unit_09 noun
 bill (restaurant)	die Rechnung	a1.1 unit_09 noun
 pen	der Stift	a1.1 unit_09 noun
-table	der Tisch	a1.1 unit_09 noun
-chair	der Stuhl	a1.1 unit_09 noun
+table	der Tisch · die Tische	a1.1 unit_09 noun
+chair	der Stuhl · die Stühle	a1.1 unit_09 noun
 computer	der Computer	a1.1 unit_09 noun
 ball	der Ball	a1.1 unit_09 noun
 # ── A1.1 Unit 10 — Ich suche eine WG. ──
@@ -623,6 +623,12 @@ It's about six. (no Uhr)	Es ist um sechs.	a1.1 unit_10 chunk
 It's one.	Es ist eins.	a1.1 unit_10 chunk
 It's one o'clock.	Es ist ein Uhr.	a1.1 unit_10 chunk
 6:30 (private time)	Es ist halb sieben.	a1.1 unit_10 chunk
+What time is it? — the answer starts?	Es ist	a1.1 teach time unit_10
+"The time is six."	Es ist sechs.	a1.1 teach time unit_10
+9:30 (private time)	Es ist halb zehn.	a1.1 teach time unit_10
+7:30 (private time)	Es ist halb acht.	a1.1 teach time unit_10
+halb names which hour?	The next hour. halb sieben = 6:30	a1.1 teach time unit_10
+1:00 with no Uhr?	Es ist eins.	a1.1 teach time unit_10
 6:45 (private time)	Viertel vor sieben	a1.1 unit_10 chunk
 2:15 (private time)	Viertel nach zwei	a1.1 unit_10 chunk
 7:20 (private time)	zwanzig nach sieben	a1.1 unit_10 chunk
@@ -711,6 +717,12 @@ Unfortunately I can't come.	Leider kann ich nicht kommen.	a1.1 unit_10 chunk
 The viewing is at 7 pm.	Um 19 Uhr ist die Besichtigung.	a1.1 unit_10 chunk
 The day after tomorrow we're in Hamburg.	Übermorgen sind wir in Hamburg.	a1.1 unit_10 chunk
 Time or leider first — where is the verb?	Position 2, then the subject	a1.1 unit_10 pattern
+On Monday it works too. (time first)	Am Montag geht es auch.	a1.1 teach wordorder unit_10
+It works on Monday. (subject first)	Das geht am Montag.	a1.1 teach wordorder unit_10
+You learn German in the afternoon. (time first, informal plural)	Am Nachmittag lernt ihr Deutsch.	a1.1 teach wordorder unit_10
+Katie can see the room on Tuesday. (time first)	Am Dienstag kann Katie das Zimmer sehen.	a1.1 teach wordorder unit_10
+You take the S-train in the morning. (time first)	Am Morgen fährst du mit der S-Bahn.	a1.1 teach wordorder unit_10
+The S-train leaves at 10. (time first)	Um 10 Uhr fährt die S-Bahn ab.	a1.1 teach wordorder unit_10
 shared flat	die WG	a1.1 unit_10 noun
 shared flat (spelled out)	Wohngemeinschaft	a1.1 unit_10 noun
 room in a shared flat	das WG-Zimmer	a1.1 unit_10 noun
@@ -735,7 +747,6 @@ Wednesday	der Mittwoch	a1.1 unit_10 noun
 Thursday	der Donnerstag	a1.1 unit_10 noun
 Friday	der Freitag	a1.1 unit_10 noun
 Saturday	der Samstag	a1.1 unit_10 noun
-Saturday (northern name)	der Sonnabend	a1.1 unit_10 noun
 Sunday	der Sonntag	a1.1 unit_10 noun
 weekend	das Wochenende	a1.1 unit_10 noun
 morning	der Morgen	a1.1 unit_10 noun
@@ -747,3 +758,111 @@ night	die Nacht	a1.1 unit_10 noun
 hour	die Stunde · die Stunden	a1.1 unit_10 noun
 minute	die Minute · die Minuten	a1.1 unit_10 noun
 second	die Sekunde · die Sekunden	a1.1 unit_10 noun
+# ── A1.2 Unit 1 — Unsere WG ──
+Hello, it's me.	Hallihallo, ich bin's.	a1.2 unit_01 chunk
+Come in!	Komm rein!	a1.2 unit_01 chunk
+It's good to see you again.	Schön dich wiederzusehen!	a1.2 unit_01 chunk
+My roommate will be here soon.	Mein Mitbewohner kommt auch gleich.	a1.2 unit_01 chunk
+Shall I take my shoes off?	Soll ich die Schuhe ausziehen?	a1.2 unit_01 chunk
+I take my shoes off.	Ich ziehe die Schuhe aus.	a1.2 unit_01 chunk
+The flat is really big.	Die Wohnung ist echt groß.	a1.2 unit_01 chunk
+How can you afford that?	Wie kannst du dir das leisten?	a1.2 unit_01 chunk
+How many rooms do you have? (informal plural)	Wie viele Zimmer habt ihr?	a1.2 unit_01 chunk
+Do you like it? (informal)	Gefällt's dir?	a1.2 unit_01 chunk
+Just like you.	So wie du.	a1.2 unit_01 chunk
+It's a bit dark, but cozy.	Es ist ein bisschen dunkel, aber sehr gemütlich.	a1.2 unit_01 chunk
+I don't find it dark at all.	Ich finde es überhaupt nicht dunkel.	a1.2 unit_01 chunk
+I find it quite bright.	Ich finde es ziemlich hell.	a1.2 unit_01 chunk
+By the way, this is my spot.	Das hier ist übrigens mein Platz.	a1.2 unit_01 chunk
+One can see that.	Das sieht man.	a1.2 unit_01 chunk
+I'll show you your room.	Ich zeig dir dein Zimmer.	a1.2 unit_01 chunk
+Don't you like it? (informal)	Gefällt's dir nicht?	a1.2 unit_01 chunk
+The room even has furniture.	Das Zimmer hat sogar Möbel.	a1.2 unit_01 chunk
+Do you need anything else?	Brauchst du noch irgendwas?	a1.2 unit_01 chunk
+Yeah, sure.	Ja, klar.	a1.2 unit_01 chunk
+Why not?	Warum nicht?	a1.2 unit_01 chunk
+We have a few rules.	Wir haben ein paar Regeln.	a1.2 unit_01 chunk
+You always have to wash your own dishes.	Man muss sein Geschirr immer selber spülen.	a1.2 unit_01 chunk
+When do you want to move in?	Wann möchtest du einziehen?	a1.2 unit_01 chunk
+Today works.	Heute geht!	a1.2 unit_01 chunk
+How do you find the flat?	Wie findest du die Wohnung?	a1.2 unit_01 chunk
+I find it nice.	Ich finde sie schön.	a1.2 unit_01 chunk
+How do you like Berlin?	Wie gefällt dir Berlin?	a1.2 unit_01 chunk
+I like it very much.	Berlin gefällt mir sehr gut.	a1.2 unit_01 chunk
+Do you like Berlin?	Gefällt dir Berlin?	a1.2 unit_01 chunk
+Yes, very much.	Ja, sehr gut.	a1.2 unit_01 chunk
+I don't think so.	Nein, finde ich nicht.	a1.2 unit_01 chunk
+Is your flat big?	Ist deine Wohnung groß?	a1.2 unit_01 chunk
+No, it's small.	Nein, sie ist klein.	a1.2 unit_01 chunk
+No, it's wide.	Nein, er ist breit.	a1.2 unit_01 chunk
+There is a table.	Es gibt einen Tisch.	a1.2 unit_01 chunk
+There is no sofa.	Es gibt kein Sofa.	a1.2 unit_01 chunk
+There is no mirror.	Es gibt keinen Spiegel.	a1.2 unit_01 chunk
+There are two shelves.	Es gibt zwei Regale.	a1.2 unit_01 chunk
+Is there a table?	Gibt es einen Tisch?	a1.2 unit_01 chunk
+Where were you yesterday?	Wo warst du gestern?	a1.2 unit_01 chunk
+I was in France.	Ich war in Frankreich.	a1.2 unit_01 chunk
+I had a small flat.	Ich hatte eine kleine Wohnung.	a1.2 unit_01 chunk
+We had a lot of fun.	Wir hatten viel Spaß.	a1.2 unit_01 chunk
+I have no time at all today.	Heute habe ich gar keine Zeit.	a1.2 unit_01 chunk
+That's a real shame.	Das ist wirklich schade.	a1.2 unit_01 chunk
+I have to learn German.	Ich muss Deutsch lernen.	a1.2 unit_01 chunk
+I have to take my shoes off.	Ich muss die Schuhe ausziehen.	a1.2 unit_01 chunk
+What do I have to clean?	Was muss ich putzen?	a1.2 unit_01 chunk
+What do we have to do?	Was müssen wir machen?	a1.2 unit_01 chunk
+When do you have to work?	Wann musst du arbeiten?	a1.2 unit_01 chunk
+tidy the flat	die Wohnung aufräumen	a1.2 unit_01 chunk
+vacuum	staubsaugen	a1.2 unit_01 chunk
+wash the dishes	das Geschirr spülen	a1.2 unit_01 chunk
+do the laundry	die Wäsche waschen	a1.2 unit_01 chunk
+water the flowers	die Blumen gießen	a1.2 unit_01 chunk
+take out the trash	den Müll rausbringen	a1.2 unit_01 chunk
+mop the floor	den Fußboden wischen	a1.2 unit_01 chunk
+high intensity before an adjective?	sehr · total · echt · wirklich	a1.2 unit_01 pattern
+low intensity before an adjective?	ziemlich · ein bisschen · nicht so	a1.2 unit_01 pattern
+not at all?	gar nicht · überhaupt nicht	a1.2 unit_01 pattern
+Es gibt + which case?	accusative, and gibt stays singular	a1.2 unit_01 pattern
+sein — past, ich / er?	war	a1.2 unit_01 verb
+sein — past, du?	warst	a1.2 unit_01 verb
+sein — past, ihr?	wart	a1.2 unit_01 verb
+sein — past, wir / Sie?	waren	a1.2 unit_01 verb
+haben — past, ich / er?	hatte	a1.2 unit_01 verb
+haben — past, du?	hattest	a1.2 unit_01 verb
+haben — past, ihr?	hattet	a1.2 unit_01 verb
+haben — past, wir / Sie?	hatten	a1.2 unit_01 verb
+sehen — du / er?	du siehst · er sieht	a1.2 unit_01 verb
+sehen — ihr?	ihr seht	a1.2 unit_01 verb
+lesen — du / er?	du liest · er liest	a1.2 unit_01 verb
+lesen — ihr?	ihr lest	a1.2 unit_01 verb
+müssen — ich / er?	muss	a1.2 unit_01 verb
+müssen — du?	du musst	a1.2 unit_01 verb
+müssen — ihr?	ihr müsst	a1.2 unit_01 verb
+müssen — wir / Sie?	müssen	a1.2 unit_01 verb
+100	einhundert	a1.2 unit_01 chunk
+1,000	eintausend	a1.2 unit_01 chunk
+245	zweihundertfünfundvierzig	a1.2 unit_01 chunk
+one million	eine Million	a1.2 unit_01 chunk
+two million	zwei Millionen	a1.2 unit_01 chunk
+living room	das Wohnzimmer	a1.2 unit_01 noun
+bedroom	das Schlafzimmer	a1.2 unit_01 noun
+study (room)	das Arbeitszimmer	a1.2 unit_01 noun
+children's room	das Kinderzimmer	a1.2 unit_01 noun
+hallway	der Flur · die Flure	a1.2 unit_01 noun
+bathroom	das Bad · die Bäder	a1.2 unit_01 noun
+kitchen	die Küche · die Küchen	a1.2 unit_01 noun
+storage room	der Abstellraum · die Abstellräume	a1.2 unit_01 noun
+cellar	der Keller · die Keller	a1.2 unit_01 noun
+garden	der Garten · die Gärten	a1.2 unit_01 noun
+balcony	der Balkon · die Balkone	a1.2 unit_01 noun
+terrace	die Terrasse · die Terrassen	a1.2 unit_01 noun
+attic	der Dachboden	a1.2 unit_01 noun
+wardrobe	der Schrank · die Schränke	a1.2 unit_01 noun
+bed	das Bett · die Betten	a1.2 unit_01 noun
+sofa	das Sofa · die Sofas	a1.2 unit_01 noun
+couch	die Couch · die Couches	a1.2 unit_01 noun
+shelf	das Regal · die Regale	a1.2 unit_01 noun
+armchair	der Sessel · die Sessel	a1.2 unit_01 noun
+lamp	die Lampe · die Lampen	a1.2 unit_01 noun
+mirror	der Spiegel · die Spiegel	a1.2 unit_01 noun
+carpet	der Teppich · die Teppiche	a1.2 unit_01 noun
+roommate	der Mitbewohner	a1.2 unit_01 noun

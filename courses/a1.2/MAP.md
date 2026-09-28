@@ -1,0 +1,32 @@
+# A1.2 — Deutschland, ich komme! (Teil 2)
+
+Source: [`A1-2-KOMPLETT.pdf`](A1-2-KOMPLETT.pdf) · answers: [`A1-2_LOESUNGEN_KOMPLETT.pdf`](A1-2_LOESUNGEN_KOMPLETT.pdf)
+
+**Ingested:** unit 1 · **Not yet:** units 2–10
+
+Ask: `/ingest` · `/teach` · `/drill`
+
+---
+
+| Unit | Title | Setting | Status | Booklet pp. |
+|---|---|---|---|---|
+| 1 | Unsere WG | Wohnungsbesichtigung | ingested | 8–36 |
+| 2 | Meine neue Familie | Im Wohnzimmer | map only | 37–64 |
+| 3 | Quark macht stark! | Im Supermarkt | map only | 65–91 |
+| 4 | Prost! | In der Küche | map only | 92–114 |
+| 5 | Viel Spaß beim Deutschlernen! | Im Deutschkurs | map only | 115–144 |
+| 6 | Wie war dein Tag? | Auf dem Balkon | map only | 145–168 |
+| 7 | Was ist passiert? | Auf dem Sofa | map only | 169–197 |
+| 8 | Ich liebe Fußball! | Im Park | map only | 198–226 |
+| 9 | Kleider machen Leute | Im Kleidergeschäft | map only | 227–258 |
+| 10 | Alles Gute! | Geburtstagsparty | map only | 259– |
+
+---
+
+## Unit 1 — Unsere WG
+
+| Dialog | Themen | Grammatik |
+|---|---|---|
+| 1 Es ist wirklich multikulti! | rooms, describe a flat | adjective strength, Präteritum *sein/haben* |
+| 2 Das Bett ist so richtig groß! | furniture, likes | negate adjectives, *es gibt*, *sehen/lesen* |
+| 3 Da muss ich erst mal schauen. | chores, numbers 100+ | *müssen* |

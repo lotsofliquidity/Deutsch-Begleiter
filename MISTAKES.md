@@ -67,8 +67,8 @@ Note what is **not** in there: the correct form.
 
 | # | Date logged | Pattern / Chunk | Booklet | Went wrong | Revisit due | Status |
 |---|---|---|---|---|---|---|
-| | | | | | | |
-| | | | | | | |
+| 1 | 2026-09-27 | Verbposition: Zeit / leider zuerst | A1.1 Unit 10 | Left the time or *leider* in the middle, or answered a different sentence. | 2026-10-11 | OPEN |
+| 2 | 2026-09-27 | Akkusativ maskulin | A1.1 Unit 9 | Masculine object came out as *dem*, then a bare *Nein* instead of the object form. | 2026-10-11 | OPEN |
 | | | | | | | |
 | | | | | | | |
 | | | | | | | |
