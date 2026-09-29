@@ -61,6 +61,11 @@ Taught by `/ingest`. Drilled by `/drill`. Source PDFs: `courses/`.
 | [Es gibt](#es-gibt) | there is + accusative | A1.2 U1 |
 | [Präteritum sein und haben](#präteritum-sein-und-haben) | *war/hatte* | A1.2 U1 |
 | [müssen plus Infinitiv](#müssen-plus-infinitiv) | have to + infinitive at the end | A1.2 U1 |
+| [Possessiv im Nominativ](#possessiv-im-nominativ) | *mein/sein/euer* matches the noun | A1.2 U2 |
+| [Possessiv im Akkusativ](#possessiv-im-akkusativ) | masculine *mein → meinen* | A1.2 U2 |
+| [Wer oder Wen](#wer-oder-wen) | person subject vs object | A1.2 U2 |
+| [so wie / -er als](#so-wie--er-als) | equal vs comparison | A1.2 U2 |
+| [Sie sieht aus](#sie-sieht-aus) | look + adjective | A1.2 U2 |
 
 Seed patterns not yet drilled from early units: [Hast du X dabei?](#hast-du-x-dabei) · [Wohin + Verb](#wohin--verb-der-bewegung)
 
@@ -1356,6 +1361,156 @@ Seed patterns not yet drilled from early units: [Hast du X dabei?](#hast-du-x-da
 
 ---
 
+## Possessiv im Nominativ
+
+**Frame:** `Das ist mein/dein/sein/ihr/unser/euer/Ihr X.`
+**Meaning:** my / your / his / her / our / their — matches the noun
+**Slot:** family noun
+**Register:** *du* with family talk · *Sie* with *Ihr*
+
+**Behind it:** Same endings as *kein*: masculine and neuter bare, feminine and plural *-e*. *euer* drops an *e* before an ending: *eure Mutter*, not *euere*.
+
+**Instances**
+- Das ist mein Vater. / Das ist meine Mutter.
+- Das ist sein Kind. / Das sind meine Eltern.
+- Wie heißt dein Großvater?
+- Das ist Katie. Ihre Eltern leben in Australien.
+- Ist das eure Mutter? — Ja, das ist unsere Mutter.
+- Sind das Ihre Enkel? — Ja, das sind meine Enkel.
+
+**Ladder**
+1. Das ist mein Vater.
+2. Das ist meine Mutter.
+3. Das sind meine Eltern.
+4. Das ist sein Kind.
+5. Ist das eure Mutter?
+6. Sind das Ihre Enkel?
+7. Trap: *euere Mutter* · *meine Vater*
+
+**Meta:** A1.2 Unit 2 · Dialog 1 · added 2026-09-29
+
+---
+
+## Possessiv im Akkusativ
+
+**Frame:** `Ich mag meinen X.` (m) · `meine X` (f / pl) · `mein X` (n)
+**Meaning:** possessive on a masculine object adds *-en*
+**Slot:** family noun you like, miss, or know
+**Register:** either
+
+**Behind it:** Same change as *kein → keinen*. Only masculine moves. *euer Bruder* (subject) → *euren Bruder* (object).
+
+**Instances**
+- Das ist mein Bruder. / Ich mag meinen Bruder.
+- Ich mag meine Schwester. / Ich mag mein Kind.
+- Ist das euer Bruder? / Ich mag euren Bruder.
+- Ich vermisse meine Familie.
+- Meinen Halbbruder kennst du schon.
+- Du musst deine Schuhe ausziehen.
+
+**Ladder**
+1. Ich mag meinen Bruder.
+2. Ich mag meine Schwester.
+3. Ich mag mein Kind.
+4. Ich mag euren Bruder.
+5. Ich vermisse meine Familie.
+6. Wie findest du unseren Balkon?
+7. Trap: *Ich mag mein Bruder* · *Ich mag euer Bruder*
+
+**Meta:** A1.2 Unit 2 · Dialog 3 · added 2026-09-29
+
+---
+
+## Wer oder Wen
+
+**Frame:** `Wer ist das?` · `Wen kenne ich?` · `Was ist das?`
+**Meaning:** who (subject) · whom (person object) · what (thing)
+**Slot:** person or thing
+**Register:** either
+
+**Behind it:** A person you know, miss, or call is *wen*. A thing stays *was* even as an object.
+
+**Instances**
+- Wer ist das? — Das ist Katie.
+- Wen kenne ich? — Du kennst meinen Bruder.
+- Wen vermisst sie? — Sie vermisst ihre Familie.
+- Was ist das? — Das ist dein Zimmer.
+- Was suchst du? — Ich suche ein Zimmer.
+- Wen ruft sie an? — Ihren Vater.
+
+**Ladder**
+1. Wer ist das?
+2. Was ist das?
+3. Wen kenne ich?
+4. Wen vermisst du?
+5. Was suchst du?
+6. Wer wohnt in Berlin?
+7. Trap: *Wer kenne ich?* · *Wen ist das?*
+
+**Meta:** A1.2 Unit 2 · Dialog 3 · added 2026-09-29
+
+---
+
+## so wie / -er als
+
+**Frame:** `(genau)so <Adj> wie X` · `<Adj>-er als X` · `am <Adj>sten`
+**Meaning:** as … as · -er than · the most
+**Slot:** adjective
+**Register:** either
+
+**Behind it:** Comparative is *-er*, not *mehr* + adjective. Superlative is *am …-(e)sten*. Many short adjectives take an umlaut (*jünger, größer, älter*). *gut → besser · viel → mehr · hoch → höher · teuer → teurer.*
+
+**Instances**
+- Sie ist genauso hübsch wie ihre Tochter.
+- Der Vater ist so alt wie die Mutter.
+- Sie ist jünger als ich. / Er ist drei Jahre älter als ich.
+- Mein Vater ist größer als meine Mutter.
+- Katie ist lustiger als ihre Schwester.
+- Katie ist jung, ihre Schwester ist jünger, am jüngsten.
+
+**Ladder**
+1. so alt wie
+2. genauso hübsch wie
+3. jünger als ich
+4. größer als
+5. am jüngsten
+6. teurer als
+7. Trap: *mehr teuer* · *so älter wie* · *am lustigsten als*
+
+**Meta:** A1.2 Unit 2 · Dialog 2 · added 2026-09-29
+
+---
+
+## Sie sieht aus
+
+**Frame:** `Er ist <Adj>.` · `Sie sieht <Adj> aus.`
+**Meaning:** he is … / she looks …
+**Slot:** appearance adjective
+**Register:** either
+
+**Behind it:** *aussehen* splits: *sieht … aus*. A person’s height is *groß / klein*, not *hoch / kurz*. *hässlich* is harsh; *nicht hübsch* is the usual alternative.
+
+**Instances**
+- Sie sieht verrückt aus.
+- Sie sieht nett aus.
+- Er ist groß. / Sie ist klein.
+- Er ist dünn. / Er ist schlank.
+- Ist dein Opa jung? — Nein, er ist alt.
+- Sie ist nicht hübsch.
+
+**Ladder**
+1. Sie sieht verrückt aus.
+2. Er ist groß.
+3. Sie ist klein.
+4. Er ist schlank.
+5. Nein, er ist alt.
+6. Sie ist nicht hübsch.
+7. Trap: *Sie aus sieht* · *Er ist hoch*
+
+**Meta:** A1.2 Unit 2 · Dialog 1 · added 2026-09-29
+
+---
+
 ## Later seeds (not yet fully met)
 
 ### Hast du X dabei?
@@ -1409,6 +1564,11 @@ Seed patterns not yet drilled from early units: [Hast du X dabei?](#hast-du-x-da
 | *es gibt* + article | Es gibt einen Tisch. | ~~Es gibt der Tisch.~~ | singular *gibt* + accusative |
 | *du liest* | du liest | ~~du liesst~~ | *lesen* stem in *s*, no extra *s* |
 | *müssen* + separable | Ich muss die Schuhe ausziehen. | ~~Ich muss aus die Schuhe ziehen.~~ | infinitive stays whole |
+| possessive *euer* | eure Mutter | ~~euere Mutter~~ | the extra *e* drops |
+| masculine object possessive | meinen Bruder | ~~mein Bruder~~ as object | same *-en* as *keinen* |
+| *wer* vs *wen* | Wen kenne ich? | ~~Wer kenne ich?~~ | person object is *wen* |
+| comparative | teurer | ~~mehr teuer~~ | *-er*, not *mehr* + adjective |
+| person's height | Er ist groß. | ~~Er ist hoch.~~ | *groß/klein* for people |
 
 ---
 

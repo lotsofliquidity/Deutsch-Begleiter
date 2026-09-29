@@ -86,3 +86,51 @@ Chores: *aufräumen · putzen · wischen · staubsaugen · spülen/abwaschen · 
 *eine Million* / *zwei Millionen* · *eine Milliarde* / *zwei Milliarden*
 
 Inside the number, ones still come before tens: *zweihundertfünfundvierzig* (245).
+
+---
+
+## Possessives — nominative (U2)
+
+The ending matches the **noun**, same as *kein*. Booklet examples: *Vater* (m) · *Kind* (n) · *Mutter* (f) · *Eltern* (pl).
+
+| Owner | masculine | neuter | feminine | plural |
+|---|---|---|---|---|
+| ich | mein Vater | mein Kind | meine Mutter | meine Eltern |
+| du | dein Vater | dein Kind | deine Mutter | deine Eltern |
+| sie (she) | ihr Vater | ihr Kind | ihre Mutter | ihre Eltern |
+| er / es | sein Vater | sein Kind | seine Mutter | seine Eltern |
+| wir | unser Vater | unser Kind | unsere Mutter | unsere Eltern |
+| ihr (you all) | euer Vater | euer Kind | eure Mutter | eure Eltern |
+| sie (they) | ihr Vater | ihr Kind | ihre Mutter | ihre Eltern |
+| Sie | Ihr Vater | Ihr Kind | Ihre Mutter | Ihre Eltern |
+
+*ihr* (you all) drops an *e* before the ending: *eure Mutter*, *eure Eltern*. Not *euere*. Formal *Ihr* is always capital.
+
+A person’s height is *groß / klein*, not *hoch / kurz*. *Sie sieht … aus.*
+
+## Possessives — accusative (U2)
+
+Only masculine adds *-en*: *mein → meinen*, like *kein → keinen*. Feminine, neuter, and plural stay.
+
+*Das ist mein Bruder.* · *Ich mag meinen Bruder.*
+*Ist das euer Bruder?* · *Ich mag euren Bruder.*
+
+## Wer / Wen / Was (U2)
+
+| | Person | Thing |
+|---|---|---|
+| subject | *Wer ist das?* | *Was ist das?* |
+| object | *Wen kenne ich?* | *Was suchst du?* |
+
+## Comparison (U2)
+
+| | Example |
+|---|---|
+| comparative | adjective + *-er* (*jünger, größer*) |
+| superlative | *am* + *-(e)sten* (*am jüngsten, am nettesten*) |
+| equal | *(genau)so* + adjective + *wie* |
+| unequal | comparative + *als* |
+
+Umlaut on many one-syllable adjectives: *jung, groß, alt, lang, warm*. *alt* also takes the extra *-e*: *am ältesten*.
+*teuer → teurer* · *hoch → höher* · *gut → besser* · *viel → mehr*.
+Never *mehr* + adjective.

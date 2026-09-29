@@ -2,7 +2,7 @@
 
 Source: [`A1-2-KOMPLETT.pdf`](A1-2-KOMPLETT.pdf) · answers: [`A1-2_LOESUNGEN_KOMPLETT.pdf`](A1-2_LOESUNGEN_KOMPLETT.pdf)
 
-**Ingested:** unit 1 · **Not yet:** units 2–10
+**Ingested:** units 1–2 · **Not yet:** units 3–10
 
 Ask: `/ingest` · `/teach` · `/drill`
 
@@ -11,7 +11,7 @@ Ask: `/ingest` · `/teach` · `/drill`
 | Unit | Title | Setting | Status | Booklet pp. |
 |---|---|---|---|---|
 | 1 | Unsere WG | Wohnungsbesichtigung | ingested | 8–36 |
-| 2 | Meine neue Familie | Im Wohnzimmer | map only | 37–64 |
+| 2 | Meine neue Familie | Im Wohnzimmer | ingested | 37–64 |
 | 3 | Quark macht stark! | Im Supermarkt | map only | 65–91 |
 | 4 | Prost! | In der Küche | map only | 92–114 |
 | 5 | Viel Spaß beim Deutschlernen! | Im Deutschkurs | map only | 115–144 |
@@ -30,3 +30,11 @@ Ask: `/ingest` · `/teach` · `/drill`
 | 1 Es ist wirklich multikulti! | rooms, describe a flat | adjective strength, Präteritum *sein/haben* |
 | 2 Das Bett ist so richtig groß! | furniture, likes | negate adjectives, *es gibt*, *sehen/lesen* |
 | 3 Da muss ich erst mal schauen. | chores, numbers 100+ | *müssen* |
+
+## Unit 2 — Meine neue Familie
+
+| Dialog | Themen | Grammatik |
+|---|---|---|
+| 1 Sie sieht ja verrückt aus! | family, describing people | possessives, nominative |
+| 2 Und das hier ist deine Mutti? | more family | comparative, *als* / *wie* |
+| 3 Hast du Geschwister? | marital status | possessives, accusative · *wer/wen* |

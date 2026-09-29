@@ -866,3 +866,90 @@ lamp	die Lampe · die Lampen	a1.2 unit_01 noun
 mirror	der Spiegel · die Spiegel	a1.2 unit_01 noun
 carpet	der Teppich · die Teppiche	a1.2 unit_01 noun
 roommate	der Mitbewohner	a1.2 unit_01 noun
+# ── A1.2 Unit 2 — Meine neue Familie ──
+Look!	Guck mal!	a1.2 unit_02 chunk
+Show me!	Zeig her!	a1.2 unit_02 chunk
+Is that your father?	Ist das dein Vater?	a1.2 unit_02 chunk
+He is a policeman.	Er ist Polizist.	a1.2 unit_02 chunk
+She looks crazy.	Sie sieht verrückt aus.	a1.2 unit_02 chunk
+She goes jogging every day.	Sie geht jeden Tag joggen.	a1.2 unit_02 chunk
+She goes for a walk.	Sie geht spazieren.	a1.2 unit_02 chunk
+What a crazy family.	Was für eine verrückte Familie.	a1.2 unit_02 chunk
+She's pretty.	Sie ist hübsch.	a1.2 unit_02 chunk
+as pretty as her daughter	genauso hübsch wie ihre Tochter	a1.2 unit_02 chunk
+Forget it!	Vergiss es!	a1.2 unit_02 chunk
+That's you as a baby, right?	Das bist du als Baby, oder?	a1.2 unit_02 chunk
+a little younger than me	etwas jünger als ich	a1.2 unit_02 chunk
+About two minutes.	Ungefähr zwei Minuten.	a1.2 unit_02 chunk
+You're twins? (informal plural)	Ihr seid Zwillinge?	a1.2 unit_02 chunk
+Do you have any more siblings?	Hast du noch mehr Geschwister?	a1.2 unit_02 chunk
+three years older than me	drei Jahre älter als ich	a1.2 unit_02 chunk
+I can imagine.	Das kann ich mir vorstellen.	a1.2 unit_02 chunk
+Would you like a piece of chocolate too?	Magst du auch ein Stück Schokolade?	a1.2 unit_02 chunk
+Don't tell X.	Nicht X verraten.	a1.2 unit_02 chunk
+Do you have any siblings?	Hast du auch Geschwister?	a1.2 unit_02 chunk
+I'm an only child.	Ich bin Einzelkind.	a1.2 unit_02 chunk
+My parents are divorced.	Meine Eltern sind geschieden.	a1.2 unit_02 chunk
+I have a half-brother now.	Ich habe jetzt einen Halbbruder.	a1.2 unit_02 chunk
+Whom do I know?	Wen kenne ich?	a1.2 unit_02 chunk
+Guess!	Rate mal!	a1.2 unit_02 chunk
+I miss my family.	Ich vermisse meine Familie.	a1.2 unit_02 chunk
+You belong with us now.	Du gehörst jetzt zu uns.	a1.2 unit_02 chunk
+Are you married? (formal)	Sind Sie verheiratet?	a1.2 unit_02 chunk
+I'm divorced.	Ich bin geschieden.	a1.2 unit_02 chunk
+I'm single.	Ich bin ledig.	a1.2 unit_02 chunk
+Who is that?	Wer ist das?	a1.2 unit_02 chunk
+What is that?	Was ist das?	a1.2 unit_02 chunk
+as … as	(genau)so + Adjektiv + wie	a1.2 unit_02 pattern
+-er than	Komparativ + als	a1.2 unit_02 pattern
+good / better / best	gut · besser · am besten	a1.2 unit_02 pattern
+much / more / most	viel · mehr · am meisten	a1.2 unit_02 pattern
+young — comparative / superlative?	jünger · am jüngsten	a1.2 teach comparison unit_02
+tall — comparative / superlative?	größer · am größten	a1.2 teach comparison unit_02
+old — comparative / superlative?	älter · am ältesten	a1.2 teach comparison unit_02
+expensive — comparative / superlative?	teurer · am teuersten	a1.2 teach comparison unit_02
+high — comparative / superlative?	höher · am höchsten	a1.2 teach comparison unit_02
+more + adjective?	No. teurer, not mehr teuer.	a1.2 teach comparison unit_02
+as old as	so alt wie	a1.2 teach comparison unit_02
+tall or short (a person)	groß · klein	a1.2 unit_02 pattern
+she looks …	Sie sieht … aus.	a1.2 unit_02 pattern
+nominative possessive matches?	the noun, like kein	a1.2 unit_02 pattern
+your (plural) mother	eure Mutter	a1.2 unit_02 pattern
+masculine possessive as object	mein → meinen	a1.2 unit_02 pattern
+your (plural) brother as object	euren Bruder	a1.2 unit_02 pattern
+person as subject / object?	wer · wen	a1.2 unit_02 pattern
+parents	die Eltern	a1.2 unit_02 noun
+father	der Vater · die Väter	a1.2 unit_02 noun
+mother	die Mutter · die Mütter	a1.2 unit_02 noun
+child	das Kind · die Kinder	a1.2 unit_02 noun
+son	der Sohn · die Söhne	a1.2 unit_02 noun
+daughter	die Tochter · die Töchter	a1.2 unit_02 noun
+grandparents	die Großeltern	a1.2 unit_02 noun
+grandfather	der Großvater	a1.2 unit_02 noun
+grandma	die Oma · die Omas	a1.2 unit_02 noun
+grandpa	der Opa · die Opas	a1.2 unit_02 noun
+grandson	der Enkel · die Enkel	a1.2 unit_02 noun
+granddaughter	die Enkelin · die Enkelinnen	a1.2 unit_02 noun
+brother	der Bruder · die Brüder	a1.2 unit_02 noun
+sister	die Schwester · die Schwestern	a1.2 unit_02 noun
+uncle	der Onkel · die Onkel	a1.2 unit_02 noun
+aunt	die Tante · die Tanten	a1.2 unit_02 noun
+cousin (male)	der Cousin · die Cousins	a1.2 unit_02 noun
+cousin (female)	die Cousine · die Cousinen	a1.2 unit_02 noun
+nephew	der Neffe · die Neffen	a1.2 unit_02 noun
+niece	die Nichte · die Nichten	a1.2 unit_02 noun
+half-brother	der Halbbruder	a1.2 unit_02 noun
+husband	der Ehemann · die Ehemänner	a1.2 unit_02 noun
+wife	die Ehefrau · die Ehefrauen	a1.2 unit_02 noun
+father — I?	mein Vater	a1.2 teach possessives unit_02
+child — I?	mein Kind	a1.2 teach possessives unit_02
+mother — I?	meine Mutter	a1.2 teach possessives unit_02
+parents — I?	meine Eltern	a1.2 teach possessives unit_02
+father — you (informal)?	dein Vater	a1.2 teach possessives unit_02
+father — she?	ihr Vater	a1.2 teach possessives unit_02
+father — he?	sein Vater	a1.2 teach possessives unit_02
+father — we?	unser Vater	a1.2 teach possessives unit_02
+father — you (plural)?	euer Vater	a1.2 teach possessives unit_02
+mother — you (plural)?	eure Mutter	a1.2 teach possessives unit_02
+father — they?	ihr Vater	a1.2 teach possessives unit_02
+father — you (formal)?	Ihr Vater	a1.2 teach possessives unit_02
