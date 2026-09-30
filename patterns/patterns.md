@@ -66,6 +66,13 @@ Taught by `/ingest`. Drilled by `/drill`. Source PDFs: `courses/`.
 | [Wer oder Wen](#wer-oder-wen) | person subject vs object | A1.2 U2 |
 | [so wie / -er als](#so-wie--er-als) | equal vs comparison | A1.2 U2 |
 | [Sie sieht aus](#sie-sieht-aus) | look + adjective | A1.2 U2 |
+| [Nullartikel](#nullartikel) | no article on food until it's specific | A1.2 U3 |
+| [einkaufen oder kaufen](#einkaufen-oder-kaufen) | shop vs buy one thing | A1.2 U3 |
+| [Mengenangabe](#mengenangabe) | article follows the container | A1.2 U3 |
+| [Imperativ informell](#imperativ-informell) | *du/ihr* commands | A1.2 U3 |
+| [mögen](#mögen) | like + a noun | A1.2 U3 |
+| [gern, lieber, am liebsten](#gern-lieber-am-liebsten) | like / prefer / like best | A1.2 U3 |
+| [Das schmeckt mir](#das-schmeckt-mir) | it tastes good to me | A1.2 U3 |
 
 Seed patterns not yet drilled from early units: [Hast du X dabei?](#hast-du-x-dabei) · [Wohin + Verb](#wohin--verb-der-bewegung)
 
@@ -1511,6 +1518,216 @@ Seed patterns not yet drilled from early units: [Hast du X dabei?](#hast-du-x-da
 
 ---
 
+## Nullartikel
+
+**Frame:** `Ich brauche <Lebensmittel>.` · `Das <Lebensmittel> ist …` · `Ich brauche kein <Lebensmittel>.`
+**Meaning:** no article / the / no
+**Slot:** uncountable food
+**Register:** either
+
+**Behind it:** Uncountable food, a bare plural, a job, and many countries take no article. Once you point at *that* salt or milk, the article comes back. Negation uses *kein* (masculine still adds *-en*).
+
+**Instances**
+- Ich brauche Fleisch, Reis und Salz.
+- Im Supermarkt gibt es auch Milch, Wasser, Brot und Butter.
+- Das Salz ist im Schrank. / Die Milch ist sehr teuer.
+- Wir brauchen Salz. — Das Salz ist im Schrank.
+- Ich brauche kein Fleisch und keinen Reis.
+- Im Supermarkt gibt es keine Milch und kein Wasser.
+
+**Ladder**
+1. Ich brauche Salz.
+2. Das Salz ist im Schrank.
+3. Die Milch ist teuer.
+4. Ich brauche kein Fleisch.
+5. Ich brauche keinen Reis.
+6. Wir haben keine Milch mehr.
+7. Trap: *das Salz* when you just need salt · *kein Reis* for masculine
+
+**Meta:** A1.2 Unit 3 · Dialog 1 · added 2026-09-30
+
+---
+
+## einkaufen oder kaufen
+
+**Frame:** `Ich gehe einkaufen.` · `Ich kaufe ein.` · `Ich kaufe X.`
+**Meaning:** go shopping / buy a thing
+**Slot:** nothing, or one object
+**Register:** either
+
+**Behind it:** *einkaufen* splits and can stand alone — groceries and everyday stuff. *kaufen* always takes an object, and not a service.
+
+**Instances**
+- Ich kaufe ein.
+- Ich gehe einkaufen. / Ich kaufe heute Toilettenpapier ein.
+- Maria geht einkaufen. Sie braucht viel Obst und Gemüse.
+- Ich kaufe das Auto.
+- Er kann sich kein iPhone kaufen.
+- Ich dachte, wir gehen einkaufen.
+
+**Ladder**
+1. Ich gehe einkaufen.
+2. Ich kaufe ein.
+3. Ich kaufe Toilettenpapier ein.
+4. Ich kaufe das Auto.
+5. Ich will mir ein Auto kaufen.
+6. Wir haben keine Milch mehr — ich gehe einkaufen.
+7. Trap: *Ich kaufe ein das Auto* · *Ich kaufe.* with no object
+
+**Meta:** A1.2 Unit 3 · Dialog 1 · added 2026-09-30
+
+---
+
+## Mengenangabe
+
+**Frame:** `eine Packung X` · `ein Kilo X` · `ein Liter X` · `ein Glas X`
+**Meaning:** a pack / kilo / liter / jar of
+**Slot:** the food
+**Register:** either
+
+**Behind it:** The article matches the measure word, not the food. *der Quark*, but *die Packung Quark* and *zwei Packungen Quark*. Plural of the container: *Gläser, Dosen, Tüten, Flaschen, Kisten, Packungen, Becher*.
+
+**Instances**
+- ein Kilo Äpfel. / 500 Gramm Fleisch. / ein Liter Milch.
+- eine Flasche Milch. / eine Packung Quark. / ein Becher Joghurt.
+- eine Dose Tomaten. / eine Tüte Gummibären. / ein Glas Gurken. / eine Kiste Bier.
+- der Quark. / die Packung Quark. / zwei Packungen Quark.
+- Er kauft zwei Gläser Birnen.
+- Ihr kauft vier Flaschen Milch.
+
+**Ladder**
+1. eine Packung Quark
+2. ein Liter Milch
+3. 500 Gramm Fleisch
+4. ein Becher Joghurt
+5. zwei Gläser Birnen
+6. zwei Packungen Quark
+7. Trap: *ein Glas Quark* for the dairy itself · *zwei Glas*
+
+**Meta:** A1.2 Unit 3 · Dialog 2 · added 2026-09-30
+
+---
+
+## Imperativ informell
+
+**Frame:** `<Stamm>!` · `<ihr-Form>!` · `… bitte!`
+**Meaning:** command or request to *du* / *ihr*
+**Slot:** verb
+**Register:** informal
+
+**Behind it:** *du*: drop *du* and *-st* (*Komm!*). Stem in *-s, -ß, -z, -x*: drop only *-t* (*Vergiss!*). *du*-form in *-est*: keep the *e* (*Arbeite!*). No umlaut on *a→ä* (*Fahr!*, not *Fähr!*). *sein/haben*: *Sei!* · *Hab!* *ihr*: drop the pronoun (*Kommt!*). Separable verbs split. *bitte* softens it. *!* makes it sharper.
+
+**Instances**
+- Komm! / Guck mal! / Nimm die Erdnussbutter!
+- Räum die Küche auf! / Hol mal Karotten!
+- Vergiss den Quark nicht! / Putz bitte die Wohnung!
+- Arbeite schneller! / Öffne die Tür!
+- Fahr nach Hause! / Schlaf weniger!
+- Sei pünktlich! / Hab keine Angst! / Seid bitte pünktlich!
+
+**Ladder**
+1. Komm!
+2. Hol mal Karotten!
+3. Vergiss den Quark nicht!
+4. Fahr nach Hause!
+5. Sei pünktlich!
+6. Kommt bitte! / Spült euer Geschirr!
+7. Trap: *Fähr!* · *Vergis!* · *du komm!*
+
+**Meta:** A1.2 Unit 3 · Dialog 2 · added 2026-09-30
+
+---
+
+## mögen
+
+**Frame:** `Ich mag X.` · `Magst du X?`
+**Meaning:** like a noun
+**Slot:** accusative thing or person
+**Register:** either
+
+**Behind it:** *mögen* is a main verb here, not a modal. *ich mag* = *er mag* (no umlaut). *wir mögen* = *sie/Sie mögen*. Masculine object still takes *-en*: *seinen Bruder*.
+
+**Instances**
+- Ich mag Bier.
+- Magst du Kartoffeln? / Magst du Milch?
+- Bobbi mag seinen Bruder. / Ich mag meinen Mitbewohner.
+- Karin mag Käse. Aber sie mag keine Wurst.
+- Mögen Sie Kaffee?
+- Wir mögen keine Erdnussbutter.
+
+**Ladder**
+1. Ich mag Bier.
+2. Magst du Kartoffeln?
+3. Sie mag keine Wurst.
+4. Die Kinder mögen Kuchen.
+5. Mögt ihr den Deutschkurs?
+6. Ich mag meinen Mitbewohner.
+7. Trap: *ich möge* · *mögen* + infinitive for “I like to”
+
+**Meta:** A1.2 Unit 3 · Dialog 3 · added 2026-09-30
+
+---
+
+## gern, lieber, am liebsten
+
+**Frame:** `Ich <Verb> gern X.` · `lieber` · `am liebsten`
+**Meaning:** like / prefer / like best
+**Slot:** the verb
+**Register:** either
+
+**Behind it:** *gern* (or *gerne*) modifies the verb, not a noun. Comparative is *lieber*, superlative *am liebsten* — not *mehr gern*. *Am liebsten* can start the sentence. A noun for the same idea: *Lieblings-* + noun.
+
+**Instances**
+- Ich esse gern Kartoffeln.
+- Bobbi isst gern Kartoffeln, aber Katie isst lieber Nudeln. Paul isst am liebsten Reis.
+- Ich trinke gern Wein, aber lieber trinke ich Bier. Am liebsten trinke ich Radler.
+- Was isst du gern?
+- Mein Lieblingsgetränk ist Radler.
+- Mein Lieblingsessen ist Schweinebraten.
+
+**Ladder**
+1. Ich esse gern Kartoffeln.
+2. Katie isst lieber Nudeln.
+3. Am liebsten trinke ich Radler.
+4. Was isst du gern?
+5. Mein Lieblingsgetränk ist Radler.
+6. Mein Lieblingsessen ist Schweinebraten.
+7. Trap: *mehr gern* · *Ich gern esse*
+
+**Meta:** A1.2 Unit 3 · Dialog 3 · added 2026-09-30
+
+---
+
+## Das schmeckt mir
+
+**Frame:** `X schmeckt mir.` · `Das schmeckt richtig gut.`
+**Meaning:** it tastes good (to me)
+**Slot:** the food or drink
+**Register:** either
+
+**Behind it:** Learn it as a fixed phrase. The food is the subject; the person is *mir/dir*. Several items take the plural verb: *schmecken*.
+
+**Instances**
+- Das schmeckt richtig gut.
+- Das Radler schmeckt mir.
+- Die Kartoffeln mit Quark schmecken mir.
+- Nudeln mit Tomatensoße schmecken mir nicht.
+- Das schmeckt sehr gut.
+- Mir schmeckt kein Bier.
+
+**Ladder**
+1. Das schmeckt mir.
+2. Das schmeckt richtig gut.
+3. Das Radler schmeckt mir.
+4. Die Kartoffeln mit Quark schmecken mir.
+5. Nudeln mit Tomatensoße schmecken mir nicht.
+6. Mir schmeckt kein Bier.
+7. Trap: *Ich schmecke das Bier* for “I like the taste”
+
+**Meta:** A1.2 Unit 3 · Dialog 3 · added 2026-09-30
+
+---
+
 ## Later seeds (not yet fully met)
 
 ### Hast du X dabei?
@@ -1569,6 +1786,12 @@ Seed patterns not yet drilled from early units: [Hast du X dabei?](#hast-du-x-da
 | *wer* vs *wen* | Wen kenne ich? | ~~Wer kenne ich?~~ | person object is *wen* |
 | comparative | teurer | ~~mehr teuer~~ | *-er*, not *mehr* + adjective |
 | person's height | Er ist groß. | ~~Er ist hoch.~~ | *groß/klein* for people |
+| bare food vs specific | Ich brauche Salz. | Das Salz ist teuer. | article returns once it's *that* salt |
+| *einkaufen* vs *kaufen* | Ich gehe einkaufen. | Ich kaufe das Auto. | no object vs always an object |
+| measure article | die Packung Quark | ~~der Packung~~ | article follows the container |
+| *a→ä* imperative | Fahr! | ~~Fähr!~~ | no umlaut in the *du* imperative |
+| *gern* comparative | lieber | ~~mehr gern~~ | *lieber* / *am liebsten* |
+| like a noun vs a verb | Ich mag Bier. | Ich trinke gern Bier. | *mögen* + noun, *gern* + verb |
 
 ---
 

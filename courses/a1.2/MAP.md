@@ -2,7 +2,7 @@
 
 Source: [`A1-2-KOMPLETT.pdf`](A1-2-KOMPLETT.pdf) · answers: [`A1-2_LOESUNGEN_KOMPLETT.pdf`](A1-2_LOESUNGEN_KOMPLETT.pdf)
 
-**Ingested:** units 1–2 · **Not yet:** units 3–10
+**Ingested:** units 1–3 · **Not yet:** units 4–10
 
 Ask: `/ingest` · `/teach` · `/drill`
 
@@ -12,7 +12,7 @@ Ask: `/ingest` · `/teach` · `/drill`
 |---|---|---|---|---|
 | 1 | Unsere WG | Wohnungsbesichtigung | ingested | 8–36 |
 | 2 | Meine neue Familie | Im Wohnzimmer | ingested | 37–64 |
-| 3 | Quark macht stark! | Im Supermarkt | map only | 65–91 |
+| 3 | Quark macht stark! | Im Supermarkt | ingested | 65–91 |
 | 4 | Prost! | In der Küche | map only | 92–114 |
 | 5 | Viel Spaß beim Deutschlernen! | Im Deutschkurs | map only | 115–144 |
 | 6 | Wie war dein Tag? | Auf dem Balkon | map only | 145–168 |
@@ -38,3 +38,11 @@ Ask: `/ingest` · `/teach` · `/drill`
 | 1 Sie sieht ja verrückt aus! | family, describing people | possessives, nominative |
 | 2 Und das hier ist deine Mutti? | more family | comparative, *als* / *wie* |
 | 3 Hast du Geschwister? | marital status | possessives, accusative · *wer/wen* |
+
+## Unit 3 — Quark macht stark!
+
+| Dialog | Themen | Grammatik |
+|---|---|---|
+| 1 Wo schlafe ich? | einkaufen | Nullartikel |
+| 2 Das ist eine Überraschung! | food, measures, packaging | Imperativ (informal) |
+| 3 Das ist viel zu teuer. | drinks | *mögen*, *gern/lieber/am liebsten*, *schmecken* |

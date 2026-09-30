@@ -134,3 +134,70 @@ Only masculine adds *-en*: *mein → meinen*, like *kein → keinen*. Feminine, 
 Umlaut on many one-syllable adjectives: *jung, groß, alt, lang, warm*. *alt* also takes the extra *-e*: *am ältesten*.
 *teuer → teurer* · *hoch → höher* · *gut → besser* · *viel → mehr*.
 Never *mehr* + adjective.
+
+---
+
+## einkaufen vs kaufen (U3)
+
+| | |
+|---|---|
+| *einkaufen* | groceries, no object required, splits: *Ich kaufe ein.* · *Ich gehe einkaufen.* |
+| *kaufen* | always an object, not for services: *Ich kaufe das Auto.* |
+
+## Nullartikel (U3)
+
+| | Example |
+|---|---|
+| no article | bare plural, job, many countries, uncountable food: *Ich brauche Salz.* |
+| definite once specific | *Das Salz ist im Schrank.* · *Die Milch ist sehr teuer.* |
+| negation | *kein Fleisch* · *keinen Reis* · *keine Milch* |
+
+## Measures (U3)
+
+The article follows the container, not the food.
+
+*der Quark* · *die Packung Quark* · *zwei Packungen Quark*
+*ein Kilo* · *500 Gramm* · *ein Liter* · *eine Flasche* · *ein Becher* · *eine Dose* · *eine Tüte* · *ein Glas* · *eine Kiste*
+
+## Imperativ, informal (U3)
+
+Ends with *!* (a period is milder). *bitte* softens the order.
+
+| | Formation | Example |
+|---|---|---|
+| *du* | drop *du* and *-st* | *Komm!* · *Nimm die Erdnussbutter!* |
+| stem in *-s, -ß, -z, -x* | drop only *-t* | *Vergiss den Quark nicht!* |
+| *du*-form in *-est* | keep the *e* | *Arbeite!* · *Öffne die Tür!* |
+| *a→ä* | no umlaut | *Fahr nach Hause!* · *Schlaf weniger!* |
+| *sein* / *haben* | irregular | *Sei pünktlich!* · *Hab keine Angst!* |
+| *ihr* | *ihr*-form, drop *ihr* | *Kommt!* · *Spült euer Geschirr!* · *Seid pünktlich!* |
+| separable | splits | *Räum die Küche auf!* · *Ruft an!* |
+
+## mögen (U3)
+
+Main verb + accusative noun. *ich* = *er/sie/es*. *wir* = *sie/Sie*.
+
+| | |
+|---|---|
+| ich **mag** | wir **mögen** |
+| du magst | ihr mögt |
+| er/sie/es **mag** | sie/Sie **mögen** |
+
+*Ich mag Bier.* · *Magst du Kartoffeln?*
+
+## gern — lieber — am liebsten (U3)
+
+*gern* (also *gerne*) sits with a verb. Comparative *lieber*, superlative *am liebsten*.
+
+*Ich esse gern Kartoffeln.* · *Katie isst lieber Nudeln.* · *Am liebsten trinke ich Radler.*
+*Mein Lieblingsgetränk ist Radler.* · *Mein Lieblingsessen ist Schweinebraten.*
+
+## schmecken (U3)
+
+Fixed phrase for taste: subject is the food, person is *mir/dir*.
+
+*Das Radler schmeckt mir.* · *Die Kartoffeln mit Quark schmecken mir.*
+
+## Drinks (U3)
+
+*Radler* = *Bier mit Limo gemischt*. Sparkling mineral water is *spritzig*; still is *still*. *eh* = anyway (casual).

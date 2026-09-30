@@ -580,9 +580,9 @@ tomato salad	der Tomatensalat	a1.1 unit_09 noun
 coleslaw	der Krautsalat	a1.1 unit_09 noun
 salad	der Salat	a1.1 unit_09 noun
 white wine	der Weißwein	a1.1 unit_09 noun
-beer	das Bier	a1.1 unit_09 noun
+beer	das Bier · die Biere	a1.1 unit_09 noun
 red wine	der Rotwein	a1.1 unit_09 noun
-apple spritzer	die Apfelschorle	a1.1 unit_09 noun
+apple spritzer	die Apfelschorle · die Apfelschorlen	a1.1 unit_09 noun
 coffee	der Kaffee	a1.1 unit_09 noun
 restaurant	das Restaurant	a1.1 unit_09 noun
 cutlery	das Besteck	a1.1 unit_09 noun
@@ -953,3 +953,112 @@ father — you (plural)?	euer Vater	a1.2 teach possessives unit_02
 mother — you (plural)?	eure Mutter	a1.2 teach possessives unit_02
 father — they?	ihr Vater	a1.2 teach possessives unit_02
 father — you (formal)?	Ihr Vater	a1.2 teach possessives unit_02
+# ── A1.2 Unit 3 — Quark macht stark! ──
+I know her. (that woman)	Die kenne ich.	a1.2 unit_03 chunk
+What are you doing here? (curious)	Was machst du denn hier?	a1.2 unit_03 chunk
+This is my cousin. (female)	Das ist meine Cousine.	a1.2 unit_03 chunk
+I think I'm still dreaming.	Ich glaube, ich träume noch.	a1.2 unit_03 chunk
+I'll stay a few days.	Ich bleibe ein paar Tage.	a1.2 unit_03 chunk
+Follow me. (formal)	Folgen Sie mir.	a1.2 unit_03 chunk
+I'll go grocery shopping.	Ich gehe einkaufen.	a1.2 unit_03 chunk
+I'll come with you.	Ich komme mit.	a1.2 unit_03 chunk
+Great.	Großartig.	a1.2 unit_03 chunk
+Nope. (casual)	Nee.	a1.2 unit_03 chunk
+I thought we were going shopping.	Ich dachte, wir gehen einkaufen.	a1.2 unit_03 chunk
+I don't want to go in there.	Ich will da nicht rein.	a1.2 unit_03 chunk
+I don't want to spend the night here.	Ich will hier nicht übernachten.	a1.2 unit_03 chunk
+Go get some X.	Hol mal X.	a1.2 unit_03 chunk
+Then I'll go and get X.	Dann hole ich X.	a1.2 unit_03 chunk
+I'm at the supermarket right now.	Ich bin gerade im Supermarkt.	a1.2 unit_03 chunk
+Quark is like yogurt.	Quark ist wie Joghurt.	a1.2 unit_03 chunk
+That's a surprise!	Das ist eine Überraschung!	a1.2 unit_03 chunk
+We don't have all day.	Wir haben nicht den ganzen Tag Zeit.	a1.2 unit_03 chunk
+Please stop queuing.	Bitte nicht mehr anstellen.	a1.2 unit_03 chunk
+Do you need something else?	Brauchst du noch etwas?	a1.2 unit_03 chunk
+We still need X.	Wir brauchen noch X.	a1.2 unit_03 chunk
+We absolutely have to bring X.	Wir müssen unbedingt X mitbringen.	a1.2 unit_03 chunk
+beer mixed with lemonade	Bier mit Limo gemischt	a1.2 unit_03 chunk
+It tastes really good.	Das schmeckt richtig gut.	a1.2 unit_03 chunk
+How about X?	Wie wäre es mit X?	a1.2 unit_03 chunk
+That's way too expensive.	Das ist viel zu teuer.	a1.2 unit_03 chunk
+I don't care.	Ist mir doch egal.	a1.2 unit_03 chunk
+the cheap one anyway	eh der billige	a1.2 unit_03 chunk
+a kilo of X	ein Kilo X	a1.2 unit_03 chunk
+500 grams of X	500 Gramm X	a1.2 unit_03 chunk
+a liter of X	ein Liter X	a1.2 unit_03 chunk
+a bottle of X	eine Flasche X	a1.2 unit_03 chunk
+a pack of X	eine Packung X	a1.2 unit_03 chunk
+a cup of X	ein Becher X	a1.2 unit_03 chunk
+a can of X	eine Dose X	a1.2 unit_03 chunk
+a bag of X	eine Tüte X	a1.2 unit_03 chunk
+a jar of X	ein Glas X	a1.2 unit_03 chunk
+a crate of X	eine Kiste X	a1.2 unit_03 chunk
+I like X.	Ich mag X.	a1.2 unit_03 chunk
+Do you like X?	Magst du X?	a1.2 unit_03 chunk
+I like to eat X.	Ich esse gern X.	a1.2 unit_03 chunk
+I prefer to eat X.	Ich esse lieber X.	a1.2 unit_03 chunk
+I like eating X best.	Am liebsten esse ich X.	a1.2 unit_03 chunk
+My favorite drink is X.	Mein Lieblingsgetränk ist X.	a1.2 unit_03 chunk
+My favorite food is X.	Mein Lieblingsessen ist X.	a1.2 unit_03 chunk
+It tastes good to me.	Das schmeckt mir.	a1.2 unit_03 chunk
+Don't forget X.	Vergiss X nicht!	a1.2 unit_03 chunk
+Go home!	Fahr nach Hause!	a1.2 unit_03 chunk
+Please clean the apartment.	Putz bitte die Wohnung!	a1.2 unit_03 chunk
+Be on time.	Sei pünktlich!	a1.2 unit_03 chunk
+Don't be afraid.	Hab keine Angst!	a1.2 unit_03 chunk
+sparkling (water)	spritzig	a1.2 unit_03 chunk
+still (water)	still	a1.2 unit_03 chunk
+uncountable food — article?	none, until you specify it	a1.2 unit_03 pattern
+specified food — article?	definite: Das Salz ist im Schrank.	a1.2 unit_03 pattern
+negate salt / rice / milk?	kein Salz · keinen Reis · keine Milch	a1.2 unit_03 pattern
+shop vs buy one thing?	einkaufen (no object) · kaufen + object	a1.2 unit_03 pattern
+container vs the food — article?	the container: die Packung Quark	a1.2 unit_03 pattern
+du imperative?	Drop du and -st. Komm!	a1.2 unit_03 pattern
+stem in s, ß, z, or x — imperative?	Drop only -t. Vergiss!	a1.2 unit_03 pattern
+du-form in -est — imperative?	Keep the e. Arbeite!	a1.2 unit_03 pattern
+a to ä — imperative?	No umlaut. Fahr!	a1.2 unit_03 pattern
+ihr imperative?	ihr-form, no pronoun. Kommt!	a1.2 unit_03 pattern
+sein / haben — you imperative?	Sei! · Hab!	a1.2 unit_03 pattern
+like a noun or a verb?	Ich mag Bier. · Ich trinke gern Bier.	a1.2 unit_03 pattern
+like / prefer / like best?	gern · lieber · am liebsten	a1.2 unit_03 pattern
+more + gern?	No. lieber, not mehr gern.	a1.2 unit_03 pattern
+anyway (casual)	eh	a1.2 unit_03 pattern
+mögen — ich / er?	ich mag · er/sie/es mag	a1.2 unit_03 verb
+mögen — du?	du magst	a1.2 unit_03 verb
+mögen — ihr?	ihr mögt	a1.2 unit_03 verb
+mögen — wir / Sie?	wir mögen · sie/Sie mögen	a1.2 unit_03 verb
+milk	die Milch · no plural	a1.2 unit_03 noun
+lamb	das Lammfleisch · no plural	a1.2 unit_03 noun
+egg	das Ei · die Eier	a1.2 unit_03 noun
+salt	das Salz · no plural	a1.2 unit_03 noun
+chicken	das Hühnerfleisch · no plural	a1.2 unit_03 noun
+butter	die Butter · no plural	a1.2 unit_03 noun
+pork	das Schweinefleisch · no plural	a1.2 unit_03 noun
+noodles	die Nudeln	a1.2 unit_03 noun
+yogurt	der Joghurt	a1.2 unit_03 noun
+rice	der Reis · no plural	a1.2 unit_03 noun
+cheese	der Käse	a1.2 unit_03 noun
+beef	das Rindfleisch · no plural	a1.2 unit_03 noun
+quark	der Quark	a1.2 unit_03 noun
+carrot (synonym)	die Möhre · die Möhren	a1.2 unit_03 noun
+wine	der Wein · die Weine	a1.2 unit_03 noun
+shandy	das Radler · die Radler	a1.2 unit_03 noun
+lemonade	die Limonade · die Limonaden	a1.2 unit_03 noun
+mineral water	das Mineralwasser · die Mineralwasser	a1.2 unit_03 noun
+juice	der Saft · die Säfte	a1.2 unit_03 noun
+orange juice	der Orangensaft	a1.2 unit_03 noun
+apple juice	der Apfelsaft	a1.2 unit_03 noun
+bottle	die Flasche · die Flaschen	a1.2 unit_03 noun
+pack	die Packung · die Packungen	a1.2 unit_03 noun
+cup (packaging)	der Becher · die Becher	a1.2 unit_03 noun
+can (packaging)	die Dose · die Dosen	a1.2 unit_03 noun
+bag (of something)	die Tüte · die Tüten	a1.2 unit_03 noun
+jar	das Glas · die Gläser	a1.2 unit_03 noun
+crate	die Kiste · die Kisten	a1.2 unit_03 noun
+shopping list	der Einkaufszettel · die Einkaufszettel	a1.2 unit_03 noun
+kommen — imperative (you)?	Komm!	a1.2 teach imperative unit_03
+fahren — imperative (you)?	Fahr!	a1.2 teach imperative unit_03
+vergessen — imperative (you)?	Vergiss!	a1.2 teach imperative unit_03
+arbeiten — imperative (you)?	Arbeite!	a1.2 teach imperative unit_03
+kommen — imperative (you all)?	Kommt!	a1.2 teach imperative unit_03
+sein — imperative (you all)?	Seid!	a1.2 teach imperative unit_03
