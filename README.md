@@ -12,6 +12,8 @@ Shared: [`patterns/patterns.md`](patterns/patterns.md) · [`MISTAKES.md`](MISTAK
 
 **Method:** learn **patterns, not isolated words**. Memorise `Woher kommst du? → Ich komme aus X.`, not just *aus*. For tables (*mein/dein/Ihr*, verb rows), use `/teach`.
 
+Same slash commands in Cursor and in VS Code Copilot Chat. Open the folder, accept the Copilot Chat recommendation, then start a chat. Rules live in [`AGENTS.md`](AGENTS.md); the three skills live in `.agents/skills/`.
+
 ---
 
 ## Quick start
@@ -48,10 +50,8 @@ course/                  # processed notes (one folder per booklet)
 patterns/patterns.md     # cross-unit frames — the real curriculum
 anki/German.txt          # Anki deck "German" (unit- / teach-tagged)
 MISTAKES.md              # selective error log (+14 day revisits)
-.cursor/skills/
-  ingest/                # parse units
-  teach/                 # paradigms
-  drill/                 # test
+.agents/skills/          # /ingest, /teach, /drill (Cursor and VS Code)
+AGENTS.md                # always-on rules for both editors
 ```
 
 Anki: import `anki/German.txt`. Tags look like `a1.1 unit_01` or `a1.1 teach possessives`.

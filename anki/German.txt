@@ -1062,3 +1062,9 @@ vergessen — imperative (you)?	Vergiss!	a1.2 teach imperative unit_03
 arbeiten — imperative (you)?	Arbeite!	a1.2 teach imperative unit_03
 kommen — imperative (you all)?	Kommt!	a1.2 teach imperative unit_03
 sein — imperative (you all)?	Seid!	a1.2 teach imperative unit_03
+I need salt.	Ich brauche Salz.	a1.2 teach nullartikel unit_03
+The salt is in the cupboard.	Das Salz ist im Schrank.	a1.2 teach nullartikel unit_03
+The milk is very expensive.	Die Milch ist sehr teuer.	a1.2 teach nullartikel unit_03
+I need no meat.	Ich brauche kein Fleisch.	a1.2 teach nullartikel unit_03
+I need no rice.	Ich brauche keinen Reis.	a1.2 teach nullartikel unit_03
+I need no milk.	Ich brauche keine Milch.	a1.2 teach nullartikel unit_03

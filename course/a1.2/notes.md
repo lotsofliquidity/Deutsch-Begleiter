@@ -161,17 +161,34 @@ The article follows the container, not the food.
 
 ## Imperativ, informal (U3)
 
-Ends with *!* (a period is milder). *bitte* softens the order.
+The present tense is what the command is built from. For a regular verb, *du* takes *-st* and *ihr* takes *-t*. The *du* command deletes *du* and *-st*. The *ihr* command is the *ihr* form with *ihr* left off. Ends with *!* (a period is milder).
 
-| | Formation | Example |
-|---|---|---|
-| *du* | drop *du* and *-st* | *Komm!* · *Nimm die Erdnussbutter!* |
-| stem in *-s, -ß, -z, -x* | drop only *-t* | *Vergiss den Quark nicht!* |
-| *du*-form in *-est* | keep the *e* | *Arbeite!* · *Öffne die Tür!* |
-| *a→ä* | no umlaut | *Fahr nach Hause!* · *Schlaf weniger!* |
-| *sein* / *haben* | irregular | *Sei pünktlich!* · *Hab keine Angst!* |
-| *ihr* | *ihr*-form, drop *ihr* | *Kommt!* · *Spült euer Geschirr!* · *Seid pünktlich!* |
-| separable | splits | *Räum die Küche auf!* · *Ruft an!* |
+| Verb | du | Command | ihr | Command | Watch |
+|---|---|---|---|---|---|
+| sein | bist | **Sei!** | seid | **Seid!** | its own words |
+| haben | hast | **Hab!** | habt | **Habt!** | its own words |
+| fahren | fährst | **Fahr!** | fahrt | **Fahrt!** | command uses *a* |
+| schlafen | schläfst | **Schlaf!** | schlaft | **Schlaft!** | command uses *a* |
+| essen | isst | **Iss!** | esst | **Esst!** | only the *t* drops |
+| lesen | liest | **Lies!** | lest | **Lest!** | only the *t* drops |
+| vergessen | vergisst | **Vergiss!** | vergesst | **Vergesst!** | only the *t* drops |
+| sprechen | sprichst | **Sprich!** | sprecht | **Sprecht!** | *i* stays |
+| nehmen | nimmst | **Nimm!** | nehmt | **Nehmt!** | *i* only in the *du* command |
+| kommen | kommst | **Komm!** | kommt | **Kommt!** | regular |
+| trinken | trinkst | **Trink!** | trinkt | **Trinkt!** | regular |
+| gehen | gehst | **Geh!** | geht | **Geht!** | regular |
+| kaufen | kaufst | **Kauf!** | kauft | **Kauft!** | regular |
+| fragen | fragst | **Frag!** | fragt | **Fragt!** | regular |
+| holen | holst | **Hol!** | holt | **Holt!** | regular |
+| spülen | spülst | **Spül!** | spült | **Spült!** | regular |
+| putzen | putzt | **Putz!** | putzt | **Putzt!** | stem in *z*: only the *t* drops |
+| arbeiten | arbeitest | **Arbeite!** | arbeitet | **Arbeitet!** | keep the *e* |
+| öffnen | öffnest | **Öffne!** | öffnet | **Öffnet!** | keep the *e* |
+| zeichnen | zeichnest | **Zeichne!** | zeichnet | **Zeichnet!** | keep the *e* |
+
+A split verb puts the little word at the end: *Holt die Kinder **ab**!* · *Ruft bitte **an**!* · *Räum die Küche **auf**!*
+
+*Bitte* sits right after the verb: *Fragt bitte die Lehrerin!* Slower is *langsamer*.
 
 ## mögen (U3)
 

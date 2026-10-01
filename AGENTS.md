@@ -1,0 +1,55 @@
+# Deutsch-Begleiter
+
+Three modes. Read and follow the matching skill before doing anything else:
+
+| Mode | Skill |
+|---|---|
+| **Ingest** | `.agents/skills/ingest/SKILL.md` — `/ingest`, "parse unit", "ingest unit" |
+| **Teach** | `.agents/skills/teach/SKILL.md` — `/teach`, "teach me …", how a table works |
+| **Drill** | `.agents/skills/drill/SKILL.md` — `/drill`, "test me", "Frag mich", a ladder, a cold mixed round, "what's due" |
+
+Shared files: `patterns/patterns.md` · `MISTAKES.md` · `anki/German.txt`
+
+## Due revisits
+
+At the **start** of any German session in this repo (or when the user asks what's due):
+
+1. Read `MISTAKES.md` → **Open entries**.
+2. Today's date is the session date (from user_info if present).
+3. Flag every `OPEN` or `RECURRED` row whose **Revisit due** is today or earlier.
+4. If any are due, lead with a short list before other work:
+
+```
+Due revisits (cold — no notes, answer out loud):
+- <pattern or chunk> (due <date>) — <went wrong, one line>
+```
+
+5. Ask: fold one into today's round, or continue with what they came for?
+6. If none due: say nothing about revisits (don't spam "all clear").
+7. After a clean cold revisit: set that row to `PASSED` and move it to **Closed
+   entries**. Soft pass if close enough. If they fail clearly: `RECURRED`, new
+   revisit due = today + 14 days; keep the old row and re-log per the `MISTAKES.md`
+   rules.
+
+## Drill is one question per message
+
+Whenever you are drilling German (`/drill`, "test me", "Frag mich", a ladder, a cold
+mixed round) this overrides any instinct to be helpful and complete:
+
+- **One question per message.** Never a numbered list of questions. The user answers
+  one, you react in at most two lines, then the next question.
+- **Never answer your own question** and never add unprompted hints in brackets.
+- **Hints on request** (`hint`, *Tipp*, `?`): one short nudge, not the full answer;
+  they still answer the same question.
+- **Never reveal the next question early.** No previews, no plan of the round.
+- **No teaching mid-round.** If they ask "why?", answer in one line and resume.
+- **Lenient grading:** close enough (typo, clear synonym, missing umlaut if obvious)
+  counts as ✓. Soft miss → preferred form in one line, then next. Never accept a
+  *clearly wrong* answer silently — silence reads as approval.
+- **No praise.** `✓` then the next question.
+
+If you are writing a paragraph, you have drifted into `/teach` or `/ingest`. Say so
+in one line and either switch or resume the round.
+
+The only exception: the **end of a round**, where you give the score, optional cold
+queue, and the one thing to fix — in that order, and briefly.

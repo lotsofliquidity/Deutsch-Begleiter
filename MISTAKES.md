@@ -69,6 +69,15 @@ Note what is **not** in there: the correct form.
 |---|---|---|---|---|---|---|
 | 1 | 2026-09-27 | Verbposition: Zeit / leider zuerst | A1.1 Unit 10 | Left the time or *leider* in the middle, or answered a different sentence. | 2026-10-11 | OPEN |
 | 2 | 2026-09-27 | Akkusativ maskulin | A1.1 Unit 9 | Masculine object came out as *dem*, then a bare *Nein* instead of the object form. | 2026-10-11 | OPEN |
+| 3 | 2026-09-30 | Imperativ sein/haben (du vs ihr) | A1.2 Unit 3 | *du bist* came out as Hab; *ihr seid* came out as Sei, twice. | 2026-10-14 | OPEN |
+| 4 | 2026-09-30 | Imperativ ihr | A1.2 Unit 3 | Several people stayed singular (*Hol*, *Nimm*); the plural ending was left off. | 2026-10-14 | OPEN |
+| 5 | 2026-09-30 | mehr + Adjektiv | A1.2 Unit 3 | “More slowly” came out as *mehr langsam*, again. | 2026-10-14 | OPEN |
+| 6 | 2026-09-30 | kein vs nicht | A1.2 Unit 3 | No milk, then no beer, both came out with *nicht*. | 2026-10-14 | OPEN |
+| 7 | 2026-10-01 | du vs Sie: Rückfrage | A1.1 Unit 3 | The return question stayed nominative, and the taxi *Sie* came out lowercase. | 2026-10-15 | OPEN |
+| 8 | 2026-10-01 | mein/Ihr + noun | A1.1 Unit 4 | Formal your came out lowercase, and the key card kept a bare form. | 2026-10-15 | OPEN |
+| 9 | 2026-10-01 | hier | A1.1 Unit 3–4 | “Here” kept coming out as the English-looking *Heir*. | 2026-10-15 | OPEN |
+| 10 | 2026-10-01 | Was machst du beruflich? | A1.1 Unit 6 | The friend question took *von Beruf*, the formal one took *arbeiten*, and “what do you work as” lost the person. | 2026-10-15 | OPEN |
+| 11 | 2026-10-01 | Job ohne Artikel | A1.1 Unit 6 | Job titles took an article, and the engineer one came out as an object form. | 2026-10-15 | OPEN |
 | | | | | | | |
 | | | | | | | |
 | | | | | | | |
