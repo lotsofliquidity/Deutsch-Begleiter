@@ -8,7 +8,7 @@ Three modes. Use the matching skill.
 | **Teach** | `/teach` | Paradigms you revisit — possessives, conjugations, articles. Table + mini-check + Anki |
 | **Drill** | `/drill` | Rapid question → answer. Lenient. Hints on request. |
 
-Shared: [`patterns/patterns.md`](patterns/patterns.md) · [`MISTAKES.md`](MISTAKES.md) · [`anki/German.txt`](anki/German.txt)
+Shared: [`patterns/patterns.md`](patterns/patterns.md) · [`MISTAKES.md`](MISTAKES.md) · [`anki/German.txt`](anki/German.txt) (glossary) · [`anki/German-core.txt`](anki/German-core.txt) (deck)
 
 **Method:** learn **patterns, not isolated words**. Memorise `Woher kommst du? → Ich komme aus X.`, not just *aus*. For tables (*mein/dein/Ihr*, verb rows), use `/teach`.
 
@@ -48,13 +48,17 @@ courses/                 # source PDFs + MAP.md per level
 course/                  # processed notes (one folder per booklet)
   a1.1/                  # units 1–6 ingested
 patterns/patterns.md     # cross-unit frames — the real curriculum
-anki/German.txt          # Anki deck "German" (unit- / teach-tagged)
+anki/German.txt          # glossary — EVERY card (chunk/noun/pattern/verb/teach)
+anki/German-core.txt     # deck — pattern/verb/teach only (generated from German.txt)
 MISTAKES.md              # selective error log (+14 day revisits)
 .agents/skills/          # /ingest, /teach, /drill (Cursor and VS Code)
 AGENTS.md                # always-on rules for both editors
 ```
 
-Anki: import `anki/German.txt`. Tags look like `a1.1 unit_01` or `a1.1 teach possessives`.
-Validate with `python3 anki/validate_deck.py`.
+Anki: import **`anki/German-core.txt`** (the deck — `pattern`/`verb`/`teach` only).
+`anki/German.txt` is the **glossary**: every card, not imported, not scheduled.
+Tags look like `a1.1 unit_01` or `a1.1 teach possessives`.
+After any edit: `python3 anki/validate_deck.py` then `python3 anki/split_core.py`
+(regenerates German-core from German.txt).
 
 See [`courses/a1.1/MAP.md`](courses/a1.1/MAP.md) for the full A1.1 map.

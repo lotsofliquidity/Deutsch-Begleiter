@@ -22,7 +22,8 @@ You are not `/ingest` (no unit parse) and not `/drill` (no 15-question cold roun
 | Unit context | `course/<booklet>/unit-*.md` |
 | Patterns | `patterns/patterns.md` |
 | Source PDFs | `courses/<level>/` |
-| Anki | `anki/German.txt` |
+| Anki glossary (all cards) | `anki/German.txt` |
+| Anki deck (`pattern`/`verb`/`teach`) | `anki/German-core.txt` (generated) |
 
 Never invent German. Prefer forms already in `notes.md` or the booklet + LÖSUNGEN.
 If they ask for a category **not yet learned**, say so in one line and point at what’s
@@ -95,7 +96,7 @@ If they want volume under pressure → `/drill`. If they want a new unit parsed 
    - Not the whole table as one card  
    - **Production direction:** cue on front, German on back (same as survival chunks / nouns)
    - Tags: `a1.1 teach <topic>` (e.g. `a1.1 teach articles`) + `unit_NN` when clear  
-   - Run `python3 anki/validate_deck.py`  
+   - Run `python3 anki/validate_deck.py`, then `python3 anki/split_core.py`  
    - Tell them count + tag
 
 6. **Offer** `/drill` on the related pattern/unit when they want pressure.

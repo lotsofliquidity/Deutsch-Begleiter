@@ -48,9 +48,9 @@ Per booklet folder:
 ## Flow
 
 ```
-courses PDF  →  /ingest  →  unit file + patterns + notes + anki/German.txt
-                                ↓
-                    /teach (paradigms)  →  more Anki
+courses PDF  →  /ingest  →  unit file + patterns + notes + anki/German.txt (glossary)
+                                ↓                                        ↓
+                    /teach (paradigms)  →  more Anki        split_core.py → German-core.txt (deck)
                                 ↓
                            /drill
                                 ↓

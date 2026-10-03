@@ -218,3 +218,50 @@ Fixed phrase for taste: subject is the food, person is *mir/dir*.
 ## Drinks (U3)
 
 *Radler* = *Bier mit Limo gemischt*. Sparkling mineral water is *spritzig*; still is *still*. *eh* = anyway (casual).
+
+---
+
+## machen — an / aus / auf / zu (U4)
+
+| Pair | Use | Result state |
+|---|---|---|
+| *anmachen* / *ausmachen* | radio, light, heating, Staubsauger, computer | *ist an* / *ist aus* |
+| *aufmachen* / *zumachen* | door, window, bottle, shop (= *öffnen* / *schließen*) | *ist auf* / *ist zu* |
+
+*Machst du bitte das Licht an?* · *Kannst du die Tür zumachen?* · *Katie macht das Radler auf.*
+
+## Hunger / Durst (U4)
+
+*Ich habe Hunger/Durst.* = *Ich bin hungrig/durstig.* · *satt* after eating · no “not thirsty” adjective — *Ich habe keinen Durst mehr.*
+
+## Zustimmung (U4)
+
+*Gute Idee!* · *Gern / Gerne!* · *Ja, sicher!* · *Na, klar!* · *Das stimmt.* / *Stimmt.* · *Du hast recht.* · *Ja, genau!*
+
+## Toast (U4)
+
+*Prost!* · *Zum Wohl!* (more formal, often wine)
+
+## Wie oft (U4)
+
+*immer · meistens · oft · manchmal · selten · nie* — *Wie oft kochst du?*
+
+## schlafen (U4)
+
+| | |
+|---|---|
+| ich schlafe | wir schlafen |
+| du **schläfst** | ihr schlaft |
+| er/sie/es **schläft** | sie/Sie schlafen |
+
+## Mahlzeiten (U4)
+
+*frühstücken* · *das Frühstück* (*zum Frühstück*) · *das Mittagessen* (*zu Mittag*) · *das Abendessen* / *das Abendbrot* (*zu Abend*)
+
+## Food adjectives (U4)
+
+*salzig · sauer · süß · fettig · scharf* · too much: *zu + Adj.* (*zu salzig*) · *versalzen* if inedible
+
+## Kompositum (U4)
+
+Last noun → article: *der Apfelkuchen* · *der Apfelquarkkuchen* · *der Flaschenöffner*. Fugen *-e-*, *-s-*, or plural (*Kinderzimmer*, *Straßenbahn*) — learn as you meet them.

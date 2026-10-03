@@ -73,6 +73,15 @@ Taught by `/ingest`. Drilled by `/drill`. Source PDFs: `courses/`.
 | [mögen](#mögen) | like + a noun | A1.2 U3 |
 | [gern, lieber, am liebsten](#gern-lieber-am-liebsten) | like / prefer / like best | A1.2 U3 |
 | [Das schmeckt mir](#das-schmeckt-mir) | it tastes good to me | A1.2 U3 |
+| [an- auf- aus- zu-machen](#an--auf--aus--zu-machen) | switch on/off, open/close | A1.2 U4 |
+| [Hunger und Durst](#hunger-und-durst) | hungry / thirsty / full | A1.2 U4 |
+| [Zustimmung](#zustimmung) | agree to a suggestion | A1.2 U4 |
+| [Prost und Zum Wohl](#prost-und-zum-wohl) | toast | A1.2 U4 |
+| [Wie oft](#wie-oft) | how often + adverb | A1.2 U4 |
+| [zu plus Adjektiv](#zu-plus-adjektiv) | too + adjective | A1.2 U4 |
+| [Mahlzeiten](#mahlzeiten) | breakfast / lunch / dinner | A1.2 U4 |
+| [Riecht und schmeckt](#riecht-und-schmeckt) | smells / tastes good | A1.2 U4 |
+| [Kompositum](#kompositum) | compound noun + article | A1.2 U4 |
 
 Seed patterns not yet drilled from early units: [Hast du X dabei?](#hast-du-x-dabei) · [Wohin + Verb](#wohin--verb-der-bewegung)
 
@@ -1728,6 +1737,267 @@ Seed patterns not yet drilled from early units: [Hast du X dabei?](#hast-du-x-da
 
 ---
 
+## an- auf- aus- zu-machen
+
+**Frame:** `Ich mache das X an/aus.` · `Ich mache die Y auf/zu.`
+**Meaning:** switch on/off · open/close
+**Slot:** device vs door/bottle/shop
+**Register:** either
+
+**Behind it:** *anmachen* / *ausmachen*: radio, light, heating, vacuum, computer → *ist an* / *ist aus*. *aufmachen* / *zumachen*: door, window, bottle, shop → *ist auf* / *ist zu*. *aufmachen* = *öffnen*; *zumachen* = *schließen*. Not *zu* the preposition — *zumachen* closes.
+
+**Instances**
+- Katie macht das Radio an. → Das Radio ist an.
+- Gogo macht das Radio aus. → Das Radio ist aus.
+- Machst du bitte das Licht an?
+- Sie macht die Tür auf. / Sie macht die Tür zu. → Die Tür ist zu.
+- Katie macht das Radler auf.
+- Wann machen die Geschäfte auf?
+
+**Ladder**
+1. Mach das Licht an.
+2. Das Radio ist an.
+3. Mach das Radio aus.
+4. Mach die Flasche auf.
+5. Kannst du die Tür zumachen?
+6. Der Herd ist noch an — mach ihn aus.
+7. Trap: *aufmachen* for the radio · *anmachen* for a bottle · *zu* vs *zumachen*
+
+**Meta:** A1.2 Unit 4 · Dialog 1 · added 2026-10-02
+
+---
+
+## Hunger und Durst
+
+**Frame:** `Ich habe Hunger/Durst.` · `Ich bin satt.` · `Ich habe keinen Durst mehr.`
+**Meaning:** hungry / thirsty / full / not thirsty anymore
+**Slot:** —
+**Register:** either
+
+**Behind it:** *Hunger* and *Durst* are masculine nouns with *haben*. Same idea as *Ich bin hungrig/durstig.* After eating: *satt*. German has no “not thirsty anymore” adjective — *Ich habe keinen Durst mehr.*
+
+**Instances**
+- Ich habe Durst. / Ich hab' Hunger.
+- Ja, gerne. Danke. / Warte!
+- Ich esse etwas und dann bin ich satt.
+- Ich habe keinen Durst mehr.
+- Ich bin so hungrig wie ein Bär.
+
+**Ladder**
+1. Ich habe Durst.
+2. Ich habe Hunger.
+3. Ich bin satt.
+4. Ich habe keinen Durst mehr.
+5. Magst du kein Rot?
+6. Mein Magen knurrt.
+7. Trap: *Ich bin Durst* · *kein Durst mehr* without *haben*
+
+**Meta:** A1.2 Unit 4 · Dialog 1 · added 2026-10-02
+
+---
+
+## Zustimmung
+
+**Frame:** `Gute Idee!` · `Gern!` · `Ja, sicher!` · `Na, klar!` · `Das stimmt.` · `Du hast recht.` · `Ja, genau!`
+**Meaning:** yes to a suggestion or agree with a statement
+**Slot:** —
+**Register:** casual *Na, klar!* · *Du hast recht* also *Du hast Recht.*
+
+**Behind it:** Answers *Wollen wir …?* or agrees *Unsere Küche ist chaotisch.*
+
+**Instances**
+- Wollen wir das Radler aufmachen? — Gute Idee!
+- Willst du heute Salat essen? — Gerne!
+- Wollen wir Käse kaufen? — Na, klar!
+- Dein Zimmer ist echt schön. — Das stimmt.
+- Wollen wir die Küche putzen? — Ja, sicher.
+- Das Wohnzimmer ist wirklich dunkel. — Du hast recht.
+
+**Ladder**
+1. Gute Idee!
+2. Gerne!
+3. Na, klar!
+4. Das stimmt.
+5. Du hast recht.
+6. Ja, genau!
+7. Trap: *Ja, gerne* only for offers — still works for *Willst du Salat?*
+
+**Meta:** A1.2 Unit 4 · Dialog 1 · added 2026-10-02
+
+---
+
+## Prost und Zum Wohl
+
+**Frame:** `Prost!` · `Zum Wohl!` · `Na dann, prost!`
+**Meaning:** cheers / to your health
+**Slot:** —
+**Register:** *Prost!* everyday · *Zum Wohl!* more formal, often with wine
+
+**Behind it:** Booklet Deutschlandtipp. *Danke. Gleichfalls.* is after *Guten Appetit*, not the same as toasting.
+
+**Instances**
+- Prost!
+- Na dann, prost!
+- Zum Wohl! So, dann fange ich mal an.
+- Guten Appetit. — Danke. Gleichfalls.
+
+**Ladder**
+1. Prost!
+2. Zum Wohl!
+3. Na dann, prost!
+4. Guten Appetit. — Gleichfalls.
+5. Wollen wir das Radler aufmachen?
+6. Ich mach' uns ein Radler auf.
+7. Trap: *Zum Wohl* for beer-only casual toast — not wrong, just more formal
+
+**Meta:** A1.2 Unit 4 · Dialog 1 · added 2026-10-02
+
+---
+
+## Wie oft
+
+**Frame:** `Wie oft <verb>st du?` → `Ich <verb>e <immer/meistens/oft/manchmal/selten/nie>.`
+**Meaning:** how often …?
+**Slot:** frequency adverb before or after the verb
+**Register:** either
+
+**Behind it:** Scale: *immer · meistens · oft · manchmal · selten · nie*. *Kochst du oft?* — *Ja, immer.*
+
+**Instances**
+- Katie, kochst du oft? — Ja, immer.
+- Wie oft putzt du? — Ich putze selten.
+- Wie oft spülst du Geschirr? — Ich spüle nie Geschirr.
+- Wie oft sprichst du Deutsch? — Ich spreche immer Deutsch.
+- Wie oft machst du Sport? — Ich mache manchmal Sport.
+
+**Ladder**
+1. Wie oft kochst du?
+2. Ich koche oft.
+3. Ich koche immer.
+4. Ich putze selten.
+5. Ich spüle nie Geschirr.
+6. Ich mache manchmal Sport.
+7. Trap: *wie oft* confused with *Wie lange*
+
+**Meta:** A1.2 Unit 4 · Dialog 2 · added 2026-10-02
+
+---
+
+## zu plus Adjektiv
+
+**Frame:** `Das X ist zu <Adj>.`
+**Meaning:** too + adjective (size or intensity)
+**Slot:** *salzig · süß · sauer · fettig · scharf*
+**Register:** either
+
+**Behind it:** Not the same as *zumachen*. If you cannot eat it from salt: *versalzen*. Booklet also has *viel zu teuer* (U3).
+
+**Instances**
+- Das Fleisch ist zu salzig!
+- Der Kuchen ist zu süß.
+- Salzig? Meins ist in Ordnung.
+- Das ist viel zu teuer.
+
+**Ladder**
+1. Das Fleisch ist zu salzig.
+2. Der Kuchen ist zu süß.
+3. Meins ist in Ordnung.
+4. Die Zitrone ist sauer. (not *zu* unless too much)
+5. Das Chili ist scharf.
+6. Das ist viel zu teuer.
+7. Trap: *zu* = to · *zu salzig* vs just *salzig*
+
+**Meta:** A1.2 Unit 4 · Dialog 3 · added 2026-10-02
+
+---
+
+## Mahlzeiten
+
+**Frame:** `frühstücken` · `zu Mittag essen` · `zu Abend essen` · `zum Frühstück/Mittagessen/Abendessen`
+**Meaning:** meals and when you eat
+**Slot:** time · *das Frühstück · das Mittagessen · das Abendessen · das Abendbrot*
+**Register:** either
+
+**Behind it:** *Abendbrot* = *Abendessen* in many homes. *Bobbi kocht zum Abendessen Fleisch mit Reis.*
+
+**Instances**
+- Katie frühstückt um 8 Uhr.
+- Sie isst zum Frühstück Müsli.
+- Ich esse um 13 Uhr (zu) Mittag.
+- Das Mittagessen ist um 13 Uhr.
+- Bobbi isst um 19 Uhr zu Abend.
+- Bobbi isst um 19 Uhr Abendbrot.
+
+**Ladder**
+1. Wann frühstückst du?
+2. Was isst du zum Frühstück?
+3. Wann isst du zu Mittag?
+4. Machst du heute das Abendessen?
+5. Wann essen wir zu Abend?
+6. Um 19 Uhr.
+7. Trap: *am Abendessen* instead of *zum Abendessen*
+
+**Meta:** A1.2 Unit 4 · Dialog 3 · added 2026-10-02
+
+---
+
+## Riecht und schmeckt
+
+**Frame:** `Es riecht gut.` · `Das schmeckt gut.` · `X schmeckt mir.`
+**Meaning:** smells / tastes good
+**Slot:** food
+**Register:** either
+
+**Behind it:** *riecht* = smell · *schmeckt* = taste. *Ich bin gespannt, ob das schmeckt.* Person with *mir* is the U3 frame.
+
+**Instances**
+- Es riecht gut.
+- Das schmeckt gut.
+- Jetzt bin ich gespannt, ob das schmeckt.
+- Das Essen ist fertig.
+- Guten Appetit.
+
+**Ladder**
+1. Das Essen ist fertig.
+2. Es riecht gut.
+3. Das schmeckt gut.
+4. Das schmeckt mir.
+5. Das Fleisch ist salzig.
+6. Das Fleisch ist zu salzig.
+7. Trap: *Ich rieche gut* for the food smelling good
+
+**Meta:** A1.2 Unit 4 · Dialog 3 · added 2026-10-02
+
+---
+
+## Kompositum
+
+**Frame:** `<Nomen> + <Nomen> → der/die/das <Kompositum>`
+**Meaning:** compound noun — last noun sets the article
+**Slot:** kitchen / food compounds
+**Register:** either
+
+**Behind it:** First part(s) narrow the last noun. *der Apfel + der Kuchen → der Apfelkuchen*. Fugen *-e-*, *-s-*, or plural stem — no fixed rule. *das Bierglas* · *der Küchenschrank* · *der Quarkkuchen*.
+
+**Instances**
+- der Apfelkuchen / der Apfelquarkkuchen
+- der Flaschenöffner / die Biergläser
+- das Abendessen / der Teelöffel
+- der sieht aus wie ein Schokoladenkuchen.
+
+**Ladder**
+1. der Quarkkuchen
+2. das Bierglas
+3. der Küchenschrank
+4. die Kaffeetasse
+5. der Apfelquarkkuchen — article from *Kuchen*
+6. das Lieblingsessen
+7. Trap: article from the first noun · *die Bierglas*
+
+**Meta:** A1.2 Unit 4 · Dialog 3 · added 2026-10-02
+
+---
+
 ## Later seeds (not yet fully met)
 
 ### Hast du X dabei?
@@ -1792,6 +2062,10 @@ Seed patterns not yet drilled from early units: [Hast du X dabei?](#hast-du-x-da
 | *a→ä* imperative | Fahr! | ~~Fähr!~~ | no umlaut in the *du* imperative |
 | *gern* comparative | lieber | ~~mehr gern~~ | *lieber* / *am liebsten* |
 | like a noun vs a verb | Ich mag Bier. | Ich trinke gern Bier. | *mögen* + noun, *gern* + verb |
+| *anmachen* vs *aufmachen* | das Radio anmachen | die Flasche aufmachen | device vs open a container/door |
+| *zu* too vs close | zu salzig | die Tür zumachen | adjective vs separable close |
+| *schlafen* du/er | du schläfst | ~~du schlafst~~ | *ä* in *du* and *er* |
+| compound article | das Bierglas | ~~der Bierglas~~ | article from the **last** noun |
 
 ---
 

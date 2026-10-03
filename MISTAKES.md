@@ -34,7 +34,10 @@ don't read the answer back to yourself.
 today) are listed so you can cold-retry them first. You can also just ask: "What's due?"
 
 **The cold queue feeds Anki.** Real gaps go to [`anki/German.txt`](anki/German.txt)
-with unit tags (`a1.1 unit_01`). One chunk = one card. Never card a whole ladder.
+(the glossary) with unit tags (`a1.1 unit_01`). One chunk = one card. Never card a whole
+ladder. Run `python3 anki/split_core.py` after appending so
+[`anki/German-core.txt`](anki/German-core.txt) (the deck) picks up any `pattern`/`verb`
+cards.
 
 ---
 

@@ -1,25 +1,50 @@
 # Anki — German
 
-Deck file: [`German.txt`](German.txt) · deck name in Anki: **German**
+Two files, two jobs:
 
-## Import (keep your progress)
+| File | In Anki? | What it is |
+|---|---|---|
+| [`German.txt`](German.txt) | **no** | **Glossary.** Every card from every ingested unit (`chunk` / `noun` / `pattern` / `verb` / `teach`). Reference — search it, don't schedule it. |
+| [`German-core.txt`](German-core.txt) | **yes** | **Deck.** Only `pattern` / `verb` / `teach` — the grammar skeleton (~15/unit). This is the one you review. |
 
-Anki → **File → Import** → pick `German.txt` → Tab separator, fields Front / Back / Tags.
+`German-core.txt` is **generated** from `German.txt` — never hand-edit it.
+
+```bash
+python3 split_core.py     # regenerate German-core.txt from German.txt
+```
+
+**Never** import `German.txt` into Anki. At ~80 cards/unit it becomes a backlog that
+cannot be cleared (~1.5–2.5 h/day at steady state, against a 25-min slot).
+
+## Import German-core
+
+Anki → **File → Import** → pick `German-core.txt` → Tab separator, fields Front / Back / Tags.
+Deck name in Anki: **German-core**. Set **New cards/day = 10** in the deck options.
+
+> Re-importing rebuilds the deck from the file. To keep review history, set the import
+> option *Update existing notes when first field matches* = on — a card whose **front**
+> is unchanged keeps its scheduling. Renaming a front breaks the match (see below).
 
 Import options that matter:
 
 - **Update existing notes when first field matches** = on
-- Match scope: **Note type** (or Note type and deck: **German**)
+- Match scope: **Note type** (or Note type and deck: **German-core**)
 
 **What keeps scheduling**
 
-| Change in `German.txt` | What Anki does | Progress |
+| Change | What Anki does | Progress |
 |---|---|---|
 | Same front, edit back/tags | Updates that note | Kept |
 | New line (new front) | New note | New card (fine) |
 | **Renamed front** | Treated as **new** note; old note stays | Old progress stays on the *old* front; new front starts at zero |
 
 So: **edit backs freely and re-import.** Renaming a front breaks the match.
+
+Edit cards in **`German.txt`** (the glossary), then regenerate:
+
+```bash
+python3 split_core.py     # German.txt  ->  German-core.txt
+```
 
 **If you must rename a front**
 
@@ -29,19 +54,24 @@ So: **edit backs freely and re-import.** Renaming a front breaks the match.
 
 **Optional (renames-safe later):** export the deck from Anki with **Include unique identifier (GUID)**, keep a GUID column in the text file, and match on GUID when importing. Then you can rename Front and still update in place. Not set up in this repo yet — say if you want that.
 
-**After a big re-import:** Browse → sort by *Created* / search `deck:German is:new` and suspend obvious duplicates from renamed fronts.
+**After a big re-import:** Browse → sort by *Created* / search `deck:German-core is:new` and suspend obvious duplicates from renamed fronts.
 
 
 ## Tags
 
-Every card: `a1.1 unit_NN` plus optional `chunk` / `verb` / `pattern` / `noun`.
+Every card in `German.txt`: `a1.1 unit_NN` plus one of `chunk` / `noun` / `pattern` /
+`verb` (or `a1.1 teach <topic> unit_NN`).
 
-Filter in Anki: `tag:unit_01` or `deck:German tag:a1.1`.
+**`German-core.txt` carries only `pattern` / `verb` / `teach`.** `chunk` and `noun`
+live in the glossary and are never scheduled.
+
+Filter: `tag:unit_01` (both files) · `deck:German-core tag:a1.1` (in Anki).
 
 ## After edits
 
 ```bash
-python3 validate_deck.py
+python3 validate_deck.py   # checks every *.txt deck
+python3 split_core.py      # regenerate German-core.txt from German.txt
 ```
 
 ## Atomic cards (hard rules)

@@ -123,7 +123,7 @@ sein — ich / du / er?	ich bin · du bist · er/sie/es ist	a1.1 unit_03 verb
 sein — wir / ihr / Sie?	wir sind · ihr seid · Sie/sie sind	a1.1 unit_03 verb
 bar vs mit Karte?	bar alone · mit Karte (no mit bar)	a1.1 unit_03 pattern
 Wohin vs Wo?	Wohin = to where · Wo = where	a1.1 unit_03 pattern
-Numbers 11–20 in German?	elf zwölf dreizehn … neunzehn zwanzig	a1.1 unit_03 pattern
+Numbers 11–20 in German?	elf · zwölf · dreizehn · vierzehn · fünfzehn · sechzehn · siebzehn · achtzehn · neunzehn · zwanzig	a1.1 unit_03 pattern
 Are you still free? (formal)	Sind Sie noch frei?	a1.1 unit_03 chunk
 Where do you want to go? (formal)	Wohin wollen Sie fahren?	a1.1 unit_03 chunk
 To [place name].	Nach X.	a1.1 unit_03 chunk
@@ -554,7 +554,7 @@ Accusative — masculine definite?	der → den	a1.1 unit_09 pattern
 Accusative — feminine / neuter definite?	die / das (unchanged)	a1.1 unit_09 pattern
 Accusative — masculine indefinite?	ein → einen	a1.1 unit_09 pattern
 Accusative — masculine negative?	kein → keinen	a1.1 unit_09 pattern
-After etwas, what happens to the adjective?	capital noun ending in -es	a1.1 unit_09 pattern
+After etwas, what happens to the adjective?	nominalised: capitalised + -es — etwas Gutes · etwas Vegetarisches	a1.1 unit_09 pattern
 was vs etwas?	was = etwas	a1.1 unit_09 pattern
 Spoken ending you may not hear?	kein' = keinen	a1.1 unit_09 pattern
 nehmen — ich?	ich nehme	a1.1 unit_09 verb
@@ -640,8 +640,7 @@ just before seven	kurz vor sieben	a1.1 unit_10 chunk
 6:30 p.m. (official, spoken)	18 Uhr 30	a1.1 unit_10 chunk
 An hour has 60 minutes.	Eine Stunde hat 60 Minuten.	a1.1 unit_10 chunk
 A minute has 60 seconds.	Eine Minute hat 60 Sekunden.	a1.1 unit_10 chunk
-What does halb plus the hour mean?	30 minutes before that hour	a1.1 unit_10 pattern
-It's about six — wrong with Uhr?	Es ist um sechs. Never Es ist um sechs Uhr.	a1.1 unit_10 pattern
+"at six" with um — can you add Uhr?	Es ist um sechs. Never Es ist um sechs Uhr.	a1.1 unit_10 pattern
 East/south 6:15?	viertel sieben	a1.1 unit_10 pattern
 East/south 6:45?	drei viertel sieben	a1.1 unit_10 pattern
 Good luck.	Viel Glück.	a1.1 unit_10 chunk
@@ -913,11 +912,10 @@ more + adjective?	No. teurer, not mehr teuer.	a1.2 teach comparison unit_02
 as old as	so alt wie	a1.2 teach comparison unit_02
 tall or short (a person)	groß · klein	a1.2 unit_02 pattern
 she looks …	Sie sieht … aus.	a1.2 unit_02 pattern
-nominative possessive matches?	the noun, like kein	a1.2 unit_02 pattern
 your (plural) mother	eure Mutter	a1.2 unit_02 pattern
 masculine possessive as object	mein → meinen	a1.2 unit_02 pattern
 your (plural) brother as object	euren Bruder	a1.2 unit_02 pattern
-person as subject / object?	wer · wen	a1.2 unit_02 pattern
+person as subject / object?	who (subject) = wer · who (object) = wen	a1.2 unit_02 pattern
 parents	die Eltern	a1.2 unit_02 noun
 father	der Vater · die Väter	a1.2 unit_02 noun
 mother	die Mutter · die Mütter	a1.2 unit_02 noun
@@ -1068,3 +1066,100 @@ The milk is very expensive.	Die Milch ist sehr teuer.	a1.2 teach nullartikel uni
 I need no meat.	Ich brauche kein Fleisch.	a1.2 teach nullartikel unit_03
 I need no rice.	Ich brauche keinen Reis.	a1.2 teach nullartikel unit_03
 I need no milk.	Ich brauche keine Milch.	a1.2 teach nullartikel unit_03
+Don't ask.	Frag nicht.	a1.2 unit_04 chunk
+I'm hungry.	Ich habe Hunger.	a1.2 unit_04 chunk
+Why are you carrying everything alone? (curious)	Warum trägst du denn alles allein?	a1.2 unit_04 chunk
+I was just shopping.	Ich war gerade einkaufen.	a1.2 unit_04 chunk
+Wait!	Warte!	a1.2 unit_04 chunk
+I'll open X for us.	Ich mach uns X auf.	a1.2 unit_04 chunk
+Then I'll get started.	Dann fange ich mal an.	a1.2 unit_04 chunk
+How long do you need now? (curious)	Wie lange brauchst du denn jetzt?	a1.2 unit_04 chunk
+I'll turn on some music.	Ich mach Musik an!	a1.2 unit_04 chunk
+That hurts! (short)	Tut das weh!	a1.2 unit_04 chunk
+Good idea!	Gute Idee!	a1.2 unit_04 chunk
+Gladly!	Gerne!	a1.2 unit_04 chunk
+Yes, sure!	Ja, sicher!	a1.2 unit_04 chunk
+Sure! (informal)	Na, klar!	a1.2 unit_04 chunk
+That's right. (I agree)	Das stimmt.	a1.2 unit_04 chunk
+You're right.	Du hast recht.	a1.2 unit_04 chunk
+Yes, exactly!	Ja, genau!	a1.2 unit_04 chunk
+Cheers! (toast)	Prost!	a1.2 unit_04 chunk
+To your health! (formal toast)	Zum Wohl!	a1.2 unit_04 chunk
+I'm full.	Ich bin satt.	a1.2 unit_04 chunk
+I'm not thirsty anymore.	Ich habe keinen Durst mehr.	a1.2 unit_04 chunk
+Turn on the light.	Mach das Licht an.	a1.2 unit_04 chunk
+The radio is on.	Das Radio ist an.	a1.2 unit_04 chunk
+Turn off the radio.	Mach das Radio aus.	a1.2 unit_04 chunk
+Open the bottle.	Mach die Flasche auf.	a1.2 unit_04 chunk
+Close the door.	Mach die Tür zu.	a1.2 unit_04 chunk
+Can you close the door?	Kannst du die Tür zumachen?	a1.2 unit_04 chunk
+Turn down the radio a little.	Mach bitte das Radio ein bisschen leiser.	a1.2 unit_04 chunk
+At this time?	Um diese Zeit?	a1.2 unit_04 chunk
+a real sleepyhead	eine richtige Schlafmütze	a1.2 unit_04 chunk
+This means …	Das bedeutet,	a1.2 unit_04 chunk
+Do you cook often?	Kochst du oft?	a1.2 unit_04 chunk
+Yes, always.	Ja, immer.	a1.2 unit_04 chunk
+How strange.	Wie komisch.	a1.2 unit_04 chunk
+Shall I set the table?	Soll ich den Tisch decken?	a1.2 unit_04 chunk
+Can you help me, please?	Kannst du mir bitte helfen?	a1.2 unit_04 chunk
+Only if she wants to.	Nur wenn sie will.	a1.2 unit_04 chunk
+Good morning, sleepyhead!	Guten Morgen, du Schlafmütze!	a1.2 unit_04 chunk
+How often do you cook?	Wie oft kochst du?	a1.2 unit_04 chunk
+always	immer	a1.2 unit_04 chunk
+mostly	meistens	a1.2 unit_04 chunk
+often	oft	a1.2 unit_04 chunk
+sometimes	manchmal	a1.2 unit_04 chunk
+rarely	selten	a1.2 unit_04 chunk
+never	nie	a1.2 unit_04 chunk
+The food is ready.	Das Essen ist fertig.	a1.2 unit_04 chunk
+I'm curious if it tastes good.	Ich bin gespannt, ob das schmeckt.	a1.2 unit_04 chunk
+It smells good.	Es riecht gut.	a1.2 unit_04 chunk
+My stomach growls.	Mein Magen knurrt.	a1.2 unit_04 chunk
+not forget to give thanks	das Danken nicht vergessen	a1.2 unit_04 chunk
+Likewise.	Gleichfalls.	a1.2 unit_04 chunk
+The meat is too salty.	Das Fleisch ist zu salzig!	a1.2 unit_04 chunk
+Mine is all right.	Meins ist in Ordnung.	a1.2 unit_04 chunk
+It looks like a X.	Er sieht aus wie ein X.	a1.2 unit_04 chunk
+post on Instagram	auf Instagram posten	a1.2 unit_04 chunk
+When do you have breakfast?	Wann frühstückst du?	a1.2 unit_04 chunk
+What do you eat for breakfast?	Was isst du zum Frühstück?	a1.2 unit_04 chunk
+I have lunch at 1 p.m.	Ich esse um 13 Uhr zu Mittag.	a1.2 unit_04 chunk
+When do we have dinner?	Wann essen wir zu Abend?	a1.2 unit_04 chunk
+salty	salzig	a1.2 unit_04 chunk
+sour	sauer	a1.2 unit_04 chunk
+sweet	süß	a1.2 unit_04 chunk
+greasy	fettig	a1.2 unit_04 chunk
+spicy	scharf	a1.2 unit_04 chunk
+too + adjective (intensity)	zu + Adjektiv	a1.2 unit_04 pattern
+radio or light — turn on?	anmachen · ist an	a1.2 unit_04 pattern
+bottle or door — open?	aufmachen · ist auf	a1.2 unit_04 pattern
+close door or bottle?	zumachen · ist zu	a1.2 unit_04 pattern
+device — turn off?	ausmachen · ist aus	a1.2 unit_04 pattern
+too salty vs close the door?	zu salzig · die Tür zumachen	a1.2 unit_04 pattern
+compound — article from which noun?	last noun in the compound	a1.2 unit_04 pattern
+stove	der Herd · die Herde	a1.2 unit_04 noun
+sink (kitchen)	die Spüle · die Spülen	a1.2 unit_04 noun
+fridge	der Kühlschrank · die Kühlschränke	a1.2 unit_04 noun
+oven	der Ofen · die Öfen	a1.2 unit_04 noun
+dishwasher	der Geschirrspüler · die Geschirrspüler	a1.2 unit_04 noun
+microwave	die Mikrowelle · die Mikrowellen	a1.2 unit_04 noun
+cutlery (kitchen)	das Besteck · die Bestecke	a1.2 unit_04 noun
+spoon	der Löffel · die Löffel	a1.2 unit_04 noun
+fork	die Gabel · die Gabeln	a1.2 unit_04 noun
+knife	das Messer · die Messer	a1.2 unit_04 noun
+tableware	das Geschirr · no plural	a1.2 unit_04 noun
+plate	der Teller · die Teller	a1.2 unit_04 noun
+cup (drink)	die Tasse · die Tassen	a1.2 unit_04 noun
+bowl	die Schüssel · die Schüsseln	a1.2 unit_04 noun
+breakfast (meal)	das Frühstück · no plural	a1.2 unit_04 noun
+lunch	das Mittagessen · no plural	a1.2 unit_04 noun
+dinner	das Abendessen · no plural	a1.2 unit_04 noun
+apple quark cake	der Apfelquarkkuchen · die Apfelquarkkuchen	a1.2 unit_04 noun
+beer glass	das Bierglas · die Biergläser	a1.2 unit_04 noun
+kitchen cupboard	der Küchenschrank · die Küchenschränke	a1.2 unit_04 noun
+bottle opener	der Flaschenöffner · die Flaschenöffner	a1.2 unit_04 noun
+schlafen — du?	du schläfst	a1.2 unit_04 verb
+schlafen — er/sie/es?	er/sie/es schläft	a1.2 unit_04 verb
+schlafen — ihr?	ihr schlaft	a1.2 unit_04 verb
+schlafen — ich / wir?	ich schlafe · wir schlafen	a1.2 unit_04 verb
+Are you making dinner today?	Machst du heute das Abendessen?	a1.2 unit_04 chunk

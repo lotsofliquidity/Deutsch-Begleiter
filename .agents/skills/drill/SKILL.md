@@ -57,7 +57,7 @@ Hinted turns do **not** auto-log. Log only if they still blank or miss the **sam
 5. Offer: re-drill tomorrow, **`/teach`** if they need a paradigm explained
    (possessives, conjugation, articles), or `/ingest` for a new unit.
 
-Cold-queue chunks → append to `anki/German.txt` with the **current unit tags** when known. Run `python3 anki/validate_deck.py`.
+Cold-queue chunks → append to `anki/German.txt` (the glossary) with the **current unit tags** when known. Run `python3 anki/validate_deck.py`, then `python3 anki/split_core.py` to refresh the deck.
 
 If they ask “why?” mid-round and need more than one line → answer in one line,
 resume, and at round end point to `/teach`.
@@ -91,6 +91,7 @@ Due revisit: soft pass if close enough → `PASSED` + Closed. Clear fail → `RE
 |---|---|
 | Patterns | `patterns/patterns.md` |
 | Units | `course/<booklet>/unit-*.md` |
-| Anki | `anki/German.txt` |
+| Anki glossary (all cards) | `anki/German.txt` |
+| Anki deck (`pattern`/`verb`/`teach`) | `anki/German-core.txt` (generated) |
 | Mistakes | `MISTAKES.md` |
 | Map | `courses/a1.1/MAP.md` |

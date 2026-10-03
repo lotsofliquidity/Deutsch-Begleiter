@@ -95,7 +95,7 @@ Booklet **Neue Chunks** (all 10 per dialog from LÖSUNGEN).
 ## Patterns introduced
 
 - [`Possessiv im Nominativ`](../../patterns/patterns.md#possessiv-im-nominativ) — new
-- [`Possessiv im Akkusativ`](../../patterns/patterns.md#possessiv-im-akkusativ) — new
+- [`Possessiv im Akkusativ`](../../patterns/patterns.md#possessiv- im-akkusativ) — new
 - [`Wer oder Wen`](../../patterns/patterns.md#wer-oder-wen) — new
 - [`so wie / -er als`](../../patterns/patterns.md#so-wie--er-als) — new
 - [`Sie sieht aus`](../../patterns/patterns.md#sie-sieht-aus) — new

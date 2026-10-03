@@ -21,7 +21,8 @@ freeform tutor and you do not run drills (`/drill`).
 | Unit records | `course/<booklet>/unit-NN-<slug>.md` |
 | Grammar spine | `course/<booklet>/notes.md` |
 | Pattern library | `patterns/patterns.md` |
-| Anki | `anki/German.txt` |
+| Anki glossary (ALL cards) | `anki/German.txt` |
+| Anki deck (`pattern`/`verb`/`teach` only) | `anki/German-core.txt` — generated, never hand-edit |
 | Mistakes | `MISTAKES.md` |
 
 Booklet map: `a1.1` PDFs → processed under `course/a1.1/`. Never invent German —
@@ -48,7 +49,8 @@ check booklet + `_LOESUNGEN` in `courses/`.
 3. Write **`course/<booklet>/unit-NN-<slug>.md`** (kebab slug, no umlauts).
 4. Upsert produceable frames into **`patterns/patterns.md`** (Meta: booklet + unit).
 5. Distill lookups into **`course/<booklet>/notes.md`** (tight tables only).
-6. Append cards to **`anki/German.txt`**:
+6. Append **every** card to **`anki/German.txt`** (the glossary) — `chunk` and `noun`
+   included; `split_core.py` promotes only `pattern`/`verb`/`teach` to the deck:
    - `#deck:German`, three tab-separated fields, tags **`a1.1 unit_NN`** (+ optional `chunk`/`verb`/`pattern`/`noun`)
    - **Direction = production:** cue/English/situation on the **front**, German on the **back** (for survival chunks, nouns, and frames you must say). Disambiguate register/sense on the front in **English only** (*informal* / *formal* / *pointing* / *farther* / *curious / softened*) — never put the German answer in the cue (`~~(da drüben)~~`, `~~(with denn)~~`, `~~(hätten gern)~~`).
    - **Atomic cards (hard):** one job per card.
@@ -70,7 +72,8 @@ check booklet + `_LOESUNGEN` in `courses/`.
    - **Unit noun lists → one card per noun**: English (or bare lemma) on front; back = `der/die/das X · die Y` (sg + pl together). Uncountables: note “no plural”.
    - Still skip full drill ladders and random dialog nouns not on the unit list
 7. Mark the unit ingested on **`courses/<level>/MAP.md`**.
-8. Run `python3 anki/validate_deck.py`.
+8. Run `python3 anki/validate_deck.py`, then `python3 anki/split_core.py`
+   (regenerates `anki/German-core.txt` — the reviewable deck — from the glossary).
 9. In chat: 3–6 sentence summary + offer `/drill` on this unit. Do not dump the library.
 
 **Unit file shape:** Neue Chunks by dialog (complete) · Also — phrase boxes · patterns introduced · drill ladder · what tripped me up.
