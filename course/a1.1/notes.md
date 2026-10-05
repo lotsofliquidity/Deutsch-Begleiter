@@ -179,12 +179,13 @@ Hardly fixed rules — always learn **singular + plural**. Tendencies:
 
 ---
 
-## Discourse bits (U1) — booklet asterisks
+## Discourse bits — booklet asterisks
 
 | Form | In questions / speech | Not |
 |---|---|---|
 | **denn** | Modal particle — curiosity / mild surprise (*Woher kommst du denn?*) | conjunction “because” |
 | **eigentlich** | ≈ “by the way” (*Wie heißt du eigentlich?*) | English “actually” as default gloss |
+| **ja** | In statements, frames something as apparent or shared (*Du bist ja lustig.*) | literal “yes” |
 | **man** | impersonal “one / people” (*Sieht man das nicht?*) | *der Mann* = the man |
 
 Also marked in U1 dialog notes (flavour, not separate drills yet): *ja*, *doch* as modal particles.
@@ -195,6 +196,7 @@ Also marked in U1 dialog notes (flavour, not separate drills yet): *ja*, *doch* 
 
 | Item | Note |
 |---|---|
+| **noch mal** | again / once more (*Können Sie das noch mal wiederholen?*) |
 | **das Gepäck** | always singular (uncountable) |
 | **wohin** | direction *to* somewhere (*Wohin wollen Sie fahren?*) |
 | **Ich zahle bar** | *bar* = adjective — no *mit* · card: *mit Karte* |

@@ -14,7 +14,7 @@ Ask: `/ingest` · `/teach` · `/drill`
 | 2 | Meine neue Familie | Im Wohnzimmer | ingested | 37–64 |
 | 3 | Quark macht stark! | Im Supermarkt | ingested | 65–91 |
 | 4 | Prost! | In der Küche | ingested | 92–114 |
-| 5 | Viel Spaß beim Deutschlernen! | Im Deutschkurs | map only | 115–144 |
+| 5 | Viel Spaß beim Deutschlernen! | Im Deutschkurs | ingested | 115–144 |
 | 6 | Wie war dein Tag? | Auf dem Balkon | map only | 145–168 |
 | 7 | Was ist passiert? | Auf dem Sofa | map only | 169–197 |
 | 8 | Ich liebe Fußball! | Im Park | map only | 198–226 |

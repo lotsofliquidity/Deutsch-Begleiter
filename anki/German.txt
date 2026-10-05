@@ -1163,3 +1163,36 @@ schlafen — er/sie/es?	er/sie/es schläft	a1.2 unit_04 verb
 schlafen — ihr?	ihr schlaft	a1.2 unit_04 verb
 schlafen — ich / wir?	ich schlafe · wir schlafen	a1.2 unit_04 verb
 Are you making dinner today?	Machst du heute das Abendessen?	a1.2 unit_04 chunk
+
+# ── A1.2 Unit 5 — Viel Spaß beim Deutschlernen! ──
+How do you connect two main clauses with and/but/or? 	und/aber/oder connect two main clauses	a1.2 unit_05 pattern
+Comma rule for main clauses? 	No comma before und/or; comma before aber	a1.2 unit_05 pattern
+What is your name? (formal) 	Wie ist Ihr Name?	a1.2 unit_05 chunk
+What is your address? (formal) 	Wie ist Ihre Adresse?	a1.2 unit_05 chunk
+What is your date of birth? (formal) 	Wie lautet Ihr Geburtsdatum?	a1.2 unit_05 chunk
+When is your birthday? (formal) 	Wann haben Sie Geburtstag?	a1.2 unit_05 chunk
+On the third of August. 	Am dritten August.	a1.2 unit_05 chunk
+I was born in Melbourne. 	Ich bin in Melbourne geboren.	a1.2 unit_05 chunk
+Please fill out this registration form. 	Bitte füllen Sie dieses Anmeldeformular aus.	a1.2 unit_05 chunk
+What am I supposed to do with the form? 	Was soll ich mit dem Formular machen?	a1.2 unit_05 chunk
+Take my pen. (formal) 	Nehmen Sie meinen Kuli!	a1.2 unit_05 chunk
+What does the formal imperative do? 	Verb first, then Sie; separable verb splits at the end	a1.2 unit_05 pattern
+When do you use sollen? 	Repeated instruction / “be supposed to”	a1.2 unit_05 pattern
+teacher (school)  	der Lehrer · die Lehrer / die Lehrerin · die Lehrerinnen	a1.2 unit_05 noun
+student (school)  	der Schüler · die Schüler / die Schülerin · die Schülerinnen	a1.2 unit_05 noun
+textbook 	das Lehrbuch · die Lehrbücher	a1.2 unit_05 noun
+pen (classroom)  	der Stift · die Stifte / der Kugelschreiber · die Kugelschreiber / der Kuli · die Kulis	a1.2 unit_05 noun
+notebook 	das Heft · die Hefte	a1.2 unit_05 noun
+board 	die Tafel · die Tafeln	a1.2 unit_05 noun
+scissors 	die Schere · die Scheren	a1.2 unit_05 noun
+eraser 	das Radiergummi · die Radiergummis	a1.2 unit_05 noun
+German (m/f) 	der Deutsche · die Deutsche	a1.2 unit_05 noun
+Australian (m/f) 	der Australier · die Australierin	a1.2 unit_05 noun
+noch mal — meaning?	again · once more	a1.1 teach adverbs unit_03
+“Please repeat the postal code once more.” (formal)	Bitte wiederholen Sie noch mal die Postleitzahl.	a1.1 teach chunks unit_03
+Bitte wiederholen Sie ___ die Postleitzahl.	noch mal	a1.1 teach adverbs unit_03
+What does noch mal ask someone to do?	Repeat / do it once again	a1.1 teach adverbs unit_03
+What does denn add to a question?	Curiosity / mild surprise; conversational flavour, not “because”	a1.1 teach particles unit_01
+Woher kommst du? — add conversational denn.	Woher kommst du denn?	a1.1 teach particles unit_01
+What does ja add in “Du bist ja lustig”?	It frames the statement as apparent or shared; it does not mean “yes”	a1.1 teach particles unit_08
+Du bist lustig. — add ja as a modal particle.	Du bist ja lustig.	a1.1 teach particles unit_08

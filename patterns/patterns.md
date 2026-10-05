@@ -82,6 +82,14 @@ Taught by `/ingest`. Drilled by `/drill`. Source PDFs: `courses/`.
 | [Mahlzeiten](#mahlzeiten) | breakfast / lunch / dinner | A1.2 U4 |
 | [Riecht und schmeckt](#riecht-und-schmeckt) | smells / tastes good | A1.2 U4 |
 | [Kompositum](#kompositum) | compound noun + article | A1.2 U4 |
+| [Satzverbindungen mit und, aber, oder](#satzverbindungen-mit-und-aber-oder) | clause linking | A1.2 U5 |
+| [Personenangaben](#personenangaben) | name / address / origin | A1.2 U5 |
+| [Das Datum](#das-datum) | date + birth date | A1.2 U5 |
+| [Ordinalzahlen](#ordinalzahlen) | ordinal dates | A1.2 U5 |
+| [Im Kurs](#im-kurs) | classroom nouns | A1.2 U5 |
+| [Imperativ formell](#imperativ-formell) | formal commands | A1.2 U5 |
+| [Alternativer Imperativ](#alternativer-imperativ) | short instruction forms | A1.2 U5 |
+| [sollen](#sollen) | be supposed to / should | A1.2 U5 |
 
 Seed patterns not yet drilled from early units: [Hast du X dabei?](#hast-du-x-dabei) · [Wohin + Verb](#wohin--verb-der-bewegung)
 
@@ -1995,6 +2003,200 @@ Seed patterns not yet drilled from early units: [Hast du X dabei?](#hast-du-x-da
 7. Trap: article from the first noun · *die Bierglas*
 
 **Meta:** A1.2 Unit 4 · Dialog 3 · added 2026-10-02
+
+---
+
+## Satzverbindungen mit und, aber, oder
+
+**Frame:** `Hauptsatz 1 + und/aber/oder + Hauptsatz 2`
+**Meaning:** connect two main clauses
+**Slot:** second clause starts with the same or another subject; verb stays in position 2
+**Register:** neutral
+
+**Behind it:** no comma before *und* or *oder*; comma before *aber*.
+
+**Instances**
+- Ich komme aus Australien, aber meine Oma ist Deutsche.
+- Ich mache einen Deutschkurs oder ich lerne allein Deutsch.
+- Katie wohnt in einer WG und ihre Mitbewohner sind nett.
+
+**Ladder**
+1. Ich komme aus Australien, aber meine Oma ist Deutsche.
+2. Katie wohnt in einer WG und die Mitbewohner sind nett.
+3. Ich lerne Deutsch oder ich mache einen Kurs.
+4. Wir essen zu Hause und dann gehen wir weg.
+5. Trap: comma before *aber* only
+
+**Meta:** A1.2 Unit 5 · Dialog 1 · added 2026-10-03
+
+---
+
+## Personenangaben
+
+**Frame:** `Wie ist Ihr/dein X?` → `Mein X ist Y.`
+**Meaning:** ask for personal data and answer with the item
+**Slot:** first name / last name / address / zip code / birth date / place of birth
+**Register:** neutral or formal if using *Sie*
+
+**Instances**
+- Wie ist Ihr Name? → Mein Name ist Katie Koch.
+- Wie ist Ihre Adresse? → Meine Adresse ist Kurfürstendamm 456.
+- Wo sind Sie geboren? → Ich bin in Melbourne geboren.
+
+**Ladder**
+1. Wie ist Ihr Name?
+2. Mein Name ist Katie Koch.
+3. Wie ist Ihre Adresse?
+4. Meine Adresse ist Kurfürstendamm 456.
+5. Wie ist Ihr Geburtsdatum?
+6. Der 3. August 1991.
+
+**Meta:** A1.2 Unit 5 · Dialog 2 · added 2026-10-03
+
+---
+
+## Das Datum
+
+**Frame:** `Wie lautet Ihr Geburtsdatum?` → `Der X. Y. Z.`
+**Meaning:** ask for and give a date
+**Slot:** day + month + year, often with *am* plus ordinal in the answer
+**Register:** formal
+
+**Instances**
+- Wie lautet Ihr Geburtsdatum? → Der 3. August 1991.
+- Wann haben Sie Geburtstag? → Am dritten August.
+- Welches Datum ist heute? → Heute ist der erste August.
+
+**Ladder**
+1. Welches Datum ist heute?
+2. Heute ist der erste August.
+3. Wie lautet Ihr Geburtsdatum?
+4. Der 3. August 1991.
+5. Wann ist Ihr Geburtstag?
+6. Am dritten August.
+
+**Meta:** A1.2 Unit 5 · Dialog 2 · added 2026-10-03
+
+---
+
+## Ordinalzahlen
+
+**Frame:** `am + ordinal + month`
+**Meaning:** dates with ordinals in German
+**Slot:** *dritte, fünfte, zwanzigste* …
+**Register:** neutral
+
+**Behind it:** 1.–19. take *-te*; 20+ take *-ste*; irregular *erste, dritte, siebte*.
+
+**Instances**
+- am dritten August
+- am fünfzehnten Juli
+- der erste April
+
+**Ladder**
+1. der erste
+2. der zweite
+3. der dritte
+4. der siebte
+5. am dritten August
+6. am fünfzehnten Juli
+
+**Meta:** A1.2 Unit 5 · Dialog 2 · added 2026-10-03
+
+---
+
+## Im Kurs
+
+**Frame:** `das/dein X` for classroom items
+**Meaning:** vocabulary in a German class
+**Slot:** noun with article, plural if present
+**Register:** neutral
+
+**Instances**
+- der Stift / der Kuli
+- das Heft / die Tafel
+- der Lehrer / die Lehrerin
+- die Klasse / der Unterricht
+
+**Ladder**
+1. der Stift
+2. der Kuli
+3. das Heft
+4. die Tafel
+5. der Lehrer
+6. die Lehrerin
+7. die Klasse
+
+**Meta:** A1.2 Unit 5 · Dialog 3 · added 2026-10-03
+
+---
+
+## Imperativ formell
+
+**Frame:** `Verb + Sie + rest`
+**Meaning:** formal command or request
+**Slot:** infinitive or finite verb before *Sie*
+**Register:** formal
+
+**Behind it:** separable verbs split: *Füllen Sie dieses Formular aus!*; add *bitte* for politeness.
+
+**Instances**
+- Nehmen Sie meinen Kuli!
+- Füllen Sie dieses Anmeldeformular aus!
+- Seien Sie bitte pünktlich!
+
+**Ladder**
+1. Nehmen Sie meinen Kuli!
+2. Füllen Sie das Formular aus!
+3. Seien Sie bitte pünktlich!
+4. Schreiben Sie die Übung.
+5. Ergänzen Sie das Wort.
+
+**Meta:** A1.2 Unit 5 · Dialog 3 · added 2026-10-03
+
+---
+
+## Alternativer Imperativ
+
+**Frame:** `Infinitiv` (command without *Sie*)
+**Meaning:** compressed instruction
+**Slot:** short command; pronoun omitted
+**Register:** brisk / teacher-like
+
+**Instances**
+- Und immer die Hausaufgaben machen!
+- Hausaufgaben nicht vergessen!
+
+**Ladder**
+1. Hausaufgaben machen!
+2. Die Hausaufgaben machen!
+3. Nicht vergessen!
+4. Bitte das Formular ausfüllen!
+
+**Meta:** A1.2 Unit 5 · Dialog 3 · added 2026-10-03
+
+---
+
+## sollen
+
+**Frame:** `Ich soll + infinitive`
+**Meaning:** “I’m supposed to / should” as a repeated instruction
+**Slot:** subject + *sollen* + infinitive at the end, with separables kept whole
+**Register:** neutral
+
+**Instances**
+- Ich soll meine Daten eintragen.
+- Was soll ich machen?
+- Sie sollen heute pünktlich sein.
+
+**Ladder**
+1. Was soll ich machen?
+2. Ich soll das Formular ausfüllen.
+3. Ich soll die Daten eintragen.
+4. Du sollst oft Deutsch sprechen.
+5. Wir sollen das Buch kaufen.
+
+**Meta:** A1.2 Unit 5 · Dialog 3 · added 2026-10-03
 
 ---
 

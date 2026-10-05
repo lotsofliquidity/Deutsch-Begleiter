@@ -237,3 +237,17 @@ schlafen — du?	du schläfst	a1.2 unit_04 verb
 schlafen — er/sie/es?	er/sie/es schläft	a1.2 unit_04 verb
 schlafen — ihr?	ihr schlaft	a1.2 unit_04 verb
 schlafen — ich / wir?	ich schlafe · wir schlafen	a1.2 unit_04 verb
+
+# ── A1.2 Unit 5 — Viel Spaß beim Deutschlernen! ──
+How do you connect two main clauses with and/but/or? 	und/aber/oder connect two main clauses	a1.2 unit_05 pattern
+Comma rule for main clauses? 	No comma before und/or; comma before aber	a1.2 unit_05 pattern
+What does the formal imperative do? 	Verb first, then Sie; separable verb splits at the end	a1.2 unit_05 pattern
+When do you use sollen? 	Repeated instruction / “be supposed to”	a1.2 unit_05 pattern
+noch mal — meaning?	again · once more	a1.1 teach adverbs unit_03
+“Please repeat the postal code once more.” (formal)	Bitte wiederholen Sie noch mal die Postleitzahl.	a1.1 teach chunks unit_03
+Bitte wiederholen Sie ___ die Postleitzahl.	noch mal	a1.1 teach adverbs unit_03
+What does noch mal ask someone to do?	Repeat / do it once again	a1.1 teach adverbs unit_03
+What does denn add to a question?	Curiosity / mild surprise; conversational flavour, not “because”	a1.1 teach particles unit_01
+Woher kommst du? — add conversational denn.	Woher kommst du denn?	a1.1 teach particles unit_01
+What does ja add in “Du bist ja lustig”?	It frames the statement as apparent or shared; it does not mean “yes”	a1.1 teach particles unit_08
+Du bist lustig. — add ja as a modal particle.	Du bist ja lustig.	a1.1 teach particles unit_08
