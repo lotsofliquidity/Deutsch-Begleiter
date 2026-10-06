@@ -40,6 +40,8 @@ course/a1.1/      # unit-NN-*.md + notes.md
 Per booklet folder:
 
 - `notes.md` — grammar spine (tables `/teach` starts from)
+- `partizip-ii.md` — consolidated partizip reference (a1.2)
+- `vergangenheit.md` — consolidated past-tense overview (a1.2)
 - `unit-NN-<slug>.md` — chunks, patterns, ladder
 - `practice/` — optional dated logs
 

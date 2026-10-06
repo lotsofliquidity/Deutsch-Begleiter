@@ -1248,3 +1248,127 @@ to know (a fact) — Partizip II?	gewusst	a1.2 unit_06 verb
 to know (a person/fact) — Partizip II?	gekannt	a1.2 unit_06 verb
 to bring — Partizip II?	gebracht	a1.2 unit_06 verb
 to burn — Partizip II?	gebrannt	a1.2 unit_06 verb
+
+# ── A1.2 Unit 7 — Was ist passiert? ──
+And I won.	Und ich habe gewonnen.	a1.2 unit_07 chunk
+Oh, pretty exhausting and chaotic.	Oh, ziemlich anstrengend und chaotisch.	a1.2 unit_07 chunk
+I'm totally exhausted (lit. broken).	Ich bin total kaputt.	a1.2 unit_07 chunk
+Why? What happened?	Wieso? Was ist passiert?	a1.2 unit_07 chunk
+First, I got up too late.	Zuerst bin ich zu spät aufgestanden.	a1.2 unit_07 chunk
+My alarm clock didn't ring.	Mein Wecker hat nicht geklingelt.	a1.2 unit_07 chunk
+My bike was gone!	Mein Fahrrad war weg!	a1.2 unit_07 chunk
+They stole your bike? (colloquial die for people)	Die haben dein Fahrrad geklaut?	a1.2 unit_07 chunk
+What color was your bike?	Welche Farbe hatte dein Fahrrad?	a1.2 unit_07 chunk
+Spit it out!	Spuck's aus.	a1.2 unit_07 chunk
+Did you still make it to class on time?	Und hast du es noch pünktlich zum Unterricht geschafft?	a1.2 unit_07 chunk
+No, but I was only five minutes late.	Nein, aber ich war nur fünf Minuten zu spät.	a1.2 unit_07 chunk
+Oh, but that's okay.	Ach, das ist doch okay.	a1.2 unit_07 chunk
+Oh, she's strict.	Oh, die ist ja streng.	a1.2 unit_07 chunk
+and then I fell asleep.	und dann bin ich eingeschlafen.	a1.2 unit_07 chunk
+What topic did you talk about?	Über welches Thema habt ihr denn geredet?	a1.2 unit_07 chunk
+Fortunately, German is my native language.	Zum Glück ist Deutsch meine Muttersprache.	a1.2 unit_07 chunk
+German grammar is a nightmare for us foreigners.	Die deutsche Grammatik ist ein Albtraum für uns Ausländer.	a1.2 unit_07 chunk
+You're starting to sound like my teacher.	Du klingst schon wie meine Lehrerin.	a1.2 unit_07 chunk
+I'm afraid of falling asleep again and again.	Ich habe Angst, immer wieder einzuschlafen.	a1.2 unit_07 chunk
+Why not? I'm always honest.	Wieso nicht? Ich bin immer ehrlich.	a1.2 unit_07 chunk
+Ah! I've got it!	Ah! Ich hab's!	a1.2 unit_07 chunk
+Of course, innocent.	Natürlich unschuldig.	a1.2 unit_07 chunk
+This afternoon they arrested me.	Heute Nachmittag haben Sie mich verhaftet.	a1.2 unit_07 chunk
+They said I was fare-dodging.	Sie haben gesagt, ich bin schwarzgefahren.	a1.2 unit_07 chunk
+But the judge didn't believe me.	Aber der Richter hat mir nicht geglaubt.	a1.2 unit_07 chunk
+Perfect. Aaaaand send.	Perfekt. Uuuuund absenden.	a1.2 unit_07 chunk
+I was always the best at making excuses.	Im Ausreden erfinden war ich immer der Beste.	a1.2 unit_07 chunk
+I'll just study with you guys now and with Anja's videos.	Ich lerne jetzt nur noch mit euch und Anjas Videos.	a1.2 unit_07 chunk
+Dear Mrs. Meier, (formal letter)	Sehr geehrte Frau Meier,	a1.2 unit_07 chunk
+Dear Mr. Müller, (formal letter)	Sehr geehrter Herr Müller,	a1.2 unit_07 chunk
+Dear Sir or Madam, (formal letter, name unknown)	Sehr geehrte Damen und Herren,	a1.2 unit_07 chunk
+Yours sincerely, (formal letter closing)	Mit freundlichen Grüßen	a1.2 unit_07 chunk
+Can you please send me information?	Können Sie mir bitte Informationen schicken?	a1.2 unit_07 chunk
+Thank you very much! I look forward to your reply.	Vielen Dank! Ich freue mich auf Ihre Antwort.	a1.2 unit_07 chunk
+Which auxiliary do movement verbs take in the Perfekt?	sein + Partizip II (change of place A → B)	a1.2 unit_07 pattern
+Where do the auxiliary and the participle sit in the Perfekt?	auxiliary in position 2, Partizip II at the end	a1.2 unit_07 pattern
+Which verbs take sein in the Perfekt besides movement verbs?	change of state (einschlafen, aufwachen, wachsen, sterben) plus passieren, bleiben, werden	a1.2 unit_07 pattern
+How do you say “What happened?”	Was ist passiert?	a1.2 unit_07 pattern
+How do you say “How was your day?” with gewesen?	Wie ist dein Tag gewesen? (= Wie war dein Tag?)	a1.2 unit_07 pattern
+After the salutation in a formal letter, how does the sentence continue?	comma, then lowercase (unless noun, name, or Sie)	a1.2 unit_07 pattern
+What is the formal letter closing?	Mit freundlichen Grüßen (no comma after it)	a1.2 unit_07 pattern
+What are the three parts of a formal e-mail?	Anrede · Text · Grußformel	a1.2 unit_07 pattern
+What word order follows denn (because)?	denn + subject + verb (denn sits at position 0)	a1.2 unit_07 pattern
+denn or weil — what is the difference?	denn keeps main-clause order (writing); weil sends the verb to the end (speaking)	a1.2 unit_07 pattern
+Which past tense do Germans use when speaking?	Perfekt; Präteritum mostly for sein/haben, stories, and news	a1.2 unit_07 pattern
+Präteritum of denken, wissen, es gibt?	dachte · wusste · es gab	a1.2 unit_07 pattern
+to go — Partizip II?	gegangen	a1.2 unit_07 verb
+to get up — Partizip II?	aufgestanden	a1.2 unit_07 verb
+to walk / run — Partizip II?	gelaufen	a1.2 unit_07 verb
+to drive / go — Partizip II?	gefahren	a1.2 unit_07 verb
+to swim — Partizip II?	geschwommen	a1.2 unit_07 verb
+to fly — Partizip II?	geflogen	a1.2 unit_07 verb
+to come — Partizip II?	gekommen	a1.2 unit_07 verb
+to travel — Partizip II?	gereist	a1.2 unit_07 verb
+to get on (a train) — Partizip II?	eingestiegen	a1.2 unit_07 verb
+to change (trains) — Partizip II?	umgestiegen	a1.2 unit_07 verb
+to get off — Partizip II?	ausgestiegen	a1.2 unit_07 verb
+to run — Partizip II?	gerannt	a1.2 unit_07 verb
+to fall asleep — Partizip II?	eingeschlafen	a1.2 unit_07 verb
+to wake up — Partizip II?	aufgewacht	a1.2 unit_07 verb
+to grow — Partizip II?	gewachsen	a1.2 unit_07 verb
+to die — Partizip II?	gestorben	a1.2 unit_07 verb
+to become — Partizip II?	geworden	a1.2 unit_07 verb
+to stay — Partizip II?	geblieben	a1.2 unit_07 verb
+to happen — Partizip II?	passiert	a1.2 unit_07 verb
+to be — Partizip II?	gewesen	a1.2 unit_07 verb
+to stand — Partizip II?	gestanden	a1.2 unit_07 verb
+to manage / make it — Partizip II?	geschafft	a1.2 unit_07 verb
+to ring — Partizip II?	geklingelt	a1.2 unit_07 verb
+to steal — Partizip II?	geklaut	a1.2 unit_07 verb
+to turn on — Partizip II?	angemacht	a1.2 unit_07 verb
+to tidy up — Partizip II?	aufgeräumt	a1.2 unit_07 verb
+to spell — Partizip II?	buchstabiert	a1.2 unit_07 verb
+to fare-dodge — Partizip II?	schwarzgefahren	a1.2 unit_07 verb
+the alarm clock	der Wecker · die Wecker	a1.2 unit_07 noun
+the basement / cellar	der Keller · die Keller	a1.2 unit_07 noun
+the bike	das Fahrrad · die Fahrräder	a1.2 unit_07 noun
+the color	die Farbe · die Farben	a1.2 unit_07 noun
+the native language	die Muttersprache · die Muttersprachen	a1.2 unit_07 noun
+the foreigner	der Ausländer · die Ausländer	a1.2 unit_07 noun
+the nightmare	der Albtraum · die Albträume	a1.2 unit_07 noun
+the fear	die Angst · die Ängste	a1.2 unit_07 noun
+the head	der Kopf · die Köpfe	a1.2 unit_07 noun
+punctuality	die Pünktlichkeit (no plural)	a1.2 unit_07 noun
+the master	der Meister · die Meister	a1.2 unit_07 noun
+the prison	das Gefängnis · die Gefängnisse	a1.2 unit_07 noun
+the judge	der Richter · die Richter	a1.2 unit_07 noun
+the mistake / error	der Irrtum · die Irrtümer	a1.2 unit_07 noun
+the salutation (letter)	die Anrede · die Anreden	a1.2 unit_07 noun
+the closing formula (letter)	die Grußformel · die Grußformeln	a1.2 unit_07 noun
+the signature	die Unterschrift · die Unterschriften	a1.2 unit_07 noun
+the afternoon	der Nachmittag · die Nachmittage	a1.2 unit_07 noun
+the shandy	das Radler · die Radler	a1.2 unit_07 noun
+the excuse	die Ausrede · die Ausreden	a1.2 unit_07 noun
+the topic	das Thema · die Themen	a1.2 unit_07 noun
+the class / lesson (in school)	der Unterricht (no plural)	a1.2 unit_07 noun
+the saying / proverb	der Spruch · die Sprüche	a1.2 unit_07 noun
+the idiom / figure of speech	die Redewendung · die Redewendungen	a1.2 unit_07 noun
+
+# ── Redewendungen — Idiom-Set (Kurs + Extras) ──
+An idiom for horror — “I don’t believe it!” (lit. my pig is whistling)	Ich glaub', mein Schwein pfeift.	a1.1 idioms unit_01
+You’re crazy! (lit. you don’t have all the cups in the cupboard)	Du hast nicht alle Tassen im Schrank.	a1.2 idioms unit_06
+Don't worry about it. (lit. don't make yourself a head)	Mach dir kein' Kopf.	a1.2 teach idioms unit_07
+Practice makes perfect. (lit. practice makes the master)	Übung macht den Meister!	a1.2 idioms unit_07
+Punctuality is five minutes ahead of time.	Pünktlichkeit ist fünf Minuten vor der Zeit.	a1.2 idioms unit_07
+Better to be too early than too late.	Lieber zu früh als zu spät da sein.	a1.2 idioms unit_07
+You are what you eat.	Du bist, was du isst.	a1.2 idioms unit_07
+Many cooks spoil the broth.	Viele Köche verderben den Brei.	a1.2 idioms unit_07
+Quark makes you strong.	Quark macht stark.	a1.2 idioms unit_07
+
+# ── Redewendungen — Extras (nicht aus dem Kurs) ──
+I'll keep my fingers crossed for you. (lit. I press you the thumbs)	Ich drücke dir die Daumen.	teach idioms
+Lucky! (lit. had pig)	Schwein gehabt!	idioms extra
+Are you crazy? (lit. do you have a bird?)	Hast du einen Vogel?	idioms extra
+You're not seeing what's right in front of you. (lit. tomatoes on your eyes)	Du hast Tomaten auf den Augen.	idioms extra
+It's all Greek to me. (lit. I only understand train station)	Ich verstehe nur Bahnhof.	teach idioms
+I'm completely exhausted. (fix und fertig)	Ich bin fix und fertig.	idioms extra
+I'm fed up. (lit. I have the nose full)	Ich habe die Nase voll.	teach idioms
+I don't care. (lit. that's sausage to me)	Das ist mir Wurst.	teach idioms
+to have a hangover (lit. to have a tomcat)	einen Kater haben	teach idioms
+Better late than never.	Besser spät als nie.	idioms extra

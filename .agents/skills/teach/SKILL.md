@@ -92,16 +92,29 @@ If they want volume under pressure → `/drill`. If they want a new unit parsed 
 4. **Mini-check** — 2–3 prompts in **one** message (allowed here; `/drill` stays
    one-at-a-time). Correct gently (close enough = ✓). One more batch max.
 
-5. **Anki** — append **4–8 atomic cards** to `anki/German.txt`  
-   - Not the whole table as one card  
-   - **Production direction:** cue on front, German on back (same as survival chunks / nouns)
-   - Tags: `a1.1 teach <topic>` (e.g. `a1.1 teach articles`) + `unit_NN` when clear  
-   - Run `python3 anki/validate_deck.py`, then `python3 anki/split_core.py`  
+5. **Anki — propose, don't write.**
+   Teaching a topic is **not** permission to add cards. Offer the set and wait:
+
+   > “4 cards for this — *Ich trinke kein Bier.*, … Want them in the glossary?”
+
+   Only write on an explicit yes in the current conversation. See the **Anki
+   discipline** section in [`AGENTS.md`](../../../AGENTS.md).
+   - When you do write: **glossary by default** — a plain topic tag (`idioms`,
+     `a1.2 wordfield`) that stays out of the deck.
+   - `teach <topic>` (which *does* reach the deck) only when the user explicitly asks
+     for it in SRS.
+   - Not the whole table as one card · **production direction** (cue on front, German
+     on back) · `unit_NN` when clear
+   - Run `python3 anki/validate_deck.py`, then `python3 anki/split_core.py`
    - Tell them count + tag
 
 6. **Offer** `/drill` on the related pattern/unit when they want pressure.
 
 ## Card shapes (learned paradigms)
+
+Shapes only — the tags below show the **deck** variant. Unless the user asked for SRS,
+write these with a plain topic tag (`idioms`, `a1.2 wordfield`) so they stay in
+`German.txt`.
 
 **Indefinite / definite articles**
 

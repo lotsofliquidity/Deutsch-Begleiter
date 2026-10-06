@@ -13,23 +13,48 @@ cards) · `anki/German-core.txt` (deck — `pattern`/`verb`/`teach` only, genera
 `python3 anki/split_core.py`). **All cards go to German.txt; only the core tags reach
 the deck.**
 
+## Anki discipline
+
+**Core stays lean.** `German-core.txt` is the SRS deck — the grammar skeleton
+(`pattern`/`verb`/`teach`). It is not a place to park things we happened to discuss.
+
+**Do not add cards for anything discussed in chat without an explicit instruction.** A
+topic coming up in `/teach`, a question, or a side conversation is *not* a reason to
+write cards. If cards would help, **propose them and wait** — count, fronts, and where
+they'd go. Only write on a clear yes.
+
+**Two sanctioned write paths:**
+1. `/ingest` — the unit workflow writes cards as part of parsing a unit (`chunk`,
+   `noun`, `verb`, `pattern`).
+2. An explicit instruction in the current conversation ("card that", "add these").
+
+**Tag for the glossary by default.** Chat-derived or reference material gets a plain
+topic tag (`idioms`, `a1.2 wordfield`) → visible in `German.txt`, **not** imported into
+the deck. Reach for `pattern`/`verb`/`teach` only when the user has explicitly said
+they want it in SRS.
+
 ## Due revisits
 
 At the **start** of any German session in this repo (or when the user asks what's due):
 
-1. Read `MISTAKES.md` → **Open entries**.
+1. Read `MISTAKES.md` → **Open entries** and **Planned drills**.
 2. Today's date is the session date (from user_info if present).
 3. Flag every `OPEN` or `RECURRED` row whose **Revisit due** is today or earlier.
-4. If any are due, lead with a short list before other work:
+4. Flag every **Planned drills** row whose **Due** is today or earlier — self-scheduled
+   practice, not a logged error. Put it in the same list, marked *planned*.
+5. If any are due, lead with a short list before other work:
 
 ```
 Due revisits (cold — no notes, answer out loud):
 - <pattern or chunk> (due <date>) — <went wrong, one line>
+
+Planned (from MISTAKES.md):
+- <topic> (due <date>) — <one line>
 ```
 
-5. Ask: fold one into today's round, or continue with what they came for?
-6. If none due: say nothing about revisits (don't spam "all clear").
-7. After a clean cold revisit: set that row to `PASSED` and move it to **Closed
+6. Ask: fold one into today's round, or continue with what they came for?
+7. If none due: say nothing about revisits (don't spam "all clear").
+8. After a clean cold revisit: set that row to `PASSED` and move it to **Closed
    entries**. Soft pass if close enough. If they fail clearly: `RECURRED`, new
    revisit due = today + 14 days; keep the old row and re-log per the `MISTAKES.md`
    rules.

@@ -93,7 +93,8 @@ a drill round. Add traps to `patterns.md` only if it will recur as a frame issue
 
 ## Mistakes
 
-Due revisits: read `MISTAKES.md` Open entries at session start; list if Revisit due ≤ today.
+Due revisits: read `MISTAKES.md` Open entries and Planned drills at session start; list if
+Revisit due / Due ≤ today.
 Ingest itself rarely logs; logging is mainly `/drill`.
 
 ## Tone

@@ -46,8 +46,12 @@
 
 **Also — Unregelmäßiges Partizip II (booklet, Dialog 3):**
 - Strong verbs often form the Partizip II with *ge…en* and may change the stem: *sehen → gesehen*, *sprechen → gesprochen*, *trinken → getrunken*.
-- The booklet's forms and answer-key examples are collected in the U6 irregular participle table in [`notes.md`](notes.md); each form has an individual Anki card.
+- The booklet's forms and answer-key examples are collected in [`partizip-ii.md`](partizip-ii.md); each form has an individual Anki card.
 - Irregular separable verbs place *ge* after the prefix: *mitnehmen → mitgenommen*, *fernsehen → ferngesehen*.
+
+**Also — Redewendung (booklet, Dialog 3):**
+- *Du hast nicht alle Tassen im Schrank.* — “you’re crazy” (lit. *you don’t have all the cups in the cupboard*). The booklet glosses it in the dialog itself: *Eine Redewendung, die bedeutet: Du bist verrückt!*
+- The noun *die Tasse* is a U4 vocabulary item; the idiom is the U6 item.
 
 ## Patterns introduced
 
@@ -56,6 +60,7 @@
 - [`Regelmäßiges Partizip II`](../../patterns/patterns.md#regelmäßiges-partizip-ii) — new
 - [`Eine Geschichte erzählen`](../../patterns/patterns.md#eine-geschichte-erzählen) — new
 - [`Unregelmäßiges Partizip II`](../../patterns/patterns.md#unregelmäßiges-partizip-ii) — new
+- [`Redewendungen und Sprüche`](../../patterns/patterns.md#redewendungen-und-sprüche) — *Du hast nicht alle Tassen im Schrank.* (Dialog 3)
 
 ## Drill ladder
 

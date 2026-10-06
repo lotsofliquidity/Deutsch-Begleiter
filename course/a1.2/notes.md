@@ -17,6 +17,7 @@ Grammar spine for A1.2. A1.1 stays in `course/a1.1/notes.md`.
 ## Präteritum *sein* / *haben* (U1)
 
 Spoken past for these two. Other verbs wait for the perfect.
+Consolidated overview of the whole past-tense system: [`vergangenheit.md`](vergangenheit.md).
 
 | | sein | haben |
 |---|---|---|
@@ -297,46 +298,17 @@ Verbs ending in *-ieren* do not take *ge-*; add *-t* to the stem: *studieren →
 
 *Hast du gestern Hausaufgaben gemacht?* · *Was hast du gestern gemacht?* · *Ich habe die ganze Nacht durchtrainiert.*
 
-### Irregular Partizip II forms (U6)
+### Irregular Partizip II forms
 
-Many strong verbs form the participle with *ge…en* and often change the stem vowel. Learn each form with its infinitive.
+Many strong verbs form the participle with *ge…en* and often change the stem vowel; a few
+irregular verbs end in *-t* instead. Separable verbs put *ge* after the prefix. All forms
+are in the consolidated list: [`partizip-ii.md`](partizip-ii.md).
 
-| Infinitive | Partizip II |
-|---|---|
-| fangen | gefangen |
-| schlafen | geschlafen |
-| sehen | gesehen |
-| lesen | gelesen |
-| schreiben | geschrieben |
-| treffen | getroffen |
-| trinken | getrunken |
-| essen | gegessen |
-| sprechen | gesprochen |
-| nehmen | genommen |
-| finden | gefunden |
-| sitzen | gesessen |
-| helfen | geholfen |
-| mitnehmen | mitgenommen |
-| abwaschen | abgewaschen |
-| fernsehen | ferngesehen |
-| anfangen | angefangen |
-| mitbringen | mitgebracht |
-| ausschlafen | ausgeschlafen |
-| anrufen | angerufen |
-| ausziehen | ausgezogen |
-| aufschreiben | aufgeschrieben |
-
-Some irregular verbs instead end in *-t*:
-
-| Infinitive | Partizip II |
-|---|---|
-| denken | gedacht |
-| wissen | gewusst |
-| kennen | gekannt |
-| bringen | gebracht |
-| brennen | gebrannt |
-
-For irregular separable verbs, *ge* goes after the prefix: *mitnehmen → mitgenommen*.
+| Group | Built as | Example |
+|---|---|---|
+| strong | `ge…en` | *sprechen → gesprochen* |
+| irregular *-t* | `ge…t`, stem changes | *denken → gedacht* |
+| separable | `Präfix + ge…` | *mitnehmen → mitgenommen* |
 
 ## Eine Geschichte erzählen (U6)
 
@@ -348,3 +320,89 @@ For irregular separable verbs, *ge* goes after the prefix: *mitnehmen → mitgen
 | *zum Schluss* | finally / at the end |
 
 Use these to order events. When a sequence word starts the sentence, the conjugated verb remains in position 2: *Dann hat er seine Ex-Frau abgeholt.*
+
+---
+
+## Perfekt mit “sein” (U7)
+
+Some verbs build the perfect with *sein* instead of *haben*. Conjugated in position 2, participle at the end.
+
+| Person | sein |
+|---|---|
+| ich | bin |
+| du | bist |
+| er/sie/es | ist |
+| wir | sind |
+| ihr | seid |
+| sie/Sie | sind |
+
+*Ich bin in den Keller gegangen.* · *Katie ist zu spät aufgestanden.* · *Sie sind gerannt.*
+
+| Group | Verbs | Example |
+|---|---|---|
+| **Ortswechsel** (place changes A → B) | *gehen · aufstehen · laufen · fahren · schwimmen · fliegen · kommen · reisen · einsteigen · umsteigen · aussteigen · rennen* | *Wir sind nach Deutschland geflogen.* |
+| **Zustandsänderung** (situation changes) | *einschlafen · aufwachen · wachsen · sterben* | *Katie ist im Kurs eingeschlafen.* |
+| **Andere Verben** (no movement, no state change) | *passieren · bleiben · werden* | *Was ist passiert?* · *Ich bin zu Hause geblieben.* |
+| **sein selbst** | *sein → ist gewesen* | *Wie ist dein Tag gewesen?* (= *Wie war dein Tag?*) |
+
+*werden* → *ist geworden* (*Katie ist Friseurin geworden.*). Other regular verbs stay with *haben*: *Ich habe gefrühstückt.*
+
+### Partizip II forms
+
+Movement and change-of-state verbs, plus the irregular forms the unit uses — all listed in
+[`partizip-ii.md`](partizip-ii.md). In U7 the **auxiliary**, not the form, is the decision:
+
+| Group | Auxiliary | Example |
+|---|---|---|
+| Ortswechsel (A → B) | **sein** | *eingestiegen · aufgestanden · geflogen* |
+| Zustandsänderung | **sein** | *eingeschlafen · aufgewacht · gewachsen* |
+| andere (no movement) | **sein** | *passiert · geblieben · geworden · gewesen* |
+| everything else | **haben** | *gefrühstückt · gelernt · studiert* |
+
+## Tagesablauf (U7)
+
+Same steps, two tenses:
+
+| Präsens | Perfekt |
+|---|---|
+| *Ich stehe um 7 Uhr auf.* | *Ich bin um 7 Uhr aufgestanden.* |
+| *Dann frühstücke ich.* | *Dann habe ich gefrühstückt.* |
+| *Danach fahre ich zur Arbeit.* | *Danach bin ich zur Arbeit gefahren.* |
+| *Um 8 Uhr fange ich mit der Arbeit an.* | *Um 8 Uhr habe ich mit der Arbeit angefangen.* |
+| *Nach der Arbeit kaufe ich im Supermarkt ein.* | *Nach der Arbeit habe ich im Supermarkt eingekauft.* |
+| *Um 23 Uhr gehe ich ins Bett.* | *Um 23 Uhr bin ich ins Bett gegangen.* |
+
+## Kausalsätze mit “denn” (U7)
+
+*denn* gives a reason and answers *Warum? / Wieso?*. It stands at **position 0** and joins two main clauses, so the second clause keeps normal order (subject 1, verb 2). Comma before *denn*.
+
+*Ich kann leider nicht mehr am Unterricht teilnehmen, denn ich sitze im Gefängnis.*
+*Sie isst nichts zum Frühstück, denn sie hat keinen Hunger.*
+*…, denn heute muss ich arbeiten.* (another word in position 1 → subject after the verb)
+
+The booklet notes that *denn* is common in writing; in speech *weil* is used instead (verb to the end, A2.1).
+
+## E-Mail / Brief formell (U7)
+
+Three parts: *Anrede · Text · Grußformel*.
+
+| Part | Form |
+|---|---|
+| Anrede, feminin | *Sehr geehrte Frau Stock,* |
+| Anrede, maskulin | *Sehr geehrter Herr Kraut,* |
+| Anrede, name unknown | *Sehr geehrte Damen und Herren,* |
+| Grußformel | *Mit freundlichen Grüßen* + name |
+
+After the salutation: comma, then the sentence continues **lowercase** (unless it is a noun, a name, or formal *Sie*). After *Mit freundlichen Grüßen*: **no** comma. *MfG* only in informal e-mails; use the full closing in letters and exams.
+
+## Perfekt vs Präteritum (U7)
+
+| Form | Built with | Used for |
+|---|---|---|
+| Perfekt | *haben/sein* + Partizip II | spoken past |
+| Präteritum | one verb form | stories, literature, news; *sein/haben* in speech |
+
+*Ich habe gekocht. · Ich bin gegangen. · Ich bin eingeschlafen.* vs *Ich war zu Hause. · Katie hatte eine kleine Wohnung.*
+
+A few verbs prefer the Präteritum even when speaking: *denken → dachte · wissen → wusste · es gibt → es gab*.
+*Ich dachte, du kommst morgen.* · *Es gab keine Milch im Supermarkt.* · *Ich wusste die Antwort nicht.*

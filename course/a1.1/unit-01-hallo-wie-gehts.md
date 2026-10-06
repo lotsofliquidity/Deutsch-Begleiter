@@ -36,6 +36,10 @@ Booklet **Neue Chunks** (all 10 per dialog from LÖSUNGEN).
 | 9 | Ich spreche fließend Deutsch, Englisch, Chinesisch, Japanisch und natürlich die Sprache der Liebe. | I speak fluent German, English, Chinese, Japanese and of course the language of love. |
 | 10 | Etwas Französisch. | A little French. |
 
+**Also — Redewendung (booklet footnote, Dialog 2):**
+- *Ich glaub’, mein Schwein pfeift.* — a typical German idiom for **horror / disbelief** (lit. “I think my pig is whistling”). The booklet flags it right after the *Mahlzeit!* line.
+- Carded separately as its own idiom; the Neue Chunk above only carries the gloss sentence.
+
 ### Dialog 3 — Wie heißt du?
 
 | # | Chunk | Meaning |
@@ -64,6 +68,7 @@ Booklet **Neue Chunks** (all 10 per dialog from LÖSUNGEN).
 - [`Welche Sprachen sprichst du?`](../../patterns/patterns.md#welche-sprachen-sprichst-du)
 - [`Wie heißt du? → Ich heiße X.`](../../patterns/patterns.md#wie-heißt-du--ich-heiße-x)
 - [`eigentlich` in questions](../../patterns/patterns.md#eigentlich-in-questions)
+- [`Redewendungen und Sprüche`](../../patterns/patterns.md#redewendungen-und-sprüche) — *Ich glaub’, mein Schwein pfeift.* (Dialog 2)
 
 ## Drill ladder
 

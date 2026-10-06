@@ -330,11 +330,19 @@ Most: no article (*Deutschland, Australien*). Exceptions with article: *die Schw
 
 ## nicht vs kein (U8)
 
+*nicht* negates everything **except** a noun. *kein/keine* is the negative of *ein/eine* (and of the absent plural article), so it only ever stands **in front of a noun**.
+
 | Negate | With | Example |
 |---|---|---|
 | verb | **nicht** | *Ich arbeite nicht.* |
 | adjective | **nicht** | *Das ist nicht weit.* |
-| noun | **kein/keine** | *Ich habe keine Zeit.* · *keine Geschäfte* |
+| adverb / place | **nicht** | *Ich bin nicht von hier.* |
+| noun (after *ein/eine*, or no article) | **kein/keine** | *Ich habe keine Zeit.* · *Hier sind keine Geschäfte.* |
+
+The **noun** is what forces *kein* — even for mass nouns that took no article in the positive: *Ich trinke Bier.* → *Ich trinke kein Bier.* (not ~~*nicht Bier*~~).
+Nouns with *der/die/das* or a possessive really do take *nicht* (*Das ist nicht mein Koffer.*) — that distinction comes later.
+
+*kein* declines like *ein*: m/n **kein** · f/pl **keine** · accusative masculine **keinen**.
 
 ---
 

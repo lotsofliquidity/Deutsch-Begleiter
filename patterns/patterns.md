@@ -92,6 +92,14 @@ Taught by `/ingest`. Drilled by `/drill`. Source PDFs: `courses/`.
 | [sollen](#sollen) | be supposed to / should | A1.2 U5 |
 | [Eine Geschichte erzählen](#eine-geschichte-erzählen) | sequence events in a story | A1.2 U6 |
 | [Unregelmäßiges Partizip II](#unregelmäßiges-partizip-ii) | learn strong and irregular participle forms | A1.2 U6 |
+| [Perfekt mit sein — Ortswechsel](#perfekt-mit-sein--ortswechsel) | movement verbs: *sein* + Partizip II | A1.2 U7 |
+| [Perfekt mit sein — Zustandsänderung](#perfekt-mit-sein--zustandsänderung) | change of state: *sein* + Partizip II | A1.2 U7 |
+| [Perfekt mit sein — andere Verben](#perfekt-mit-sein--andere-verben) | *passieren / bleiben / werden* · *sein → gewesen* | A1.2 U7 |
+| [Tagesablauf](#tagesablauf) | *um X Uhr · dann · danach* | A1.2 U7 |
+| [Redewendungen und Sprüche](#redewendungen-und-sprüche) | fixed sayings · course + marked extras | A1.1 U1 · A1.2 U6/U7 |
+| [Eine E-Mail schreiben (formell)](#eine-e-mail-schreiben-formell) | formal salutation + closing | A1.2 U7 |
+| [Kausalsätze mit denn](#kausalsätze-mit-denn) | *denn* + main-clause order | A1.2 U7 |
+| [Perfekt vs Präteritum](#perfekt-vs-präteritum) | spoken vs written past | A1.2 U7 |
 
 Seed patterns not yet drilled from early units: [Hast du X dabei?](#hast-du-x-dabei) · [Wohin + Verb](#wohin--verb-der-bewegung)
 
@@ -949,6 +957,9 @@ Seed patterns not yet drilled from early units: [Hast du X dabei?](#hast-du-x-da
 **Register:** either
 
 **Behind it:** Booklet: *Ich arbeite nicht.* · *Das ist nicht weit.* vs *Ich habe keine Zeit.* · *Hier sind keine Geschäfte.*
+The noun is the trigger, not the verb — even mass nouns that take no article in the positive take *kein*: *Ich trinke kein Bier.*
+
+**SRS:** the rule lives in the deck as a `pattern` card (`nicht vs kein?`), with *keine — when?* and *kein → keinen* beside it. That's the whole deck footprint — the example tier was dropped, so the instances and ladder below are the reference.
 
 **Instances**
 - Nein, ich arbeite nicht.
@@ -2343,6 +2354,264 @@ Seed patterns not yet drilled from early units: [Hast du X dabei?](#hast-du-x-da
 
 ---
 
+## Perfekt mit sein — Ortswechsel
+
+**Frame:** `Ich bin <Partizip II> + Ziel`
+**Meaning:** present perfect of movement verbs — the subject moves from A to B
+**Slot:** the participle of a movement verb; auxiliary *sein* in position 2, participle at the end
+**Register:** neutral / spoken
+
+**Behind it:** These verbs take **sein**, not *haben*: *gehen · aufstehen · laufen · fahren · schwimmen · fliegen · kommen · reisen · ein-/um-/aussteigen · rennen*.
+
+**Instances**
+- Ich bin in den Keller gegangen.
+- Katie ist zu spät aufgestanden.
+- Sie ist zur S-Bahn gelaufen.
+- Sie ist zum Deutschkurs gefahren.
+- Wir sind geschwommen.
+- Katie und Gogo sind nach Deutschland geflogen.
+- Bobbi ist nach Hause gekommen.
+- Ihr seid durch Europa gereist.
+- Du bist in die S-Bahn eingestiegen.
+- Sie sind aus dem Zug ausgestiegen.
+
+**Ladder**
+1. Ich gehe in den Keller. → Perfekt?
+2. Katie steht zu spät auf. → Perfekt?
+3. Sie läuft zur S-Bahn. → Perfekt?
+4. Wir schwimmen. → Perfekt?
+5. Sie steigt in den Zug ein. → Perfekt?
+6. Ihr reist nach Europa. → Perfekt?
+7. Trap: *Ich habe gegangen* — movement verbs take *sein*.
+
+**Meta:** A1.2 Unit 7 · Dialog 1 · added 2026-10-06
+
+---
+
+## Perfekt mit sein — Zustandsänderung
+
+**Frame:** `sein + Partizip II` for verbs whose situation changes
+**Meaning:** the subject enters a new state (fall asleep, wake up, grow, die)
+**Slot:** change-of-state verb
+**Register:** neutral / spoken
+
+**Behind it:** No movement from A to B, but something *becomes different* — the booklet groups these with the movement verbs under *sein*.
+
+**Instances**
+- einschlafen → Katie ist im Kurs eingeschlafen.
+- aufwachen → Sie ist später wieder aufgewacht.
+- wachsen → Die Bäume sind gewachsen.
+- sterben → David Bowie ist 2016 gestorben.
+
+**Ladder**
+1. Katie schläft ein. → Perfekt?
+2. Sie wacht später wieder auf. → Perfekt?
+3. Die Bäume wachsen. → Perfekt?
+4. David Bowie stirbt 2016. → Perfekt?
+5. Trap: *Sie hat eingeschlafen.* — a change of state also takes *sein*.
+
+**Meta:** A1.2 Unit 7 · Dialog 2 · added 2026-10-06
+
+---
+
+## Perfekt mit sein — andere Verben
+
+**Frame:** `sein + Partizip II` · *sein* → `ist gewesen`
+**Meaning:** *passieren · bleiben · werden* take *sein* with no movement or change of state; *sein* itself forms the perfect with *gewesen*
+**Slot:** the verb; *gewesen* for *sein*
+**Register:** neutral / spoken
+
+**Behind it:** *Wie ist dein Tag gewesen?* = *Wie war dein Tag?* — the perfect exists, but the Präteritum is preferred for *sein/haben*.
+
+**Instances**
+- Was ist passiert?
+- Ich bin zu Hause geblieben.
+- Katie ist Friseurin geworden.
+- Wie ist dein Tag gewesen? = Wie war dein Tag?
+- Ich bin fünf Minuten zu spät gewesen. = Ich war fünf Minuten zu spät.
+
+**Ladder**
+1. Was passiert? → Perfekt?
+2. Ich bleibe zu Hause. → Perfekt?
+3. Sie wird Friseurin. → Perfekt?
+4. Say “How was your day?” with *gewesen*.
+5. Trap: *Was hat passiert?* — *passieren* takes *sein*.
+
+**Meta:** A1.2 Unit 7 · Dialog 2 · added 2026-10-06
+
+---
+
+## Tagesablauf
+
+**Frame:** `Um X Uhr … · dann … · danach … · nach der Arbeit …`
+**Meaning:** describe a daily routine — in the present or in the perfect
+**Slot:** time expression + activity; *zuerst / dann / danach* sequence the steps
+**Register:** neutral
+
+**Behind it:** Same steps, two tenses: *Ich stehe um 7 Uhr auf.* ↔ *Ich bin um 7 Uhr aufgestanden.* Separable verbs keep their prefix at the end, and it moves before *ge-* in the participle.
+
+**Instances**
+- Ich stehe um 7 Uhr auf. · Ich bin um 7 Uhr aufgestanden.
+- Dann frühstücke ich. · Dann habe ich gefrühstückt.
+- Um 8 Uhr fange ich mit der Arbeit an. · Um 8 Uhr habe ich mit der Arbeit angefangen.
+- Nach der Arbeit kaufe ich im Supermarkt ein. · Nach der Arbeit habe ich im Supermarkt eingekauft.
+- Um 23 Uhr gehe ich ins Bett. · Um 23 Uhr bin ich ins Bett gegangen.
+
+**Ladder**
+1. Say “I get up at 7 a.m.”
+2. Say “Then I have breakfast.”
+3. Say “At 8 a.m. I start work.”
+4. Say “After work I go shopping at the supermarket.”
+5. Say “At 11 p.m. I go to bed.”
+6. Say all five in the perfect.
+7. Trap: *Um 8 Uhr fange ich … an*, participle *angefangen*.
+
+**Meta:** A1.2 Unit 7 · Dialog 1 · added 2026-10-06
+
+---
+
+## Redewendungen und Sprüche
+
+**Frame:** fixed saying — learn it as one block
+**Meaning:** idioms and sayings the booklet flags, plus a marked starter set from outside the course
+**Slot:** none — no free slot
+**Register:** neutral; *Mach dir kein’ Kopf!* and *Das ist mir Wurst.* are casual
+
+**Behind it:** Sayings do not translate word for word. *Mach dir kein’ Kopf!* is really *Mach dir keinen Kopf!* — *kein’* is the swallowed *keinen*. The “lit.” cue on each card is the picture the German actually paints, and that picture is what makes it stick.
+
+**SRS:** only the **bold** six are in the deck (tag `teach idioms`). The other thirteen stay in the glossary only — filter `anki/German.txt` by `idioms` to see the whole set.
+
+### Aus dem Kurs
+
+| Sayings | Met in |
+|---|---|
+| *Ich glaub’, mein Schwein pfeift.* — horror / disbelief (lit. my pig is whistling) | A1.1 U1 |
+| *Du hast nicht alle Tassen im Schrank.* — you’re crazy (lit. not all cups in the cupboard) | A1.2 U6 |
+| ***Mach dir kein’ Kopf!*** — don’t worry | A1.2 U7 |
+| *Übung macht den Meister!* — practice makes perfect | A1.2 U7 |
+| *Pünktlichkeit ist fünf Minuten vor der Zeit.* — punctuality is five minutes ahead of time | A1.2 U7 |
+| *Lieber zu früh als zu spät da sein.* — better too early than too late | A1.2 U7 |
+| *Du bist, was du isst.* — you are what you eat | A1.2 U7 |
+| *Viele Köche verderben den Brei.* — many cooks spoil the broth | A1.2 U7 |
+| *Quark macht stark.* — quark makes you strong | A1.2 U7 |
+
+### Extras — **nicht aus dem Kurs**
+
+Well-attested everyday idioms, kept here as a starter set. Nothing else in this file is invented, but these ten have no unit behind them.
+
+| Saying | Meaning |
+|---|---|
+| ***Ich drücke dir die Daumen.*** | I’ll keep my fingers crossed |
+| *Schwein gehabt!* | Lucky! (lit. had pig) |
+| *Hast du einen Vogel?* | Are you crazy? (lit. do you have a bird?) |
+| *Du hast Tomaten auf den Augen.* | You’re missing what’s right in front of you |
+| ***Ich verstehe nur Bahnhof.*** | It’s all Greek to me (lit. I only understand train station) |
+| *Ich bin fix und fertig.* | I’m completely exhausted |
+| ***Ich habe die Nase voll.*** | I’m fed up (lit. I have the nose full) |
+| ***Das ist mir Wurst.*** | I don’t care (lit. that’s sausage to me) |
+| ***einen Kater haben*** | to have a hangover (lit. to have a tomcat) |
+| *Besser spät als nie.* | Better late than never |
+
+**Ladder**
+1. Say “Don’t worry about it.”
+2. Say “Practice makes perfect.”
+3. Say “Punctuality is five minutes ahead of time.”
+4. Say “You are what you eat.”
+5. Say “Many cooks spoil the broth.”
+6. Say “I’ll keep my fingers crossed for you.”
+7. Say “I’m fed up.”
+8. Say “It’s all Greek to me.”
+9. Trap: *kein’* = *keinen*, not a different word.
+10. Trap: *Ich verstehe nur Bahnhof* is the whole idiom — don’t translate *Bahnhof* literally.
+
+**Meta:** A1.1 U1 · A1.2 U6/U7 · extras added 2026-10-06
+
+---
+
+## Eine E-Mail schreiben (formell)
+
+**Frame:** `Sehr geehrte/r … ,` → text → `Mit freundlichen Grüßen`
+**Meaning:** formal salutation and closing for an e-mail or letter
+**Slot:** *Frau + Nachname* · *Herr + Nachname* · *Damen und Herren*
+**Register:** formal / written
+
+**Behind it:** After the salutation comes a comma and the next sentence starts **lowercase** (unless it is a noun, a name, or formal *Sie*). After *Mit freundlichen Grüßen* there is **no** comma. *MfG* is only for informal e-mails.
+
+**Instances**
+- Sehr geehrte Frau Stock,
+- Sehr geehrter Herr Kraut,
+- Sehr geehrte Damen und Herren,
+- ich kann leider nicht mehr am Unterricht teilnehmen.
+- Mit freundlichen Grüßen
+- Katie Koch
+
+**Ladder**
+1. Address a woman: Mrs. Meier
+2. Address a man: Mr. Müller
+3. Address unknown names.
+4. Close the letter.
+5. Write the sentence after the salutation: *ich kann leider nicht mehr am Unterricht teilnehmen.*
+6. Trap: *Ich* after the comma, or a comma after *Mit freundlichen Grüßen*.
+
+**Meta:** A1.2 Unit 7 · Dialog 3 · added 2026-10-06
+
+---
+
+## Kausalsätze mit denn
+
+**Frame:** `Hauptsatz, denn + Subjekt + Verb …`
+**Meaning:** *denn* gives a reason — it answers *Warum? / Wieso?*
+**Slot:** the reason, as a full main clause
+**Register:** more written than spoken
+
+**Behind it:** *denn* stands at **position 0** and connects two main clauses, so the second clause keeps normal order: subject in position 1, verb in position 2. Another word (e.g. *heute*) can take position 1 — then the subject moves behind the verb. Comma before *denn*. In speech *weil* is more common (verb to the end, A2.1).
+
+**Instances**
+- Ich kann leider nicht mehr am Unterricht teilnehmen, denn ich sitze im Gefängnis.
+- Ich kann leider nicht mehr zum Deutschunterricht kommen, denn Ihr Unterricht ist sooo langweilig.
+- Ich kann leider nicht zum Deutschunterricht kommen, denn heute muss ich arbeiten.
+
+**Ladder**
+1. … denn ich muss arbeiten.
+2. Sie isst nichts zum Frühstück, denn sie hat keinen Hunger.
+3. Hannes bleibt zu Hause, denn er muss Hausaufgaben machen.
+4. Katie mag Frau Stock nicht, denn sie ist zu streng.
+5. Bobbi ist sehr müde, denn er hat viel gearbeitet.
+6. Trap: *denn muss ich arbeiten* — *denn* does not flip the word order.
+
+**Meta:** A1.2 Unit 7 · Dialog 3 · added 2026-10-06
+
+---
+
+## Perfekt vs Präteritum
+
+**Frame:** spoken past = Perfekt · *sein/haben* + stories = Präteritum
+**Meaning:** two past forms that share one time level
+**Slot:** verb in either tense
+**Register:** spoken (Perfekt) vs written / narrative (Präteritum)
+
+**Behind it:** *Perfekt* with *haben/sein* + Partizip II is the normal spoken past. *Präteritum* belongs to stories, literature, and the news; *sein* and *haben* are also used in the Präteritum when speaking. A few verbs prefer the Präteritum even in speech: *denken · wissen · es gibt*.
+
+**Instances**
+- Ich habe gekocht. / Ich habe gegessen. / Ich bin gegangen. / Ich bin eingeschlafen.
+- Ich war zu Hause. · Katie hatte eine kleine Wohnung.
+- Ich dachte, du kommst morgen.
+- Es gab keine Milch im Supermarkt.
+- Ich wusste die Antwort nicht.
+
+**Ladder**
+1. Katie kocht. → Perfekt?
+2. Bobbi geht nach Hause. → Perfekt?
+3. Sie schlafen ein. → Perfekt?
+4. Ich bin in Australien gewesen. → Präteritum?
+5. Wir haben einen Hund. → Präteritum?
+6. Ich weiß das nicht. → Präteritum?
+7. Trap: *Ich habe gewesen* — *sein* goes to *war* when speaking.
+
+**Meta:** A1.2 Unit 7 · Dialog 3 · added 2026-10-06
+
+---
+
 ## Later seeds (not yet fully met)
 
 ### Hast du X dabei?
@@ -2411,6 +2680,14 @@ Seed patterns not yet drilled from early units: [Hast du X dabei?](#hast-du-x-da
 | *zu* too vs close | zu salzig | die Tür zumachen | adjective vs separable close |
 | *schlafen* du/er | du schläfst | ~~du schlafst~~ | *ä* in *du* and *er* |
 | compound article | das Bierglas | ~~der Bierglas~~ | article from the **last** noun |
+| movement verb auxiliary | Ich bin gegangen. | ~~Ich habe gegangen.~~ | change of place takes *sein* |
+| change of state | Sie ist eingeschlafen. | ~~Sie hat eingeschlafen.~~ | state change also takes *sein* |
+| *passieren / bleiben / werden* | Was ist passiert? | ~~Was hat passiert?~~ | *sein* with no movement |
+| perfect of *sein* | Wie ist dein Tag gewesen? | ~~Wie hat dein Tag gewesen?~~ | *sein* + *gewesen* = *war* |
+| *denn* (because) | …, denn ich muss arbeiten. | ~~…, denn muss ich arbeiten.~~ | *denn* is position 0, so normal order follows |
+| *denn* vs *weil* | denn + normal order | weil + verb at the end | writing vs speaking |
+| letter salutation | Sehr geehrte Frau Stock, / ich kann … | capital *Ich* after the comma | comma, then lowercase |
+| letter closing | Mit freundlichen Grüßen | ~~Mit freundlichen Grüßen,~~ | no comma after the closing |
 
 ---
 

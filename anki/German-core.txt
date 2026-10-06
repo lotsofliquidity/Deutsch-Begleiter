@@ -286,3 +286,55 @@ to know (a fact) — Partizip II?	gewusst	a1.2 unit_06 verb
 to know (a person/fact) — Partizip II?	gekannt	a1.2 unit_06 verb
 to bring — Partizip II?	gebracht	a1.2 unit_06 verb
 to burn — Partizip II?	gebrannt	a1.2 unit_06 verb
+
+# ── A1.2 Unit 7 — Was ist passiert? ──
+Which auxiliary do movement verbs take in the Perfekt?	sein + Partizip II (change of place A → B)	a1.2 unit_07 pattern
+Where do the auxiliary and the participle sit in the Perfekt?	auxiliary in position 2, Partizip II at the end	a1.2 unit_07 pattern
+Which verbs take sein in the Perfekt besides movement verbs?	change of state (einschlafen, aufwachen, wachsen, sterben) plus passieren, bleiben, werden	a1.2 unit_07 pattern
+How do you say “What happened?”	Was ist passiert?	a1.2 unit_07 pattern
+How do you say “How was your day?” with gewesen?	Wie ist dein Tag gewesen? (= Wie war dein Tag?)	a1.2 unit_07 pattern
+After the salutation in a formal letter, how does the sentence continue?	comma, then lowercase (unless noun, name, or Sie)	a1.2 unit_07 pattern
+What is the formal letter closing?	Mit freundlichen Grüßen (no comma after it)	a1.2 unit_07 pattern
+What are the three parts of a formal e-mail?	Anrede · Text · Grußformel	a1.2 unit_07 pattern
+What word order follows denn (because)?	denn + subject + verb (denn sits at position 0)	a1.2 unit_07 pattern
+denn or weil — what is the difference?	denn keeps main-clause order (writing); weil sends the verb to the end (speaking)	a1.2 unit_07 pattern
+Which past tense do Germans use when speaking?	Perfekt; Präteritum mostly for sein/haben, stories, and news	a1.2 unit_07 pattern
+Präteritum of denken, wissen, es gibt?	dachte · wusste · es gab	a1.2 unit_07 pattern
+to go — Partizip II?	gegangen	a1.2 unit_07 verb
+to get up — Partizip II?	aufgestanden	a1.2 unit_07 verb
+to walk / run — Partizip II?	gelaufen	a1.2 unit_07 verb
+to drive / go — Partizip II?	gefahren	a1.2 unit_07 verb
+to swim — Partizip II?	geschwommen	a1.2 unit_07 verb
+to fly — Partizip II?	geflogen	a1.2 unit_07 verb
+to come — Partizip II?	gekommen	a1.2 unit_07 verb
+to travel — Partizip II?	gereist	a1.2 unit_07 verb
+to get on (a train) — Partizip II?	eingestiegen	a1.2 unit_07 verb
+to change (trains) — Partizip II?	umgestiegen	a1.2 unit_07 verb
+to get off — Partizip II?	ausgestiegen	a1.2 unit_07 verb
+to run — Partizip II?	gerannt	a1.2 unit_07 verb
+to fall asleep — Partizip II?	eingeschlafen	a1.2 unit_07 verb
+to wake up — Partizip II?	aufgewacht	a1.2 unit_07 verb
+to grow — Partizip II?	gewachsen	a1.2 unit_07 verb
+to die — Partizip II?	gestorben	a1.2 unit_07 verb
+to become — Partizip II?	geworden	a1.2 unit_07 verb
+to stay — Partizip II?	geblieben	a1.2 unit_07 verb
+to happen — Partizip II?	passiert	a1.2 unit_07 verb
+to be — Partizip II?	gewesen	a1.2 unit_07 verb
+to stand — Partizip II?	gestanden	a1.2 unit_07 verb
+to manage / make it — Partizip II?	geschafft	a1.2 unit_07 verb
+to ring — Partizip II?	geklingelt	a1.2 unit_07 verb
+to steal — Partizip II?	geklaut	a1.2 unit_07 verb
+to turn on — Partizip II?	angemacht	a1.2 unit_07 verb
+to tidy up — Partizip II?	aufgeräumt	a1.2 unit_07 verb
+to spell — Partizip II?	buchstabiert	a1.2 unit_07 verb
+to fare-dodge — Partizip II?	schwarzgefahren	a1.2 unit_07 verb
+
+# ── Redewendungen — Idiom-Set (Kurs + Extras) ──
+Don't worry about it. (lit. don't make yourself a head)	Mach dir kein' Kopf.	a1.2 teach idioms unit_07
+
+# ── Redewendungen — Extras (nicht aus dem Kurs) ──
+I'll keep my fingers crossed for you. (lit. I press you the thumbs)	Ich drücke dir die Daumen.	teach idioms
+It's all Greek to me. (lit. I only understand train station)	Ich verstehe nur Bahnhof.	teach idioms
+I'm fed up. (lit. I have the nose full)	Ich habe die Nase voll.	teach idioms
+I don't care. (lit. that's sausage to me)	Das ist mir Wurst.	teach idioms
+to have a hangover (lit. to have a tomcat)	einen Kater haben	teach idioms

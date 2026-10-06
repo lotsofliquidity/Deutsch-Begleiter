@@ -97,6 +97,21 @@ Note what is **not** in there: the correct form.
 
 ---
 
+## Planned drills
+
+Self-scheduled practice — **not** logged errors. Nothing here has gone wrong yet; these
+are topics parked for a specific date because they aren't landing.
+
+Flag any row whose **Due** is today or earlier at session start, same as a due revisit.
+Once drilled, delete the row (or move the misses to **Open entries** via the `/drill`
+rules).
+
+| Due | Topic | Booklet | Note |
+|---|---|---|---|
+| 2026-10-10 | Past tense system — Perfekt vs Präteritum | A1.2 U6–U7 | Not landing: two forms, one time level. Drill the three decisions — participle form, auxiliary, placement. Set up 2026-10-06. |
+
+---
+
 ## Closed entries
 
 Move a row here once it's `PASSED`. Keep them — the tally is your progress measure.

@@ -16,8 +16,9 @@ Default round: **15 questions**.
 
 ## Session start
 
-0. Read `MISTAKES.md` Open entries. If any `OPEN`/`RECURRED` has **Revisit due ≤ today**,
-   list them briefly and ask whether to fold one in. Then start.
+0. Read `MISTAKES.md` Open entries **and Planned drills**. If any `OPEN`/`RECURRED` has
+   **Revisit due ≤ today** — or any planned drill's **Due ≤ today** — list them briefly
+   and ask whether to fold one in. Then start.
 1. Pick mode if unclear.
 2. **Question 1 immediately.** No preamble, no plan of the round.
 
