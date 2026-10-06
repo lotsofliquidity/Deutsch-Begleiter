@@ -46,6 +46,10 @@ check booklet + `_LOESUNGEN` in `courses/`.
    **Also** keep dialog footnotes / asterisk glosses (*denn*, *man*, *eigentlich*,
    *ja*, *doch*, register tips). If the booklet flags it, it belongs in chunks/notes —
    not only the big “Grammatik:” headings.
+   **Irregular verbs are study items:** record every irregular form taught or used in
+   the unit in `notes.md` as `infinitive → Partizip II` (including irregular `-t`
+   participles and irregular separable verbs), and add an individual production card
+   for each form to `German.txt`. Do not leave them only embedded in dialog chunks.
 3. Write **`course/<booklet>/unit-NN-<slug>.md`** (kebab slug, no umlauts).
 4. Upsert produceable frames into **`patterns/patterns.md`** (Meta: booklet + unit).
 5. Distill lookups into **`course/<booklet>/notes.md`** (tight tables only).
@@ -58,6 +62,7 @@ check booklet + `_LOESUNGEN` in `courses/`.
      - `chunk` front = English cue; parentheses = English sense/register only (validator flags answer leaks).
      - `pattern` = one grammar question → one short rule (particles, traps, frames).
      - `verb` = forms only; `noun` = `article + sg · article + pl`.
+     - Irregular participle `verb` cards: English cue with the infinitive on the front; Partizip II only on the back.
      - Two acceptable replies → two cards, not `A / B` on one back.
      - Register / disambiguation on the **front**, never as a mini-lesson on the back.
    - **Card the frame, not the dialog line.** Unit file keeps all 10 Neue Chunks

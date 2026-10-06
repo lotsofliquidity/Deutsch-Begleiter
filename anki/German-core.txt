@@ -251,3 +251,38 @@ What does denn add to a question?	Curiosity / mild surprise; conversational flav
 Woher kommst du? — add conversational denn.	Woher kommst du denn?	a1.1 teach particles unit_01
 What does ja add in “Du bist ja lustig”?	It frames the statement as apparent or shared; it does not mean “yes”	a1.1 teach particles unit_08
 Du bist lustig. — add ja as a modal particle.	Du bist ja lustig.	a1.1 teach particles unit_08
+
+# ── A1.2 Unit 6 — Wie war dein Tag? ──
+When do you use nach Hause vs zu Hause? 	nach Hause = movement / direction; zu Hause = location / being at home	a1.2 unit_06 pattern
+How do you build the present perfect with haben? 	haben + Partizip II (most regular verbs: ge + stem + t / et)	a1.2 unit_06 pattern
+Regular past participle pattern? 	ge + stem + t / et	a1.2 unit_06 pattern
+How do verbs ending in -ieren form the Partizip II? 	Stem + t, without ge	a1.2 unit_06 pattern
+to study — Partizip II?	studiert	a1.2 unit_06 verb
+How do you sequence events in a story?	zuerst → dann → danach → zum Schluss	a1.2 unit_06 pattern
+to catch — Partizip II?	gefangen	a1.2 unit_06 verb
+to sleep — Partizip II?	geschlafen	a1.2 unit_06 verb
+to see — Partizip II?	gesehen	a1.2 unit_06 verb
+to read — Partizip II?	gelesen	a1.2 unit_06 verb
+to write — Partizip II?	geschrieben	a1.2 unit_06 verb
+to meet — Partizip II?	getroffen	a1.2 unit_06 verb
+to drink — Partizip II?	getrunken	a1.2 unit_06 verb
+to eat — Partizip II?	gegessen	a1.2 unit_06 verb
+to speak — Partizip II?	gesprochen	a1.2 unit_06 verb
+to take — Partizip II?	genommen	a1.2 unit_06 verb
+to find — Partizip II?	gefunden	a1.2 unit_06 verb
+to sit — Partizip II?	gesessen	a1.2 unit_06 verb
+to help — Partizip II?	geholfen	a1.2 unit_06 verb
+to take along — Partizip II?	mitgenommen	a1.2 unit_06 verb
+to wash up — Partizip II?	abgewaschen	a1.2 unit_06 verb
+to watch TV — Partizip II?	ferngesehen	a1.2 unit_06 verb
+to begin — Partizip II?	angefangen	a1.2 unit_06 verb
+to bring along — Partizip II?	mitgebracht	a1.2 unit_06 verb
+to sleep in — Partizip II?	ausgeschlafen	a1.2 unit_06 verb
+to call — Partizip II?	angerufen	a1.2 unit_06 verb
+to take off — Partizip II?	ausgezogen	a1.2 unit_06 verb
+to write down — Partizip II?	aufgeschrieben	a1.2 unit_06 verb
+to think — Partizip II?	gedacht	a1.2 unit_06 verb
+to know (a fact) — Partizip II?	gewusst	a1.2 unit_06 verb
+to know (a person/fact) — Partizip II?	gekannt	a1.2 unit_06 verb
+to bring — Partizip II?	gebracht	a1.2 unit_06 verb
+to burn — Partizip II?	gebrannt	a1.2 unit_06 verb

@@ -90,6 +90,8 @@ Taught by `/ingest`. Drilled by `/drill`. Source PDFs: `courses/`.
 | [Imperativ formell](#imperativ-formell) | formal commands | A1.2 U5 |
 | [Alternativer Imperativ](#alternativer-imperativ) | short instruction forms | A1.2 U5 |
 | [sollen](#sollen) | be supposed to / should | A1.2 U5 |
+| [Eine Geschichte erzählen](#eine-geschichte-erzählen) | sequence events in a story | A1.2 U6 |
+| [Unregelmäßiges Partizip II](#unregelmäßiges-partizip-ii) | learn strong and irregular participle forms | A1.2 U6 |
 
 Seed patterns not yet drilled from early units: [Hast du X dabei?](#hast-du-x-dabei) · [Wohin + Verb](#wohin--verb-der-bewegung)
 
@@ -2197,6 +2199,147 @@ Seed patterns not yet drilled from early units: [Hast du X dabei?](#hast-du-x-da
 5. Wir sollen das Buch kaufen.
 
 **Meta:** A1.2 Unit 5 · Dialog 3 · added 2026-10-03
+
+---
+
+## nach Hause / zu Hause
+
+**Frame:** `Wohin?` → `nach Hause` · `Wo?` → `zu Hause`
+**Meaning:** movement vs location in the home direction
+**Slot:** home as destination vs home as position
+**Register:** neutral
+
+**Behind it:** *nach Hause* is for direction / movement; *zu Hause* is for being at home.
+
+**Instances**
+- Ich gehe nach Hause.
+- Er kommt spät nach Hause.
+- Ich bin zu Hause.
+- Wir essen heute zu Hause.
+
+**Ladder**
+1. Wohin gehst du? / Nach Hause.
+2. Wo bist du? / Zu Hause.
+3. Ich komme heute spät nach Hause.
+4. Bleibst du heute Abend zu Hause?
+5. Wir fliegen morgen nach Hause.
+6. Trap: *nach Hause* = motion, *zu Hause* = location
+
+**Meta:** A1.2 Unit 6 · Dialog 1 · added 2026-10-05
+
+---
+
+## Perfekt mit haben
+
+**Frame:** `haben + Partizip II`
+**Meaning:** the present perfect describes past actions in spoken German
+**Slot:** subject + *haben* + past participle at the end
+**Register:** neutral / spoken
+
+**Behind it:** Most regular verbs use *ge + stem + t* or *ge + stem + et*. Verbs ending in *-ieren* take no *ge-* and end in *-t*: *studieren → studiert*.
+
+**Instances**
+- Ich habe die ganze Nacht durchtrainiert.
+- Was hast du gestern gemacht?
+- Ich habe versucht, Fische zu fangen.
+- Wir haben lange gefrühstückt.
+- Sie hat hier studiert.
+- Wir haben heute mit Katie telefoniert.
+
+**Ladder**
+1. Was hast du gemacht?
+2. Ich habe heute gearbeitet.
+3. Ich habe die ganze Nacht durchtrainiert.
+4. Du hast lange gefrühstückt.
+5. Haben Sie den ganzen Tag gearbeitet?
+6. Trap: `hatte` in the dialogue is preterite, not this pattern
+
+**Meta:** A1.2 Unit 6 · Dialog 1 · added 2026-10-05
+
+---
+
+## Regelmäßiges Partizip II
+
+**Frame:** `ge + Stamm + t / et`
+**Meaning:** regular German past participle for many verbs
+**Slot:** stem with or without an inserted *e*
+**Register:** neutral
+
+**Behind it:** regular verbs often form the participle with *ge-* and an ending; stems in *-d/-t/-m/-n* take `-et`. Verbs ending in *-ieren* omit *ge-* and take *-t*.
+
+**Instances**
+- machen → gemacht
+- arbeiten → gearbeitet
+- warten → gewartet
+- kaufen → gekauft
+- studieren → studiert
+- telefonieren → telefoniert
+
+**Ladder**
+1. machen → gemacht
+2. arbeiten → gearbeitet
+3. warten → gewartet
+4. kaufen → gekauft
+5. studieren → studiert (no *ge* with *-ieren*)
+6. durchtrainieren → durchtrainiert
+7. Trap: *ge + stem + t* vs *ge + stem + et* vs no *ge* with *-ieren*
+
+**Meta:** A1.2 Unit 6 · Dialog 1 · added 2026-10-05
+
+---
+
+## Eine Geschichte erzählen
+
+**Frame:** `Zuerst … . Dann … . Danach … . Zum Schluss … .`
+**Meaning:** sequence events — first, then, afterwards, finally
+**Slot:** an event in a story
+**Register:** neutral
+
+**Behind it:** When a sequence word comes first, the conjugated verb stays in position 2: *Dann hat er seine Ex-Frau abgeholt.*
+
+**Instances**
+- Zuerst hat Gogo gefrühstückt.
+- Dann hat er seine Ex-Frau abgeholt.
+- Danach hat er eingekauft.
+- Zum Schluss hat er mit Katie geredet.
+
+**Ladder**
+1. Say “First, Gogo had breakfast.”
+2. Say “Then he picked up his ex-wife.”
+3. Say “Afterwards he went shopping.”
+4. Say “Finally he talked to Katie.”
+5. Put the four events in story order.
+6. Trap: *Danach er hat eingekauft* — the verb stays second.
+
+**Meta:** A1.2 Unit 6 · Dialog 2 · added 2026-10-05
+
+---
+
+## Unregelmäßiges Partizip II
+
+**Frame:** `haben + ge…en` · irregular separable verbs: `<prefix> + ge…`
+**Meaning:** past participles of strong and other irregular verbs
+**Slot:** learn each infinitive with its participle
+**Register:** neutral
+
+**Behind it:** Strong verbs often change the stem and use *ge…en*. A few irregular verbs use *ge…t* instead. In separable verbs, *ge* follows the prefix.
+
+**Instances**
+- sehen → gesehen
+- sprechen → gesprochen
+- trinken → getrunken
+- denken → gedacht
+- mitnehmen → mitgenommen
+
+**Ladder**
+1. sehen → ?
+2. sprechen → ?
+3. trinken → ?
+4. denken → ?
+5. mitnehmen → ?
+6. Trap: irregular participles are learned individually; not all use *ge…en*.
+
+**Meta:** A1.2 Unit 6 · Dialog 3 · added 2026-10-05
 
 ---
 

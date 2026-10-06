@@ -265,3 +265,86 @@ Fixed phrase for taste: subject is the food, person is *mir/dir*.
 ## Kompositum (U4)
 
 Last noun → article: *der Apfelkuchen* · *der Apfelquarkkuchen* · *der Flaschenöffner*. Fugen *-e-*, *-s-*, or plural (*Kinderzimmer*, *Straßenbahn*) — learn as you meet them.
+
+---
+
+## nach Hause / zu Hause (U6)
+
+| Question | Meaning | Use |
+|---|---|---|
+| *Wohin?* | where to? | movement → **nach Hause** |
+| *Wo?* | where? | location → **zu Hause** |
+
+*Ich gehe nach Hause.* · *Ich bin zu Hause.*
+*Wir essen heute zu Hause.* · *Er kommt spät nach Hause.*
+
+## Perfekt mit “haben” (U6)
+
+German past tense in speech is usually the present perfect: *haben + Partizip II*.
+
+| Person | Auxiliary | Example |
+|---|---|---|
+| ich | habe | *Ich habe durchtrainiert.* |
+| du | hast | *Was hast du gemacht?* |
+| er/sie/es | hat | *Er hat Fisch gefangen.* |
+| wir | haben | *Wir haben lange gefrühstückt.* |
+| ihr | habt | *Ihr habt gut geschlafen.* |
+| sie/Sie | haben | *Sie haben viel gearbeitet.* |
+
+Most regular verbs build the participle with `ge + stem + t`: *machen → gemacht* · *kaufen → gekauft*.
+If the stem ends in *-d/-t/-m/-n*, add `-et`: *arbeiten → gearbeitet* · *warten → gewartet*.
+Verbs ending in *-ieren* do not take *ge-*; add *-t* to the stem: *studieren → studiert* · *telefonieren → telefoniert*.
+
+*Hast du gestern Hausaufgaben gemacht?* · *Was hast du gestern gemacht?* · *Ich habe die ganze Nacht durchtrainiert.*
+
+### Irregular Partizip II forms (U6)
+
+Many strong verbs form the participle with *ge…en* and often change the stem vowel. Learn each form with its infinitive.
+
+| Infinitive | Partizip II |
+|---|---|
+| fangen | gefangen |
+| schlafen | geschlafen |
+| sehen | gesehen |
+| lesen | gelesen |
+| schreiben | geschrieben |
+| treffen | getroffen |
+| trinken | getrunken |
+| essen | gegessen |
+| sprechen | gesprochen |
+| nehmen | genommen |
+| finden | gefunden |
+| sitzen | gesessen |
+| helfen | geholfen |
+| mitnehmen | mitgenommen |
+| abwaschen | abgewaschen |
+| fernsehen | ferngesehen |
+| anfangen | angefangen |
+| mitbringen | mitgebracht |
+| ausschlafen | ausgeschlafen |
+| anrufen | angerufen |
+| ausziehen | ausgezogen |
+| aufschreiben | aufgeschrieben |
+
+Some irregular verbs instead end in *-t*:
+
+| Infinitive | Partizip II |
+|---|---|
+| denken | gedacht |
+| wissen | gewusst |
+| kennen | gekannt |
+| bringen | gebracht |
+| brennen | gebrannt |
+
+For irregular separable verbs, *ge* goes after the prefix: *mitnehmen → mitgenommen*.
+
+## Eine Geschichte erzählen (U6)
+
+| Sequence word | Meaning |
+|---|---|
+| *zuerst* | first |
+| *dann* | then |
+| *danach* | afterwards |
+| *zum Schluss* | finally / at the end |
+
+Use these to order events. When a sequence word starts the sentence, the conjugated verb remains in position 2: *Dann hat er seine Ex-Frau abgeholt.*
