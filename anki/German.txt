@@ -1350,6 +1350,91 @@ the class / lesson (in school)	der Unterricht (no plural)	a1.2 unit_07 noun
 the saying / proverb	der Spruch · die Sprüche	a1.2 unit_07 noun
 the idiom / figure of speech	die Redewendung · die Redewendungen	a1.2 unit_07 noun
 
+# ── A1.2 Unit 8 — Ich liebe Fußball! ──
+Have you already seen Gogo today?	Hast du Gogo heute schon gesehen?	a1.2 unit_08 chunk
+No, not yet.	Nee, noch nicht.	a1.2 unit_08 chunk
+Maybe he's still asleep?	Vielleicht schläft er noch?	a1.2 unit_08 chunk
+He said he was coming to soccer.	Er hat gesagt, er kommt mit zum Fußball.	a1.2 unit_08 chunk
+Don't you have enough people?	Habt ihr nicht genug Leute?	a1.2 unit_08 chunk
+We are still missing a man.	Uns fehlt noch ein Mann.	a1.2 unit_08 chunk
+Are you up for it? (invite)	Hast du Lust?	a1.2 unit_08 chunk
+Oh yes! I love soccer!	Oh ja! Ich liebe Fußball!	a1.2 unit_08 chunk
+We play every Friday from 5 to 7 pm.	Wir spielen jeden Freitag von 17 bis 19 Uhr.	a1.2 unit_08 chunk
+Yes, I'm in.	Ja, ich bin dabei.	a1.2 unit_08 chunk
+And what hobbies do you have besides soccer?	Und was hast du noch für Hobbys außer Fußball?	a1.2 unit_08 chunk
+I like to read and I like to paint.	Ich lese gern und ich male gern.	a1.2 unit_08 chunk
+Most of all I like to paint people.	Am liebsten male ich Menschen.	a1.2 unit_08 chunk
+Can I see a few pictures?	Kann ich ein paar Bilder sehen?	a1.2 unit_08 chunk
+But I'm warning you: I like to experiment with colors.	Aber ich warne dich: Ich experimentiere gern mit Farben.	a1.2 unit_08 chunk
+Wow, that's awesome!	Wow, das ist ja der Hammer!	a1.2 unit_08 chunk
+You are a true artist. (f)	Du bist eine wahre Künstlerin.	a1.2 unit_08 chunk
+I'm not coming along to soccer after all.	Ich komme doch nicht mit zum Fußball.	a1.2 unit_08 chunk
+It says up to 18 years.	Da steht bis zu 18 Jahren.	a1.2 unit_08 chunk
+Yes, it is already late.	Ja, es ist schon spät.	a1.2 unit_08 chunk
+By the way, it's my birthday on Saturday.	Übrigens, ich habe am Samstag Geburtstag.	a1.2 unit_08 chunk
+Then we'll definitely have a party.	Dann machen wir auf jeden Fall eine Party.	a1.2 unit_08 chunk
+We can celebrate on our balcony.	Wir können bei uns auf dem Balkon feiern.	a1.2 unit_08 chunk
+There is a lot of space.	Da ist viel Platz.	a1.2 unit_08 chunk
+I'll text my friend right away.	Ich schreibe gleich meinem Freund.	a1.2 unit_08 chunk
+Yeah, not what you think.	Ja, nicht das, was du denkst.	a1.2 unit_08 chunk
+I look like 18.	Ich sehe aus wie 18.	a1.2 unit_08 chunk
+Oh, you're turning 28?	Ach, du wirst 28?	a1.2 unit_08 chunk
+No, that's not what I mean.	Nein, das meine ich nicht.	a1.2 unit_08 chunk
+What is your hobby?	Was ist dein Hobby?	a1.2 unit_08 chunk
+What do you do in your free time?	Was machst du in deiner Freizeit?	a1.2 unit_08 chunk
+What kind of hobbies do you have?	Was für Hobbys hast du?	a1.2 unit_08 chunk
+I like to cycle.	Ich fahre gern Rad.	a1.2 unit_08 chunk
+to play an instrument	ein Instrument spielen	a1.2 unit_08 chunk
+to listen to music	Musik hören	a1.2 unit_08 chunk
+to go to the movies	ins Kino gehen	a1.2 unit_08 chunk
+to meet friends	Freunde treffen	a1.2 unit_08 chunk
+to ride a bike	Fahrrad fahren	a1.2 unit_08 chunk
+to jog	joggen	a1.2 unit_08 chunk
+to paint / to draw	malen / zeichnen	a1.2 unit_08 chunk
+I cordially invite you to my party.	Ich lade dich herzlich zu meiner Party ein.	a1.2 unit_08 chunk
+Is that okay for you?	Ist das okay für dich?	a1.2 unit_08 chunk
+I'm looking forward to seeing you.	Ich freue mich auf dich.	a1.2 unit_08 chunk
+From when to when?	Von wann bis wann?	a1.2 unit_08 chunk
+How long?	Wie lange?	a1.2 unit_08 chunk
+Dear Katie, (informal letter)	Liebe Katie,	a1.2 unit_08 chunk
+Dear Bobbi, (informal letter)	Lieber Bobbi,	a1.2 unit_08 chunk
+Many greetings (informal closing)	Viele Grüße	a1.2 unit_08 chunk
+Best wishes (informal closing)	Liebe Grüße	a1.2 unit_08 chunk
+See you soon (informal closing)	Bis bald	a1.2 unit_08 chunk
+He's just a buddy.	Er ist nur ein Kumpel.	a1.2 unit_08 chunk
+How do you say “every Monday”? (der Montag)	jeden Montag — jed- stands accusative	a1.2 unit_08 pattern
+jed- in the accusative — m / f / n?	jeden · jede · jedes	a1.2 unit_08 pattern
+How often — as an adverb? (every Monday)	montags (weekday + -s, lowercase)	a1.2 unit_08 pattern
+am vs im vs um?	am + weekday/date · im + month/season · um + clock time	a1.2 unit_08 pattern
+How do you ask and give a time span?	Von wann bis wann? → von X bis Y	a1.2 unit_08 pattern
+With a date, how do you say from…to?	vom ersten bis zum zehnten (ordinal + -n)	a1.2 unit_08 pattern
+How do you answer a schon-question negatively?	noch nicht	a1.2 unit_08 pattern
+But with no/nobody/nothing/never?	noch kein · noch niemand · noch nichts · noch nie	a1.2 unit_08 pattern
+ich / du in the accusative?	mich · dich	a1.2 unit_08 pattern
+How do you say “I'm turning 28”?	Ich werde 28.	a1.2 unit_08 pattern
+für + accusative — possessive?	für meinen Bruder (m adds -en)	a1.2 unit_08 pattern
+werden — du? — Partizip II?	du wirst	a1.2 unit_08 verb
+werden — er/sie/es? — Partizip II?	er/sie/es wird	a1.2 unit_08 verb
+werden — ihr? — Partizip II?	ihr werdet	a1.2 unit_08 verb
+werden — ich / wir / sie/Sie? — Partizip II?	ich werde · wir werden · sie/Sie werden	a1.2 unit_08 verb
+treffen — du / er? — Partizip II?	du triffst · er/sie/es trifft	a1.2 unit_08 verb
+January	der Januar	a1.2 unit_08 noun
+February	der Februar	a1.2 unit_08 noun
+March	der März	a1.2 unit_08 noun
+April	der April	a1.2 unit_08 noun
+May	der Mai	a1.2 unit_08 noun
+June	der Juni	a1.2 unit_08 noun
+July	der Juli	a1.2 unit_08 noun
+August	der August	a1.2 unit_08 noun
+September	der September	a1.2 unit_08 noun
+October	der Oktober	a1.2 unit_08 noun
+November	der November	a1.2 unit_08 noun
+December	der Dezember	a1.2 unit_08 noun
+spring	der Frühling · die Frühlinge	a1.2 unit_08 noun
+summer	der Sommer · die Sommer	a1.2 unit_08 noun
+autumn	der Herbst · die Herbste	a1.2 unit_08 noun
+winter	der Winter · die Winter	a1.2 unit_08 noun
+
 # ── Redewendungen — Idiom-Set (Kurs + Extras) ──
 An idiom for horror — “I don’t believe it!” (lit. my pig is whistling)	Ich glaub', mein Schwein pfeift.	a1.1 idioms unit_01
 You’re crazy! (lit. you don’t have all the cups in the cupboard)	Du hast nicht alle Tassen im Schrank.	a1.2 idioms unit_06

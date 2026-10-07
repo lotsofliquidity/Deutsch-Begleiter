@@ -406,3 +406,110 @@ After the salutation: comma, then the sentence continues **lowercase** (unless i
 
 A few verbs prefer the Präteritum even when speaking: *denken → dachte · wissen → wusste · es gibt → es gab*.
 *Ich dachte, du kommst morgen.* · *Es gab keine Milch im Supermarkt.* · *Ich wusste die Antwort nicht.*
+
+---
+
+## Regelmäßige Zeitangaben (U8)
+
+*Wie oft?* — regularity can be a *pro*-phrase, *jed-*, or an adverb.
+
+| Form | Example |
+|---|---|
+| einmal pro Monat = einmal im Monat | · zweimal pro Woche = zweimal in der Woche · dreimal pro Jahr = dreimal im Jahr |
+| *jed-* + Akkusativ | *jeden Montag* (der) · *jede Woche* (die) · *jedes Wochenende* (das) |
+| weekday + *-s* (lowercase) | *montags · dienstags · mittwochs · donnerstags · freitags · samstags · sonntags* |
+| daytime + *-s* (lowercase) | *morgens · vormittags · mittags · nachmittags · abends · nachts* |
+
+*jeden Montag* = *montags* · *jeden Morgen* = *morgens*
+
+*Bobbi spielt immer montags und donnerstags Fußball.* · *Ich gehe morgens joggen.* · *Was machst du jeden Tag?* · *Gogo fliegt jedes Jahr nach Australien.*
+
+## Temporale Präpositionen (U8)
+
+| Question | Preposition | Example |
+|---|---|---|
+| *Wann?* + month / season | **im** | *im Sommer* · *im Juli* · *im Februar* |
+| *Wann?* + weekday / date | **am** | *am Donnerstag* · *am 25. Oktober* |
+| *Wann?* + clock time | **um** | *um 19 Uhr* |
+| *Wie lange?* / *Von wann bis wann?* | **von … bis** | *von 9 bis 14 Uhr* · *von Montag bis Samstag* · *von Januar bis März* |
+| date span | **vom … bis (zum)** | *vom ersten bis zum zehnten Oktober* (ordinal + *-n*) |
+
+### Monate und Jahreszeiten (U8)
+
+| Jahreszeit | Monate |
+|---|---|
+| der Frühling | März · April · Mai |
+| der Sommer | Juni · Juli · August |
+| der Herbst | September · Oktober · November |
+| der Winter | Dezember · Januar · Februar |
+
+*der Sommer* (Pl: *Sommer*) · *der Winter* (Pl: *Winter*) · *der Frühling* (Pl: *Frühlings*) · *der Herbst* (Pl: *Herbste*)
+
+## schon → noch nicht (U8)
+
+A question with *schon* is normally answered with **noch nicht**. *noch* also stands with *kein, niemand, nichts, nie*.
+
+| Question | Answer |
+|---|---|
+| *Hast du Gogo heute schon gesehen?* | *Nein, ich habe Gogo noch nicht gesehen.* |
+| *Bist du schon eingezogen?* | *Nein, ich bin noch nicht eingezogen.* |
+| *Hast du schon etwas gegessen?* | *Nein, ich habe noch nichts gegessen.* |
+| *Habt ihr schon Hunger?* | *Nein, wir haben noch keinen Hunger.* |
+| *Warst du schon einmal in Deutschland?* | *Nein, ich war noch nie dort.* |
+| *Studierst du schon?* | *Nein, ich studiere noch nicht.* |
+
+## Personalpronomen im Akkusativ (U8)
+
+Many verbs need the accusative. Taught here: *ich → mich · du → dich*.
+
+| Nominativ | Akkusativ | Example |
+|---|---|---|
+| ich | **mich** | *Siehst du **mich**?* · *Ich liebe **dich**.* |
+| du | **dich** | *Ich warne **dich**.* · *Ich rufe **dich** später an.* |
+
+*Möchtest du mich malen?* · *Kannst du mich vom Flughafen abholen?* → *Natürlich hole ich dich ab.*
+
+## werden (U8)
+
+Full verb: a development or change. Irregular in *du/er*.
+
+| | |
+|---|---|
+| ich **werde** | wir werden |
+| du **wirst** | ihr werdet |
+| er/sie/es **wird** | sie/Sie werden |
+
+*Am Samstag werde ich 28.* · *Sie wird 28 Jahre alt.* · *Ich werde Arzt.* · *Wir werden dick.* · *Was willst du werden?*
+
+Partizip II: *geworden* — *Sie ist Bäckerin geworden.*
+
+## für + Akkusativ (U8)
+
+*für* always takes the accusative. Masculine possessives add *-en*, like *kein → keinen*; feminine, neuter and plural stay.
+
+| | |
+|---|---|
+| *für mein**en** Bruder* (m) | *für mein**e** Schwester* (f) |
+| *für mein Kind* (n) | *für mein**e** Freunde* (pl) |
+| *für mich · für dich* | |
+
+*Ich koche für meinen Bruder.* · *Ist das okay für dich?* · *Das Buch ist für deinen Vater.* · *Wir kaufen ein Haus für unsere Eltern.*
+
+## Freizeit und Hobbys (U8)
+
+| Aktivität | | |
+|---|---|---|
+| *lesen* | *malen / zeichnen* | *ein Instrument spielen* |
+| *Musik hören* | *kochen* | *Freunde treffen* |
+| *ins Kino gehen* | *fernsehen* | *Fußball spielen* |
+| *Fahrrad (Rad) fahren* | *schwimmen* | *joggen* |
+
+*Fußball **spielen**, not ~~Fußball machen~~.*
+
+*treffen* changes the stem in *du/er*: *du triffst · er trifft*.
+
+| Ask | Answer |
+|---|---|
+| *Was ist dein Hobby?* / *Was sind deine Hobbys?* | *Mein Hobby ist Lesen.* / *Meine Hobbys sind Lesen und Malen.* |
+| *Was für Hobbys hast du?* | *Ich fahre gern Rad.* |
+| *Was machst du in deiner Freizeit?* | *Ich spiele Fußball.* |

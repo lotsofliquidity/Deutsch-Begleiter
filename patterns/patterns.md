@@ -100,6 +100,14 @@ Taught by `/ingest`. Drilled by `/drill`. Source PDFs: `courses/`.
 | [Eine E-Mail schreiben (formell)](#eine-e-mail-schreiben-formell) | formal salutation + closing | A1.2 U7 |
 | [Kausalsätze mit denn](#kausalsätze-mit-denn) | *denn* + main-clause order | A1.2 U7 |
 | [Perfekt vs Präteritum](#perfekt-vs-präteritum) | spoken vs written past | A1.2 U7 |
+| [Hast du Lust? / Ich bin dabei.](#hast-du-lust--ich-bin-dabei) | invite + accept | A1.2 U8 |
+| [jeden X · montags](#jeden-x--montags) | how often / regularity | A1.2 U8 |
+| [von X bis Y](#von-x-bis-y) | time span with start and end | A1.2 U8 |
+| [im + Monat / Jahreszeit](#im--monat--jahreszeit) | *Wann?* → season or month | A1.2 U8 |
+| [schon → noch nicht](#schon--noch-nicht) | “already?” → “not yet” | A1.2 U8 |
+| [mich / dich](#mich--dich) | accusative pronouns | A1.2 U8 |
+| [werden](#werden) | to become / turning X | A1.2 U8 |
+| [für + Akkusativ](#für--akkusativ) | for + accusative | A1.2 U8 |
 
 Seed patterns not yet drilled from early units: [Hast du X dabei?](#hast-du-x-dabei) · [Wohin + Verb](#wohin--verb-der-bewegung)
 
@@ -2612,6 +2620,238 @@ Well-attested everyday idioms, kept here as a starter set. Nothing else in this 
 
 ---
 
+## Hast du Lust? / Ich bin dabei.
+
+**Frame:** `Hast du Lust?` → `Ja, ich bin dabei.`
+**Meaning:** Are you up for it? → Yes, I'm in.
+**Slot:** the activity stays implied or follows as *mitzumachen / mit zum X*
+**Register:** casual (*du*)
+
+**Behind it:** *Lust haben* = to feel like it. The yes-no answer is *Ja, ich bin dabei* — literally “I'm there with it”. To decline: *Nein, leider nicht.*
+
+**Instances**
+- Hast du Lust?
+- Oh ja! Ich liebe Fußball!
+- Ja, ich bin dabei.
+- Also, kommst du mit? → Ja, ich bin dabei.
+
+**Ladder**
+1. Hast du Lust?
+2. Ja, ich bin dabei.
+3. Oh ja! Ich liebe Fußball!
+4. Hast du Lust, mitzukommen?
+5. Also, kommst du mit?
+6. Trap: *Ich habe Lust* is the statement — the question is *Hast du Lust?*
+
+**Meta:** A1.2 Unit 8 · Dialog 1 · added 2026-10-07
+
+---
+
+## jeden X · montags
+
+**Frame:** `Wie oft?` → `jeden X` / `montags` / `einmal pro Woche`
+**Meaning:** how often — regularity and repetition
+**Slot:** X = weekday (*-en*), *jede* + Woche, *jedes* + Wochenende / Jahr
+**Register:** neutral
+
+**Behind it:** *jed-* stands in the **accusative**: *jeden* Montag (der) · *jede* Woche (die) · *jedes* Wochenende (das). A repeated activity on a fixed weekday or daytime can also become an adverb with **-s**, written lowercase: *jeden Montag → montags* · *jeden Morgen → morgens*. Adverbs from weekdays and daytimes always end in *-s*.
+
+**Instances**
+- Wir spielen jeden Freitag von 17 bis 19 Uhr.
+- Bobbi spielt immer montags und donnerstags Fußball.
+- Ich gehe morgens joggen.
+- Was machst du jeden Tag?
+- Gogo fliegt jedes Jahr nach Australien.
+- Jede Woche besuche ich meine Großeltern.
+- einmal pro Monat = einmal im Monat · zweimal pro Woche = zweimal in der Woche
+
+**Ladder**
+1. jeden Montag
+2. jede Woche
+3. jedes Wochenende
+4. Er spielt jeden Montag Fußball. → Say it with *montags*.
+5. Ich gehe jeden Morgen joggen. → Say it with *morgens*.
+6. Wie oft spielst du Fußball? / Dreimal pro Woche.
+7. Trap: *~~jed~~ Montag* · *~~jede Montag~~* — *der* Montag → *jeden*
+
+**Meta:** A1.2 Unit 8 · Dialog 1 · added 2026-10-07
+
+---
+
+## von X bis Y
+
+**Frame:** `von X bis Y`
+**Meaning:** a period with a beginning and an end
+**Slot:** X, Y = clock time · weekday · month · date (*vom … bis (zum) …*)
+**Register:** neutral
+
+**Behind it:** Question is *Von wann bis wann …?* or *Wie lange …?* With a **date**, it becomes *vom … bis (zum) …* and the ordinal takes an extra *-n*: *vom ersten bis zum zehnten Oktober*. The *zum* can be dropped: *vom ersten bis zehnten Oktober*.
+
+**Instances**
+- Mein Kurs geht von 9 bis 14 Uhr.
+- Von wann bis wann geht dein Kurs? = Wie lange geht dein Kurs?
+- Von Montag bis Samstag sind die Geschäfte offen.
+- Von Januar bis März arbeite ich nicht.
+- Ich bin vom ersten bis zum zehnten Oktober im Urlaub.
+
+**Ladder**
+1. von 9 bis 14 Uhr
+2. Von wann bis wann geht dein Kurs?
+3. Von Montag bis Samstag.
+4. Von Januar bis März.
+5. Vom 25. bis zum 31. Oktober.
+6. Trap: dates use *vom … bis (zum) …*, not *von … bis …*
+
+**Meta:** A1.2 Unit 8 · Dialog 1 · added 2026-10-07
+
+---
+
+## im + Monat / Jahreszeit
+
+**Frame:** `Wann?` → `im` + Monat / Jahreszeit
+**Meaning:** in + month or season
+**Slot:** *im Sommer* · *im Juli* · *im Winter*
+**Register:** neutral
+
+**Behind it:** Contrast the three time prepositions: **im** + month/season · **am** + weekday or date (*am Donnerstag*, *am 25. Oktober*) · **um** + clock time (*um 19 Uhr*).
+
+**Instances**
+- Im Sommer spielen wir immer im Park.
+- Wann ist Katie nach Berlin gekommen? → Im Sommer. / Im Juli.
+- Was machst du im Winter?
+- Im Juli kommen meine Großeltern.
+- Trap: *~~in Sommer~~* — the season contracts to *im*
+
+**Ladder**
+1. im Sommer
+2. im Juli
+3. im Februar
+4. Im Sommer spielen wir im Park.
+5. Wann kommst du? / Im Juli.
+6. Trap: *im* + month/season vs *am* + weekday/date vs *um* + time
+
+**Meta:** A1.2 Unit 8 · Dialog 1 · added 2026-10-07
+
+---
+
+## schon → noch nicht
+
+**Frame:** `Hast du … schon …?` → `Nein, … noch nicht.`
+**Meaning:** already? → not yet
+**Slot:** the participle or activity between *schon* and the end
+**Register:** neutral
+
+**Behind it:** A question with *schon* is normally answered negatively with **noch nicht**. *noch* also stands with *kein, niemand, nichts, nie*: *noch keinen Hunger* · *noch nichts gegessen* · *noch nie dort*.
+
+**Instances**
+- Hast du Gogo heute schon gesehen? → Nein, ich habe Gogo noch nicht gesehen.
+- Nee, noch nicht.
+- Nein, ich war noch nicht einkaufen.
+- Nein, ich habe deine E-Mail noch nicht gelesen.
+- Nein, ich war noch nie in China.
+- Nein, ich studiere noch nicht.
+- Habt ihr schon Hunger? → Nein, wir haben noch keinen Hunger.
+
+**Ladder**
+1. Hast du schon gegessen? / Nein, noch nicht.
+2. Hast du Gogo heute schon gesehen? / Nein, ich habe ihn noch nicht gesehen.
+3. Bist du schon eingezogen? / Nein, ich bin noch nicht eingezogen.
+4. Hast du schon etwas gegessen? / Nein, ich habe noch nichts gegessen.
+5. Warst du schon einmal in Deutschland? / Nein, ich war noch nie dort.
+6. Trap: *noch kein* / *noch nichts* / *noch nie* — not *noch nicht* + noun
+
+**Meta:** A1.2 Unit 8 · Dialog 1 · added 2026-10-07
+
+---
+
+## mich / dich
+
+**Frame:** *ich → mich* · *du → dich*
+**Meaning:** accusative personal pronouns — me, you
+**Slot:** the person the verb acts on
+**Register:** neutral
+
+**Behind it:** Many verbs need the accusative, and the pronoun changes: *Möchtest du **mich** malen?* · *Ich warne **dich**.* Nominative → accusative for these two: *ich → mich*, *du → dich*.
+
+**Instances**
+- Möchtest du mich malen?
+- Ich warne dich.
+- Siehst du mich? · Hörst du mich?
+- Ich liebe dich.
+- Kannst du mich vom Flughafen abholen? → Natürlich hole ich dich ab.
+- Ich möchte dich morgen besuchen. · Ich rufe dich später an.
+
+**Ladder**
+1. Siehst du mich?
+2. Ich male dich.
+3. Liebst du mich?
+4. Kannst du mich abholen?
+5. Ich rufe dich später an.
+6. Trap: *~~Siehst du ich?~~* · *~~Ich liebe du.~~*
+
+**Meta:** A1.2 Unit 8 · Dialog 2 · added 2026-10-07
+
+---
+
+## werden
+
+**Frame:** `Subjekt + werden + Adjektiv / Nomen`
+**Meaning:** to become — a development or change
+**Slot:** the new state or role
+**Register:** neutral
+
+**Behind it:** As a full verb *werden* marks a change: *Sie wird 28 Jahre alt.* · *Ich werde Arzt.* · *Wir werden dick.* Irregular in *du/er*: *du wirst · er wird*. Its Partizip II is *geworden* (*Sie ist Bäckerin geworden.*).
+
+**Instances**
+- Am Samstag werde ich 28.
+- Ach, du wirst 28?
+- Sie wird 28 Jahre alt.
+- Ich studiere Medizin. Ich werde Arzt.
+- Esst nicht so viel Schokolade! Ihr werdet dick.
+
+**Ladder**
+1. ich werde
+2. du wirst
+3. er/sie/es wird
+4. ihr werdet
+5. Am Samstag werde ich 28.
+6. Was willst du werden?
+7. Trap: *du wirst* / *er wird* — not *werdest*
+
+**Meta:** A1.2 Unit 8 · Dialog 3 · added 2026-10-07
+
+---
+
+## für + Akkusativ
+
+**Frame:** `für + Akkusativ`
+**Meaning:** for + the person something is for
+**Slot:** *für meinen Bruder* · *für dich* · *für meine Freunde*
+**Register:** neutral
+
+**Behind it:** *für* always takes the accusative. A possessive article therefore adds *-en* in the masculine: *für mein**en** Bruder* (like *kein → keinen*). Feminine, neuter and plural stay unchanged.
+
+**Instances**
+- Ich koche für meinen Bruder.
+- Ist das okay für dich?
+- Hast du einen Stift für mich?
+- Das Buch ist für deinen Vater.
+- Katie malt ein Bild für ihre Oma.
+- Wir kaufen ein Haus für unsere Eltern.
+- Das Fahrrad ist für meinen Sohn.
+
+**Ladder**
+1. für mich
+2. für dich
+3. für meinen Bruder
+4. für meine Freunde
+5. Ist das okay für dich?
+6. Trap: *~~für mein Bruder~~* — masculine takes *-en*
+
+**Meta:** A1.2 Unit 8 · Dialog 3 · added 2026-10-07
+
+---
+
 ## Later seeds (not yet fully met)
 
 ### Hast du X dabei?
@@ -2688,6 +2928,18 @@ Well-attested everyday idioms, kept here as a starter set. Nothing else in this 
 | *denn* vs *weil* | denn + normal order | weil + verb at the end | writing vs speaking |
 | letter salutation | Sehr geehrte Frau Stock, / ich kann … | capital *Ich* after the comma | comma, then lowercase |
 | letter closing | Mit freundlichen Grüßen | ~~Mit freundlichen Grüßen,~~ | no comma after the closing |
+| regularity *jed-* | jeden Montag (der) | ~~jede Montag~~ / ~~jed Montag~~ | *jed-* stands accusative |
+| habitual adverb | montags | ~~am montags~~ | weekday + *-s*, lowercase |
+| month vs weekday | im Juli | am Donnerstag | *im* + month/season · *am* + weekday/date |
+| clock time | um 19 Uhr | ~~am 19 Uhr~~ | *um* + time |
+| date span | vom 1. bis zum 10. Oktober | ~~von dem ersten bis~~ | dates use *vom … bis (zum)*, ordinal + *-n* |
+| already → not yet | Nein, noch nicht. | ~~Nein, schon nicht.~~ | answer *schon* with *noch nicht* |
+| not yet + noun | noch keinen Hunger | ~~noch nicht Hunger~~ | *noch* + *kein/nichts/nie* |
+| accusative pronoun | Siehst du mich? | ~~Siehst du ich?~~ | *ich → mich*, *du → dich* |
+| *werden* du/er | du wirst · er wird | ~~du werdest~~ | stem change in *du/er* |
+| *für* + possessive | für meinen Bruder | ~~für mein Bruder~~ | *für* takes the accusative; masculine *-en* |
+| sport verb | Fußball spielen | ~~Fußball machen~~ | booklet trap from the exercise |
+| *Freund* | mein Freund = boyfriend **or** friend | not always “friend” | two meanings — see [unit 8](../course/a1.2/unit-08-ich-liebe-fussball.md) |
 
 ---
 

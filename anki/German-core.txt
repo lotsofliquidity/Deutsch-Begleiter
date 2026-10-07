@@ -329,6 +329,24 @@ to tidy up — Partizip II?	aufgeräumt	a1.2 unit_07 verb
 to spell — Partizip II?	buchstabiert	a1.2 unit_07 verb
 to fare-dodge — Partizip II?	schwarzgefahren	a1.2 unit_07 verb
 
+# ── A1.2 Unit 8 — Ich liebe Fußball! ──
+How do you say “every Monday”? (der Montag)	jeden Montag — jed- stands accusative	a1.2 unit_08 pattern
+jed- in the accusative — m / f / n?	jeden · jede · jedes	a1.2 unit_08 pattern
+How often — as an adverb? (every Monday)	montags (weekday + -s, lowercase)	a1.2 unit_08 pattern
+am vs im vs um?	am + weekday/date · im + month/season · um + clock time	a1.2 unit_08 pattern
+How do you ask and give a time span?	Von wann bis wann? → von X bis Y	a1.2 unit_08 pattern
+With a date, how do you say from…to?	vom ersten bis zum zehnten (ordinal + -n)	a1.2 unit_08 pattern
+How do you answer a schon-question negatively?	noch nicht	a1.2 unit_08 pattern
+But with no/nobody/nothing/never?	noch kein · noch niemand · noch nichts · noch nie	a1.2 unit_08 pattern
+ich / du in the accusative?	mich · dich	a1.2 unit_08 pattern
+How do you say “I'm turning 28”?	Ich werde 28.	a1.2 unit_08 pattern
+für + accusative — possessive?	für meinen Bruder (m adds -en)	a1.2 unit_08 pattern
+werden — du? — Partizip II?	du wirst	a1.2 unit_08 verb
+werden — er/sie/es? — Partizip II?	er/sie/es wird	a1.2 unit_08 verb
+werden — ihr? — Partizip II?	ihr werdet	a1.2 unit_08 verb
+werden — ich / wir / sie/Sie? — Partizip II?	ich werde · wir werden · sie/Sie werden	a1.2 unit_08 verb
+treffen — du / er? — Partizip II?	du triffst · er/sie/es trifft	a1.2 unit_08 verb
+
 # ── Redewendungen — Idiom-Set (Kurs + Extras) ──
 Don't worry about it. (lit. don't make yourself a head)	Mach dir kein' Kopf.	a1.2 teach idioms unit_07
 
