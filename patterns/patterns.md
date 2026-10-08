@@ -108,6 +108,13 @@ Taught by `/ingest`. Drilled by `/drill`. Source PDFs: `courses/`.
 | [mich / dich](#mich--dich) | accusative pronouns | A1.2 U8 |
 | [werden](#werden) | to become / turning X | A1.2 U8 |
 | [für + Akkusativ](#für--akkusativ) | for + accusative | A1.2 U8 |
+| [mit + Dativ](#mit--dativ) | with + dative; all articles change | A1.2 U9 |
+| [Welch-?](#welch-) | which / what — picking from a group | A1.2 U9 |
+| [dies-](#dies-) | this / these — close to the speaker | A1.2 U9 |
+| [der / die / das (Demonstrativ)](#der--die--das-demonstrativ) | that one / those — pointing back | A1.2 U9 |
+| [gefallen · passen · stehen](#gefallen--passen--stehen) | like · fit · suit + dative | A1.2 U9 |
+| [mir / dir](#mir--dir) | dative personal pronouns | A1.2 U9 |
+| [sehen / schauen / gucken](#sehen--schauen--gucken) | synonyms — except “to see” | A1.2 U9 |
 
 Seed patterns not yet drilled from early units: [Hast du X dabei?](#hast-du-x-dabei) · [Wohin + Verb](#wohin--verb-der-bewegung)
 
@@ -2852,6 +2859,229 @@ Well-attested everyday idioms, kept here as a starter set. Nothing else in this 
 
 ---
 
+## mit + Dativ
+
+**Frame:** `mit + Dativ`
+**Meaning:** with + dative — the third case
+**Slot:** *mit dem Rock* (m/n) · *mit der Hose* (f) · *mit den Schuhen* (pl)
+**Register:** neutral
+
+**Behind it:** *mit* always takes the dative, and **every** article changes: *der → dem* · *die → der* · *das → dem* · *die (Pl) → den*. Plurals also add **-n** to the noun if it doesn't already end in one: *mit den Kindern* · *mit den Leuten*. A plural already ending in *-n* or *-s* stays: *mit den Eltern* · *mit den Autos* · *mit den Chefs*.
+
+**Instances**
+- Ich trage ein T-Shirt mit dem Rock.
+- Ich trage ein Hemd mit der Hose.
+- Ich trage eine Hose mit dem T-Shirt.
+- Ich trage eine Hose mit den Schuhen.
+- Wie findest du die Bluse zusammen mit dem Hut?
+- Ich spiele mit den Kindern. · Er spricht mit den Leuten.
+- Wir fahren mit den Autos.
+
+**Ladder**
+1. mit dem Rock
+2. mit der Hose
+3. mit dem T-Shirt
+4. mit den Schuhen
+5. Ich spiele mit den Kindern. (die Kinder → add -n)
+6. Er spricht mit den Leuten. (die Leute → add -n)
+7. Ich spreche mit den Eltern. (already -n — no change)
+8. Wir fahren mit den Autos. (ends in -s — no change)
+9. Trap: *~~mit der Rock~~* — masculine is *dem*, not *der*
+10. Trap: *~~mit den Kinder~~* · *~~mit den Leute~~* — the plural noun needs -n
+
+**Meta:** A1.2 Unit 9 · Dialog 1 · added 2026-10-08
+
+---
+
+## Welch-?
+
+**Frame:** `Welch- + Nomen`
+**Meaning:** which / what — choosing one from a group
+**Slot:** *welcher* (der) · *welche* (die) · *welches* (das) · *welche* (Pl)
+**Register:** neutral
+
+**Behind it:** *welch-* works exactly like the definite article: *welcher → der* · *welche → die* · *welches → das* · *welche → die*. It therefore also takes accusative (*welchen* Pullover) and dative (*mit welchem* Bus) endings.
+
+**Instances**
+- Welche Größe hast du denn? → Ich habe Größe 38.
+- Welches Top? → Na, dieses hier!
+- Welches Kleid nimmt Katie? → Sie nimmt das Kleid in Rot.
+- Welche Sprachen sprichst du? → Ich spreche Englisch und Spanisch.
+- Akkusativ: Welchen Pullover nimmst du? · Welche Schuhe nimmst du?
+- Dativ: Mit welchem Bus fährst du? · Mit welcher U-Bahn fährst du?
+
+**Ladder**
+1. Welches T-Shirt findest du gut?
+2. Welche Schuhe nimmst du?
+3. Welche Bluse findest du nicht gut?
+4. Welchen Pullover nimmst du?
+5. Mit welchem Auto fährst du?
+6. Mit welcher U-Bahn fährst du?
+7. Trap: masculine accusative → *welchen*
+
+**Meta:** A1.2 Unit 9 · Dialog 2 · added 2026-10-08
+
+---
+
+## dies-
+
+**Frame:** `dies- + Nomen`
+**Meaning:** this / these — something **near** the speaker
+**Slot:** *dieser* (der) · *diese* (die) · *dieses* (das) · *diese* (Pl)
+**Register:** neutral
+
+**Behind it:** Like *welch-*, *dies-* declines exactly like the definite article: *dieser → der · diese → die · dieses → das*. Accusative masculine *diesen* (*Ich nehme diesen Pullover.*); dative *diesem · dieser · diesem · diesen*.
+
+**Instances**
+- Welches Kleid meinst du? → Na, dieses hier.
+- Wie findest du diese Hose?
+- Ich mag dieses T-Shirt.
+- Ich nehme diesen Pullover.
+- Ich fahre mit diesem Bus. · mit dieser U-Bahn. · mit diesen Schuhen.
+
+**Ladder**
+1. Dieser Pullover ist schön.
+2. Diese Bluse ist schön.
+3. Dieses T-Shirt ist schön.
+4. Diese Schuhe sind schön.
+5. Ich nehme diesen Pullover.
+6. Ich fahre mit diesem Bus.
+7. Trap: plural *diese*, not *~~diesen~~* in the nominative
+
+**Meta:** A1.2 Unit 9 · Dialog 2 · added 2026-10-08
+
+---
+
+## der / die / das (Demonstrativ)
+
+**Frame:** `der / die / das` as a standalone pronoun
+**Meaning:** that one / those — pointing back to a noun already mentioned, and **emphasised**
+**Slot:** stands alone; person or thing is *near* → *der hier* · *further away* → *der da / der dort*
+**Register:** neutral
+
+**Behind it:** Identical to the definite article, except the **dative plural changes: *den → denen*** (*Mit denen gehe ich einkaufen.*). Unlike the personal pronouns (*er/sie/es*), these are stressed, so they usually sit at position 1.
+
+**Instances**
+- Wie findest du die Bluse? → Die ist zu bunt.
+- Hier, nimm mein T-Shirt. → Das ist bequem.
+- Ich will den Rock anziehen. → Den finde ich schön.
+- Welches Kleid meinst du? → Na, das hier.
+- Hier gibt es so viele Hosen. → Wie findest du die da?
+- Nimmst du den Rock? → Ja, den nehme ich.
+- Fährst du mit dem BMW? → Ja, mit dem fahre ich.
+- Gehst du mit den weißen Schuhen einkaufen? → Ja, mit denen gehe ich einkaufen.
+
+**Ladder**
+1. Nimm meinen Pullover. Der ist bequem.
+2. Wie war der Unterricht? → Der war langweilig.
+3. Nimmst du den Rock? → Ja, den nehme ich.
+4. Wie findest du die Bluse? → Die ist zu bunt.
+5. Na, wie sind die Schuhe? → Die sind sehr bequem.
+6. Mit den weißen Schuhen? → Ja, mit denen gehe ich.
+7. Trap: dative plural *denen*, not *den*
+
+**Meta:** A1.2 Unit 9 · Dialog 2 · added 2026-10-08
+
+---
+
+## gefallen · passen · stehen
+
+**Frame:** `Nomen + Verb + Person (Dativ)`
+**Meaning:** three dative verbs for judging clothes
+**Slot:** the garment is the **subject**; the person is the **dative object**
+**Register:** neutral
+
+**Behind it:** All three take the person in the dative, and the garment as the subject — so watch the verb number: *Katie **gefällt** Berlin.* but *Katie **gefallen** die Schuhe.* The dative-object verbs *gefallen, gehören, passen, schmecken, stehen* prefer the pronoun first: *Mir gefällt das Kleid.* = *Das Kleid gefällt mir.*
+
+| Verb | Question it answers | |
+|---|---|---|
+| **gefallen** | do I like it? | *Das Kleid gefällt mir (nicht) gut.* |
+| **passen** | is the size right? | *Katie passt die Hose.* / *Die Hose passt mir nicht.* |
+| **stehen** | does it look good on me? | *Das steht dir bestimmt gut.* |
+
+**Instances**
+- Nein, die Hose passt mir nicht. Sie ist zu klein.
+- Das steht dir bestimmt gut.
+- Wie gefällt dir der Pullover? → Den finde ich toll.
+- Schwarz steht dir überhaupt nicht.
+- Das Kleid gefällt mir (nicht) gut.
+- Katie gefällt Berlin. · Gogo gefällt die Hose nicht. · Katie gefallen die Schuhe.
+- Ja, es passt! · Passt dir die Bluse? → Nein, sie ist zu klein.
+
+**Ladder**
+1. Das Kleid gefällt mir.
+2. Das Kleid gefällt mir nicht.
+3. Die Hose passt mir nicht.
+4. Das steht dir gut.
+5. Wie gefällt dir der Pullover?
+6. Wie findest du das Hemd? → Es gefällt mir nicht so gut.
+7. Trap: *Das Kleid gefällt **mich**.* — the person is dative, so *mir*
+
+**Meta:** A1.2 Unit 9 · Dialog 3 · added 2026-10-08
+
+---
+
+## mir / dir
+
+**Frame:** *ich → mir* · *du → dir*
+**Meaning:** dative personal pronouns — to me, to you
+**Slot:** the person the dative verb acts on
+**Register:** neutral
+
+**Behind it:** Same shape as *mich / dich* (accusative), but dative. Verbs that take a dative person: *gefallen · passen · stehen · helfen · antworten · danken · gehören · gratulieren · vertrauen · schmecken*. The question for that person is ***Wem?*** — *Wem antwortet Katie? → Katie antwortet der Lehrerin.* (*schmecken* was already met in U3: [Das schmeckt mir](#das-schmeckt-mir).)
+
+**Instances**
+- Die Hose passt mir nicht.
+- Gelb steht dir.
+- Mir gefällt das Kleid.
+- Warte, ich helfe dir. — Ich danke dir für deine Hilfe.
+- Vertraust du mir? — Natürlich vertraue ich dir.
+- Ich gratuliere dir zum Geburtstag.
+- Schmecken dir die Kekse? — Ja, die Kekse schmecken mir.
+- Gefällt dir die Wohnung? — Ja, die Wohnung gefällt mir sehr gut.
+
+**Ladder**
+1. Die Hose passt mir nicht.
+2. Gelb steht dir.
+3. Mir gefällt das Kleid.
+4. Ich helfe dir.
+5. Ich gratuliere dir zum Geburtstag.
+6. Schmecken dir die Kekse? → Ja, sie schmecken mir.
+7. Trap: *~~Das steht mich gut.~~* — *stehen* takes the dative
+
+**Meta:** A1.2 Unit 9 · Dialog 3 · added 2026-10-08
+
+---
+
+## sehen / schauen / gucken
+
+**Frame:** `sehen` / `schauen` / `gucken`
+**Meaning:** three near-synonyms for looking — but only one for seeing
+**Slot:** a thing you look at — except *sehen* when it means perceiving
+**Register:** *schauen* — southern Germany/Austria · *gucken* — colloquial, northern Germany
+
+**Behind it:** All three work for “have a look” (*Sieh mal! = Schau mal! = Guck mal!*) and “watch” (*einen Film sehen/schauen/gucken*). But only **sehen** works for *perceiving with the eyes*: *Ich sehe dich.* · *Ich kann nichts sehen.* — “to look” doesn't fit there.
+
+**Instances**
+- Schau mal, Gogo.
+- Sieh mal! = Schau mal! = Guck mal!
+- Wir sehen/schauen/gucken einen Film.
+- Ich sehe/schaue/gucke in den Spiegel.
+- Ich sehe dich. · Er sieht das Gebäude. · Ich kann nichts sehen.
+- Ich freue mich, dich zu sehen.
+
+**Ladder**
+1. Guck mal!
+2. Schau mal! = Sieh mal!
+3. Wir gucken einen Film.
+4. Ich schaue in den Spiegel.
+5. Ich sehe dich.
+6. Trap: *Ich habe Sie nicht ~~geschaut~~* — *sehen*, not *schauen*
+
+**Meta:** A1.2 Unit 9 · Dialog 2 · added 2026-10-08
+
+---
+
 ## Later seeds (not yet fully met)
 
 ### Hast du X dabei?
@@ -2940,6 +3170,15 @@ Well-attested everyday idioms, kept here as a starter set. Nothing else in this 
 | *für* + possessive | für meinen Bruder | ~~für mein Bruder~~ | *für* takes the accusative; masculine *-en* |
 | sport verb | Fußball spielen | ~~Fußball machen~~ | booklet trap from the exercise |
 | *Freund* | mein Freund = boyfriend **or** friend | not always “friend” | two meanings — see [unit 8](../course/a1.2/unit-08-ich-liebe-fussball.md) |
+| *mit* + case | mit dem Rock | ~~mit der Rock~~ | *mit* takes the dative; every article changes |
+| dative plural noun | mit den Kindern | ~~mit den Kinder~~ | plural adds *-n* unless it already ends in one |
+| dative plural pronoun | mit denen | ~~mit den~~ | the only demonstrative that differs from the article |
+| *welch-* / *dies-* | welchen Pullover | ~~welcher Pullover~~ (Akk) | both decline like the definite article |
+| *gefallen* number | Die Schuhe gefallen mir. | ~~Die Schuhe gefällt mir.~~ | the garment is the subject, so the verb agrees with it |
+| dative person | Das Kleid gefällt mir. | ~~Das Kleid gefällt mich.~~ | *gefallen/passen/stehen* take the dative |
+| *stehen* vs *passen* | Das steht dir gut. (looks) | Das passt mir. (size) | look vs size |
+| only *sehen* for seeing | Ich habe Sie nicht gesehen. | ~~Ich habe Sie nicht geschaut.~~ | *schauen/gucken* are for looking, not perceiving |
+| colour capitalisation | Das Kleid ist rot. / in Rot | ~~Das Kleid ist Rot.~~ | adjective lowercase, noun uppercase |
 
 ---
 

@@ -2,7 +2,7 @@
 
 Source: [`A1-2-KOMPLETT.pdf`](A1-2-KOMPLETT.pdf) · answers: [`A1-2_LOESUNGEN_KOMPLETT.pdf`](A1-2_LOESUNGEN_KOMPLETT.pdf)
 
-**Ingested:** units 1–8 · **Not yet:** units 9–10
+**Ingested:** units 1–9 · **Not yet:** unit 10
 
 Ask: `/ingest` · `/teach` · `/drill`
 
@@ -18,7 +18,7 @@ Ask: `/ingest` · `/teach` · `/drill`
 | 6 | Wie war dein Tag? | Auf dem Balkon | ingested | 145–168 |
 | 7 | Was ist passiert? | Auf dem Sofa | ingested | 169–197 |
 | 8 | Ich liebe Fußball! | Im Park | ingested | 198–226 |
-| 9 | Kleider machen Leute | Im Kleidergeschäft | map only | 227–258 |
+| 9 | Kleider machen Leute | Im Kleidergeschäft | ingested | 227–258 |
 | 10 | Alles Gute! | Geburtstagsparty | map only | 259– |
 
 ---

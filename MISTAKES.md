@@ -81,6 +81,7 @@ Note what is **not** in there: the correct form.
 | 9 | 2026-10-01 | hier | A1.1 Unit 3–4 | “Here” kept coming out as the English-looking *Heir*. | 2026-10-15 | OPEN |
 | 10 | 2026-10-01 | Was machst du beruflich? | A1.1 Unit 6 | The friend question took *von Beruf*, the formal one took *arbeiten*, and “what do you work as” lost the person. | 2026-10-15 | OPEN |
 | 11 | 2026-10-01 | Job ohne Artikel | A1.1 Unit 6 | Job titles took an article, and the engineer one came out as an object form. | 2026-10-15 | OPEN |
+| 12 | 2026-10-08 | Demonstrativ: der/die/das · dies- | A1.2 Unit 9 | Twice: *das Kleid* came out as *Der* hier (not *Das/Dieses*), and Dativ Plural came out as *dem* instead of *denen*. | 2026-10-22 | OPEN |
 | | | | | | | |
 | | | | | | | |
 | | | | | | | |

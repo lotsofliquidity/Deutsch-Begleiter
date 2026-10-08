@@ -513,3 +513,126 @@ Partizip II: *geworden* — *Sie ist Bäckerin geworden.*
 | *Was ist dein Hobby?* / *Was sind deine Hobbys?* | *Mein Hobby ist Lesen.* / *Meine Hobbys sind Lesen und Malen.* |
 | *Was für Hobbys hast du?* | *Ich fahre gern Rad.* |
 | *Was machst du in deiner Freizeit?* | *Ich spiele Fußball.* |
+
+---
+
+## Dativ — der dritte Fall (U9)
+
+Every article changes in the dative. Introduced in U9 with *mit*.
+
+| | m | n | f | Pl |
+|---|---|---|---|---|
+| Nominativ | der Rock | das T-Shirt | die Hose | die Schuhe |
+| **Dativ** | **dem** Rock | **dem** T-Shirt | **der** Hose | **den** Schuhen |
+
+*Ich trage ein T-Shirt **mit dem** Rock.* · *mit **der** Hose* · *mit **dem** T-Shirt* · *mit **den** Schuhen.*
+
+### Dativ Plural: das zusätzliche -n (U9)
+
+Most nouns add **-n** in the dative plural — unless the plural already ends in *-n* or *-s*.
+
+| Nominativ Plural | Dativ Plural |
+|---|---|
+| die Kinder | mit den **Kindern** |
+| die Leute | mit den **Leuten** |
+| die Eltern (already *-n*) | mit den **Eltern** |
+| die U-Bahnen (already *-n*) | mit den **U-Bahnen** |
+| die Kunden (already *-n*) | mit den **Kunden** |
+| die Autos (ends in *-s*) | mit den **Autos** |
+| die Chefs (ends in *-s*) | mit den **Chefs** |
+
+## Welch- und dies- (U9)
+
+Both decline exactly like the definite article: *welcher → der* · *welche → die* · *welches → das*.
+
+| | m | n | f | Pl |
+|---|---|---|---|---|
+| Nominativ | welch**er** / dies**er** | welch**es** / dies**es** | welch**e** / dies**e** | welch**e** / dies**e** |
+| Akkusativ | welch**en** / dies**en** | welch**es** / dies**es** | welch**e** / dies**e** | welch**e** / dies**e** |
+| Dativ | welch**em** / dies**em** | welch**em** / dies**em** | welch**er** / dies**er** | welch**en** / dies**en** |
+
+*Welche Größe hast du denn?* · *Welches Top?* · *Welchen Pullover nimmst du?* · *Mit welchem Bus fährst du?*
+*Welches Kleid meinst du? — Na, dieses hier.* · *Ich nehme diesen Pullover.* · *Mit diesen Schuhen.*
+
+**welch-** asks which one *from a group* · **dies-** points to something *close to the speaker*.
+
+## Demonstrativpronomen *der / die / das* (U9)
+
+Stands alone, replaces a noun already mentioned, and is **stressed** (unlike *er/sie/es*) — so it usually goes to position 1. Identical to the article, except the dative plural: **den → denen**.
+
+| | Nominativ | Akkusativ | Dativ |
+|---|---|---|---|
+| m | der | den | dem |
+| n | das | das | dem |
+| f | die | die | der |
+| Pl | die | die | **denen** |
+
+*Wie findest du die Bluse? — **Die** ist zu bunt.* · *Ich will den Rock anziehen. — **Den** finde ich schön.*
+*Nimmst du den Rock? — Ja, **den** nehme ich.* · *Fährst du mit dem BMW? — Ja, **mit dem** fahre ich.*
+*Gehst du mit den weißen Schuhen einkaufen? — Ja, **mit denen** gehe ich einkaufen.*
+
+Near / far: ***der hier*** = this one · ***der da / der dort*** = that one there. *Na, **das hier**.* · *Wie findest du **die da**?*
+
+## Verben mit Dativ (U9)
+
+These take the **person** in the dative. The garment/thing is the subject, so the verb agrees with it.
+
+| Verb | Meaning | Example |
+|---|---|---|
+| *gefallen* | to be pleasing | *Das Kleid gefällt mir (nicht) gut.* · *Katie gefallen die Schuhe.* |
+| *passen* | to fit (size) | *Die Hose passt mir nicht.* |
+| *stehen* | to suit (looks) | *Das steht dir bestimmt gut.* |
+| *helfen* | to help | *Können Sie mir helfen?* |
+| *antworten* | to answer | *Ich antworte dir bald.* |
+| *danken* | to thank | *Ich danke dir für deine Hilfe.* |
+| *gehören* | to belong to | *Das Kleid gehört der Frau.* |
+| *gratulieren* | to congratulate | *Ich gratuliere dir zum Geburtstag.* |
+| *vertrauen* | to trust | *Natürlich vertraue ich dir.* |
+| *schmecken* | to taste good to | *Die Kekse schmecken mir.* — see U3 [Das schmeckt mir](../../patterns/patterns.md#das-schmeckt-mir) |
+
+Question for the person: ***Wem?*** — *Wem antwortet Katie? → Katie antwortet der Lehrerin.*
+
+With *gefallen, gehören, passen, schmecken, stehen* the dative pronoun often starts the sentence, and the subject moves behind the verb: *Mir gefällt das Kleid.* = *Das Kleid gefällt mir.*
+
+## Personalpronomen im Dativ (U9)
+
+| Nominativ | Akkusativ | **Dativ** |
+|---|---|---|
+| ich | mich | **mir** |
+| du | dich | **dir** |
+
+*Die Hose passt **mir** nicht.* · *Gelb steht **dir**.* · *Ich helfe **dir**.* · *Schmecken **dir** die Kekse? — Ja, sie schmecken **mir**.*
+
+Only *ich* and *du* are taught in U9. The other persons — *ihm · ihr · uns · euch · ihnen* — come later. Formal ***Ihnen*** already appears in A1.1 phrases (*Wie geht es Ihnen? · Gut, und Ihnen?*).
+
+## sehen / schauen / gucken (U9)
+
+All three = “have a look”: *Sieh mal! = Schau mal! = Guck mal!* · *Wir sehen/schauen/gucken einen Film.*
+
+Only **sehen** works for *perceiving with the eyes*: *Ich sehe dich.* · *Ich kann nichts sehen.* · *Ich freue mich, dich zu sehen.*
+
+Register: *schauen* — southern Germany / Austria · *gucken* — colloquial, northern Germany (often pronounced *kucken*).
+
+## Kleidung (U9)
+
+| Kleidungsstück | | |
+|---|---|---|
+| *die Bluse* (Pl: Blusen) | *der Rock* (Pl: Röcke) | *das T-Shirt* (Pl: T-Shirts) |
+| *die Hose* (Pl: Hosen) | *das Kleid* (Pl: Kleider) | *das Hemd* (Pl: Hemden) |
+| *die Jacke* (Pl: Jacken) | *der Mantel* (Pl: Mäntel) | *der Schuh* (Pl: Schuhe) |
+| *der Pullover* (Pl: Pullover) | *der Hut* (Pl: Hüte) | *die Socke / der Strumpf* (Pl: Socken / Strümpfe) |
+
+*die Kleidung* (Pl: Kleidungen) = *Sachen, Klamotten* (colloquial) · *das Kleidungsstück* (Pl: Kleidungsstücke)
+
+*anziehen* = to put on (*Ich ziehe heute einen Rock an.*) · *tragen* = *anhaben* (colloquial): *Bobbi trägt ein T-Shirt.* = *Bobbi hat ein T-Shirt an.*
+*anhaben* is not used for headgear: *Ich trage einen Hut.* / *Ich habe einen Hut auf.*
+
+## Farben (U9)
+
+| | |
+|---|---|
+| *gelb · rot · blau · grün · schwarz · weiß* | *lila · orange · braun · grau* |
+
+**Capitalisation:** lowercase as an adjective (*Das Kleid ist **rot**.*) · uppercase as a noun, e.g. after a preposition (*Gibt es das Kleid noch in **Rot**? — Ja, in **Lila** oder **Grün**.*)
+
+Judging clothes: *schick · elegant · cool · langweilig · hässlich* — *Wie findest du das Kleid? — Ich finde es toll. / Es sieht toll aus.*

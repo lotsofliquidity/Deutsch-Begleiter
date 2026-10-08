@@ -347,6 +347,25 @@ werden — ihr? — Partizip II?	ihr werdet	a1.2 unit_08 verb
 werden — ich / wir / sie/Sie? — Partizip II?	ich werde · wir werden · sie/Sie werden	a1.2 unit_08 verb
 treffen — du / er? — Partizip II?	du triffst · er/sie/es trifft	a1.2 unit_08 verb
 
+# ── A1.2 Unit 9 — Kleider machen Leute ──
+mit + Dativ — m / n / f / pl?	dem · dem · der · den	a1.2 unit_09 pattern
+Dativ Plural — what happens to the noun?	adds -n (mit den Kindern) — unless it already ends in -n or -s	a1.2 unit_09 pattern
+demonstrative, dative plural?	den → denen (mit denen)	a1.2 unit_09 pattern
+welch- / dies- decline like?	the definite article (der/die/das)	a1.2 unit_09 pattern
+welch- / dies- — masculine accusative?	welchen / diesen	a1.2 unit_09 pattern
+“this one here” / “that one there”?	der hier / der da (der dort)	a1.2 unit_09 pattern
+gefallen — which case for the person?	dative (Das Kleid gefällt mir)	a1.2 unit_09 pattern
+passen vs stehen?	passen = size · stehen = how it looks on you	a1.2 unit_09 pattern
+Only which verb means “to see”?	sehen (schauen/gucken = to look)	a1.2 unit_09 pattern
+Colour after a preposition — capitalised?	yes, as a noun: in Rot	a1.2 unit_09 pattern
+Which important verbs take the dative?	gefallen · passen · stehen · helfen · antworten · danken · gehören · gratulieren · vertrauen · schmecken	a1.2 unit_09 pattern
+Dative question word for a person?	Wem? — Wem antwortet Katie? → der Lehrerin	a1.2 unit_09 pattern
+With gefallen · gehören · passen · schmecken · stehen — where does the dative pronoun often go?	Position 1: Mir gefällt das Kleid. = Das Kleid gefällt mir. (the subject moves behind the verb)	a1.2 unit_09 pattern
+ich / du in the dative?	mir · dir	a1.2 unit_09 pattern
+mich/dich vs mir/dir — which case?	mich/dich = accusative · mir/dir = dative	a1.2 unit_09 pattern
+Kannst du ___ helfen? (ich)	mir	a1.2 unit_09 pattern
+tragen — du / er? — Partizip II?	du trägst · er/sie/es trägt	a1.2 unit_09 verb
+
 # ── Redewendungen — Idiom-Set (Kurs + Extras) ──
 Don't worry about it. (lit. don't make yourself a head)	Mach dir kein' Kopf.	a1.2 teach idioms unit_07
 

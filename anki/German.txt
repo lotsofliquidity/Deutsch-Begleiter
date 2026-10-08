@@ -1435,6 +1435,104 @@ summer	der Sommer · die Sommer	a1.2 unit_08 noun
 autumn	der Herbst · die Herbste	a1.2 unit_08 noun
 winter	der Winter · die Winter	a1.2 unit_08 noun
 
+# ── A1.2 Unit 9 — Kleider machen Leute ──
+What's the matter?	Was ist los?	a1.2 unit_09 chunk
+Oh dear, me and fashion.	Oje, ich und Mode.	a1.2 unit_09 chunk
+Oh! Typical man.	Oh! Typisch Mann.	a1.2 unit_09 chunk
+Does that go together?	Passt das?	a1.2 unit_09 chunk
+What's up? (lit. what is there)	Was gibt's?	a1.2 unit_09 chunk
+Look, Gogo. (southern variant)	Schau mal, Gogo.	a1.2 unit_09 chunk
+Have a look! (southern variant)	Schau mal!	a1.2 unit_09 chunk
+I think you can wear anything.	Ich finde, du kannst alles tragen.	a1.2 unit_09 chunk
+You just don't know anything about fashion.	Du hast einfach keine Ahnung von Mode.	a1.2 unit_09 chunk
+Oh, leave me alone. (lit. leave me in peace)	Ach, lass mich doch in Ruhe.	a1.2 unit_09 chunk
+What am I going to do?	Was soll ich nur machen?	a1.2 unit_09 chunk
+This is the best store in Berlin to buy clothes.	Das ist der beste Laden in Berlin zum Klamottenkaufen.	a1.2 unit_09 chunk
+You really don't know what's good.	Du weißt echt nicht, was gut ist.	a1.2 unit_09 chunk
+Oh yeah? Tell me about it.	Oh ja? Erzähl mal.	a1.2 unit_09 chunk
+We haven't known each other that long.	Wir kennen uns noch nicht so lange.	a1.2 unit_09 chunk
+What size do you have?	Welche Größe hast du denn?	a1.2 unit_09 chunk
+Which top?	Welches Top?	a1.2 unit_09 chunk
+What do you think of this sweater?	Wie findest du den Pullover?	a1.2 unit_09 chunk
+But blue is not my color.	Aber Blau ist nicht meine Farbe.	a1.2 unit_09 chunk
+Come here!	Komm mal her!	a1.2 unit_09 chunk
+But yes, it looks great on you.	Aber ja, die sieht toll an dir aus.	a1.2 unit_09 chunk
+No, the pants don't fit me.	Nein, die Hose passt mir nicht.	a1.2 unit_09 chunk
+They are too small.	Sie ist zu klein.	a1.2 unit_09 chunk
+I don't wear a 40.	Ich trage keine 40.	a1.2 unit_09 chunk
+The label must be wrong.	Das Etikett muss falsch sein.	a1.2 unit_09 chunk
+What about the dress?	Was ist denn mit dem Kleid?	a1.2 unit_09 chunk
+It will certainly suit you.	Das steht dir bestimmt gut.	a1.2 unit_09 chunk
+Yes, it fits!	Ja, es passt!	a1.2 unit_09 chunk
+I have found the perfect dress for you.	Ich habe das perfekte Kleid für dich gefunden.	a1.2 unit_09 chunk
+I'll put it on!	Das zieh' ich mal an!	a1.2 unit_09 chunk
+Where did my dress go?	Wo ist denn mein Kleid hin?	a1.2 unit_09 chunk
+How do you like the dress?	Wie gefällt dir das Kleid?	a1.2 unit_09 chunk
+I think it's great.	Ich finde es toll.	a1.2 unit_09 chunk
+It looks great.	Es sieht toll aus.	a1.2 unit_09 chunk
+Which color do you like?	Welche Farbe magst du?	a1.2 unit_09 chunk
+I like green.	Ich mag Grün.	a1.2 unit_09 chunk
+Can you help me? (formal)	Können Sie mir helfen?	a1.2 unit_09 chunk
+What size are you? (formal)	Welche Größe haben Sie?	a1.2 unit_09 chunk
+Can I try on the dress?	Kann ich das Kleid anprobieren?	a1.2 unit_09 chunk
+The fitting rooms are here on the left.	Hier links sind die Umkleidekabinen.	a1.2 unit_09 chunk
+Do you have the dress in size 40 too?	Haben Sie das Kleid auch in Größe 40?	a1.2 unit_09 chunk
+No, unfortunately not.	Nein, leider nicht.	a1.2 unit_09 chunk
+Does the dress come in green too?	Gibt es das Kleid auch in Grün?	a1.2 unit_09 chunk
+No, only in red.	Nein, nur in Rot.	a1.2 unit_09 chunk
+Does the size fit you? (formal)	Passt Ihnen die Hose?	a1.2 unit_09 chunk
+No, it's too big.	Nein, sie ist zu groß.	a1.2 unit_09 chunk
+I'd like red.	Ich hätte gern Rot.	a1.2 unit_09 chunk
+What do you like to wear?	Was trägst du gern?	a1.2 unit_09 chunk
+to put on — Ich ___ heute einen Rock ___.	anziehen	a1.2 unit_09 chunk
+to wear (colloquial) — to have on	anhaben	a1.2 unit_09 chunk
+yellow	gelb	a1.2 unit_09 chunk
+red	rot	a1.2 unit_09 chunk
+blue	blau	a1.2 unit_09 chunk
+green	grün	a1.2 unit_09 chunk
+black	schwarz	a1.2 unit_09 chunk
+white	weiß	a1.2 unit_09 chunk
+brown	braun	a1.2 unit_09 chunk
+grey	grau	a1.2 unit_09 chunk
+purple	lila	a1.2 unit_09 chunk
+orange (colour)	orange	a1.2 unit_09 chunk
+mit + Dativ — m / n / f / pl?	dem · dem · der · den	a1.2 unit_09 pattern
+Dativ Plural — what happens to the noun?	adds -n (mit den Kindern) — unless it already ends in -n or -s	a1.2 unit_09 pattern
+demonstrative, dative plural?	den → denen (mit denen)	a1.2 unit_09 pattern
+welch- / dies- decline like?	the definite article (der/die/das)	a1.2 unit_09 pattern
+welch- / dies- — masculine accusative?	welchen / diesen	a1.2 unit_09 pattern
+“this one here” / “that one there”?	der hier / der da (der dort)	a1.2 unit_09 pattern
+gefallen — which case for the person?	dative (Das Kleid gefällt mir)	a1.2 unit_09 pattern
+passen vs stehen?	passen = size · stehen = how it looks on you	a1.2 unit_09 pattern
+Only which verb means “to see”?	sehen (schauen/gucken = to look)	a1.2 unit_09 pattern
+Colour after a preposition — capitalised?	yes, as a noun: in Rot	a1.2 unit_09 pattern
+Which important verbs take the dative?	gefallen · passen · stehen · helfen · antworten · danken · gehören · gratulieren · vertrauen · schmecken	a1.2 unit_09 pattern
+Dative question word for a person?	Wem? — Wem antwortet Katie? → der Lehrerin	a1.2 unit_09 pattern
+With gefallen · gehören · passen · schmecken · stehen — where does the dative pronoun often go?	Position 1: Mir gefällt das Kleid. = Das Kleid gefällt mir. (the subject moves behind the verb)	a1.2 unit_09 pattern
+ich / du in the dative?	mir · dir	a1.2 unit_09 pattern
+mich/dich vs mir/dir — which case?	mich/dich = accusative · mir/dir = dative	a1.2 unit_09 pattern
+Kannst du ___ helfen? (ich)	mir	a1.2 unit_09 pattern
+tragen — du / er? — Partizip II?	du trägst · er/sie/es trägt	a1.2 unit_09 verb
+blouse	die Bluse · die Blusen	a1.2 unit_09 noun
+skirt	der Rock · die Röcke	a1.2 unit_09 noun
+T-shirt	das T-Shirt · die T-Shirts	a1.2 unit_09 noun
+pants / trousers	die Hose · die Hosen	a1.2 unit_09 noun
+dress	das Kleid · die Kleider	a1.2 unit_09 noun
+shirt	das Hemd · die Hemden	a1.2 unit_09 noun
+jacket	die Jacke · die Jacken	a1.2 unit_09 noun
+coat	der Mantel · die Mäntel	a1.2 unit_09 noun
+shoe	der Schuh · die Schuhe	a1.2 unit_09 noun
+sweater	der Pullover · die Pullover	a1.2 unit_09 noun
+hat	der Hut · die Hüte	a1.2 unit_09 noun
+sock / stocking	die Socke · die Socken / der Strumpf · die Strümpfe	a1.2 unit_09 noun
+clothing (collective)	die Kleidung · die Kleidungen	a1.2 unit_09 noun
+garment / item of clothing	das Kleidungsstück · die Kleidungsstücke	a1.2 unit_09 noun
+colour	die Farbe · die Farben	a1.2 unit_09 noun
+label / tag	das Etikett · die Etiketten	a1.2 unit_09 noun
+fitting room	die Umkleidekabine · die Umkleidekabinen	a1.2 unit_09 noun
+salesman / saleswoman	der Verkäufer · die Verkäufer / die Verkäuferin · die Verkäuferinnen	a1.2 unit_09 noun
+customer (f)	die Kundin · die Kundinnen	a1.2 unit_09 noun
+
 # ── Redewendungen — Idiom-Set (Kurs + Extras) ──
 An idiom for horror — “I don’t believe it!” (lit. my pig is whistling)	Ich glaub', mein Schwein pfeift.	a1.1 idioms unit_01
 You’re crazy! (lit. you don’t have all the cups in the cupboard)	Du hast nicht alle Tassen im Schrank.	a1.2 idioms unit_06
