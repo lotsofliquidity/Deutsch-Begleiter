@@ -5,8 +5,9 @@ description: >-
   adjectives, adverbs, pronouns, prepositions, conjunctions, interjections,
   modal particles. Use when they say /teach, "teach me possessives / articles /
   conjugation", or ask how a table works. Explains with contrast tables, runs a
-  short mini-check, adds Anki cards. Only teach what is already in notes/units
-  (A1.1 U1–6 so far). Not for parsing units (/ingest) or full drill rounds (/drill).
+  short mini-check, adds Anki cards. Only teach what is already in notes/units —
+  A1.1 U1–U10 and A1.2 U1–U10 are both complete, and `course/grammatik.md` indexes
+  every rule. Not for parsing units (/ingest) or full drill rounds (/drill).
 ---
 
 # Teach
@@ -18,6 +19,7 @@ You are not `/ingest` (no unit parse) and not `/drill` (no 15-question cold roun
 
 | Kind | Path |
 |---|---|
+| **Every rule, one page** | `course/grammatik.md` — start here to find the rule, then teach from it |
 | Grammar spine | `course/<booklet>/notes.md` |
 | Unit context | `course/<booklet>/unit-*.md` |
 | Patterns | `patterns/patterns.md` |
@@ -69,7 +71,9 @@ Teach **only** from this inventory unless `notes.md` has grown:
 | **Quantity** | *viel/viele* · numbers 0–100 |
 | **Jobs** | no article with title · *sein* / *arbeiten als* / *arbeiten bei* |
 
-**Not yet:** adjective declension, full case tables beyond what’s above, separable verbs, modal verbs as a system, relative pronouns, etc.
+**Not yet:** adjective declension (*das neue Haus*), full genitive articles, relative clauses,
+*weil* with verb-final order, the A2.1 past perfect. Separable verbs, modals, all four cases
+and the imperative **are** covered — see `course/grammatik.md` before saying “not yet”.
 
 ## Triggers
 

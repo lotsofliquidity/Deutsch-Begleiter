@@ -1,6 +1,6 @@
 # Partizip II — complete list
 
-Every past participle the booklets teach, A1.2 Units 6–7 (the Perfekt is introduced in U6;
+Every past participle the booklets teach, A1.2 Units 6–10 (the Perfekt is introduced in U6;
 A1.1 has none). Grouped by **how the form is built**, because that's the part you decide —
 not the part you look up.
 
@@ -87,6 +87,8 @@ match the Anki cards.
 | Infinitive | Partizip II | English |
 |---|---|---|
 | sehen | gesehen | to see |
+| geben | gegeben | to give |
+| rufen | gerufen | to call out, shout |
 | lesen | gelesen | to read |
 | schreiben | geschrieben | to write |
 | treffen | getroffen | to meet |
@@ -133,6 +135,7 @@ These look regular but aren't — the stem changes, so they're learned individua
 | fernsehen | ferngesehen | to watch TV |
 | anfangen | angefangen | to begin |
 | mitbringen | mitgebracht | to bring along |
+| einladen | eingeladen | to invite |
 | ausschlafen | ausgeschlafen | to sleep in |
 | anrufen | angerufen | to call |
 | ausziehen | ausgezogen | to take off (shoes) |

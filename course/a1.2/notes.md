@@ -636,3 +636,96 @@ Register: *schauen* — southern Germany / Austria · *gucken* — colloquial, n
 **Capitalisation:** lowercase as an adjective (*Das Kleid ist **rot**.*) · uppercase as a noun, e.g. after a preposition (*Gibt es das Kleid noch in **Rot**? — Ja, in **Lila** oder **Grün**.*)
 
 Judging clothes: *schick · elegant · cool · langweilig · hässlich* — *Wie findest du das Kleid? — Ich finde es toll. / Es sieht toll aus.*
+
+## Modalverb “dürfen” (U10)
+
+*dürfen* = something is **allowed**; negated (*nicht dürfen*) it expresses a **prohibition**.
+
+| | |
+|---|---|
+| ich | **darf** |
+| du | darfst |
+| er / sie / es | **darf** |
+| wir | **dürfen** |
+| ihr | dürft |
+| sie / Sie | **dürfen** |
+
+*ich* = *er/sie/es* · *wir* = *sie/Sie* (no *-e* added to the *ich* form).
+
+**Satzklammer:** modal in position 2, infinitive at the end — *Wir **dürfen** im Garten eine Party **feiern**.*
+Erlaubnis: *Man darf im Museum fotografieren.* · Verbot: *Man darf im Restaurant nicht rauchen.*
+
+## Besitz: Genitiv -s und von + Dativ (U10)
+
+| Form | Example | Rule |
+|---|---|---|
+| Name + *-s* | *Bobbis Tisch · Katies Zimmer · Gogos Wohnung* | name first, takes *-s* |
+| Name in *-s/-z/-x* | *Max' Sofa · Jonas' Freunde · Lutz' Schrank* | nothing added — written apostrophe only |
+| *von* + name | *der Tisch von Bobbi* | the alternative when there's no *-s* |
+| *von* + dative | *von der Frau · von dem Mann · von den Freunden* | *von* always takes the dative |
+| *von dem* = *vom* | *die Freunde vom Mann* | contraction, but only with the article |
+
+*Das ist süß von dir.* · *Der Blumenstrauß ist von mir.* — the person stands in the **dative**.
+
+## Die temporale Präposition “ab” (U10)
+
+*ab* (+ **Dativ**) names a current or future period with a fixed start; the end stays open. Question: ***Ab wann?***
+
+*Ab 20 Uhr dürfen Sie keinen Lärm mehr machen.* · *Ab morgen mache ich Sport.* · *Wir haben ab diesem Herbst einen neuen Lehrer.*
+
+Rare synonym: *von … an* (+ Dativ) — *Von morgen an mache ich Sport.*
+
+## ein Paar vs ein paar (U10)
+
+| | Meaning | Example |
+|---|---|---|
+| *ein **Paar*** | exactly two that belong together | *ein Paar Schuhe · ein Paar Socken* |
+| *das Paar* | two people together | *Sind Katie und Bobbi ein Paar?* · *ein Ehepaar* |
+| *ein **paar*** | several — more than two | *ein paar Freunde · ein paar Geschenke* |
+
+## das Wetter (U10)
+
+| Noun | Weather | English |
+|---|---|---|
+| *die Sonne* | *Es ist sonnig. = Die Sonne scheint.* | sunny |
+| *der Regen* | *Es regnet.* | raining |
+| *der Schnee* | *Es schneit.* | snowing |
+| *die Wolke* | *Es ist bewölkt.* | cloudy |
+| *der Wind* | *Es ist windig.* | windy |
+| *der Sturm* | *Es ist stürmisch.* | stormy |
+| *das Gewitter* | *Es donnert und blitzt.* | thunder and lightning |
+| *der Nebel* | *Es ist neblig.* | foggy |
+
+*Wie ist das Wetter?* · *Wie viel Grad sind es? — Es sind 25 Grad (Celsius). — Es ist warm.* · *8 Grad — Es ist kühl.* · *minus 5 Grad — Es ist kalt.*
+*Die Temperaturen steigen (von 8) auf 15 Grad.* · *Die Temperaturen sinken (von 28) auf 25 Grad.* · *ein blauer Himmel*
+
+## Deutsches Frühstück (U10)
+
+| | | |
+|---|---|---|
+| *das Brot* (Brote) | *das Brötchen* (Brötchen) | *der Brotaufstrich* (Brotaufstriche) |
+| *die Marmelade* (Marmeladen) | *der Honig* (Honige) | *der Frischkäse* (Frischkäse) |
+| *der Wurstaufschnitt* = *die Wurst* | *der Käse(aufschnitt)* (Käse) | *die Butter* |
+| *das Ei* (Eier) | *gekochtes Ei · Rührei · Spiegelei* | *die Nuss-Nougat-Creme* |
+
+*Wann frühstückst du? — Ich frühstücke um 8 Uhr.* · *Ich esse gern Erdnussbutter zum Frühstück.*
+*Nutella* can take any of the three articles: *der / die / das Nutella*.
+
+## Geburtstagsparty (U10)
+
+- *der Geburtstag: Sie feiern Katies Geburtstag.* · *das Geschenk: Katie bekommt ein Geschenk.*
+- *gratulieren* + Dativ: *Bobbi gratuliert Katie zum Geburtstag.* — *Herzlichen Glückwunsch zum Geburtstag!* / *Alles Gute zum Geburtstag!*
+- *etwas schenken* + Dativ: *Bobbi schenkt Katie Blumen.* · *Ich wünsche dir alles Gute.*
+- *die Party: Sie feiern eine Party. Sie essen, trinken und tanzen.*
+- *einladen (zu + Dativ): Ich lade dich zum Geburtstag ein.* · *Katie hat viele Gäste eingeladen.*
+- *der Aufzug* = elevator · *die Lautstärke* = volume · *der Lärm* = noise · *die Polizei* · *der Nachbar* (Nachbarn)
+
+## einladen — trennbar und unregelmäßig (U10)
+
+| | | |
+|---|---|---|
+| ich | *lade … ein* | wir | *laden … ein* |
+| du | **lädst … ein** | ihr | *ladet … ein* |
+| er / sie / es | **lädt … ein** | sie / Sie | *laden … ein* |
+
+*einladen → **eingeladen*** (separable, irregular) · *geben → gegeben* (*gib her!*) · *rufen → gerufen* (*Ich rufe die Polizei.*). The person is accusative, the occasion *zu* + dative: *Ich lade **dich** **zum** Geburtstag ein.*

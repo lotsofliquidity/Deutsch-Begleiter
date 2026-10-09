@@ -2,7 +2,7 @@
 
 Source: [`A1-2-KOMPLETT.pdf`](A1-2-KOMPLETT.pdf) · answers: [`A1-2_LOESUNGEN_KOMPLETT.pdf`](A1-2_LOESUNGEN_KOMPLETT.pdf)
 
-**Ingested:** units 1–9 · **Not yet:** unit 10
+**Ingested:** units 1–10 · **Not yet:** —
 
 Ask: `/ingest` · `/teach` · `/drill`
 
@@ -19,7 +19,7 @@ Ask: `/ingest` · `/teach` · `/drill`
 | 7 | Was ist passiert? | Auf dem Sofa | ingested | 169–197 |
 | 8 | Ich liebe Fußball! | Im Park | ingested | 198–226 |
 | 9 | Kleider machen Leute | Im Kleidergeschäft | ingested | 227–258 |
-| 10 | Alles Gute! | Geburtstagsparty | map only | 259– |
+| 10 | Alles Gute! | Geburtstagsparty | ingested | 259–283 |
 
 ---
 
@@ -54,3 +54,11 @@ Ask: `/ingest` · `/teach` · `/drill`
 | 1 Ich habe Durst. | hunger/thirst, consent, toasting | *an-/aus-/auf-/zu-machen* |
 | 2 Guten Morgen, du Schlafmütze! | kitchen items, frequency | *schlafen*, *Wie oft?* |
 | 3 Das Fleisch ist zu salzig! | meals, describing food | *zu + Adj*, Kompositum |
+
+## Unit 10 — Alles Gute!
+
+| Dialog | Themen | Grammatik |
+|---|---|---|
+| 1 Guten Morgen, Geburtstagskind! | deutsches Frühstück, das Wetter | weather frames, *es ist* vs *es* + verb |
+| 2 Hoch soll sie leben! | Geburtstagsparty, *ein paar* / *ein Paar* | Besitz: Genitiv *-s*, *von* + Dativ |
+| 3 Was für ein Krach! | über Regeln sprechen | Modalverb *dürfen*, temporale Präposition *ab* |

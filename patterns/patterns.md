@@ -115,6 +115,15 @@ Taught by `/ingest`. Drilled by `/drill`. Source PDFs: `courses/`.
 | [gefallen · passen · stehen](#gefallen--passen--stehen) | like · fit · suit + dative | A1.2 U9 |
 | [mir / dir](#mir--dir) | dative personal pronouns | A1.2 U9 |
 | [sehen / schauen / gucken](#sehen--schauen--gucken) | synonyms — except “to see” | A1.2 U9 |
+| [Genitiv -s (Besitz)](#genitiv--s-besitz) | possession with a name + *-s* | A1.2 U10 |
+| [von + Dativ](#von--dativ) | of / from — possession and origin | A1.2 U10 |
+| [dürfen](#dürfen) | allowed to · *nicht dürfen* = forbidden | A1.2 U10 |
+| [ab + Dativ](#ab--dativ) | from … on — fixed start, open end | A1.2 U10 |
+| [ein Paar vs ein paar](#ein-paar-vs-ein-paar) | a pair vs a few | A1.2 U10 |
+| [Wie ist das Wetter?](#wie-ist-das-wetter) | weather: *es ist …* / *es* + verb | A1.2 U10 |
+| [Gratulieren und schenken](#gratulieren-und-schenken) | birthday wishes + dative person | A1.2 U10 |
+| [einladen zu + Dativ](#einladen-zu--dativ) | invite someone to something | A1.2 U10 |
+| [Was für ein X?](#was-für-ein-x) | what kind of X — and *what a X!* | A1.1 U9 → A1.2 U10 |
 
 Seed patterns not yet drilled from early units: [Hast du X dabei?](#hast-du-x-dabei) · [Wohin + Verb](#wohin--verb-der-bewegung)
 
@@ -3082,6 +3091,284 @@ Well-attested everyday idioms, kept here as a starter set. Nothing else in this 
 
 ---
 
+## Genitiv -s (Besitz)
+
+**Frame:** `Name + -s + Nomen`
+**Meaning:** possession with a name — “Katie's room”
+**Slot:** the owner's name comes **first** and takes *-s*: *Katies Zimmer* · *Bobbis Tisch* · *Gogos Wohnung*
+**Register:** neutral
+
+**Behind it:** Only **names** take the *-s*. No apostrophe: *Katies Zimmer*, not *~~Katie's Zimmer~~*. A name already ending in *-s*, *-z* or *-x* adds **nothing** — written German writes a lone apostrophe: *Max' Sofa* · *Jonas' Freunde*. With a common noun or a pronoun, possession uses [von + Dativ](#von--dativ) instead.
+
+**Instances**
+- Bobbis Tisch · Katies Zimmer · Gogos Wohnung
+- Max' Sofa · Jonas' Freunde · Lutz' Schrank
+- Ist das Bertas Kuchen? → Ist das der Kuchen von Berta?
+- Sind das Peters Schuhe? → Sind das die Schuhe von Peter?
+
+**Ladder**
+1. Bobbis Tisch
+2. Katies Zimmer
+3. Gogos Wohnung
+4. Max' Sofa (ends in -x — just an apostrophe)
+5. Ist das Bertas Kuchen?
+6. Ist das Frau Müllers Sohn?
+7. Trap: *~~Katie's Zimmer~~* — no apostrophe before the *-s*
+8. Trap: *~~Maxs Sofa~~* — *-s/-z/-x* names add nothing
+
+**Meta:** A1.2 Unit 10 · Dialog 2 · added 2026-10-09
+
+---
+
+## von + Dativ
+
+**Frame:** `von + Dativ`
+**Meaning:** of / from — possession when there's no name, and origin
+**Slot:** *von der Frau* (f) · *von dem / vom Mann* (m/n) · *von den Freunden* (pl) · *von mir · von dir*
+**Register:** neutral
+
+**Behind it:** *von* always takes the **dative**: *der → von der* · *der/das → von dem* · *die (Pl) → von den*. *von dem* contracts to **vom** — but only where *dem* really stands (*vom Mann*, not *~~vom Katie~~*). With people it also carries the “that's sweet of you” sense: *Das ist süß von dir.*
+
+**Instances**
+- der Tisch von Bobbi · das Zimmer von Katie · die Wohnung von Gogo
+- Das ist die Party von der Frau.
+- Das sind die Freunde von dem = vom Mann.
+- Das sind die Geschenke von den Freunden.
+- Der Blumenstrauß ist von mir. · Das ist süß von dir.
+
+**Ladder**
+1. der Tisch von Bobbi
+2. die Wohnung von Gogo
+3. Das ist die Party von der Frau.
+4. Das sind die Freunde vom Mann. (von dem = vom)
+5. Das sind die Geschenke von den Freunden.
+6. Das ist süß von dir.
+7. Trap: *~~süß von du~~* — *von* takes the dative → *von dir*
+8. Trap: *~~vom Katie~~* — *vom* only merges with the article *dem*
+
+**Meta:** A1.2 Unit 10 · Dialog 2 · added 2026-10-09
+
+---
+
+## dürfen
+
+**Frame:** `dürfen + Infinitiv am Ende`
+**Meaning:** to be allowed to — and *nicht dürfen* = not allowed, i.e. forbidden
+**Slot:** *ich darf · du darfst · er/sie/es darf · wir dürfen · ihr dürft · sie/Sie dürfen*
+**Register:** neutral
+
+**Behind it:** A modal verb: it sits in position 2 and the infinitive goes to the end — *Wir **dürfen** im Garten eine Party **feiern**.* Stem change with no umlaut and no *-e* in *ich*: *du darfst · er darf*. *ich* = *er/sie/es*, and *wir* = *sie/Sie*.
+
+**Instances**
+- Wir dürfen im Garten eine Party feiern.
+- Man darf im Museum fotografieren.
+- Ab 22 Uhr dürfen Sie keinen Lärm mehr machen.
+- Man darf im Restaurant nicht rauchen.
+- Darf man hier rauchen? · Wann dürfen wir keinen Lärm machen?
+- Du darfst hier nicht rauchen.
+
+**Ladder**
+1. Ich darf im Garten eine Party feiern.
+2. Du darfst hier nicht rauchen.
+3. Er darf nicht fotografieren.
+4. Wir dürfen im Garten eine Party feiern.
+5. Meine Kinder dürfen heute fernsehen.
+6. Dürft ihr hier Fußball spielen?
+7. Trap: *~~ich dürfe~~* / *~~du dürfst~~* — *ich darf*, *du darfst*
+8. Trap: *~~Ich darf feiern im Garten.~~* — the infinitive stays at the end
+
+**Meta:** A1.2 Unit 10 · Dialog 3 · added 2026-10-09
+
+---
+
+## ab + Dativ
+
+**Frame:** `ab + Dativ (+ Zeitpunkt)`
+**Meaning:** from … on / as of — a period with a fixed start and an open end
+**Slot:** *ab 20 Uhr* · *ab morgen* · *ab Montag* · *ab diesem Sommer* · *ab diesem Herbst*
+**Register:** neutral
+
+**Behind it:** *ab* takes the **dative**, and the question is ***Ab wann?*** A bare time or weekday needs no article (*ab morgen*, *ab Montag*); *dies-* does, and stands in the dative (*ab diesem Sommer*). The booklet's rare synonym is *von … an*: *Von morgen an mache ich Sport.*
+
+**Instances**
+- Ab 20 Uhr dürfen Sie keinen Lärm mehr machen.
+- Ab morgen mache ich Sport. · Ab Montag mache ich Sport.
+- Wir haben ab diesem Herbst einen neuen Lehrer.
+- Ab diesem Sommer gehen wir in den Deutschkurs.
+- Von morgen an mache ich Sport.
+
+**Ladder**
+1. Ab morgen mache ich Sport.
+2. Ab Montag mache ich Sport.
+3. Ab 20 Uhr dürfen Sie keinen Lärm mehr machen.
+4. Du darfst ab 22 Uhr keinen Lärm mehr machen.
+5. Wir haben ab diesem Herbst einen neuen Lehrer.
+6. Trap: *ab diesem* Herbst, not *~~ab diesen Herbst~~* — *ab* takes the dative
+7. Trap: *~~ab dem morgen~~* — a bare time takes no article: *ab morgen*
+8. Trap: *von … an* keeps both halves: *Von morgen **an** mache ich Sport.*
+
+**Meta:** A1.2 Unit 10 · Dialog 3 · added 2026-10-09
+
+---
+
+## ein Paar vs ein paar
+
+**Frame:** `ein Paar X` vs `ein paar X`
+**Meaning:** a pair of X (always two, belonging together) vs a few X (more than two)
+**Slot:** *ein Paar Schuhe · ein Paar Socken* · *ein paar Freunde · ein paar Geschenke*
+**Register:** neutral
+
+**Behind it:** Only the capital letter separates them, and they sound the same. **ein Paar** = exactly two things that belong together; *das Paar* = two people together (*Sie sind ein Ehepaar.*). **ein paar** = several, i.e. more than two.
+
+**Instances**
+- Ich habe ein Paar Socken. (zwei Socken)
+- Pietro hat ein paar Freunde mitgebracht. (mehrere)
+- Ich kaufe ein paar Geschenke.
+- Er kann ein paar Freunde mitbringen.
+- Pablo und Carmen sind ein Paar.
+- Katies Eltern sind verheiratet. Sie sind ein Ehepaar.
+
+**Ladder**
+1. ein Paar Schuhe
+2. ein Paar Socken
+3. Ich habe ein Paar Socken.
+4. ein paar Freunde
+5. Pietro hat ein paar Freunde mitgebracht.
+6. Ich kaufe ein paar Geschenke.
+7. Pablo und Carmen sind ein Paar.
+8. Trap: capital *P* = exactly two · lowercase *p* = a few
+
+**Meta:** A1.2 Unit 10 · Dialog 2 · added 2026-10-09
+
+---
+
+## Wie ist das Wetter?
+
+**Frame:** `Wie ist das Wetter?` → `Es ist …` / `Es <Verb>`
+**Meaning:** asking about and describing the weather
+**Slot:** *sonnig · bewölkt · windig · stürmisch · neblig* · *regnen · schneien · donnern · blitzen* · *die Sonne scheint*
+**Register:** neutral
+
+**Behind it:** Weather is either an **adjective** after *es ist* (*Es ist sonnig.*) or a **verb** with *es* as its subject (*Es regnet.*). Temperature is plural: *Wie viel Grad **sind** es? — Es **sind** 25 Grad.* Temperatures *steigen* and *sinken* **von** X **auf** Y.
+
+**Instances**
+- Wie ist das Wetter? — Es ist sonnig. / Die Sonne scheint.
+- Es regnet. · Es schneit. · Es ist bewölkt. · Es ist windig. · Es ist stürmisch. · Es ist neblig.
+- Es donnert und blitzt.
+- Wie viel Grad sind es? — Es sind 25 Grad. Es ist warm. / Es sind 8 Grad. Es ist kühl. / Es sind minus 5 Grad. Es ist kalt.
+- Die Temperaturen steigen von 8 auf 15 Grad. · Die Temperaturen sinken von 28 auf 25 Grad.
+- heute scheint eigentlich den ganzen Tag die Sonne · einen blauen Himmel
+
+**Ladder**
+1. Wie ist das Wetter?
+2. Es ist sonnig. = Die Sonne scheint.
+3. Es ist bewölkt.
+4. Es regnet.
+5. Es donnert und blitzt.
+6. Wie viel Grad sind es? — Es sind 25 Grad.
+7. Die Temperaturen steigen von 8 auf 15 Grad.
+8. Trap: *Es **ist** bewölkt.* (adjective) but *Es **regnet**.* (verb) — never *~~Es ist regnen~~*
+9. Trap: *Wie viel Grad **sind** es?* — plural
+
+**Meta:** A1.2 Unit 10 · Dialog 1 · added 2026-10-09
+
+---
+
+## Gratulieren und schenken
+
+**Frame:** `jemandem zu etwas gratulieren` · `jemandem etwas schenken`
+**Meaning:** congratulating someone on something, and giving someone a present
+**Slot:** *Ich gratuliere **dir** zum Geburtstag.* · *Ich schenke **dir** Blumen.* · *Ich wünsche **dir** alles Gute.*
+**Register:** neutral
+
+**Behind it:** The **person** stands in the dative — the [dative-verb set](#mir--dir) again (*gratulieren · wünschen · schenken*). The occasion takes *zu + Dativ*, which contracts: *zu dem → **zum** Geburtstag*. Fixed phrases need no verb: *Herzlichen Glückwunsch zum Geburtstag!* · *Alles Gute zum Geburtstag!* The person being celebrated takes the possessive: *Sie feiern Katies Geburtstag.*
+
+**Instances**
+- Ich gratuliere dir zum Geburtstag.
+- Bobbi gratuliert Katie zum Geburtstag.
+- Herzlichen Glückwunsch zum Geburtstag! · Alles Gute zum Geburtstag!
+- Ich schenke dir Blumen. · Bobbi schenkt Katie Blumen.
+- Ich wünsche dir alles Gute.
+- Sie feiern Katies Geburtstag.
+
+**Ladder**
+1. Alles Gute zum Geburtstag!
+2. Herzlichen Glückwunsch zum Geburtstag!
+3. Ich gratuliere dir zum Geburtstag.
+4. Ich wünsche dir alles Gute.
+5. Ich schenke dir Blumen.
+6. Sie feiern Katies Geburtstag.
+7. Trap: *Ich gratuliere ~~dich~~* — the person is dative → *dir*
+8. Trap: *zum* Geburtstag (zu + dem), not *~~zu dem Geburtstag~~* in speech
+
+**Meta:** A1.2 Unit 10 · Dialog 2 · added 2026-10-09
+
+---
+
+## einladen zu + Dativ
+
+**Frame:** `Ich lade X zu Y ein.`
+**Meaning:** to invite someone to something
+**Slot:** X = accusative person (*dich · ihn · viele Gäste*) · Y = dative occasion (*zum Geburtstag · zur Party*)
+**Register:** neutral
+
+**Behind it:** *einladen* is **separable** (the prefix *ein-* goes to the end) **and** irregular in *du*/*er*: *ich lade … ein · du lädst … ein · er/sie/es lädt … ein · wir laden … ein · ihr ladet … ein · sie/Sie laden … ein*. The person is accusative, the occasion *zu* + dative. Participle: *eingeladen*. Same bracket as [Trennbare Verben (Bahn)](#trennbare-verben-bahn).
+
+**Instances**
+- Ich lade dich zum Geburtstag ein.
+- Ich lade ihn zur Party ein.
+- Katie hat viele Gäste (zu der Party) eingeladen.
+- Katie, wen hast du denn alles eingeladen?
+
+**Ladder**
+1. Ich lade dich ein.
+2. Ich lade dich zum Geburtstag ein.
+3. Ich lade ihn zur Party ein.
+4. Katie hat viele Gäste eingeladen.
+5. Wen hast du eingeladen?
+6. Trap: *~~du ladest~~* / *~~du einlädst~~* — *du lädst … ein*
+7. Trap: *~~Ich einlade dich.~~* — the prefix stays at the end
+
+**Meta:** A1.2 Unit 10 · Dialog 2 · added 2026-10-09
+
+---
+
+## Was für ein X?
+
+**Frame:** `Was für (ein-) X?` — and the split order `Was … für (ein-) X?`
+**Meaning:** what kind of X — and, as an exclamation, *what a X!*
+**Slot:** *ein* only with a **singular countable** noun, and it declines: *ein* (m/n) · *eine* (f) · *einen* (acc. m) · **nothing** with a plural or mass noun
+**Register:** neutral · *was für'n* is the colloquial contraction of *was für ein*
+
+**Behind it:** One shape, two jobs. **Asking the kind** keeps the noun: *Was für ein Auto ist das?* The noun can also stay where it is with the question words fronted — *Was ist das für ein Auto?* — and the booklet treats both as the same question (*Was für Hobbys hast du?* = *Was hast du für Hobbys?*). **As an exclamation** the verb disappears entirely: *Was für ein Idiot!* In both jobs *ein* follows the noun it introduces: *ein* for masculine/neuter, *eine* for feminine, *einen* when that noun is a masculine object, and **no article at all** for plurals and mass nouns (*Was für Autos …?* · *Was für Bier haben Sie?*).
+
+**Instances**
+- Was für ein Auto ist das? = Was ist das für ein Auto?
+- Was für eine Farbe ist das? · Was für ein Kleid ist das?
+- Was für einen Pullover kaufst du? (masculine object)
+- Was für Autos sind das? · Was für Bier haben Sie? (plural / mass — no *ein*)
+- Was für Hobbys hast du? = Was hast du für Hobbys?
+- Was ist das hier für ein Krach?
+- Exclamation: Was für ein Idiot! · Was für eine Tragödie! · Was für eine verrückte Familie.
+- Colloquial: Was für'n Dackel?
+
+**Ladder**
+1. Was für ein Auto ist das?
+2. Was für eine Farbe ist das?
+3. Was für ein Kleid ist das?
+4. Was für einen Pullover kaufst du?
+5. Was für Autos sind das?
+6. Was für Bier haben Sie?
+7. Was ist das für ein Auto? (split order — the same question)
+8. Was für ein Idiot! (exclamation — no verb)
+9. Trap: *~~Was für eine Auto~~* — *das Auto* is neuter → *ein*
+10. Trap: *~~Was für eine Autos~~* — plurals and mass nouns take no article
+11. Trap: *~~Was für ein Pullover kaufst du~~* — masculine object → *einen*
+
+**Meta:** A1.1 U9 → A1.2 U10 · gathered 2026-10-09 — first met in the restaurant unit (*Was für Bier haben Sie?*) and recycled in four more, but never given a section of its own. Retro-filled so the construction has one home.
+
+---
+
 ## Later seeds (not yet fully met)
 
 ### Hast du X dabei?
@@ -3179,6 +3466,21 @@ Well-attested everyday idioms, kept here as a starter set. Nothing else in this 
 | *stehen* vs *passen* | Das steht dir gut. (looks) | Das passt mir. (size) | look vs size |
 | only *sehen* for seeing | Ich habe Sie nicht gesehen. | ~~Ich habe Sie nicht geschaut.~~ | *schauen/gucken* are for looking, not perceiving |
 | colour capitalisation | Das Kleid ist rot. / in Rot | ~~Das Kleid ist Rot.~~ | adjective lowercase, noun uppercase |
+| name + *-s* | Katies Zimmer | ~~Katie's Zimmer~~ | German writes no apostrophe before the *-s* |
+| name in *-s/-z/-x* | Max' Sofa | ~~Maxs Sofa~~ | nothing is added — only an apostrophe |
+| *von* + dative | Das ist süß von dir. | ~~von du~~ | *von* always takes the dative |
+| *vom* vs *von* + name | die Freunde vom Mann | ~~vom Katie~~ | *vom* only merges with the article *dem* |
+| *ein Paar* vs *ein paar* | ein Paar Schuhe | ein paar Freunde | two that belong together vs a few |
+| *dürfen* ich/du | ich darf · du darfst | ~~ich dürfe~~ / ~~du dürfst~~ | modal stem change, no *-e* in *ich* |
+| *nicht dürfen* | Man darf hier nicht rauchen. | ~~Man darf hier rauchen nicht.~~ | prohibition, infinitive stays at the end |
+| *ab* + dative | ab diesem Herbst | ~~ab diesen Herbst~~ | *ab* takes the dative |
+| weather: *ist* vs verb | Es ist bewölkt. | Es regnet. | adjective after *ist* vs verb with *es* |
+| degrees | Wie viel Grad sind es? | ~~Wie viel Grad ist es?~~ | plural *sind* |
+| *gratulieren* + dative | Ich gratuliere dir. | ~~Ich gratuliere dich.~~ | the person is dative |
+| *zum* Geburtstag | zum Geburtstag | ~~zu dem Geburtstag~~ | *zu* + *dem* contracts in speech |
+| *was für ein* agreement | Was für ein Auto? (n) | ~~Was für eine Auto~~ | *ein* agrees with the noun: *ein/eine/einen* |
+| *was für* + plural | Was für Autos sind das? | ~~Was für eine Autos~~ | no article with plurals or mass nouns |
+| *was für* split order | Was ist das für ein Auto? | = Was für ein Auto ist das? | same question, both orders fine |
 
 ---
 

@@ -20,6 +20,8 @@ freeform tutor and you do not run drills (`/drill`).
 | Curriculum map | `courses/<level>/MAP.md` |
 | Unit records | `course/<booklet>/unit-NN-<slug>.md` |
 | Grammar spine | `course/<booklet>/notes.md` |
+| **Every rule, one page** | `course/grammatik.md` — the rule index (§1 articles … §14 register, §15 formulas) |
+| Consolidated refs | `course/a1.2/partizip-ii.md` · `course/a1.2/vergangenheit.md` |
 | Pattern library | `patterns/patterns.md` |
 | Anki glossary (ALL cards) | `anki/German.txt` |
 | Anki deck (`pattern`/`verb`/`teach` only) | `anki/German-core.txt` — generated, never hand-edit |
@@ -53,7 +55,35 @@ check booklet + `_LOESUNGEN` in `courses/`.
 3. Write **`course/<booklet>/unit-NN-<slug>.md`** (kebab slug, no umlauts).
 4. Upsert produceable frames into **`patterns/patterns.md`** (Meta: booklet + unit).
 5. Distill lookups into **`course/<booklet>/notes.md`** (tight tables only).
-6. Append **every** card to **`anki/German.txt`** (the glossary) — `chunk` and `noun`
+6. Fold the unit's **rules** into **`course/grammatik.md`** — the one-page rule index.
+   This file is the answer to “where are the rules?”. Every rule the unit introduces or
+   extends gets an entry in the right numbered section (§1 articles … §14 register),
+   in the house shape:
+
+   ```
+   - **Rule name** *(U7)* — one short statement.
+     - *Booklet example.*
+     - *Booklet example.*
+     - Trap: ~~wrong~~ → *right*.
+   ```
+
+   - **One rule per bullet.** Examples are indented sub-bullets, **one example per line** —
+     never a wall of prose. Blank line between rules. Nothing over ~160 characters on a line.
+     This file is read, not parsed.
+   - **Examples must be booklet-attested** — copy from the unit file, the LÖSUNGEN, or the
+     pattern’s `Instances`. Never invent German to fill a slot.
+   - Add the new sections to that section’s `Deeper:` list: `*Deeper:*` on its own line, then
+     one `- [label](../patterns/patterns.md#anchor)` per line.
+   - A pattern that is really a **formula** (greetings, restaurant lines, small talk) goes in
+     **§15** instead — there is no rule to state.
+   - The other consolidated refs move when the unit touches them: `partizip-ii.md` for any new
+     participle form, `vergangenheit.md` for the past-tense system.
+   - **A rule living only in a card, or only as debris inside someone else’s section, is not
+     done.** That is the failure this step exists to prevent.
+   - **Check before finishing:** `python3 course/check_grammatik.py` — exit 0 means every
+     `## <pattern>` heading in `patterns.md` is reachable from `grammatik.md` (a rule in
+     §1–§14, a link in §15, or a `Deeper:` entry). Fix the gaps it lists; do not loosen it.
+7. Append **every** card to **`anki/German.txt`** (the glossary) — `chunk` and `noun`
    included; `split_core.py` promotes only `pattern`/`verb`/`teach` to the deck:
    - `#deck:German`, three tab-separated fields, tags **`a1.1 unit_NN`** (+ optional `chunk`/`verb`/`pattern`/`noun`)
    - **Direction = production:** cue/English/situation on the **front**, German on the **back** (for survival chunks, nouns, and frames you must say). Disambiguate register/sense on the front in **English only** (*informal* / *formal* / *pointing* / *farther* / *curious / softened*) — never put the German answer in the cue (`~~(da drüben)~~`, `~~(with denn)~~`, `~~(hätten gern)~~`).
@@ -76,10 +106,12 @@ check booklet + `_LOESUNGEN` in `courses/`.
    - **Every phrase-box bullet worth saying → one card.** Also card frames, flagged particles, and high-value traps.
    - **Unit noun lists → one card per noun**: English (or bare lemma) on front; back = `der/die/das X · die Y` (sg + pl together). Uncountables: note “no plural”.
    - Still skip full drill ladders and random dialog nouns not on the unit list
-7. Mark the unit ingested on **`courses/<level>/MAP.md`**.
-8. Run `python3 anki/validate_deck.py`, then `python3 anki/split_core.py`
+8. Mark the unit ingested on **`courses/<level>/MAP.md`**.
+9. Run the three checks, in this order:
+   `python3 course/check_grammatik.py` (every pattern reachable from `grammatik.md`) →
+   `python3 anki/validate_deck.py` → `python3 anki/split_core.py`
    (regenerates `anki/German-core.txt` — the reviewable deck — from the glossary).
-9. In chat: 3–6 sentence summary + offer `/drill` on this unit. Do not dump the library.
+10. In chat: 3–6 sentence summary + offer `/drill` on this unit. Do not dump the library.
 
 **Unit file shape:** Neue Chunks by dialog (complete) · Also — phrase boxes · patterns introduced · drill ladder · what tripped me up.
 

@@ -366,6 +366,32 @@ mich/dich vs mir/dir — which case?	mich/dich = accusative · mir/dir = dative	
 Kannst du ___ helfen? (ich)	mir	a1.2 unit_09 pattern
 tragen — du / er? — Partizip II?	du trägst · er/sie/es trägt	a1.2 unit_09 verb
 
+# ── A1.2 Unit 10 — Alles Gute! ──
+How do you show possession with a name in German?	The name goes first and takes -s: Katies Zimmer · Bobbis Tisch	a1.2 unit_10 pattern
+A name ends in -s, -z or -x — how do you write the possessive?	Nothing is added — just an apostrophe: Max' Sofa · Jonas' Freunde	a1.2 unit_10 pattern
+Besides the name -s, how else do you express possession?	von + Dativ: der Tisch von Bobbi · die Party von der Frau	a1.2 unit_10 pattern
+von + dem = ?	vom	a1.2 unit_10 pattern
+What does dürfen mean — and what does nicht dürfen express?	dürfen = to be allowed to · nicht dürfen = a prohibition	a1.2 unit_10 pattern
+Where does the infinitive go with dürfen?	At the end: Wir dürfen im Garten eine Party feiern.	a1.2 unit_10 pattern
+Which case does ab take?	Dativ — ab 20 Uhr · ab diesem Herbst	a1.2 unit_10 pattern
+What question does ab answer?	Ab wann?	a1.2 unit_10 pattern
+ein Paar vs ein paar?	ein Paar = exactly two that belong together (Schuhe) · ein paar = a few, more than two (Freunde)	a1.2 unit_10 pattern
+gratulieren — which case is the person?	Dativ: Ich gratuliere dir zum Geburtstag.	a1.2 unit_10 pattern
+zu + dem = ?	zum (zum Geburtstag)	a1.2 unit_10 pattern
+Weather: es ist + ... or es + ...?	Es ist sonnig. (adjective after ist) · Es regnet. (verb with es)	a1.2 unit_10 pattern
+Degrees — singular or plural?	Plural: Wie viel Grad sind es? — Es sind 25 Grad.	a1.2 unit_10 pattern
+dürfen — ich / er / sie / es?	darf	a1.2 unit_10 verb
+dürfen — du?	darfst	a1.2 unit_10 verb
+dürfen — wir / sie / Sie?	dürfen	a1.2 unit_10 verb
+dürfen — ihr?	dürft	a1.2 unit_10 verb
+einladen — ich / wir?	ich lade ... ein · wir laden ... ein	a1.2 unit_10 verb
+einladen — du?	du lädst ... ein	a1.2 unit_10 verb
+einladen — er / sie / es?	er/sie/es lädt ... ein	a1.2 unit_10 verb
+einladen — ihr?	ihr ladet ... ein	a1.2 unit_10 verb
+to invite — Partizip II?	eingeladen	a1.2 unit_10 verb
+to give — Partizip II?	gegeben	a1.2 unit_10 verb
+to call out / shout — Partizip II?	gerufen	a1.2 unit_10 verb
+
 # ── Redewendungen — Idiom-Set (Kurs + Extras) ──
 Don't worry about it. (lit. don't make yourself a head)	Mach dir kein' Kopf.	a1.2 teach idioms unit_07
 

@@ -1533,6 +1533,142 @@ fitting room	die Umkleidekabine · die Umkleidekabinen	a1.2 unit_09 noun
 salesman / saleswoman	der Verkäufer · die Verkäufer / die Verkäuferin · die Verkäuferinnen	a1.2 unit_09 noun
 customer (f)	die Kundin · die Kundinnen	a1.2 unit_09 noun
 
+# ── A1.2 Unit 10 — Alles Gute! ──
+Happy Birthday! (lit. All the best for your birthday)	Alles Gute zum Geburtstag!	a1.2 unit_10 chunk
+All the best! (short birthday wish)	Alles Gute!	a1.2 unit_10 chunk
+The flowers are so beautiful!	Die Blumen sind so schön!	a1.2 unit_10 chunk
+How sweet of you (pl.).	Wie süß von euch.	a1.2 unit_10 chunk
+Are you already excited?	Bist du schon aufgeregt?	a1.2 unit_10 chunk
+But I hope the weather will be good.	Aber ich hoffe, das Wetter wird gut.	a1.2 unit_10 chunk
+It is so cloudy.	Es ist so bewölkt.	a1.2 unit_10 chunk
+Are you serious? (to a friend, about something outrageous)	Ist das dein Ernst?	a1.2 unit_10 chunk
+Give it to me! (informal)	Gib her!	a1.2 unit_10 chunk
+When do you have breakfast? — I have breakfast at 8.	Wann frühstückst du? — Ich frühstücke um 8 Uhr.	a1.2 unit_10 chunk
+I like to eat peanut butter for breakfast.	Ich esse gern Erdnussbutter zum Frühstück.	a1.2 unit_10 chunk
+boiled egg · scrambled egg · fried egg	gekochtes Ei · Rührei · Spiegelei	a1.2 unit_10 noun
+bun / roll	das Brötchen · die Brötchen	a1.2 unit_10 noun
+spread (for bread)	der Brotaufstrich · die Brotaufstriche	a1.2 unit_10 noun
+jam	die Marmelade · die Marmeladen	a1.2 unit_10 noun
+honey	der Honig · die Honige	a1.2 unit_10 noun
+cream cheese	der Frischkäse · die Frischkäse	a1.2 unit_10 noun
+cold cuts	der Wurstaufschnitt (= die Wurst) · no plural	a1.2 unit_10 noun
+Nutella (all three articles are correct)	der Nutella · die Nutella · das Nutella	a1.2 unit_10 noun
+How is the weather?	Wie ist das Wetter?	a1.2 unit_10 chunk
+It's sunny.	Es ist sonnig.	a1.2 unit_10 chunk
+The sun is shining.	Die Sonne scheint.	a1.2 unit_10 chunk
+It's raining.	Es regnet.	a1.2 unit_10 chunk
+It's snowing.	Es schneit.	a1.2 unit_10 chunk
+It's windy.	Es ist windig.	a1.2 unit_10 chunk
+It's stormy.	Es ist stürmisch.	a1.2 unit_10 chunk
+It's thundering and lightning.	Es donnert und blitzt.	a1.2 unit_10 chunk
+It's foggy.	Es ist neblig.	a1.2 unit_10 chunk
+How many degrees is it?	Wie viel Grad sind es?	a1.2 unit_10 chunk
+It's 25 degrees. — It's warm.	Es sind 25 Grad. — Es ist warm.	a1.2 unit_10 chunk
+It's 8 degrees. — It's chilly.	Es sind 8 Grad. — Es ist kühl.	a1.2 unit_10 chunk
+It's minus 5 degrees. — It's cold.	Es sind minus 5 Grad. — Es ist kalt.	a1.2 unit_10 chunk
+The temperatures are rising (from 8 to 15 degrees).	Die Temperaturen steigen (von 8 auf 15 Grad).	a1.2 unit_10 chunk
+The temperatures are dropping (from 28 to 25 degrees).	Die Temperaturen sinken (von 28 auf 25 Grad).	a1.2 unit_10 chunk
+weather	das Wetter · no plural	a1.2 unit_10 noun
+sun	die Sonne · die Sonnen	a1.2 unit_10 noun
+rain	der Regen · no plural	a1.2 unit_10 noun
+snow	der Schnee · no plural	a1.2 unit_10 noun
+cloud	die Wolke · die Wolken	a1.2 unit_10 noun
+wind	der Wind · die Winde	a1.2 unit_10 noun
+storm	der Sturm · die Stürme	a1.2 unit_10 noun
+thunderstorm	das Gewitter · die Gewitter	a1.2 unit_10 noun
+fog	der Nebel · die Nebel	a1.2 unit_10 noun
+sky	der Himmel · die Himmel	a1.2 unit_10 noun
+sunshine	der Sonnenschein · no plural	a1.2 unit_10 noun
+temperature	die Temperatur · die Temperaturen	a1.2 unit_10 noun
+Oh, look — there are guests coming out of the elevator.	Oh, seht mal, da kommen Gäste aus dem Aufzug.	a1.2 unit_10 chunk
+Who did you invite?	Wen hast du eingeladen?	a1.2 unit_10 chunk
+But I said he can bring a few friends along.	Aber ich hab' gesagt, er kann ein paar Freunde mitbringen.	a1.2 unit_10 chunk
+Yes, I think so.	Ja, ich denke schon.	a1.2 unit_10 chunk
+I like him. (informal — he seems nice to me)	Der ist mir sympathisch.	a1.2 unit_10 chunk
+Do you think he'll give me one? (informal — a cigarette or a drink)	Denkst du, er gibt mir eine ab?	a1.2 unit_10 chunk
+For sure! Ask him!	Bestimmt! Frag ihn mal!	a1.2 unit_10 chunk
+Here's to an unforgettable evening!	Auf einen unvergesslichen Abend!	a1.2 unit_10 chunk
+How do you manage to have three girlfriends at the same time?	Wie schaffst du es, drei Freundinnen gleichzeitig zu haben?	a1.2 unit_10 chunk
+Congratulations on your birthday!	Herzlichen Glückwunsch zum Geburtstag!	a1.2 unit_10 chunk
+I congratulate you on your birthday.	Ich gratuliere dir zum Geburtstag.	a1.2 unit_10 chunk
+I'm giving you flowers.	Ich schenke dir Blumen.	a1.2 unit_10 chunk
+I wish you all the best.	Ich wünsche dir alles Gute.	a1.2 unit_10 chunk
+They're celebrating Katie's birthday.	Sie feiern Katies Geburtstag.	a1.2 unit_10 chunk
+I'm inviting you to my birthday party.	Ich lade dich zum Geburtstag ein.	a1.2 unit_10 chunk
+Katie has invited a lot of guests.	Katie hat viele Gäste eingeladen.	a1.2 unit_10 chunk
+a pair of shoes (exactly two that belong together)	ein Paar Schuhe	a1.2 unit_10 chunk
+a few friends (more than two)	ein paar Freunde	a1.2 unit_10 chunk
+Are Katie and Bobbi a couple?	Sind Katie und Bobbi ein Paar?	a1.2 unit_10 chunk
+Katie's parents are married. They're a married couple.	Katies Eltern sind verheiratet. Sie sind ein Ehepaar.	a1.2 unit_10 chunk
+birthday	der Geburtstag · die Geburtstage	a1.2 unit_10 noun
+present / gift	das Geschenk · die Geschenke	a1.2 unit_10 noun
+party	die Party · die Partys	a1.2 unit_10 noun
+couple (two people)	das Paar · die Paare	a1.2 unit_10 noun
+married couple	das Ehepaar · die Ehepaare	a1.2 unit_10 noun
+elevator	der Aufzug · die Aufzüge	a1.2 unit_10 noun
+volume (sound level)	die Lautstärke · die Lautstärken	a1.2 unit_10 noun
+noise	der Lärm · no plural	a1.2 unit_10 noun
+neighbour	der Nachbar · die Nachbarn	a1.2 unit_10 noun
+Katie's room	Katies Zimmer	a1.2 unit_10 chunk
+Bobbi's table	Bobbis Tisch	a1.2 unit_10 chunk
+Max's sofa (name already ends in -x)	Max' Sofa	a1.2 unit_10 chunk
+Jonas's friends (name already ends in -s)	Jonas' Freunde	a1.2 unit_10 chunk
+Bobbi's table (with von instead of -s)	der Tisch von Bobbi	a1.2 unit_10 chunk
+That's sweet of you.	Das ist süß von dir.	a1.2 unit_10 chunk
+That's the woman's party.	Das ist die Party von der Frau.	a1.2 unit_10 chunk
+These are the man's friends.	Das sind die Freunde vom Mann.	a1.2 unit_10 chunk
+These are the gifts from the friends.	Das sind die Geschenke von den Freunden.	a1.2 unit_10 chunk
+The bouquet is from me.	Der Blumenstrauß ist von mir.	a1.2 unit_10 chunk
+Is that Berta's cake?	Ist das Bertas Kuchen?	a1.2 unit_10 chunk
+Is that Mrs Müller's son?	Ist das Frau Müllers Sohn?	a1.2 unit_10 chunk
+What's the noise here?	Was ist das hier für ein Krach?	a1.2 unit_10 chunk
+We are having a party.	Wir feiern eine Party.	a1.2 unit_10 chunk
+Turn off the music! (formal)	Machen Sie die Musik aus!	a1.2 unit_10 chunk
+I'll call the police.	Ich rufe die Polizei.	a1.2 unit_10 chunk
+Please excuse the volume. (formal)	Entschuldigen Sie bitte die Lautstärke.	a1.2 unit_10 chunk
+Is that you? (formal — at the door or on the phone)	Sind Sie das?	a1.2 unit_10 chunk
+Yes, we are celebrating my birthday right now.	Ja, wir feiern gerade meinen Geburtstag.	a1.2 unit_10 chunk
+Just celebrate with us! (formal)	Feiern Sie doch einfach mit!	a1.2 unit_10 chunk
+Somehow this isn't working so well.	Irgendwie klappt das nicht so gut.	a1.2 unit_10 chunk
+We are allowed to have a party in the garden.	Wir dürfen im Garten eine Party feiern.	a1.2 unit_10 chunk
+You are allowed to take pictures in the museum. (impersonal)	Man darf im Museum fotografieren.	a1.2 unit_10 chunk
+You're not allowed to make any noise after 10 pm. (formal)	Ab 22 Uhr dürfen Sie keinen Lärm mehr machen.	a1.2 unit_10 chunk
+You're not allowed to smoke in the restaurant. (impersonal)	Man darf im Restaurant nicht rauchen.	a1.2 unit_10 chunk
+Are you allowed to smoke here?	Darf man hier rauchen?	a1.2 unit_10 chunk
+You're not allowed to smoke here. (sign)	Man darf hier nicht rauchen.	a1.2 unit_10 chunk
+You're not allowed to take pictures here. (sign)	Man darf hier nicht fotografieren.	a1.2 unit_10 chunk
+You're not allowed to make phone calls here. (sign)	Man darf hier nicht telefonieren.	a1.2 unit_10 chunk
+You're not allowed to eat or drink here. (sign)	Man darf hier nicht essen und trinken.	a1.2 unit_10 chunk
+From tomorrow on I'll work out.	Ab morgen mache ich Sport.	a1.2 unit_10 chunk
+From Monday on I'll work out.	Ab Montag mache ich Sport.	a1.2 unit_10 chunk
+From this autumn we have a new teacher.	Wir haben ab diesem Herbst einen neuen Lehrer.	a1.2 unit_10 chunk
+From this summer we're going to the German course.	Ab diesem Sommer gehen wir in den Deutschkurs.	a1.2 unit_10 chunk
+From tomorrow on I'll work out. (with von ... an)	Von morgen an mache ich Sport.	a1.2 unit_10 chunk
+How do you show possession with a name in German?	The name goes first and takes -s: Katies Zimmer · Bobbis Tisch	a1.2 unit_10 pattern
+A name ends in -s, -z or -x — how do you write the possessive?	Nothing is added — just an apostrophe: Max' Sofa · Jonas' Freunde	a1.2 unit_10 pattern
+Besides the name -s, how else do you express possession?	von + Dativ: der Tisch von Bobbi · die Party von der Frau	a1.2 unit_10 pattern
+von + dem = ?	vom	a1.2 unit_10 pattern
+What does dürfen mean — and what does nicht dürfen express?	dürfen = to be allowed to · nicht dürfen = a prohibition	a1.2 unit_10 pattern
+Where does the infinitive go with dürfen?	At the end: Wir dürfen im Garten eine Party feiern.	a1.2 unit_10 pattern
+Which case does ab take?	Dativ — ab 20 Uhr · ab diesem Herbst	a1.2 unit_10 pattern
+What question does ab answer?	Ab wann?	a1.2 unit_10 pattern
+ein Paar vs ein paar?	ein Paar = exactly two that belong together (Schuhe) · ein paar = a few, more than two (Freunde)	a1.2 unit_10 pattern
+gratulieren — which case is the person?	Dativ: Ich gratuliere dir zum Geburtstag.	a1.2 unit_10 pattern
+zu + dem = ?	zum (zum Geburtstag)	a1.2 unit_10 pattern
+Weather: es ist + ... or es + ...?	Es ist sonnig. (adjective after ist) · Es regnet. (verb with es)	a1.2 unit_10 pattern
+Degrees — singular or plural?	Plural: Wie viel Grad sind es? — Es sind 25 Grad.	a1.2 unit_10 pattern
+dürfen — ich / er / sie / es?	darf	a1.2 unit_10 verb
+dürfen — du?	darfst	a1.2 unit_10 verb
+dürfen — wir / sie / Sie?	dürfen	a1.2 unit_10 verb
+dürfen — ihr?	dürft	a1.2 unit_10 verb
+einladen — ich / wir?	ich lade ... ein · wir laden ... ein	a1.2 unit_10 verb
+einladen — du?	du lädst ... ein	a1.2 unit_10 verb
+einladen — er / sie / es?	er/sie/es lädt ... ein	a1.2 unit_10 verb
+einladen — ihr?	ihr ladet ... ein	a1.2 unit_10 verb
+to invite — Partizip II?	eingeladen	a1.2 unit_10 verb
+to give — Partizip II?	gegeben	a1.2 unit_10 verb
+to call out / shout — Partizip II?	gerufen	a1.2 unit_10 verb
+
 # ── Redewendungen — Idiom-Set (Kurs + Extras) ──
 An idiom for horror — “I don’t believe it!” (lit. my pig is whistling)	Ich glaub', mein Schwein pfeift.	a1.1 idioms unit_01
 You’re crazy! (lit. you don’t have all the cups in the cupboard)	Du hast nicht alle Tassen im Schrank.	a1.2 idioms unit_06
@@ -1543,6 +1679,7 @@ Better to be too early than too late.	Lieber zu früh als zu spät da sein.	a1.2
 You are what you eat.	Du bist, was du isst.	a1.2 idioms unit_07
 Many cooks spoil the broth.	Viele Köche verderben den Brei.	a1.2 idioms unit_07
 Quark makes you strong.	Quark macht stark.	a1.2 idioms unit_07
+When two quarrel, the third one rejoices. (lit. when two argue, the third is pleased)	Wenn zwei sich streiten, freut sich der Dritte.	a1.2 idioms unit_10
 
 # ── Redewendungen — Extras (nicht aus dem Kurs) ──
 I'll keep my fingers crossed for you. (lit. I press you the thumbs)	Ich drücke dir die Daumen.	teach idioms

@@ -45,6 +45,22 @@ Per booklet folder:
 - `unit-NN-<slug>.md` — chunks, patterns, ladder
 - `practice/` — optional dated logs
 
+Cross-booklet:
+
+- [`grammatik.md`](grammatik.md) — **every rule, one page.** The index of rules learned so far
+  (A1.1 U1–U10 · A1.2 U1–U10), grouped by topic, each pointing back into `patterns/`.
+  `/ingest` folds every new rule in here; `check_grammatik.py` proves nothing is orphaned.
+
+---
+
+## Checks
+
+```
+python3 course/check_grammatik.py   # every pattern in patterns/ reachable from grammatik.md
+python3 anki/validate_deck.py       # card shape, deck name, duplicate fronts, answer leaks
+python3 anki/split_core.py          # regenerate anki/German-core.txt from the glossary
+```
+
 ---
 
 ## Flow
