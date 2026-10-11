@@ -51,25 +51,33 @@ These are all fair game for `/teach` **when present in notes/units**:
 When a later unit adds e.g. adjective endings or more conjunctions, thicken
 `notes.md` on ingest/teach — then those become teachable.
 
-## Learned so far — A1.1 units 1–6 only
+## Learned so far — all 20 units
 
-Teach **only** from this inventory unless `notes.md` has grown:
+Both booklets are ingested (A1.1 U1–U10 · A1.2 U1–U10), so the whole inventory is teachable.
 
-| Category | In play |
-|---|---|
-| **Articles** | Definite · indefinite · *eine → die* · *kein/keine* (U5) |
-| **Possessives** | *mein/dein/Ihr* nominative (U4) — matches **noun** gender |
-| **Nouns** | With article · plural with noun · jobs + *-in/-innen* (U6) · *das Obst* / *das Gepäck* |
-| **Verbs** | *kommen*, *sprechen*, *heißen*, *sein*, *wohnen/leben*, *haben*, *arbeiten* (+ stem *t* → *arbeitest*) · *kostet/kosten* |
-| **Adjectives** | *bar* · *teuer* in chunks |
-| **Adverbs** | *dort/da*, *dort drüben*, *noch mal*, *gerade/grad* |
-| **Pronouns** | *du/Sie* · *dir/Ihnen* · *man* · *er/sie/es/wir/ihr/sie* · *sie* vs **Sie** · *ihr* vs **Sie** (U6) |
-| **Prepositions** | *aus* · *in* · *nach* · *mit* · *von…bis* · *zur* · *als* (job) · *bei* (company) |
-| **Conjunctions** | *denn* particle vs “because” trap |
-| **Interjections** | *Hä?*, greetings if asked |
-| **Modal particles** | *denn* · *eigentlich* · *ja* · *doch* |
-| **Quantity** | *viel/viele* · numbers 0–100 |
-| **Jobs** | no article with title · *sein* / *arbeiten als* / *arbeiten bei* |
+**The inventory lives in [`course/grammatik.md`](../../../course/grammatik.md)** — 15 sections,
+every rule, each with booklet examples and the unit it came from. Read that before teaching
+rather than keeping a copy here; a duplicated list is how this one went stale.
+
+Everything in **§1–§14** is fair game. **§15** is formulas, not rules — no paradigm to teach.
+
+Teachable clusters, roughly in dependency order:
+
+| # | Cluster | grammatik.md |
+|---|---|---|
+| 1 | Articles: the grid across nominative / accusative / dative | §1 |
+| 2 | What triggers each case — verb and preposition lists | §2, §5 |
+| 3 | Pronouns: nom / akk / dat, possessives, demonstratives, *welch-* / *dies-* | §3 |
+| 4 | Verbs: present, stem changes, separable, *mögen* | §6 |
+| 5 | Modal verbs + Satzklammer | §7 |
+| 6 | Imperative | §8 |
+| 7 | Past: Perfekt, Präteritum, the register rule | §9 |
+| 8 | Adjectives and comparison | §10 |
+| 9 | Sentence structure: verb position 2, inversion, *denn*, comma rules | §11 |
+| 10 | Negation: *nicht* vs *kein*, *schon* → *noch nicht* | §12 |
+| 11 | Time, dates, numbers | §13 |
+| 12 | Register and modal particles | §14 |
+
 
 **Not yet:** adjective declension (*das neue Haus*), full genitive articles, relative clauses,
 *weil* with verb-final order, the A2.1 past perfect. Separable verbs, modals, all four cases

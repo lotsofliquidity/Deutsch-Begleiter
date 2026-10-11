@@ -11,6 +11,9 @@ Source: `courses/a1.2/` booklet + LÖSUNGEN. Nothing here is invented.
 participle), Präteritum is *conjugated* (one form). That's why spoken German uses Perfekt
 — one participle per verb beats six conjugated forms.
 
+**Most of this page is rule, not memory.** What you actually learn by heart is a short
+list — [E](#e-what-you-actually-memorise).
+
 ---
 
 ## A. The two past forms
@@ -177,3 +180,35 @@ thing at three registers. German does it with the past tense.
 
 So don't hunt for a shade of meaning between *ich habe gekocht* and *ich kochte* — there
 isn't one. Ask instead: **am I talking, or narrating?**
+
+---
+
+## E. What you actually memorise
+
+Everything else on this page is a rule you can apply. These are the parts no rule generates.
+
+**1 · The *sein* verbs — the four groups in §B1.** *haben* is the default, so this is the
+only verb list to learn: 19 verbs plus *gewesen*. It's the one genuinely arbitrary thing in
+the system, and the full inventory lives in [`notes.md`](notes.md).
+
+**2 · The same-stem split — §B1.** Same stem, opposite auxiliary:
+
+| takes *haben* | takes *sein* |
+|---|---|
+| *stehen → **hat** gestanden* | *aufstehen → **ist** aufgestanden* |
+| *schlafen → **hat** geschlafen* | *einschlafen → **ist** eingeschlafen* |
+
+**3 · Five Präteritum words — §C.** The only Präteritum forms you *produce*:
+***war · hatte · dachte · wusste · es gab***.
+
+**4 · The participles — one per verb.** The full inventory is
+[`partizip-ii.md`](partizip-ii.md). Four are irregular enough to flag:
+*gewesen · gehabt · geworden · passiert*.
+
+**Not on the list — these are rules, not memory:**
+
+- where the parts go — auxiliary position 2, participle at the end *(§B3)*
+- how the participle is built — four rules *(§B2)*
+- which auxiliary is the default — *haben*
+- the regular Präteritum pattern — stem + *-te*, **recognition only**
+- the register choice — speaking → Perfekt *(§D)*

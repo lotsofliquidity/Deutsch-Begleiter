@@ -12,7 +12,11 @@ Derived from [`patterns/patterns.md`](../patterns/patterns.md) + `a1.1/notes.md`
 
 ## 1. Die Artikel — das ganze Gitter
 
-**Only the masculine moves in the accusative. Everything moves in the dative.**
+**Nothing moves in the nominative. Only the masculine moves in the accusative. Everything moves in the dative.**
+
+Every noun in a sentence is in one of four **cases** (*Fälle*) — and the case, not the noun,
+picks the article. Ask for it: *Wer?* → Nominativ · *Wen?* → Akkusativ · *Wem?* → Dativ ·
+*Wessen?* → Genitiv. §2 says what each one *is*.
 
 | | m | f | n | pl |
 |---|---|---|---|---|
@@ -32,48 +36,80 @@ Derived from [`patterns/patterns.md`](../patterns/patterns.md) + `a1.1/notes.md`
 | negative | **keinem** | **keiner** | **keinem** | **keinen** |
 | possessive | **meinem** | **meiner** | **meinem** | **meinen** |
 
+- **Nominativ — the base form, nothing changes** *(A1.1 U4–U5 · A1.2 U2)*
+  - *who* or *what* acts, or is described — the **subject**
+  - *Die Apotheke ist geschlossen.* — The pharmacy is closed.
+  - *Der Automat ist kaputt.* — The machine is broken.
+  - *Ist hier eine Apotheke in der Nähe?* — Is there a pharmacy nearby?
+  - *Das ist kein Brot.* — That's not bread.
+  - *Das sind keine Kartoffeln.* — Those aren't potatoes.
+  - *Das ist mein Vater.* — This is my father.
+  - *Das sind meine Eltern.* — These are my parents.
+
 - **Akkusativ — masculine only** *(A1.1 U9)*
-  - *Ich nehme **den** Schweinebraten.*
-  - *Katie nimmt **das** Sauerkraut.*
-  - *Ich trinke **einen** Weißwein.*
-  - *Nein, ich möchte **keinen** Kaffee.*
+  - *who* or *what* something happens to — the **direct object**
+  - *Ich nehme **den** Schweinebraten.* — I'll have the roast pork.
+  - *Katie nimmt **das** Sauerkraut.* — Katie has the sauerkraut.
+  - *Ich trinke **einen** Weißwein.* — I'll have a white wine.
+  - *Nein, ich möchte **keinen** Kaffee.* — No, I don't want a coffee.
 
 - **Dativ — every article changes** *(A1.2 U9)*
-  - *Ich trage ein Hemd mit **der** Hose.*
-  - *Wir fahren mit **den** Autos.*
-  - *Ich spiele mit **den Kindern**.*
+  - *to* whom / *for* whom it happens — the **indirect object**
+  - same noun, new case:
+    - **Akkusativ** — *Ich will **den** Rock anziehen.* — I want to put on the skirt.
+    - **Dativ** — *Ich trage ein T-Shirt mit **dem** Rock.* — I'm wearing a shirt with the skirt.
+  - *Ich trage ein Hemd mit **der** Hose.* — I'm wearing a shirt with the trousers.
+  - *Wir fahren mit **den** Autos.* — We're going by car.
+  - *Ich spiele mit **den Kindern**.* — I'm playing with the children.
 
 - **Genitiv — names and *von* only** *(A1.2 U10)*
-  - *Katies Zimmer* · *Max' Sofa*
-  - *der Tisch von Bobbi* · *Das ist süß von dir.*
+  - *whose* it is — the **owner**
+  - *Katies Zimmer* — Katie's room
+  - *Max' Sofa* — Max's sofa
+  - *der Tisch von Bobbi* — Bobbi's table
+  - *Das ist süß von dir.* — That's sweet of you.
   - Full genitive articles (*des Hauses*, *der Frau*) are A2 — not covered here.
 
 - **Dativ plural nouns add -n**, unless the plural already ends in *-n* or *-s*
-  - *mit den Kindern* · *mit den Leuten*
-  - *mit den Autos* · *mit den Eltern* — no change
+  - *mit den Kindern* — with the children
+  - *mit den Leuten* — with the people
+  - *mit den Autos* — with the cars (no change)
+  - *mit den Eltern* — with the parents (no change)
 
-- **Nullartikel** — uncountable food, a bare plural, a profession, many countries *(U3, U6)*
-  - *Ich brauche Fleisch, Reis und Salz.*
-  - *Im Supermarkt gibt es auch Milch, Wasser, Brot und Butter.*
-  - *Das Salz ist im Schrank.* — the article returns once it's *that* salt
+**Nullartikel** — uncountable food, a bare plural, a profession, many countries *(U3, U6)*
+- *Ich brauche Fleisch, Reis und Salz.* — I need meat, rice and salt.
+- *Im Supermarkt gibt es auch Milch, Wasser, Brot und Butter.* — The supermarket also has milk, water, bread and butter.
+- *Das Salz ist im Schrank.* — The salt is in the cupboard. · the article returns once it's *that* salt
+- *ein* is only for a singular countable noun; uncountable and plural drop the article
+- profession (*Ich bin Friseurin.*) and country (*aus Australien*) are separate — not about amount
+
+| Noun shape — unspecified | Article | Example |
+|---|---|---|
+| singular + countable | **ein / eine** | *Ich brauche **eine** Karte.* |
+| uncountable (substance) | **∅** | *Ich brauche **Geld**.* |
+| plural | **∅** | *Ich esse gern **Kartoffeln**.* |
 
 - **eine → die** — first mention indefinite, second mention definite *(U4)*
-  - *Ist hier eine Apotheke in der Nähe? → Ja, **die** Apotheke ist gleich um die Ecke.*
+  - *Ist hier eine Apotheke in der Nähe? → Ja, **die** Apotheke ist gleich um die Ecke.* — Is there a pharmacy nearby? → Yes, the pharmacy is just around the corner.
 
 - **Job without article** *(U6)*
-  - *Ich bin Friseurin.* · *Ich arbeite als Ingenieur.*
+  - *Ich bin Friseurin.* — I'm a hairdresser.
+  - *Ich arbeite als Ingenieur.* — I work as an engineer.
   - Trap: ~~Ich bin eine Lehrerin.~~ Feminine jobs add *-in*.
 
 - **Compound gender — the last noun decides** *(A1.2 U4)*
   - *der Apfel + der Kuchen = **der** Apfelkuchen*
-  - *der Flaschenöffner* · *das Abendessen*
+  - *der Flaschenöffner* — the bottle opener
+  - *das Abendessen* — the dinner
 
 - **Was für ein X?** — *ein* only with a singular countable noun, and it agrees *(A1.1 U9 → A1.2 U10)*
-  - *Was für **ein** Auto ist das?*
-  - *Was für **eine** Farbe ist das?*
-  - *Was für **einen** Pullover kaufst du?*
-  - *Was für Autos sind das?* · *Was für Bier haben Sie?* — no article with plurals or mass nouns
-  - Exclamation: *Was für ein Idiot!*
+  - *Was für **ein** Auto ist das?* — What kind of car is that?
+  - *Was für **eine** Farbe ist das?* — What kind of colour is that?
+  - *Was für **einen** Pullover kaufst du?* — What kind of jumper are you buying?
+  - *Was für Autos sind das?* — What kind of cars are those?
+  - *Was für Bier haben Sie?* — What kind of beer do you have?
+  - No article with plurals or mass nouns.
+  - Exclamation: *Was für ein Idiot!* — What an idiot!
 
 *Deeper:*
 - [`Akkusativ der wird den`](../patterns/patterns.md#akkusativ-der-wird-den)
@@ -89,28 +125,80 @@ Derived from [`patterns/patterns.md`](../patterns/patterns.md) + `a1.1/notes.md`
 
 ## 2. Die vier Fälle — was löst was aus
 
-| Fall | Ausgelöst von | Was sich ändert |
-|---|---|---|
-| **Nominativ** | the subject; the noun after *sein* / *werden* | base form |
-| **Akkusativ** | the direct object · *für* · *es gibt* · most verbs | **masculine only** |
-| **Dativ** | *mit · von · ab · zu · aus · bei · nach* · the dative verbs below | **every** article |
-| **Genitiv** | possession — names (*-s*) or *von* + dative | the name takes *-s* |
+A **case** (*Fall*) is the *role* a noun plays in the sentence — nothing more. German shows
+that role on the article, so the same noun takes a different article depending on what it is
+doing. The question word asks for the role; the middle column says what it means.
 
-- **Akkusativ verbs** — *nehmen · haben · kaufen · brauchen · suchen · finden · bestellen · möchten · essen · trinken · sehen · lesen · einladen*
-  - *Wen kenne ich? — Du kennst **meinen** Bruder.*
-  - *Ich koche für **meinen** Bruder.*
+| Fall | Frage | Das ist … | Ausgelöst von | Was sich ändert |
+|---|---|---|---|---|
+| **Nominativ** | *Wer?* / *Was?* | the doer, or the one being described — the **subject** | the subject; the noun after *sein* / *werden* | base form |
+| **Akkusativ** | *Wen?* / *Was?* | the one something is done to — the **direct object** | the direct object · *für* · *es gibt* · most verbs | **masculine only** |
+| **Dativ** | *Wem?* | the one who gets or benefits — the **indirect object** | *mit · von · ab · zu · aus · bei · nach* · the dative verbs below | **every** article |
+| **Genitiv** | *Wessen?* | the owner — **possession** | possession — names (*-s*) or *von* + dative | the name takes *-s* |
 
-- **Dativ verbs** — *gefallen · passen · stehen · gehören · schmecken · helfen · antworten · danken · gratulieren · vertrauen · schenken · wünschen* *(A1.2 U9–U10)*
-  - *Das Radler schmeckt **mir**.*
-  - *Die Hose passt **mir** nicht.*
-  - *Gelb steht **dir**.*
-  - *Warte, ich helfe **dir**.*
-  - *Ich gratuliere **dir** zum Geburtstag.*
-  - The question for that person is ***Wem?*** — *Wem antwortet Katie? → Sie antwortet **der Lehrerin**.*
+Note: *Wer?* and *Was?* are the same form for nominative and accusative — only a **masculine**
+noun tells them apart (*der → den*), which is exactly why that change matters.
+
+**Das Verb ist der Motor — aber die Rolle entscheidet.**
+- In *Ich trinke **einen** Weißwein* the verb *trinke* acts on the wine, so it takes the accusative; the doer *ich* stays nominative.
+- *Wer trinkt? → ich* (Nominativ) — Who's drinking? → I am.
+- *Was trinke ich? → **einen** Weißwein* (Akkusativ). — What am I drinking? → a white wine.
+- So the thing *after* the verb — the *Wen?/Was?* — becomes accusative, not the doer.
+
+**Akkusativ verbs** — the object is the **direct object** *(A1.1 U9)*
+
+| Verb | Meaning |
+|---|---|
+| *nehmen* | to take |
+| *haben* | to have |
+| *kaufen* | to buy |
+| *brauchen* | to need |
+| *suchen* | to look for |
+| *finden* | to find |
+| *bestellen* | to order |
+| *möchten* | would like |
+| *essen* | to eat |
+| *trinken* | to drink |
+| *sehen* | to see |
+| *lesen* | to read |
+| *einladen* | to invite |
+
+- *Wen kenne ich? — Du kennst **meinen** Bruder.* — Who do I know? — You know my brother.
+- *Ich koche für **meinen** Bruder.* — I'm cooking for my brother.
+
+**Dativ verbs** — the *person* is in the dative, not the thing *(A1.2 U9–U10)*
+
+| Verb | Meaning |
+|---|---|
+| *gefallen* | to be pleasing (to) |
+| *passen* | to fit (size) |
+| *stehen* | to suit (looks) |
+| *gehören* | to belong to |
+| *schmecken* | to taste good to |
+| *helfen* | to help |
+| *antworten* | to answer |
+| *danken* | to thank |
+| *gratulieren* | to congratulate |
+| *vertrauen* | to trust |
+| *schenken* | to give (a present) |
+| *wünschen* | to wish |
+
+- *Das Radler schmeckt **mir**.* — The Radler tastes good to me.
+- *Die Hose passt **mir** nicht.* — The trousers don't fit me.
+- *Gelb steht **dir**.* — Yellow suits you.
+- *Warte, ich helfe **dir**.* — Wait, I'll help you.
+- *Ich gratuliere **dir** zum Geburtstag.* — I congratulate you on your birthday.
+- The question for that person is ***Wem?***
+  - *Wem antwortet Katie? → Sie antwortet **der Lehrerin**.* — Who does Katie answer? → She answers the teacher.
 
 - **Possession**
-  - *Das ist **Katies** Zimmer.*
-  - *Das ist der Tisch **von Bobbi**.*
+  - *Das ist **Katies** Zimmer.* — This is Katie's room.
+  - *Das ist der Tisch **von Bobbi**.* — This is Bobbi's table.
+
+- **es gibt** — *there is / are*. *gibt* stays **singular** even before a plural, and the thing is **accusative** *(A1.2 U1)*
+  - *Es gibt **einen** Tisch.* — There's a table.
+  - *Es gibt **keinen** Spiegel.* — There's no mirror.
+  - *Es gibt **zwei** Regale.* — There are two shelves.
 
 *Deeper:*
 - [`für + Akkusativ`](../patterns/patterns.md#für--akkusativ)
@@ -119,10 +207,13 @@ Derived from [`patterns/patterns.md`](../patterns/patterns.md) + `a1.1/notes.md`
 - [`mir / dir`](../patterns/patterns.md#mir--dir)
 - [`Gratulieren und schenken`](../patterns/patterns.md#gratulieren-und-schenken)
 - [`Genitiv -s (Besitz)`](../patterns/patterns.md#genitiv--s-besitz)
+- [`Es gibt`](../patterns/patterns.md#es-gibt)
 
 ---
 
 ## 3. Pronomen
+
+### Personalpronomen
 
 | | ich | du | er | sie | es | wir | ihr | sie | Sie |
 |---|---|---|---|---|---|---|---|---|---|
@@ -131,48 +222,102 @@ Derived from [`patterns/patterns.md`](../patterns/patterns.md) + `a1.1/notes.md`
 | **Dativ** | mir | dir | ihm | ihr | ihm | uns | euch | ihnen | Ihnen |
 
 - **mich / dich vs mir / dir** *(A1.2 U9)*
-  - Accusative: *Siehst du **mich**?* · *Ich liebe **dich**.*
-  - Dative: *Gelb steht **dir**.* · *Ich helfe **dir**.*
+  - **Akkusativ**
+    - *Siehst du **mich**?* — Do you see me?
+    - *Ich liebe **dich**.* — I love you.
+  - **Dativ**
+    - *Gelb steht **dir**.* — Yellow suits you.
+    - *Ich helfe **dir**.* — I'll help you.
 
 - **man** — impersonal “one”, never *der Mann* *(U1)*
-  - *Sieht **man** das nicht?*
-  - *Wie sagt **man** das auf Deutsch?*
-  - *Hier muss **man** aufpassen.*
-
-- **wer / wen / was** — a known person as object is *wen*; a thing stays *was* *(A1.2 U2)*
-  - ***Wer** ist das? — Das ist Katie.*
-  - ***Wen** kennst du?*
-  - ***Was** suchst du? — Ich suche ein Zimmer.*
-
-- **Demonstrative der / die / das** — like the article, **except dative plural *denen***. Stressed, so it usually sits at position 1. *(A1.2 U9)*
-  - *Wie findest du die Bluse? — **Die** ist zu bunt.*
-  - *Nimmst du den Rock? — Ja, **den** nehme ich.*
-  - *Gehst du mit den weißen Schuhen einkaufen? — Ja, mit **denen** gehe ich einkaufen.*
-
-- **welch- / dies-** — decline exactly like the definite article *(A1.2 U9)*
-  - ***Welche** Größe hast du denn?*
-  - ***Welchen** Pullover nimmst du?*
-  - *Mit **welchem** Bus fährst du?*
-  - *Ich nehme **diesen** Pullover.* · *Ich fahre mit **diesem** Bus.*
-
-- **es gibt** — *gibt* stays singular even for plurals; the thing is accusative *(A1.2 U1)*
-  - *Es gibt **einen** Tisch.*
-  - *Es gibt **keinen** Spiegel.*
-  - *Es gibt **zwei** Regale.*
-
-- **Possessives** — the grid in §1
-  - *Das ist **mein** Vater.* / *Das ist **meine** Mutter.*
-  - *Wie heißt **dein** Großvater?*
-  - *Ist das **eure** Mutter? — Ja, das ist **unsere** Mutter.*
-  - Trap: ~~euere Mutter~~ → *eure Mutter*
+  - *Sieht **man** das nicht?* — Don't you see that?
+  - *Wie sagt **man** das auf Deutsch?* — How do you say that in German?
+  - *Hier muss **man** aufpassen.* — You have to be careful here.
 
 - **Return question — dative, not *du***
-  - *Gut, und **dir**?* · *Mir geht's gut, und **Ihnen**?*
+  - *Gut, und **dir**?* — Fine, and you?
+  - *Mir geht's gut, und **Ihnen**?* — I'm well, and you?
 
 - **Introducing people** — a pronoun replaces the name *(U6)*
-  - *Das ist meine Freundin. **Sie** heißt Joana.*
-  - *Das sind meine Freunde. **Sie** kommen aus Italien.*
-  - *Freut mich.*
+  - *Das ist meine Freundin. **Sie** heißt Joana.* — This is my girlfriend. Her name is Joana.
+  - *Das sind meine Freunde. **Sie** kommen aus Italien.* — These are my friends. They're from Italy.
+  - *Freut mich.* — Nice to meet you.
+
+### Fragewörter
+
+- **wer / wen / was** — for a **person** the question word changes with the case; a **thing** stays *was* *(A1.2 U2)*
+  - **Nominativ** — ***Wer** ist das? — Das ist Katie.*
+  - **Akkusativ** — ***Wen** kennst du? — Du kennst meinen Bruder.*
+  - **Dativ** — ***Wem** antwortet Katie? — Sie antwortet der Lehrerin.*
+  - **Thing** — the same form both times
+    - ***Was** ist das?* — What is that?
+    - ***Was** suchst du?* — What are you looking for?
+    - *Ich suche ein Zimmer.* — I'm looking for a room.
+  - **Place** — a different question word, never *was*
+    - ***Wo** ist die S-Bahn?* — Where is the S-Bahn?
+    - ***Wohin** möchten Sie fahren?* — Where would you like to go?
+    - ***Woher** kommst du?* — Where are you from?
+  - *wo* = where · *wohin* = where to · *woher* = where from. A *wo-* + preposition compound (*womit · wovon*) asks about a **thing**, not a place — A2, not covered here.
+
+### Artikelwörter
+
+**Demonstrative *der / die / das*** — like the article, **except dative plural *denen***. Stressed, so it usually sits at position 1. *(A1.2 U9)*
+- *Wie findest du die Bluse? — **Die** ist zu bunt.* — How do you like the blouse? — It's too colourful.
+- *Nimmst du den Rock? — Ja, **den** nehme ich.* — Are you taking the skirt? — Yes, I'm taking that one.
+- *Gehst du mit den weißen Schuhen einkaufen? — Ja, mit **denen** gehe ich einkaufen.* — Are you going shopping in the white shoes? — Yes, in those.
+
+**welch- / dies-** — decline exactly like the definite article *(A1.2 U9)*
+
+| | m | n | f | pl |
+|---|---|---|---|---|
+| **Nominativ** | welch**er** / dies**er** | welch**es** / dies**es** | welch**e** / dies**e** | welch**e** / dies**e** |
+| **Akkusativ** | welch**en** / dies**en** | welch**es** / dies**es** | welch**e** / dies**e** | welch**e** / dies**e** |
+| **Dativ** | welch**em** / dies**em** | welch**em** / dies**em** | welch**er** / dies**er** | welch**en** / dies**en** |
+
+- **Nominativ** *(U5)*
+  - ***Welches** Datum ist heute?* — What date is it today?
+- **Akkusativ**
+  - ***Welchen** Pullover nimmst du?* — What kind of jumper are you buying?
+  - *Ich nehme **diesen** Pullover.* — I'm taking this jumper.
+  - ***Welche** Größe hast du denn?* — What size are you, then?
+- **Dativ**
+  - *Mit **welchem** Bus fährst du?* — Which bus do you take?
+  - *Ich fahre mit **diesem** Bus.* — I take this bus.
+
+**Possessives** — the ending follows the **noun** (its gender *and* its case), never the owner *(A1.2 U2)*
+
+**Nominativ — the owner × the noun**
+
+| Owner | m | n | f | pl |
+|---|---|---|---|---|
+| ich | mein Vater | mein Kind | meine Mutter | meine Eltern |
+| du | dein Vater | dein Kind | deine Mutter | deine Eltern |
+| er / es | sein Vater | sein Kind | seine Mutter | seine Eltern |
+| sie (she) | ihr Vater | ihr Kind | ihre Mutter | ihre Eltern |
+| wir | unser Vater | unser Kind | unsere Mutter | unsere Eltern |
+| ihr (you all) | euer Vater | euer Kind | eure Mutter | eure Eltern |
+| sie (they) | ihr Vater | ihr Kind | ihre Mutter | ihre Eltern |
+| Sie | Ihr Vater | Ihr Kind | Ihre Mutter | Ihre Eltern |
+
+**How the ending moves by case** — shown on *mein*; every owner takes the same endings
+
+| Fall | m | f | n | pl |
+|---|---|---|---|---|
+| **Nominativ** | *mein* | *meine* | *mein* | *meine* |
+| **Akkusativ** | **meinen** | *meine* | *mein* | *meine* |
+| **Dativ** | **meinem** | **meiner** | **meinem** | **meinen** |
+
+- **Akkusativ** — only **masculine** moves
+  - *Ich mag **meinen** Bruder.* — I like my brother.
+  - *Ich mag **euren** Bruder.* — I like your brother.
+- **Dativ** — every form moves
+  - *mit **meinem** Bruder* — with my brother
+  - *mit **meiner** Mutter* — with my mother
+- *Das ist **mein** Vater.* — This is my father.
+- *Das ist **meine** Mutter.* — This is my mother.
+- *Wie heißt **dein** Großvater?* — What's your grandfather called?
+- *Ist das **eure** Mutter? — Ja, das ist **unsere** Mutter.* — Is that your mother? — Yes, that's our mother.
+- Trap: ~~euere Mutter~~ → *eure Mutter* · *euer* drops the *e* before an ending
 
 *Deeper:*
 - [`mich / dich`](../patterns/patterns.md#mich--dich)
@@ -181,52 +326,65 @@ Derived from [`patterns/patterns.md`](../patterns/patterns.md) + `a1.1/notes.md`
 - [`der / die / das (Demonstrativ)`](../patterns/patterns.md#der--die--das-demonstrativ)
 - [`Wer oder Wen`](../patterns/patterns.md#wer-oder-wen)
 - [`Das ist … / Er / Sie / Sie`](../patterns/patterns.md#das-ist----er--sie--sie)
-- [`Es gibt`](../patterns/patterns.md#es-gibt)
 
 ---
 
 ## 4. Nomen
 
 - **Learn every noun with its article** — gender is not predictable *(U2)*
-  - *der Stift* · *der Kuli* · *das Heft* · *die Tafel* · *der Lehrer* · *die Lehrerin*
+  - *der Stift* — the pen
+  - *der Kuli* — the biro
+  - *das Heft* — the notebook
+  - *die Tafel* — the board
+  - *der Lehrer* — the teacher
+  - *die Lehrerin* — the teacher (female)
 
 - **Plural is learned with the noun**, not by rule *(U5)*
   - *das Bierglas → die Biergläser*
   - *der Apfelquarkkuchen → die Apfelquarkkuchen*
 
 - **Measures** — the article matches the container, not the food *(A1.2 U3)*
-  - *ein Kilo Äpfel* · *eine Packung Quark* · *eine Kiste Bier*
+  - *ein Kilo Äpfel* — a kilo of apples
+  - *eine Packung Quark* — a tub of quark
+  - *eine Kiste Bier* — a crate of beer
   - *der Quark → **die** Packung Quark → zwei Packungen Quark*
 
 - **Countries** mostly take no article — but *aus **den** USA* *(U3)*
-  - *Ich komme aus Australien.*
+  - *Ich komme aus Australien.* — I'm from Australia.
 
 - ***einkaufen* vs *kaufen*** *(A1.2 U3)*
-  - *einkaufen* splits and can stand alone: *Ich gehe einkaufen.*
-  - *kaufen* always takes an object: *Ich kaufe das Auto.* · *Er kann sich kein iPhone kaufen.*
+  - *einkaufen* splits and can stand alone: *Ich gehe einkaufen.* — I'm going shopping.
+  - *kaufen* always takes an object:
+    - *Ich kaufe das Auto.* — I'm buying the car.
+    - *Er kann sich kein iPhone kaufen.* — He can't afford an iPhone.
 
 - **viel / viele** — *viel* for a mass, *viele* for a countable plural *(U5)*
-  - *Ich esse **viel** Obst.* · *Ich trinke **viel** Wasser.*
-  - *Ich esse **viele** Würste.* · *Wie **viele** Würste möchten Sie?*
+  - *Ich esse **viel** Obst.* — I eat a lot of fruit.
+  - *Ich trinke **viel** Wasser.* — I drink a lot of water.
+  - *Ich esse **viele** Würste.* — I eat a lot of sausages.
+  - *Wie **viele** Würste möchten Sie?* — How many sausages would you like?
 
 - **Was kostet / Was kosten …?** — the verb agrees with the thing *(U5)*
-  - *Was **kostet** das Brötchen? — Es kostet 60 Cent.*
-  - *Was **kosten** die Kekse?*
+  - *Was **kostet** das Brötchen? — Es kostet 60 Cent.* — How much is the roll? — It's 60 cents.
+  - *Was **kosten** die Kekse?* — How much are the biscuits?
 
 - **ein Paar vs ein paar** — they sound identical; only the capital letter separates them *(A1.2 U10)*
-  - *Ich habe ein **Paar** Socken.* — exactly two
-  - *Pietro hat ein **paar** Freunde mitgebracht.* — several
-  - *Pablo und Carmen sind ein Paar.* · *Sie sind ein Ehepaar.*
+  - *Ich habe ein **Paar** Socken.* — I have a pair of socks. · exactly two
+  - *Pietro hat ein **paar** Freunde mitgebracht.* — Pietro brought a few friends. · several
+  - *Pablo und Carmen sind ein Paar.* — Pablo and Carmen are a couple.
+  - *Sie sind ein Ehepaar.* — They're a married couple.
 
 - **Hunger / Durst** — masculine nouns used with *haben*
-  - *Ich habe Durst.*
-  - *Ich esse etwas und dann bin ich satt.*
-  - *Ich habe keinen Durst mehr.*
+  - *Ich habe Durst.* — I'm thirsty.
+  - *Ich esse etwas und dann bin ich satt.* — I'll eat something and then I'll be full.
+  - *Ich habe keinen Durst mehr.* — I'm not thirsty any more.
 
 - **Profession** *(U6)*
-  - *Ich bin Friseurin.* — no article
-  - *Ich arbeite als Kellner.* · *Ich arbeite bei BMW.*
-  - *Was machst du beruflich?* · *Ich mache ein Praktikum bei Siemens.*
+  - *Ich bin Friseurin.* — I'm a hairdresser. · no article
+  - *Ich arbeite als Kellner.* — I work as a waiter.
+  - *Ich arbeite bei BMW.* — I work at BMW.
+  - *Was machst du beruflich?* — What do you do for a living?
+  - *Ich mache ein Praktikum bei Siemens.* — I'm doing an internship at Siemens.
 
 *Deeper:*
 - [`Mengenangabe`](../patterns/patterns.md#mengenangabe)
@@ -249,25 +407,45 @@ Derived from [`patterns/patterns.md`](../patterns/patterns.md) + `a1.1/notes.md`
 | **Dativ** | *mit · von · ab · zu · aus · bei · nach* |
 
 - ***zur* / *zum*** *(U8)*
-  - *Wie komme ich **zur** Auguststraße?* — die
-  - *Wie komme ich **zum** Bahnhof?* — der
+  - *Wie komme ich **zur** Auguststraße?* — How do I get to the Auguststraße? · die
+  - *Wie komme ich **zum** Bahnhof?* — How do I get to the station? · der
 
 - ***nach Hause* / *zu Hause*** *(A1.2 U6)*
-  - Direction: *Ich gehe nach Hause.* · *Er kommt spät nach Hause.*
-  - Being there: *Ich bin zu Hause.* · *Wir essen heute zu Hause.*
+  - Direction:
+    - *Ich gehe nach Hause.* — I'm going home.
+    - *Er kommt spät nach Hause.* — He's coming home late.
+  - Being there:
+    - *Ich bin zu Hause.* — I'm at home.
+    - *Wir essen heute zu Hause.* — We're eating at home today.
 
 - ***aus* is never dropped** *(U1)*
-  - *Woher kommst du? → Ich komme **aus** Australien.*
+  - *Woher kommst du? → Ich komme **aus** Australien.* — Where are you from? → I'm from Australia.
   - Trap: ~~Ich komme Australien.~~
 
-- **Place words** *(U7)*
-  - *hier* near you · *dort / da* farther away · *dort drüben* over there, pointing
-  - ***Hier** ist die S-Bahn.* · ***Dort** ist die S-Bahn.* · ***Da drüben** ist die S-Bahn.*
-  - *Wie komme ich **dorthin**?*
+- **Place words — position (*Wo?*)** *(U7)*
+  - All measured from **the speaker** — *hier* is where you are, *da* is visible but away from you, *dort* is farther off
+
+| Word | Meaning | Distance from the speaker |
+|---|---|---|
+| *hier* | here | where the speaker is |
+| *da* | there | away, but visible or pointed at |
+| *dort* | there | farther away |
+| *dort drüben* | over there | across from here |
+| *dahinten* | back there | at the back |
+
+- ***Hier** ist die S-Bahn.* — The S-Bahn is here.
+- ***Dort** / **Da** ist die S-Bahn.* — The S-Bahn is there.
+- ***Da drüben** ist die S-Bahn.* — The S-Bahn is over there.
+- ***Dahinten** ist ein Fahrkartenautomat.* — There's a ticket machine back there.
+- *da drüben* is nearer and visible, *dort drüben* farther — a distance difference, not a different word
+
+- **Place words — direction (*Wohin?*)** *(U7)*
+  - *dorthin · dahin* = *(to) there* — the *-hin* is what adds the movement
+  - *Wie komme ich **dorthin**?* — How do I get there?
 
 - **Polite ordering** — *hätte gerne* is a touch more formal than *möchte* *(U5)*
-  - *Ich hätte gerne Erdbeeren.*
-  - *Welche Äpfel hätten Sie gern?*
+  - *Ich hätte gerne Erdbeeren.* — I'd like strawberries.
+  - *Welche Äpfel hätten Sie gern?* — Which apples would you like?
 
 ### Zeit
 
@@ -280,10 +458,18 @@ Derived from [`patterns/patterns.md`](../patterns/patterns.md) + `a1.1/notes.md`
 | *Von wann bis wann?* | **von … bis** | *vom 1. bis zum 10. Oktober* |
 | *Ab wann?* | **ab** (+ Dativ) | *ab morgen* · *ab 20 Uhr* |
 
-- *Um wie viel Uhr? — **Um** 7 Uhr.*
-- ***Am** Abend geht Katie mit Jonas essen.*
-- ***Im** Sommer spielen wir immer im Park.*
-- ***In der** Nacht fährt der Zug.*
+- *Um wie viel Uhr? — **Um** 7 Uhr.* — At what time? — At 7 o'clock.
+- ***Am** Abend geht Katie mit Jonas essen.* — In the evening Katie goes out to eat with Jonas.
+- ***Im** Sommer spielen wir immer im Park.* — In summer we always play in the park.
+- ***In der** Nacht fährt der Zug.* — The train runs at night.
+
+- **Worked example — one noun, three prepositions** *(A1.2 U7)* — the **verb** picks the
+  preposition; the noun only takes whatever case that preposition gives it
+  - *Und hast du es noch pünktlich **zum** Unterricht geschafft?* — And did you still make it to class on time? · *schaffen* — motion towards
+  - *Ich habe **im** Unterricht nur “Blablablablabla” gehört und dann bin ich eingeschlafen.* — All I heard in class was “blablablablabla” and then I fell asleep. · *hören* — where it happened
+  - *Ich kann leider nicht mehr **am** Unterricht teilnehmen.* — Unfortunately I can no longer take part in the class. · *teilnehmen* — participation
+  - The pattern: *zu* + Dativ (motion to) · *in* + Dativ (inside) · *an* + Dativ (taking part). *zum · im · am* are contractions of *zu dem · in dem · an dem*.
+  - ***an* is not in the case table above** — *teilnehmen + an + Dativ* is memorised as a pair, not derived from a rule.
 
 *Deeper:*
 - [`Wegbeschreibung`](../patterns/patterns.md#wegbeschreibung)
@@ -313,30 +499,44 @@ Regular endings: *-e · -st · -t · -en · -t · -en*. Stems in *-t / -d* add a
 | *arbeiten* | extra *e* after the stem *t* | *Arbeite schneller!* | U6 |
 | *einladen* | *du lädst … ein · er lädt … ein* | *Ich lade dich zum Geburtstag ein.* | A1.2 U10 |
 
-- **Separable verbs** — the prefix goes to the end *(U7)*
-  - *Ich steige am Alexanderplatz **ein**.*
-  - *Wo steigst du **um**?*
-  - *Die S-Bahn fährt am Bahnsteig 2 **ab**.*
-  - *Bitte alle **aus**steigen!*
+**Separable verbs** — the prefix goes to the end *(U7)*
+
+The split needs two slots: a **conjugated core in position 2** and a free **end of clause**. Take
+either one away and the verb stays whole — it is the conjugated form that separates, not the verb.
+
+| Context | Conjugated core in pos. 2? | Form | Splits? |
+|---|---|---|---|
+| Main clause | yes | *Ich* **steige** *am Alexanderplatz* **ein**. | ✓ |
+| Imperative with *Sie* | yes | **Steigen** *Sie* **aus**. | ✓ |
+| Modal / Perfekt | no — the modal or auxiliary is the finite verb | *Ich muss die Schuhe* **ausziehen**. | ✗ |
+| Bare infinitive command | no — there is no finite verb at all | *Bitte alle* **aussteigen**! | ✗ |
+
+- *Ich steige am Alexanderplatz **ein**.* — I get on at Alexanderplatz.
+- *Wo steigst du **um**?* — Where do you change trains?
+- *Die S-Bahn fährt am Bahnsteig 2 **ab**.* — The S-Bahn departs from platform 2.
 
 - ***sehen* / *schauen* / *gucken*** — all three for “have a look”; only *sehen* for perceiving *(A1.2 U9)*
-  - ***Sieh** mal! = **Schau** mal! = **Guck** mal!*
-  - *Wir sehen/schauen/gucken einen Film.*
-  - *Ich **sehe** dich.* · *Ich kann nichts **sehen**.*
+  - ***Sieh** mal! = **Schau** mal! = **Guck** mal!* — Have a look!
+  - *Wir sehen/schauen/gucken einen Film.* — We're watching a film.
+  - *Ich **sehe** dich.* — I can see you.
+  - *Ich kann nichts **sehen**.* — I can't see anything.
   - Trap: ~~Ich habe Sie nicht geschaut.~~ → *gesehen*
 
 - ***an- / aus- / auf- / zu-machen*** — *an/aus* for devices, *auf/zu* for doors, bottles, shops *(A1.2 U4)*
-  - *Katie macht das Radio **an**. → Das Radio ist **an**.*
-  - *Sie macht die Tür **zu**.*
-  - *Wann machen die Geschäfte **auf**?*
+  - *Katie macht das Radio **an**. → Das Radio ist **an**.* — Katie turns the radio on. → The radio is on.
+  - *Sie macht die Tür **zu**.* — She closes the door.
+  - *Wann machen die Geschäfte **auf**?* — When do the shops open?
 
-- ***mögen*** — a main verb, not a modal: *ich mag · er mag*, no umlaut
-  - *Ich mag Bier.*
-  - *Bobbi mag **seinen** Bruder.*
-  - *Wir mögen keine Erdnussbutter.*
+- ***mögen*** — a main verb, not a modal, and the forms take no umlaut
+  - *ich mag* — I like
+  - *er mag* — he likes
+  - *Ich mag Bier.* — I like beer.
+  - *Bobbi mag **seinen** Bruder.* — Bobbi likes his brother.
+  - *Wir mögen keine Erdnussbutter.* — We don't like peanut butter.
 
 *Deeper:*
 - [`Trennbare Verben (Bahn)`](../patterns/patterns.md#trennbare-verben-bahn)
+- [`Alternativer Imperativ`](../patterns/patterns.md#alternativer-imperativ)
 - [`sehen / schauen / gucken`](../patterns/patterns.md#sehen--schauen--gucken)
 - [`an- auf- aus- zu-machen`](../patterns/patterns.md#an--auf--aus--zu-machen)
 - [`mögen`](../patterns/patterns.md#mögen)
@@ -349,12 +549,13 @@ Regular endings: *-e · -st · -t · -en · -t · -en*. Stems in *-t / -d* add a
 
 **Satzklammer:** the modal sits in position 2, the infinitive goes to the **end**. *(U7)*
 
-- *Ich **kann** gut Deutsch **sprechen**.*
-- *Wo **kann** ich eine Fahrkarte **kaufen**?*
-- *Ich **will** das Brandenburger Tor **besuchen**.*
+- *Ich **kann** gut Deutsch **sprechen**.* — I can speak German well.
+- *Wo **kann** ich eine Fahrkarte **kaufen**?* — Where can I buy a ticket?
+- *Ich **will** das Brandenburger Tor **besuchen**.* — I want to visit the Brandenburg Gate.
 
 | | können | müssen | wollen | möchten | sollen | dürfen |
 |---|---|---|---|---|---|---|
+| **Meaning** | can · be able to | must · have to | want | would like (polite) | be supposed to · should | be allowed to · may |
 | ich | kann | muss | will | möchte | soll | darf |
 | du | kannst | musst | willst | möchtest | sollst | darfst |
 | er/sie/es | kann | muss | will | möchte | soll | darf |
@@ -365,30 +566,37 @@ Regular endings: *-e · -st · -t · -en · -t · -en*. Stems in *-t / -d* add a
 - *ich* = *er/sie/es*, and *wir* = *sie/Sie* — for every modal.
 
 - ***möchten* vs *wollen*** — polite vs blunt
-  - *Ich **möchte** zum Alexanderplatz fahren.*
-  - ***Wollen** Sie eine Fahrkarte kaufen?*
+  - *Ich **möchte** zum Alexanderplatz fahren.* — I'd like to go to Alexanderplatz.
+  - ***Wollen** Sie eine Fahrkarte kaufen?* — Do you want to buy a ticket?
 
 - ***müssen***
-  - *Ich muss Deutsch lernen.*
-  - *Muss ich die Schuhe ausziehen?*
-  - *Man muss sein Geschirr immer selber spülen.*
+  - *Ich muss Deutsch lernen.* — I have to learn German.
+  - *Muss ich die Schuhe ausziehen?* — Do I have to take my shoes off?
+  - *Man muss sein Geschirr immer selber spülen.* — You always have to wash your own dishes.
 
 - ***sollen***
-  - *Ich soll meine Daten eintragen.*
-  - *Was soll ich machen?*
-  - *Sie sollen heute pünktlich sein.*
+  - *Ich soll meine Daten eintragen.* — I'm supposed to enter my details.
+  - *Was soll ich machen?* — What should I do?
+  - *Sie sollen heute pünktlich sein.* — You're supposed to be on time today.
+
+- ***sollen* vs *wollen*** — both translate "shall", split by **who the question is about**
+  - *Soll ich die Schuhe ausziehen?* — **Shall I** take my shoes off? — your own action
+  - *Wollen wir das Radler aufmachen?* — **Shall we** open the Radler? — a proposal for both of you
+  - *sollen* asks whether it is the **right thing** to do (timing, expectation, permission); *wollen* asks
+    what you **want**. So *sollen* + *wir* is real German, but it reads as "ought we to" — not as an
+    invitation. The booklets give the forms but never contrast them; this bullet is a synthesis.
 
 - ***dürfen*** — negated it is a prohibition *(A1.2 U10)*
-  - *Man darf im Restaurant nicht rauchen.*
-  - *Du darfst hier nicht rauchen.*
-  - *Darf man hier rauchen?*
+  - *Man darf im Restaurant nicht rauchen.* — You're not allowed to smoke in the restaurant.
+  - *Du darfst hier nicht rauchen.* — You're not allowed to smoke here.
+  - *Darf man hier rauchen?* — Are you allowed to smoke here?
 
 - **Modal alone**, when the verb is obvious
-  - ***Kannst** du Deutsch?*
-  - *Wohin **wollen** Sie?*
+  - ***Kannst** du Deutsch?* — Do you speak German?
+  - *Wohin **wollen** Sie?* — Where do you want to go?
 
 - **A separable verb stays whole** in front of the bracket
-  - *Sie zieht die Schuhe aus. → Ich muss die Schuhe **ausziehen**.*
+  - *Sie zieht die Schuhe aus. → Ich muss die Schuhe **ausziehen**.* — She takes her shoes off. → I have to take my shoes off.
 
 *Deeper:*
 - [`Modalverb + Infinitiv am Ende`](../patterns/patterns.md#modalverb--infinitiv-am-ende)
@@ -400,6 +608,17 @@ Regular endings: *-e · -st · -t · -en · -t · -en*. Stems in *-t / -d* add a
 
 ## 8. Imperativ
 
+**Which shape goes with whom** — the choice follows *who* you are addressing, not the verb.
+
+| Who's addressed | German | Verb |
+|---|---|---|
+| one friend (*du*) | ***Hol** mal Karotten!* | stem |
+| several friends (*ihr*) | ***Holt** die Kinder **ab**!* | stem + *-t* |
+| one stranger (*Sie*) | ***Füllen** Sie das Formular **aus**!* | infinitive **+ Sie** |
+| nobody / everyone | *Hausaufgaben **machen**!* | infinitive, **no pronoun** |
+
+**How each one is built:**
+
 | Person | Form | Beispiel |
 |---|---|---|
 | *du* | drop *du* and *-st* | ***Komm**! · **Fahr** nach Hause!* (no umlaut) |
@@ -408,21 +627,48 @@ Regular endings: *-e · -st · -t · -en · -t · -en*. Stems in *-t / -d* add a
 | *ihr* | drop only the pronoun | ***Putzt** bitte die Wohnung! · **Seid** bitte pünktlich!* |
 | *Sie* | verb first, then *Sie* | ***Nehmen** Sie meinen Kuli!* |
 
-- ***sein* → *Sei!* · *haben* → *Hab!***
-  - ***Sei** pünktlich!*
-  - ***Hab** keine Angst!*
+**The verbs you've met** — *du* and *ihr* command forms *(A1.2 U3)*
+
+| Verb | du | Command | ihr | Command | Watch |
+|---|---|---|---|---|---|
+| *sein* | *bist* | **Sei!** | *seid* | **Seid!** | its own words |
+| *haben* | *hast* | **Hab!** | *habt* | **Habt!** | its own words |
+| *fahren* | *fährst* | **Fahr!** | *fahrt* | **Fahrt!** | command uses *a* |
+| *schlafen* | *schläfst* | **Schlaf!** | *schlaft* | **Schlaft!** | command uses *a* |
+| *essen* | *isst* | **Iss!** | *esst* | **Esst!** | only the *t* drops |
+| *lesen* | *liest* | **Lies!** | *lest* | **Lest!** | only the *t* drops |
+| *vergessen* | *vergisst* | **Vergiss!** | *vergesst* | **Vergesst!** | only the *t* drops |
+| *sprechen* | *sprichst* | **Sprich!** | *sprecht* | **Sprecht!** | *i* stays |
+| *nehmen* | *nimmst* | **Nimm!** | *nehmt* | **Nehmt!** | *i* only in the *du* command |
+| *kommen* | *kommst* | **Komm!** | *kommt* | **Kommt!** | regular |
+| *trinken* | *trinkst* | **Trink!** | *trinkt* | **Trinkt!** | regular |
+| *gehen* | *gehst* | **Geh!** | *geht* | **Geht!** | regular |
+| *kaufen* | *kaufst* | **Kauf!** | *kauft* | **Kauft!** | regular |
+| *fragen* | *fragst* | **Frag!** | *fragt* | **Fragt!** | regular |
+| *holen* | *holst* | **Hol!** | *holt* | **Holt!** | regular |
+| *spülen* | *spülst* | **Spül!** | *spült* | **Spült!** | regular |
+| *putzen* | *putzt* | **Putz!** | *putzt* | **Putzt!** | stem in *z*: only the *t* drops |
+| *arbeiten* | *arbeitest* | **Arbeite!** | *arbeitet* | **Arbeitet!** | keep the *e* |
+| *öffnen* | *öffnest* | **Öffne!** | *öffnet* | **Öffnet!** | keep the *e* |
+| *zeichnen* | *zeichnest* | **Zeichne!** | *zeichnet* | **Zeichnet!** | keep the *e* |
+
+*Sie* and the compressed form need no list — the verb keeps its plain form: *Füllen Sie das Formular aus!* · *Hausaufgaben machen!* — except *sein*: ***Seien** Sie bitte pünktlich!*
+
+- **The two irregular ones** — no rule to apply
+  - ***Sei** pünktlich!* — Be on time!
+  - ***Hab** keine Angst!* — Don't be afraid!
 
 - **Separable verbs split**, even in the formal imperative
-  - ***Füllen** Sie dieses Anmeldeformular **aus**!*
+  - ***Füllen** Sie dieses Anmeldeformular **aus**!* — Please fill in this registration form!
 
 - ***bitte* softens it, the exclamation mark sharpens it** *(U3, U5)*
-  - ***Putz** bitte die Wohnung!*
-  - ***Seien** Sie bitte pünktlich!*
+  - ***Putz** bitte die Wohnung!* — Please clean the flat!
+  - ***Seien** Sie bitte pünktlich!* — Please be on time!
 
 - **Compressed instruction** — the bare infinitive, when no one is addressed directly *(A1.2 U5)*
-  - *Hausaufgaben machen!*
-  - *Hausaufgaben nicht vergessen!*
-  - *Bitte das Formular ausfüllen!*
+  - *Hausaufgaben machen!* — Do your homework!
+  - *Hausaufgaben nicht vergessen!* — Don't forget your homework!
+  - *Bitte das Formular ausfüllen!* — Please fill in the form!
 
 *Deeper:*
 - [`Imperativ informell`](../patterns/patterns.md#imperativ-informell)
@@ -435,16 +681,20 @@ Regular endings: *-e · -st · -t · -en · -t · -en*. Stems in *-t / -d* add a
 
 **Perfekt** = *haben/sein* + Partizip II, and it is the **normal spoken past**. *(A1.2 U6–U7)*
 
-- **haben** for most verbs
-  - *Ich **habe** die ganze Nacht durchtrainiert.*
-  - *Was **hast** du gestern **gemacht**?*
-  - *Sie **hat** hier **studiert**.*
+The helper marks the person and the tense — it is **not** the word "have" or "be". The meaning
+sits in the participle, so translate the **pair**, not the helper alone.
 
-- **sein** for movement, change of state, and *passieren / bleiben / werden*
-  - *Ich **bin** in den Keller **gegangen**.*
-  - *Katie **ist** zu spät **aufgestanden**.*
-  - *Katie **ist** Friseurin **geworden**.*
-  - *Was **ist** **passiert**?*
+- **haben** — the **default**, for every verb not on the *sein* list
+  - *Ich **habe** die ganze Nacht **durchtrainiert**.* — I worked out all night.
+  - *Was **hast** du gestern **gemacht**?* — What did you do yesterday?
+  - *Sie **hat** hier **studiert**.* — She studied here.
+
+- **sein** — the exception: movement, change of state, and three that fit neither —
+  *passieren · bleiben · werden* — plus *gewesen* for *sein* itself
+  - *Ich **bin** in den Keller **gegangen**.* — I went into the cellar.
+  - *Katie **ist** zu spät **aufgestanden**.* — Katie got up too late.
+  - *Katie **ist** Friseurin **geworden**.* — Katie became a hairdresser.
+  - *Was **ist** **passiert**?* — What happened?
 
 - **Building the participle**
   - *machen → gemacht* · *kaufen → gekauft*
@@ -453,24 +703,25 @@ Regular endings: *-e · -st · -t · -en · -t · -en*. Stems in *-t / -d* add a
   - *sehen → gesehen* · *mitnehmen → mitgenommen* — *ge* goes inside
 
 - **Same steps, two tenses**
-  - *Ich stehe um 7 Uhr auf. ↔ Ich **bin** um 7 Uhr **aufgestanden**.*
-  - *Dann frühstücke ich. ↔ Dann **habe** ich **gefrühstückt**.*
+  - *Ich stehe um 7 Uhr auf. ↔ Ich **bin** um 7 Uhr **aufgestanden**.* — I get up at 7. ↔ I got up at 7.
+  - *Dann frühstücke ich. ↔ Dann **habe** ich **gefrühstückt**.* — Then I have breakfast. ↔ Then I had breakfast.
 
 **Präteritum** — with *sein* and *haben* it is the *preferred* spoken form.
 
-- *Wo **warst** du gestern? — Ich **war** in Frankreich.*
-- *Ich **hatte** eine kleine Wohnung.*
+- *Wo **warst** du gestern? — Ich **war** in Frankreich.* — Where were you yesterday? — I was in France.
+- *Ich **hatte** eine kleine Wohnung.* — I had a small flat.
 
 Five more prefer it even in speech: **war · hatte · dachte · wusste · es gab**
 
-- *Ich **dachte**, du kommst morgen.*
-- *Ich **wusste** die Antwort nicht.*
-- *Es **gab** keine Milch im Supermarkt.*
+- *Ich **dachte**, du kommst morgen.* — I thought you were coming tomorrow.
+- *Ich **wusste** die Antwort nicht.* — I didn't know the answer.
+- *Es **gab** keine Milch im Supermarkt.* — There was no milk in the supermarket.
 
 **Register decides, not meaning** — one past, two ways to say it.
 
-- *Wie ist dein Tag **gewesen**? = Wie **war** dein Tag?*
-- *Ich habe gekocht.* (speaking) · *Katie hatte eine kleine Wohnung.* (writing)
+- *Wie ist dein Tag **gewesen**? = Wie **war** dein Tag?* — How was your day?
+- *Ich habe gekocht.* (speaking) — I cooked. (speaking)
+- *Katie hatte eine kleine Wohnung.* (writing) — Katie had a small flat. (writing)
 
 Full page: [vergangenheit.md](a1.2/vergangenheit.md) · all forms: [partizip-ii.md](a1.2/partizip-ii.md)
 
@@ -488,39 +739,45 @@ Full page: [vergangenheit.md](a1.2/vergangenheit.md) · all forms: [partizip-ii.
 
 ## 10. Adjektive und Vergleich
 
-- **Strength** — high: *sehr · total · echt · wirklich*; low: *ziemlich · ein bisschen · nicht so*; negative *sehr* = *gar nicht* *(A1.2 U1)*
-  - *Die Wohnung ist **echt** groß.*
-  - *Berlin ist **wirklich** toll.*
-  - *Das Wohnzimmer ist **nicht so** hell.*
-  - *Der Tisch ist **gar nicht** alt.*
+- **Strength** — how strong a description is *(A1.2 U1)*
+  - high — *sehr · total · echt · wirklich*
+  - low — *ziemlich · ein bisschen · nicht so*
+  - negative *sehr* — *gar nicht*
+  - *Die Wohnung ist **echt** groß.* — The flat is really big.
+  - *Berlin ist **wirklich** toll.* — Berlin is really great.
+  - *Das Wohnzimmer ist **nicht so** hell.* — The living room isn't so bright.
+  - *Der Tisch ist **gar nicht** alt.* — The table isn't old at all.
 
 - **Comparative is *-er***, never *mehr* + adjective *(A1.2 U2)*
-  - *Sie ist **jünger** als ich.*
-  - *Er ist drei Jahre **älter** als ich.*
-  - *Mein Vater ist **größer** als meine Mutter.*
+  - *Sie ist **jünger** als ich.* — She's younger than me.
+  - *Er ist drei Jahre **älter** als ich.* — He's three years older than me.
+  - *Mein Vater ist **größer** als meine Mutter.* — My father is taller than my mother.
   - Trap: ~~mehr teuer~~ → *teurer*
 
 - **Equality and difference**
-  - Equal: *Sie ist genauso hübsch **wie** ihre Tochter.* · *Der Vater ist so alt **wie** die Mutter.*
-  - Different: *Katie ist lustiger **als** ihre Schwester.*
+  - Equal:
+    - *Sie ist genauso hübsch **wie** ihre Tochter.* — She's just as pretty as her daughter.
+    - *Der Vater ist so alt **wie** die Mutter.* — The father is as old as the mother.
+  - Different: *Katie ist lustiger **als** ihre Schwester.* — Katie is funnier than her sister.
 
 - **Superlative is *am …-(e)sten***
-  - *Katie ist jung, ihre Schwester ist jünger, **am jüngsten**.*
-  - *Am liebsten trinke ich Radler.*
+  - *Katie ist jung, ihre Schwester ist jünger, **am jüngsten**.* — Katie is young, her sister is younger, the youngest.
+  - *Am liebsten trinke ich Radler.* — I like drinking Radler best of all.
 
 - ***zu* + Adjektiv** = too much. Not the *zu* of *zumachen*. *(A1.2 U3)*
-  - *Das Fleisch ist **zu salzig**!*
-  - *Der Kuchen ist **zu süß**.*
-  - *Das ist **viel zu teuer**.*
+  - *Das Fleisch ist **zu salzig**!* — The meat is too salty!
+  - *Der Kuchen ist **zu süß**.* — The cake is too sweet.
+  - *Das ist **viel zu teuer**.* — That's much too expensive.
 
 - ***gern − lieber − am liebsten*** modifies a **verb**; *mögen* takes a **noun** *(A1.2 U3)*
-  - *Ich esse **gern** Kartoffeln.*
-  - *Katie isst **lieber** Nudeln.*
-  - *Am liebsten trinke ich Radler.*
-  - *Mein **Lieblings**getränk ist Radler.*
+  - *Ich esse **gern** Kartoffeln.* — I like eating potatoes.
+  - *Katie isst **lieber** Nudeln.* — Katie prefers eating pasta.
+  - *Am liebsten trinke ich Radler.* — I like drinking Radler best of all.
+  - *Mein **Lieblings**getränk ist Radler.* — My favourite drink is Radler.
 
 - **A person's height** is *groß / klein*, not *hoch / kurz*
-  - *Er ist groß.* · *Sie ist klein.*
+  - *Er ist groß.* — He's tall.
+  - *Sie ist klein.* — She's short.
 
 *Deeper:*
 - [`so wie / -er als`](../patterns/patterns.md#so-wie---er-als)
@@ -533,42 +790,52 @@ Full page: [vergangenheit.md](a1.2/vergangenheit.md) · all forms: [partizip-ii.
 ## 11. Satzbau
 
 - **Verb position 2** — and the subject moves behind the verb when something else takes position 1 *(U10)*
-  - ***Heute habe** ich keine Zeit.*
-  - ***Am Nachmittag lernt** ihr Deutsch.*
-  - ***Leider kann** ich nicht kommen.*
-  - ***Um 10 Uhr fährt** die S-Bahn ab.*
+  - ***Heute habe** ich keine Zeit.* — I don't have time today.
+  - ***Am Nachmittag lernt** ihr Deutsch.* — In the afternoon you learn German.
+  - ***Leider kann** ich nicht kommen.* — Unfortunately I can't come.
+  - ***Um 10 Uhr fährt** die S-Bahn ab.* — The S-Bahn leaves at 10.
   - Trap: ~~Heute ich habe Zeit.~~
 
 - **Satzklammer** — modal or auxiliary in position 2, infinitive or participle at the end
-  - *Ich kann gut Deutsch sprechen.*
+  - *Ich kann gut Deutsch sprechen.* — I can speak German well.
   - Same bracket as separable prefixes.
 
 - **Yes/no question** — verb first
-  - ***Hast** du Zeit?* · ***Darf** man hier rauchen?*
+  - ***Hast** du Zeit?* — Do you have time?
+  - ***Darf** man hier rauchen?* — Are you allowed to smoke here?
 
 - **W-question** — question word first, verb second
-  - ***Wohin** fährst du?* · ***Was** machst du beruflich?*
+  - ***Wohin** fährst du?* — Where are you going?
+  - ***Was** machst du beruflich?* — What do you do for a living?
 
 - ***denn*** — position 0, so the clause after it keeps normal order *(A1.2 U7)*
-  - *Ich kann leider nicht zum Deutschunterricht kommen, **denn heute muss** ich arbeiten.*
+  - *Ich kann leider nicht zum Deutschunterricht kommen, **denn heute muss** ich arbeiten.* — Unfortunately I can't come to German class, because I have to work today.
+
+- **Comma ≠ verb-final** — with no conjunction the second clause keeps main-clause order: subject, then verb *(A1.2 U2)*
+  - *Du meinst, sie **geht** spazieren?* — You mean she goes for a walk?
+  - *Sie **geht** auch jeden Tag joggen.* — She also goes jogging every day.
+  - *geht* is the conjugated verb in position 2, and *spazieren* / *joggen* sits at the end — the same bracket as a
+    modal, and always written as **two words**. Only a **conjunction** moves the finite verb to the end — compare
+    *dass ich zu spät **bin*** *(§14)*. A comma on its own proves nothing.
 
 - ***und* / *aber* / *oder*** — no comma before *und* or *oder*; comma before *aber* *(A1.2 U5)*
-  - *Ich komme aus Australien**, aber** meine Oma ist Deutsche.*
-  - *Katie wohnt in einer WG **und** ihre Mitbewohner sind nett.*
+  - *Ich komme aus Australien**, aber** meine Oma ist Deutsche.* — I'm from Australia, but my grandma is German.
+  - *Katie wohnt in einer WG **und** ihre Mitbewohner sind nett.* — Katie lives in a shared flat and her flatmates are nice.
 
 - **Sequence words** — when *dann / danach* starts the sentence, the verb still holds position 2
-  - ***Zuerst hat** Gogo gefrühstückt.*
-  - ***Dann hat** er seine Ex-Frau abgeholt.*
-  - ***Danach hat** er eingekauft.*
+  - ***Zuerst hat** Gogo gefrühstückt.* — First Gogo had breakfast.
+  - ***Dann hat** er seine Ex-Frau abgeholt.* — Then he picked up his ex-wife.
+  - ***Danach hat** er eingekauft.* — After that he went shopping.
 
 - ***es* + Wetter** — either *es ist* + adjective or *es* + verb, never both *(A1.2 U10)*
-  - *Es **ist** bewölkt.* vs *Es **regnet**.*
+  - *Es **ist** bewölkt.* — It's cloudy.
+  - *Es **regnet**.* — It's raining.
   - *Wie viel Grad **sind** es? — Es **sind** 25 Grad.*
-  - *Die Temperaturen **steigen** von 8 auf 15 Grad.*
+  - *Die Temperaturen **steigen** von 8 auf 15 Grad.* — Temperatures are rising from 8 to 15 degrees.
 
 - **Possessive questions** *(A1.2 U5)*
-  - ***Wie ist Ihr Name**? → Mein Name ist Katie Koch.*
-  - ***Wie ist Ihre Adresse**? → Meine Adresse ist Kurfürstendamm 456.*
+  - ***Wie ist Ihr Name**? → Mein Name ist Katie Koch.* — What's your name? → My name is Katie Koch.
+  - ***Wie ist Ihre Adresse**? → Meine Adresse ist Kurfürstendamm 456.* — What's your address? → My address is Kurfürstendamm 456.
 
 *Deeper:*
 - [`Verbposition`](../patterns/patterns.md#verbposition)
@@ -583,26 +850,26 @@ Full page: [vergangenheit.md](a1.2/vergangenheit.md) · all forms: [partizip-ii.
 ## 12. Negation
 
 - **nicht** negates a verb, an adjective, or a whole statement *(U8)*
-  - *Nein, ich arbeite **nicht**.*
-  - *Das Brandenburger Tor ist **nicht** weit.*
+  - *Nein, ich arbeite **nicht**.* — No, I don't work.
+  - *Das Brandenburger Tor ist **nicht** weit.* — The Brandenburg Gate isn't far.
 
 - **kein** negates a **noun** *(U8)*
-  - *Nein, ich habe **keine** Zeit.*
-  - *Hier sind **keine** Geschäfte.*
+  - *Nein, ich habe **keine** Zeit.* — No, I don't have time.
+  - *Hier sind **keine** Geschäfte.* — There are no shops here.
 
 - ***kein* declines like *ein*** — so the masculine takes *-en*
-  - *Ich trinke **keinen** Weißwein.*
-  - *Wir haben **keine** Getränke.*
-  - *Nein, wir haben **keinen** Platz.*
-  - Spoken, the ending often drops: *Ich hab' **kein'** Hunger.*
+  - *Ich trinke **keinen** Weißwein.* — I don't drink white wine.
+  - *Wir haben **keine** Getränke.* — We have no drinks.
+  - *Nein, wir haben **keinen** Platz.* — No, we don't have a table.
+  - Spoken, the ending often drops: *Ich hab' **kein'** Hunger.* — I'm not hungry.
 
 - **schon → noch nicht** — a *schon* question is normally answered with *noch nicht* *(A1.2 U8)*
-  - *Hast du Gogo heute **schon** gesehen? — Nein, ich habe Gogo **noch nicht** gesehen.*
-  - *Habt ihr schon Hunger? — Nein, wir haben **noch keinen** Hunger.*
-  - *Ich war **noch nie** in China.*
+  - *Hast du Gogo heute **schon** gesehen? — Nein, ich habe Gogo **noch nicht** gesehen.* — Have you seen Gogo today yet? — No, I haven't seen Gogo yet.
+  - *Habt ihr schon Hunger? — Nein, wir haben **noch keinen** Hunger.* — Are you hungry yet? — No, we're not hungry yet.
+  - *Ich war **noch nie** in China.* — I've never been to China.
 
 - ***kein … mehr***  *(A1.2 U4)*
-  - *Ich habe **keinen** Durst **mehr**.* — German has no “not thirsty any more” adjective
+  - *Ich habe **keinen** Durst **mehr**.* — I'm not thirsty any more. · German has no “not thirsty any more” adjective
 
 *Deeper:*
 - [`nicht vs kein`](../patterns/patterns.md#nicht-vs-kein)
@@ -616,44 +883,56 @@ Full page: [vergangenheit.md](a1.2/vergangenheit.md) · all forms: [partizip-ii.
 - **The clock** *(U10)*
   - *Wie spät ist es? — Es ist sechs.*
   - *Es ist **halb sieben**.* = **6:30** — *halb* names the hour still to come
-  - *Viertel vor sieben* · *zwanzig nach zehn*
-  - Officially the 24-hour clock, and *Uhr* is required: *Es ist sechzehn Uhr.*
+  - *Viertel vor sieben* — quarter to seven
+  - *zwanzig nach zehn* — twenty past ten
+  - Officially the 24-hour clock, and *Uhr* is required: *Es ist sechzehn Uhr.* — It's 4 pm (24-hour clock).
 
 - **Day parts fuse with the weekday**
-  - *Dienstagabend* · *Dienstag abends*
-  - *Am Sonntag sind die Geschäfte geschlossen.*
-  - *Am Wochenende arbeiten viele Leute nicht.*
+  - *Dienstagabend* — Tuesday evening
+  - *Dienstag abends* — on Tuesday evenings
+  - *Am Sonntag sind die Geschäfte geschlossen.* — On Sundays the shops are closed.
+  - *Am Wochenende arbeiten viele Leute nicht.* — Many people don't work at the weekend.
 
 - ***jed-* stands accusative; a repeated activity becomes *-s***  *(A1.2 U8)*
-  - *Wir spielen **jeden** Freitag von 17 bis 19 Uhr.*
-  - *Gogo fliegt **jedes** Jahr nach Australien.*
-  - *Bobbi spielt immer **montags** Fußball.*
-  - *Ich gehe **morgens** joggen.*
-  - *einmal pro Monat = einmal im Monat*
+  - *Wir spielen **jeden** Freitag von 17 bis 19 Uhr.* — We play every Friday from 5 to 7 pm.
+  - *Gogo fliegt **jedes** Jahr nach Australien.* — Gogo flies to Australia every year.
+  - *Bobbi spielt immer **montags** Fußball.* — Bobbi always plays football on Mondays.
+  - *Ich gehe **morgens** joggen.* — I go jogging in the mornings.
+  - *einmal pro Monat = einmal im Monat* — once a month
 
 - **von X bis Y** — with dates the ordinal takes an extra *-n*
-  - *Mein Kurs geht **von 9 bis 14 Uhr**.*
-  - *Ich bin **vom ersten bis zum zehnten** Oktober im Urlaub.*
+  - *Mein Kurs geht **von 9 bis 14 Uhr**.* — My course runs from 9 to 2 pm.
+  - *Ich bin **vom ersten bis zum zehnten** Oktober im Urlaub.* — I'm on holiday from the 1st to the 10th of October.
 
 - **Ordinals** — 1–19 take *-te*, 20+ take *-ste* *(A1.2 U5)*
-  - *am **dritten** August* · *am **fünfzehnten** Juli*
-  - *Heute ist der **erste** August.*
+  - *am **dritten** August* — on the 3rd of August
+  - *am **fünfzehnten** Juli* — on the 15th of July
+  - *Heute ist der **erste** August.* — Today is the first of August.
   - Irregular: *erste · dritte · siebte*
 
 - **Numbers** — from 21 the unit comes first, joined by *und*
   - *einundzwanzig* · *zweiunddreißig*
   - From 100: *hundert*, as in *zweihundert*
-  - *Eine Stunde hat 60 Minuten.*
+  - *Eine Stunde hat 60 Minuten.* — An hour has 60 minutes.
 
-- **Wie oft** scale: *immer · meistens · oft · manchmal · selten · nie*
-  - *Kochst du oft? — Ja, **immer**.*
-  - *Wie oft putzt du? — Ich putze **selten**.*
-  - *Ich spüle **nie** Geschirr.*
+**Wie oft** scale — most to least frequent *(A1.2 U4)*
+
+| German | English |
+|---|---|
+| *immer* | always |
+| *meistens* | mostly |
+| *oft* | often |
+| *manchmal* | sometimes |
+| *selten* | rarely |
+| *nie* | never |
+
+- *Kochst du oft? — Ja, **immer**.* — Do you cook often? — Yes, always.
+- *Wie oft putzt du? — Ich putze **selten**.* — How often do you clean? — I rarely clean.
+- *Ich spüle **nie** Geschirr.* — I never wash the dishes.
 
 *Deeper:*
 - [`Wie spät ist es?`](../patterns/patterns.md#wie-spät-ist-es)
-- [`jeden X
-- montags`](../patterns/patterns.md#jeden-x--montags)
+- [`jeden X · montags`](../patterns/patterns.md#jeden-x--montags)
 - [`Das Datum`](../patterns/patterns.md#das-datum)
 - [`Ordinalzahlen`](../patterns/patterns.md#ordinalzahlen)
 - [`Wie oft`](../patterns/patterns.md#wie-oft)
@@ -663,40 +942,48 @@ Full page: [vergangenheit.md](a1.2/vergangenheit.md) · all forms: [partizip-ii.
 ## 14. Register und Partikeln
 
 - **du vs Sie** — *duzen* vs *siezen* *(U3)*
-  - Friend: ***Wie heißt du**?*
-  - Hotel: ***Wie heißen Sie**?*
-  - Taxi: ***Sind Sie frei**?*
+  - Friend: ***Wie heißt du**?* — What's your name? (informal)
+  - Hotel: ***Wie heißen Sie**?* — What's your name? (formal)
+  - Taxi: ***Sind Sie frei**?* — Are you free? (to the taxi driver)
   - Older people often offer *du*; work is usually *Sie*.
 
 - **ihr vs sie vs Sie** *(U6)*
-  - *ihr* = informal plural: ***Woher kommt ihr** zwei eigentlich?*
-  - *sie* = she / they; ***Sie** = formal, always capitalised: *Guten Tag! Woher **kommen Sie**?*
-  - *Wie heißt ihr? → Wir heißen …*
+  - *ihr* = informal plural: ***Woher kommt ihr** zwei eigentlich?* — Where are you two from, by the way?
+  - *sie* = she / they
+  - ***Sie** = formal, always capitalised
+    - *Guten Tag! Woher **kommen Sie**?* — Hello! Where are you (formal) from?
+  - *Wie heißt ihr? → Wir heißen …* — What are your names? → We're called
 
 - **Modal particles** — flavour, not content. Dropping them leaves a correct sentence.
-  - *denn* — makes a question sound natural rather than probing: *Woher kommst du **denn**?* · *Wo ist **denn** mein Anschnallgurt?*
-  - *eigentlich* — softens a question you should have asked earlier: *Wie heißt du **eigentlich**?*
-  - *doch* — contradicts a negative question: *Kennen Sie keine Vollkornbrötchen? — **Doch, doch**.* · *Bist du nicht von hier? — **Doch**!*
+  - *denn* — makes a question sound natural rather than probing
+    - *Woher kommst du **denn**?* — Where are you from, then?
+    - *Wo ist **denn** mein Anschnallgurt?* — Where's my seatbelt, then?
+  - *eigentlich* — softens a question you should have asked earlier
+    - *Wie heißt du **eigentlich**?* — What's your name, by the way?
+  - *doch* — contradicts a negative question
+    - *Kennen Sie keine Vollkornbrötchen? — **Doch, doch**.* — Don't you have any wholemeal rolls? — Yes, we do.
+    - *Bist du nicht von hier? — **Doch**!* — Aren't you from here? — I am!
   - *ja* — confirms something already agreed.
 
 - **Entschuldigung vs Es tut mir leid** — not always interchangeable
-  - Interrupt or own a fault: ***Entschuldigung**! Wo ist der Geldautomat?*
-  - Apologise or sympathise: ***Es tut mir leid**, dass ich zu spät bin.*
+  - Interrupt or own a fault: ***Entschuldigung**! Wo ist der Geldautomat?* — Excuse me! Where's the cash machine?
+  - Apologise or sympathise: ***Es tut mir leid**, dass ich zu spät bin.* — I'm sorry that I'm late.
 
 - **bar oder mit Karte** — *bar* is an adjective
-  - *Bar oder mit Karte?*
-  - *Ich zahle **bar**.* · *Ich bezahle mit Kreditkarte.*
+  - *Bar oder mit Karte?* — Cash or card?
+  - *Ich zahle **bar**.* — I'll pay cash.
+  - *Ich bezahle mit Kreditkarte.* — I'll pay by credit card.
   - Trap: ~~mit bar~~
 
 - **Agreeing**
-  - *Wollen wir das Radler aufmachen? — **Gute Idee**!*
-  - *Willst du heute Salat essen? — **Gerne**!*
-  - *Dein Zimmer ist echt schön. — **Das stimmt**.*
+  - *Wollen wir das Radler aufmachen? — **Gute Idee**!* — Shall we open the Radler? — Good idea!
+  - *Willst du heute Salat essen? — **Gerne**!* — Do you want to eat salad today? — Yes please!
+  - *Dein Zimmer ist echt schön. — **Das stimmt**.* — Your room is really nice. — That's true.
 
-- **Formal e-mail** — comma after the salutation, next sentence lowercase (unless noun, name, or *Sie*); no comma after *Mit freundlichen Grüßen*
-  - *Sehr geehrte Frau Stock,*
-  - *ich kann leider nicht mehr am Unterricht teilnehmen.*
-  - *Mit freundlichen Grüßen*
+- **Formal e-mail** — comma after the salutation, next sentence lowercase (unless noun, name, or *Sie*); no comma after *Mit freundlichen Grüßen* — Kind regards
+  - *Sehr geehrte Frau Stock,* — Dear Ms Stock,
+  - *ich kann leider nicht mehr am Unterricht teilnehmen.* — Unfortunately I can no longer take part in the class.
+  - *Mit freundlichen Grüßen* — Kind regards
 
 *Deeper:*
 - [`du vs Sie`](../patterns/patterns.md#du-vs-sie)
@@ -775,5 +1062,6 @@ pointers rather than rules — the sentences themselves are in the unit files an
 Every rule in both booklets is above, and every one of the 114 pattern sections is accounted
 for — §1–§14 as rules, §15 as formulas. Beyond the booklets: full genitive articles,
 adjective endings (*des neuen Hauses*), relative clauses, *weil* with verb-final order,
-the A2.1 past perfect, and prepositions the booklets never drill
-(*seit · ohne · gegen · während*).
+the A2.1 past perfect, reflexive verbs (*sich verbessern* — it turns up inside a U7
+proverb gloss, but the *sich* system is never taught), and prepositions the booklets never
+drill (*seit · ohne · gegen · während*).

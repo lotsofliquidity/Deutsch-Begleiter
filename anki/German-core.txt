@@ -348,35 +348,36 @@ werden — ich / wir / sie/Sie? — Partizip II?	ich werde · wir werden · sie/
 treffen — du / er? — Partizip II?	du triffst · er/sie/es trifft	a1.2 unit_08 verb
 
 # ── A1.2 Unit 9 — Kleider machen Leute ──
-mit + Dativ — m / n / f / pl?	dem · dem · der · den	a1.2 unit_09 pattern
-Dativ Plural — what happens to the noun?	adds -n (mit den Kindern) — unless it already ends in -n or -s	a1.2 unit_09 pattern
-demonstrative, dative plural?	den → denen (mit denen)	a1.2 unit_09 pattern
+mit + Dativ — m / n / f / pl?	dem · dem · der · den	a1.2 unit_09 pattern dativ
+Dativ Plural — what happens to the noun?	adds -n (mit den Kindern) — unless it already ends in -n or -s	a1.2 unit_09 pattern dativ
+demonstrative, dative plural?	den → denen (mit denen)	a1.2 unit_09 pattern dativ
+Which prepositions take the dative?	mit · von · ab · zu · aus · bei · nach	a1.2 unit_09 pattern dativ
 welch- / dies- decline like?	the definite article (der/die/das)	a1.2 unit_09 pattern
 welch- / dies- — masculine accusative?	welchen / diesen	a1.2 unit_09 pattern
 “this one here” / “that one there”?	der hier / der da (der dort)	a1.2 unit_09 pattern
-gefallen — which case for the person?	dative (Das Kleid gefällt mir)	a1.2 unit_09 pattern
+gefallen — which case for the person?	dative (Das Kleid gefällt mir)	a1.2 unit_09 pattern dativ
 passen vs stehen?	passen = size · stehen = how it looks on you	a1.2 unit_09 pattern
 Only which verb means “to see”?	sehen (schauen/gucken = to look)	a1.2 unit_09 pattern
 Colour after a preposition — capitalised?	yes, as a noun: in Rot	a1.2 unit_09 pattern
-Which important verbs take the dative?	gefallen · passen · stehen · helfen · antworten · danken · gehören · gratulieren · vertrauen · schmecken	a1.2 unit_09 pattern
-Dative question word for a person?	Wem? — Wem antwortet Katie? → der Lehrerin	a1.2 unit_09 pattern
-With gefallen · gehören · passen · schmecken · stehen — where does the dative pronoun often go?	Position 1: Mir gefällt das Kleid. = Das Kleid gefällt mir. (the subject moves behind the verb)	a1.2 unit_09 pattern
-ich / du in the dative?	mir · dir	a1.2 unit_09 pattern
-mich/dich vs mir/dir — which case?	mich/dich = accusative · mir/dir = dative	a1.2 unit_09 pattern
+Which important verbs take the dative?	gefallen · passen · stehen · helfen · antworten · danken · gehören · gratulieren · vertrauen · schmecken · schenken · wünschen	a1.2 unit_09 pattern dativ
+Dative question word for a person?	Wem? — Wem antwortet Katie? → der Lehrerin	a1.2 unit_09 pattern dativ
+With gefallen · gehören · passen · schmecken · stehen — where does the dative pronoun often go?	Position 1: Mir gefällt das Kleid. = Das Kleid gefällt mir. (the subject moves behind the verb)	a1.2 unit_09 pattern dativ
+ich / du in the dative?	mir · dir	a1.2 unit_09 pattern dativ
+mich/dich vs mir/dir — which case?	mich/dich = accusative · mir/dir = dative	a1.2 unit_09 pattern dativ
 Kannst du ___ helfen? (ich)	mir	a1.2 unit_09 pattern
 tragen — du / er? — Partizip II?	du trägst · er/sie/es trägt	a1.2 unit_09 verb
 
 # ── A1.2 Unit 10 — Alles Gute! ──
 How do you show possession with a name in German?	The name goes first and takes -s: Katies Zimmer · Bobbis Tisch	a1.2 unit_10 pattern
 A name ends in -s, -z or -x — how do you write the possessive?	Nothing is added — just an apostrophe: Max' Sofa · Jonas' Freunde	a1.2 unit_10 pattern
-Besides the name -s, how else do you express possession?	von + Dativ: der Tisch von Bobbi · die Party von der Frau	a1.2 unit_10 pattern
+Besides the name -s, how else do you express possession?	von + Dativ: der Tisch von Bobbi · die Party von der Frau	a1.2 unit_10 pattern dativ
 von + dem = ?	vom	a1.2 unit_10 pattern
 What does dürfen mean — and what does nicht dürfen express?	dürfen = to be allowed to · nicht dürfen = a prohibition	a1.2 unit_10 pattern
 Where does the infinitive go with dürfen?	At the end: Wir dürfen im Garten eine Party feiern.	a1.2 unit_10 pattern
-Which case does ab take?	Dativ — ab 20 Uhr · ab diesem Herbst	a1.2 unit_10 pattern
+Which case does ab take?	Dativ — ab 20 Uhr · ab diesem Herbst	a1.2 unit_10 pattern dativ
 What question does ab answer?	Ab wann?	a1.2 unit_10 pattern
 ein Paar vs ein paar?	ein Paar = exactly two that belong together (Schuhe) · ein paar = a few, more than two (Freunde)	a1.2 unit_10 pattern
-gratulieren — which case is the person?	Dativ: Ich gratuliere dir zum Geburtstag.	a1.2 unit_10 pattern
+gratulieren — which case is the person?	Dativ: Ich gratuliere dir zum Geburtstag.	a1.2 unit_10 pattern dativ
 zu + dem = ?	zum (zum Geburtstag)	a1.2 unit_10 pattern
 Weather: es ist + ... or es + ...?	Es ist sonnig. (adjective after ist) · Es regnet. (verb with es)	a1.2 unit_10 pattern
 Degrees — singular or plural?	Plural: Wie viel Grad sind es? — Es sind 25 Grad.	a1.2 unit_10 pattern

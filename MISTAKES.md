@@ -82,6 +82,13 @@ Note what is **not** in there: the correct form.
 | 10 | 2026-10-01 | Was machst du beruflich? | A1.1 Unit 6 | The friend question took *von Beruf*, the formal one took *arbeiten*, and “what do you work as” lost the person. | 2026-10-15 | OPEN |
 | 11 | 2026-10-01 | Job ohne Artikel | A1.1 Unit 6 | Job titles took an article, and the engineer one came out as an object form. | 2026-10-15 | OPEN |
 | 12 | 2026-10-08 | Demonstrativ: der/die/das · dies- | A1.2 Unit 9 | Twice: *das Kleid* came out as *Der* hier (not *Das/Dieses*), and Dativ Plural came out as *dem* instead of *denen*. | 2026-10-22 | OPEN |
+| 13 | 2026-10-09 | Akkusativ einen und keinen | A1.1 Unit 9 | *ein* and *kein* stayed bare before a masculine object — *ein Apfel*, *kein Kaffee* — instead of the accusative form. | 2026-10-23 | OPEN |
+| 14 | 2026-10-10 | Dativ Plural: mit + den | A1.2 Unit 9 | Twice: *mit* + plural came out as *der*, then *dem* — never reached the plural dative form. | 2026-10-24 | OPEN |
+| 15 | 2026-10-10 | für / es gibt + Akkusativ | A1.2 U1/U8 | Both accusative triggers came out dative — *für* was called dative, and *es gibt* produced a dative-form article. | 2026-10-24 | OPEN |
+| 16 | 2026-10-10 | wer / wen / wem — Fragewort nach Fall | A1.2 Unit 2 | Three times the wrong question word: the object form for a subject, the thing word for a person, and *wen* where the verb takes the dative. | 2026-10-24 | OPEN |
+| 17 | 2026-10-11 | Perfekt: same-stem partners | A1.2 Unit 7 | Gave *bin* for *schlafen* and *stehen* — assumed a shared stem means the same auxiliary as *einschlafen* / *aufstehen*. | 2026-10-25 | OPEN |
+| 18 | 2026-10-11 | Akkusativ: die Endung bewegt nur maskulin | A1.1 U8/U9 · A1.2 U1 | From the A1 mixed test (10 misses in 120) it failed in **both** directions: dropped *den* in *den ganzen Tag Zeit*, then added it to a neuter noun — *deinen Zimmer* for *dein Zimmer*. The ending is being guessed, not checked against gender. Same slot as rows 2 and 13. | 2026-10-25 | OPEN |
+| 19 | 2026-10-11 | Imperativ *du* vs Präsens *du* | A1.2 Unit 3 | From the same test: produced *nimmst doch den Wein* — the present-tense *du* form — where the command *Nimm!* was needed. Third stumble on this table after rows 3 and 4, which are both still open. | 2026-10-25 | OPEN |
 | | | | | | | |
 | | | | | | | |
 | | | | | | | |
