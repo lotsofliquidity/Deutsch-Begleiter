@@ -82,7 +82,11 @@ mixed round) this overrides any instinct to be helpful and complete:
 - **Never answer your own question** and never add unprompted hints in brackets.
 - **Hints on request** (`hint`, *Tipp*, `?`): one short nudge, not the full answer;
   they still answer the same question.
-- **Never reveal the next question early.** No previews, no plan of the round.
+- **Open with a round briefing.** Before the first question, name the round: what it is, the
+  order of blocks, how long it runs, and the house rules (cold = no notes, hints on request).
+  See [`drill/SKILL.md`](.agents/skills/drill/SKILL.md).
+- **Never reveal the next question early.** No previews, no plan of the round — the briefing
+  describes the round, never an item.
 - **No teaching mid-round.** If they ask "why?", answer in one line and resume.
 - **Lenient grading:** close enough (typo, clear synonym, missing umlaut if obvious)
   counts as ✓. Soft miss → preferred form in one line, then next. Never accept a

@@ -70,8 +70,8 @@ Note what is **not** in there: the correct form.
 
 | # | Date logged | Pattern / Chunk | Booklet | Went wrong | Revisit due | Status |
 |---|---|---|---|---|---|---|
-| 1 | 2026-09-27 | Verbposition: Zeit / leider zuerst | A1.1 Unit 10 | Left the time or *leider* in the middle, or answered a different sentence. | 2026-10-11 | OPEN |
-| 2 | 2026-09-27 | Akkusativ maskulin | A1.1 Unit 9 | Masculine object came out as *dem*, then a bare *Nein* instead of the object form. | 2026-10-11 | OPEN |
+| 1 | 2026-09-27 | Verbposition: Zeit / leider zuerst | A1.1 Unit 10 | Left the time or *leider* in the middle, or answered a different sentence. **Revisit 2026-10-11: NOT clean.** *Leider …* and *Heute …* held (verb 2nd), but the *Um 19 Uhr* phrase put the subject first — *Um 7 Uhr ich …* | 2026-10-25 | RECURRED |
+| 2 | 2026-09-27 | Akkusativ maskulin | A1.1 Unit 9 | Masculine object came out as *dem*, then a bare *Nein* instead of the object form. **Revisit 2026-10-11: NOT clean.** Cold: *Ich möchte einem Weißwein*. Recovered on the next item (*für meinen Bruder*) once shown. | 2026-10-25 | RECURRED |
 | 3 | 2026-09-30 | Imperativ sein/haben (du vs ihr) | A1.2 Unit 3 | *du bist* came out as Hab; *ihr seid* came out as Sei, twice. | 2026-10-14 | OPEN |
 | 4 | 2026-09-30 | Imperativ ihr | A1.2 Unit 3 | Several people stayed singular (*Hol*, *Nimm*); the plural ending was left off. | 2026-10-14 | OPEN |
 | 5 | 2026-09-30 | mehr + Adjektiv | A1.2 Unit 3 | “More slowly” came out as *mehr langsam*, again. | 2026-10-14 | OPEN |
@@ -89,6 +89,7 @@ Note what is **not** in there: the correct form.
 | 17 | 2026-10-11 | Perfekt: same-stem partners | A1.2 Unit 7 | Gave *bin* for *schlafen* and *stehen* — assumed a shared stem means the same auxiliary as *einschlafen* / *aufstehen*. | 2026-10-25 | OPEN |
 | 18 | 2026-10-11 | Akkusativ: die Endung bewegt nur maskulin | A1.1 U8/U9 · A1.2 U1 | From the A1 mixed test (10 misses in 120) it failed in **both** directions: dropped *den* in *den ganzen Tag Zeit*, then added it to a neuter noun — *deinen Zimmer* for *dein Zimmer*. The ending is being guessed, not checked against gender. Same slot as rows 2 and 13. | 2026-10-25 | OPEN |
 | 19 | 2026-10-11 | Imperativ *du* vs Präsens *du* | A1.2 Unit 3 | From the same test: produced *nimmst doch den Wein* — the present-tense *du* form — where the command *Nimm!* was needed. Third stumble on this table after rows 3 and 4, which are both still open. | 2026-10-25 | OPEN |
+| 20 | 2026-10-11 | Partizip II: trennbare starke Verben | A1.2 U6–U7 | Twice in one round: *aufstehen* came out *aufgestehen*, then *umgestehen* — the infinitive stem *steh-* reused instead of the participle stem *stand-*. The prefix placement (*auf-* front, *ge-* inside) was right; the stem was not. Auxiliary choice for the same verbs was clean (row 17's trap pair held). | 2026-10-25 | OPEN |
 | | | | | | | |
 | | | | | | | |
 | | | | | | | |

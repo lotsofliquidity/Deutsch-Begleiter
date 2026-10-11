@@ -3,8 +3,9 @@ name: drill
 description: >-
   Runs a lenient German Q&A drill. Use when the user says /drill, "test me",
   "Frag mich", picks a pattern or unit to drill, wants a cold mixed round, or
-  asks what's due. One question at a time. Hints on request. Selective mistake
-  logging. Not for ingesting units (/ingest) or teaching paradigms (/teach).
+  asks what's due. Briefs the round first, then one question at a time. Hints on
+  request. Selective mistake logging. Not for ingesting units (/ingest) or
+  teaching paradigms (/teach).
 ---
 
 # Drill
@@ -20,7 +21,46 @@ Default round: **15 questions**.
    **Revisit due ≤ today** — or any planned drill's **Due ≤ today** — list them briefly
    and ask whether to fold one in. Then start.
 1. Pick mode if unclear.
-2. **Question 1 immediately.** No preamble, no plan of the round.
+2. **Brief the round** (see below). Every round, no exceptions.
+3. **Question 1 immediately after the briefing.**
+
+## Round briefing
+
+Everything *except* the questions. Say it **before** the first prompt, in a few lines:
+
+- **What the round is** — mode and source (*cold revisits from `MISTAKES.md` rows 1–2 ·
+  Perfekt ladder · mixed A1.2 U5*)
+- **The order of blocks** — what comes in what sequence, so a multi-block round is never a
+  surprise (*2 cold revisits → 15 Perfekt → case frames*)
+- **Length** — how many questions, or "until the block is done"
+- **The house rules that apply** — cold means no notes; hints on request; how grading works
+- **How to answer** — the output shape for this block: *one full German sentence* · *one word*
+  · *just the article* · *the auxiliary only*
+
+**Never name a question**, never answer one, never hint at the first item. The briefing
+describes the **round**, not its contents — that keeps the no-preview rule intact while the
+user still knows what they signed up for.
+
+Then question 1.
+
+## Prompt format
+
+Every prompt carries **two things**: the **cue**, and the **shape of the answer**.
+
+- **Cue** — the German or English trigger
+- **Shape** — what to hand back: *one full German sentence* · *one word* · *just the article*
+  · *the auxiliary only* · *that phrase again with the object swapped*
+
+**Never send a bare cue.** "Auf Deutsch: *Unfortunately I can't come.*" is not a prompt — it
+doesn't say whether a sentence, a phrase, or a word is wanted. State the shape on the cue
+line, before they answer. Restate it on the first prompt of each block.
+
+**When the shape is still unclear, show one solved example from a *different* pattern** —
+the format is learnt from a worked sentence, the answer never is. Pick an example whose
+structure does **not** leak the item on the table.
+
+**This user has said "I don't know what you want me to do" twice.** Assume the format has to
+be stated every single time; it is a defect in the prompt, not in their German.
 
 ## Modes
 
@@ -35,6 +75,7 @@ Default round: **15 questions**.
 
 | Their answer | You do |
 |---|---|
+| Asks what the format is | Restate the **shape** of the answer in one line + one solved example from a different pattern — then the same question again. This is not a hint and not a second try. |
 | Correct or **close enough** (typo, missing umlaut if clear, natural synonym) | `✓` + next question |
 | English on first try of a new chunk | One nudge to German; don't fail the turn if they recover |
 | Soft miss | Preferred form in **one line**, then next |
@@ -43,7 +84,9 @@ Default round: **15 questions**.
 
 No praise paragraphs. No bracket spoilers. Max two lines of feedback mid-round.
 
-**One question per message.** Never batch. Never answer your own question. Never preview the next one.
+**One question per message.** Never batch. Never answer your own question. Never preview the
+next one. The **round briefing** is the one allowed preamble — it names the round, never a
+question.
 
 ## Hints
 
