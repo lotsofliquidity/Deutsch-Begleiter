@@ -393,6 +393,42 @@ to invite — Partizip II?	eingeladen	a1.2 unit_10 verb
 to give — Partizip II?	gegeben	a1.2 unit_10 verb
 to call out / shout — Partizip II?	gerufen	a1.2 unit_10 verb
 
+# ── A2.1 Unit 1 — Haus & Nachbarn ──
+Wohin or Wo — which case for a two-way preposition?	Wohin (movement) → Akkusativ · Wo (position) → Dativ	a2.1 unit_01 pattern
+Which article changes with a two-way preposition in the accusative?	Only the masculine: der → den	a2.1 unit_01 pattern akkusativ
+Which articles change with a two-way preposition in the dative?	Every one: der → dem · die → der · das → dem · die (Pl) → den	a2.1 unit_01 pattern dativ
+The nine two-way prepositions?	an · auf · hinter · in · neben · über · unter · vor · zwischen	a2.1 unit_01 pattern
+Two-way preposition + dative plural — the noun?	Add -n unless it already ends in -n or -s: zwischen den Containern · auf den Sofas	a2.1 unit_01 pattern dativ
+an + das = ?	ans (Er stellt die Blumen ans Fenster.)	a2.1 unit_01 pattern
+in + das = ?	ins (Ich gehe ins Bett.)	a2.1 unit_01 pattern
+an + dem = ?	am (Er sitzt am Tisch.)	a2.1 unit_01 pattern
+in + dem = ?	im (Sie sind im Hof.)	a2.1 unit_01 pattern
+aufs · vorm · hinterm — standard German?	No — colloquial (Umgangssprache). Standard: ans · ins · am · im	a2.1 unit_01 pattern
+Sentence begins with a prepositional phrase — where is the verb?	Still position 2 — the subject moves behind it: Auf dem Tisch ist der Kaffee.	a2.1 unit_01 pattern
+Which case does bei take?	Dativ (bei dem Arzt → beim Arzt)	a2.1 unit_01 pattern dativ
+bei + a first name — article?	None: bei Anja · bei Klaus · bei Paul	a2.1 unit_01 pattern
+Which question does bei answer?	Wo …? — at a person's place: Sie sind bei Herrn Kraut.	a2.1 unit_01 pattern
+glauben — which case is the person?	Dativ: Ich glaube ihnen.	a2.1 unit_01 pattern dativ
+gefallen — which case is the person?	Dativ: Mir gefallen die Fotos.	a2.1 unit_01 pattern dativ
+Which case follows nett von?	Dativ: Das ist sehr nett von dir.	a2.1 unit_01 pattern dativ
+einladen + the occasion — which case?	Dativ: Ich lade dich zum Kaffee ein. (zu + dem = zum)	a2.1 unit_01 pattern dativ
+Wie geht es dir? — the answer?	Mir geht es gut.	a2.1 unit_01 pattern
+Wie geht es euch? — the answer?	Uns geht es gut.	a2.1 unit_01 pattern
+Wie geht es Ihnen? — the answer?	Mir geht es gut.	a2.1 unit_01 pattern
+werfen — ich / wir?	ich werfe · wir werfen	a2.1 unit_01 verb
+werfen — du?	wirfst	a2.1 unit_01 verb
+werfen — er / sie / es?	wirft	a2.1 unit_01 verb
+werfen — ihr?	werft	a2.1 unit_01 verb
+werfen — Imperativ du?	Wirf!	a2.1 unit_01 verb
+to throw — Partizip II?	geworfen	a2.1 unit_01 verb
+to hang (be hanging) — Partizip II?	gehangen	a2.1 unit_01 verb
+to take off (shoes) — Partizip II?	ausgezogen	a2.1 unit_01 verb
+to move house / get changed — Partizip II?	umgezogen	a2.1 unit_01 verb
+to have on / be wearing — Partizip II?	angehabt	a2.1 unit_01 verb
+anhaben — er / sie / es?	hat an	a2.1 unit_01 verb
+ausziehen — du?	ziehst aus	a2.1 unit_01 verb
+hängen — er / sie / es?	hängt	a2.1 unit_01 verb
+
 # ── Redewendungen — Idiom-Set (Kurs + Extras) ──
 Don't worry about it. (lit. don't make yourself a head)	Mach dir kein' Kopf.	a1.2 teach idioms unit_07
 
@@ -402,3 +438,41 @@ It's all Greek to me. (lit. I only understand train station)	Ich verstehe nur Ba
 I'm fed up. (lit. I have the nose full)	Ich habe die Nase voll.	teach idioms
 I don't care. (lit. that's sausage to me)	Das ist mir Wurst.	teach idioms
 to have a hangover (lit. to have a tomcat)	einen Kater haben	teach idioms
+
+# ── A2.1 Unit 2 — Kinder und Enkelkinder ──
+Which auxiliary do verbs with an accusative object take in the Perfekt?	haben — Ich habe den Bus gefahren.	a2.1 unit_02 pattern
+Stems ending in -d/-t/-m/-n — the Partizip II ending?	-et: gearbeitet · geöffnet · geatmet · gezeichnet	a2.1 unit_02 pattern
+Which prefixes never separate from the verb?	be- · emp- · ent- · er- · ge- · miss- · ver- · zer-	a2.1 unit_02 pattern
+Which prefixes always separate from the verb?	ab- · an- · auf- · aus- · bei- · ein- · fest- · her- · hin- · los- · mit- · nach- · vor- · weg- · zu- · zurück-	a2.1 unit_02 pattern
+Inseparable verb — does the Partizip II take ge-?	No: besucht · verstanden · zerbrochen · empfohlen	a2.1 unit_02 pattern
+Separable verb — where does ge- go in the Partizip II?	Inside, after the prefix: abgeholt · angerufen · eingeladen	a2.1 unit_02 pattern
+Accusative pronoun for er as the object?	ihn — Er braucht ihn.	a2.1 unit_02 pattern
+Accusative pronoun for ihr (informal plural)?	euch — Ich besuche euch bald.	a2.1 unit_02 pattern
+uns and euch — accusative or dative?	both — one form serves both cases	a2.1 unit_02 pattern
+schauen — which German-speaking regions?	southern Germany (Bavaria) and Austria	a2.1 unit_02 pattern
+gucken — register and region?	colloquial; northern Germany, spoken like kucken	a2.1 unit_02 pattern
+nämlich as a particle — does it mean “namely” here?	No — after all / you see: Putzen beruhigt sie nämlich immer.	a2.1 unit_02 pattern
+to come over / drop by — Partizip II?	vorbeigekommen	a2.1 unit_02 verb
+to plug in — Partizip II?	reingesteckt	a2.1 unit_02 verb
+to do — Partizip II?	getan	a2.1 unit_02 verb
+to cut up — Partizip II?	zerschnitten	a2.1 unit_02 verb
+to disregard — Partizip II?	missachtet	a2.1 unit_02 verb
+to view (a flat) — Partizip II?	besichtigt	a2.1 unit_02 verb
+to miss — Partizip II?	verpasst	a2.1 unit_02 verb
+to complain — Partizip II?	beschwert	a2.1 unit_02 verb
+to break off / drop out — Partizip II?	abgebrochen	a2.1 unit_02 verb
+to displease — Partizip II?	missfallen	a2.1 unit_02 verb
+to recommend — Partizip II?	empfohlen	a2.1 unit_02 verb
+to break (into pieces) — Partizip II?	zerbrochen	a2.1 unit_02 verb
+to decide — Partizip II?	entschieden	a2.1 unit_02 verb
+to experience — Partizip II?	erlebt	a2.1 unit_02 verb
+to understand — Partizip II?	verstanden	a2.1 unit_02 verb
+to pass (an exam) — Partizip II?	bestanden	a2.1 unit_02 verb
+to lose — Partizip II?	verloren	a2.1 unit_02 verb
+to please — Partizip II?	gefallen	a2.1 unit_02 verb
+to visit — Partizip II?	besucht	a2.1 unit_02 verb
+to tell — Partizip II?	erzählt	a2.1 unit_02 verb
+to apologise — Partizip II?	entschuldigt	a2.1 unit_02 verb
+to forget — Partizip II?	vergessen	a2.1 unit_02 verb
+to come back — Partizip II?	zurückgekommen	a2.1 unit_02 verb
+to draw — Partizip II?	gezeichnet	a2.1 unit_02 verb

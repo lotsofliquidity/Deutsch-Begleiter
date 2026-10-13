@@ -124,6 +124,13 @@ Taught by `/ingest`. Drilled by `/drill`. Source PDFs: `courses/`.
 | [Gratulieren und schenken](#gratulieren-und-schenken) | birthday wishes + dative person | A1.2 U10 |
 | [einladen zu + Dativ](#einladen-zu--dativ) | invite someone to something | A1.2 U10 |
 | [Was für ein X?](#was-für-ein-x) | what kind of X — and *what a X!* | A1.1 U9 → A1.2 U10 |
+| [Wechselpräpositionen mit Akkusativ](#wechselpräpositionen-mit-akkusativ) | *Wohin?* + movement → accusative | A2.1 U1 |
+| [Wechselpräpositionen mit Dativ](#wechselpräpositionen-mit-dativ) | *Wo?* + position → dative | A2.1 U1 |
+| [Wechselpräpositionen — Kurzformen](#wechselpräpositionen--kurzformen) | *ans · ins · am · im* (and colloquial *aufs · vorm*) | A2.1 U1 |
+| [bei + Dativ](#bei--dativ) | at a person's place | A2.1 U1 |
+| [Auf eine Einladung reagieren](#auf-eine-einladung-reagieren) | invite · accept · thank | A2.1 U1 |
+| [Untrennbare Verben](#untrennbare-verben) | prefix never splits · participle without *ge-* | A2.1 U2 |
+| [Partizip II ohne ge-](#partizip-ii-ohne-ge-) | *-ieren* and inseparable prefixes skip *ge-* | A2.1 U2 |
 
 Seed patterns not yet drilled from early units: [Hast du X dabei?](#hast-du-x-dabei) · [Wohin + Verb](#wohin--verb-der-bewegung)
 
@@ -196,19 +203,22 @@ Seed patterns not yet drilled from early units: [Hast du X dabei?](#hast-du-x-da
 **Instances**
 - Woher kommst du denn?
 - Wo ist denn mein Anschnallgurt?
+- Aber warum denn hier draußen?
+- Oh! Warum das denn?
 
 **Ladder**
 1. Woher kommst du?
 2. Woher kommst du denn?
 3. Wo ist denn mein Zimmer?
 4. Was ist das denn?
-5. Trap: translating *denn* as “because” inside these questions
+5. Warum das denn?
+6. Trap: translating *denn* as “because” inside these questions
 
 **Traps**
 - Question-*denn* ≠ conjunction *denn* (“because”).
 - It does not change word order the way a full clause would.
 
-**Meta:** A1.1 Unit 1 · Dialog 1 · added 2026-09-16
+**Meta:** A1.1 Unit 1 · Dialog 1 · added 2026-09-16 · extended A2.1 Unit 2 (*Warum das denn?*)
 
 ---
 
@@ -917,12 +927,12 @@ Seed patterns not yet drilled from early units: [Hast du X dabei?](#hast-du-x-da
 
 ## Trennbare Verben (Bahn)
 
-**Frame:** `Ich <stem> … <prefix>.` · Q: `<Stem> … <prefix>?`
-**Meaning:** separable prefix → end of the clause (main clause)
-**Slot:** *ein-/aus-/umsteigen* · *ab-/mit-/zurückfahren* · *ankommen*
+**Frame:** `Ich <stem> … <prefix>.` · Q: `<Stem> … <prefix>?` · Perfekt: `<haben/sein> … <prefix>ge<stem>t/en.`
+**Meaning:** separable prefix → end of the clause (main clause); in the Perfekt it stays with the participle, with *ge-* inside
+**Slot:** *ein-/aus-/umsteigen* · *ab-/mit-/zurückfahren* · *ankommen* — and any verb with *ab-, an-, auf-, aus-, bei-, ein-, fest-, her-, hin-, los-, mit-, nach-, vor-, weg-, zu-, zurück-*
 **Register:** either (train/bus talk)
 
-**Behind it:** Prefix separates from the conjugated core and sits at the end — same bracket idea as modals. Infinitive stays glued: *aussteigen*, *abfahren*.
+**Behind it:** Prefix separates from the conjugated core and sits at the end — same bracket idea as modals. Infinitive stays glued: *aussteigen*, *abfahren*. In the Perfekt the prefix carries the *ge-*: *abgeholt*, *angerufen*. These prefixes are **always** separable and are **stressed** in speech (*aufstehen*).
 
 **Instances**
 - Ich steige am Alexanderplatz ein. / … aus.
@@ -930,6 +940,15 @@ Seed patterns not yet drilled from early units: [Hast du X dabei?](#hast-du-x-da
 - Die S-Bahn fährt am Bahnsteig 2 ab.
 - Wann kommen wir an?
 - Bitte alle aussteigen!
+- Ich hole meine Enkeltochter ab. → Ich habe meine Enkeltochter abgeholt.
+- Herr Kraut ruft seine Enkel an. → Herr Kraut hat seine Enkel angerufen.
+- Sie räumen die Wohnung auf. → Sie haben die Wohnung aufgeräumt.
+- Wann fängt die Party an? → Wann hat die Party angefangen?
+- Lädst du deine Freunde ein? → Hast du deine Freunde eingeladen?
+- Macht ihr das Radio aus? → Habt ihr das Radio ausgemacht?
+- Kommst du am Abend zurück? → Bist du am Abend zurückgekommen?
+- Katie macht das Fenster zu. → Katie hat das Fenster zugemacht.
+- Ich bringe Getränke mit. → Ich habe Getränke mitgebracht.
 
 **Ladder**
 1. Ich steige ein.
@@ -937,9 +956,13 @@ Seed patterns not yet drilled from early units: [Hast du X dabei?](#hast-du-x-da
 3. Wo steigst du um?
 4. Die S-Bahn fährt ab.
 5. Wann kommen wir an?
-6. Trap: *Ich einsteige* / *Die S-Bahn abfährt* in a main clause
+6. Perfekt: Ich habe meine Enkeltochter abgeholt.
+7. Perfekt: Herr Kraut hat seine Enkel angerufen.
+8. Perfekt: Bist du am Abend zurückgekommen?
+9. Trap: *Ich einsteige* / *Die S-Bahn abfährt* in a main clause
+10. Trap: ~~geabholt~~ → *abgeholt* · ~~angeruft~~ → *angerufen* — the *ge-* goes **inside**, and the stem is the participle stem
 
-**Meta:** A1.1 Unit 7 · Dialog 3 · added 2026-09-22
+**Meta:** A1.1 Unit 7 · Dialog 3 · added 2026-09-22 · extended A2.1 Unit 2 (always-separable prefix list, *ge-* in the participle)
 
 ---
 
@@ -1246,7 +1269,7 @@ The noun is the trigger, not the verb — even mass nouns that take no article i
 
 **Frame:** `<time / leider> <verb> <subject> …`
 **Meaning:** the verb stays in position 2 when time or *leider* is first
-**Slot:** *heute* · *am Nachmittag* · *um 19 Uhr* · *leider*
+**Slot:** *heute* · *am Nachmittag* · *um 19 Uhr* · *leider* · a prepositional phrase (*auf dem Tisch · an der Wand*)
 **Register:** either
 
 **Behind it:** Same sentence, three starts: *Ich habe heute leider keine Zeit.* · *Heute habe ich leider keine Zeit.* · *Leider habe ich heute keine Zeit.*
@@ -1258,6 +1281,8 @@ The noun is the trigger, not the verb — even mass nouns that take no article i
 - Um 19 Uhr ist die Besichtigung.
 - Um 10 Uhr fährt die S-Bahn ab.
 - Übermorgen sind wir in Hamburg.
+- Auf dem Tisch ist der Kaffee.
+- An der Wand sind viele Fotos.
 
 **Ladder**
 1. Ich habe heute keine Zeit.
@@ -1266,9 +1291,11 @@ The noun is the trigger, not the verb — even mass nouns that take no article i
 4. Um 19 Uhr ist die Besichtigung.
 5. Am Morgen fährst du mit der S-Bahn.
 6. Übermorgen sind wir in Hamburg.
-7. Trap: *Heute ich habe keine Zeit*
+7. Auf dem Tisch ist der Kaffee.
+8. An der Wand sind viele Fotos.
+9. Trap: *Heute ich habe keine Zeit*
 
-**Meta:** A1.1 Unit 10 · Dialog 3 · added 2026-09-26
+**Meta:** A1.1 Unit 10 · Dialog 3 · added 2026-09-26 · extended A2.1 Unit 1 (prepositional phrase first)
 
 ---
 
@@ -1857,6 +1884,7 @@ The noun is the trigger, not the verb — even mass nouns that take no article i
 - Dein Zimmer ist echt schön. — Das stimmt.
 - Wollen wir die Küche putzen? — Ja, sicher.
 - Das Wohnzimmer ist wirklich dunkel. — Du hast recht.
+- Ich bin der beste Opa der Welt. — Das glaube ich!
 
 **Ladder**
 1. Gute Idee!
@@ -1865,9 +1893,10 @@ The noun is the trigger, not the verb — even mass nouns that take no article i
 4. Das stimmt.
 5. Du hast recht.
 6. Ja, genau!
-7. Trap: *Ja, gerne* only for offers — still works for *Willst du Salat?*
+7. Das glaube ich!
+8. Trap: *Ja, gerne* only for offers — still works for *Willst du Salat?*
 
-**Meta:** A1.2 Unit 4 · Dialog 1 · added 2026-10-02
+**Meta:** A1.2 Unit 4 · Dialog 1 · added 2026-10-02 · extended A2.1 Unit 2 (*Das glaube ich!*)
 
 ---
 
@@ -2216,8 +2245,8 @@ The noun is the trigger, not the verb — even mass nouns that take no article i
 
 ## sollen
 
-**Frame:** `Ich soll + infinitive`
-**Meaning:** “I’m supposed to / should” as a repeated instruction
+**Frame:** `Ich soll + infinitive` · reproach: `Du sollst doch + infinitive`
+**Meaning:** “I’m supposed to / should” as a repeated instruction — and “you were supposed to” as a reproach
 **Slot:** subject + *sollen* + infinitive at the end, with separables kept whole
 **Register:** neutral
 
@@ -2225,6 +2254,7 @@ The noun is the trigger, not the verb — even mass nouns that take no article i
 - Ich soll meine Daten eintragen.
 - Was soll ich machen?
 - Sie sollen heute pünktlich sein.
+- Du sollst doch bügeln.
 
 **Ladder**
 1. Was soll ich machen?
@@ -2232,8 +2262,10 @@ The noun is the trigger, not the verb — even mass nouns that take no article i
 3. Ich soll die Daten eintragen.
 4. Du sollst oft Deutsch sprechen.
 5. Wir sollen das Buch kaufen.
+6. Du sollst doch bügeln.
+7. Trap: *Du sollst doch bügeln* — infinitive stays at the end, the verb is never *bügelst*
 
-**Meta:** A1.2 Unit 5 · Dialog 3 · added 2026-10-03
+**Meta:** A1.2 Unit 5 · Dialog 3 · added 2026-10-03 · extended A2.1 Unit 2 (reproach *Du sollst doch …*)
 
 ---
 
@@ -2300,7 +2332,7 @@ The noun is the trigger, not the verb — even mass nouns that take no article i
 **Slot:** stem with or without an inserted *e*
 **Register:** neutral
 
-**Behind it:** regular verbs often form the participle with *ge-* and an ending; stems in *-d/-t/-m/-n* take `-et`. Verbs ending in *-ieren* omit *ge-* and take *-t*.
+**Behind it:** regular verbs often form the participle with *ge-* and an ending; stems in *-d/-t/-m/-n* take `-et` (*arbeiten, öffnen, warten, mieten, antworten, atmen, zeichnen*). Verbs ending in *-ieren* omit *ge-* and take *-t*. See [`Partizip II ohne ge-`](#partizip-ii-ohne-ge-) for the second group that drops it.
 
 **Instances**
 - machen → gemacht
@@ -2309,17 +2341,24 @@ The noun is the trigger, not the verb — even mass nouns that take no article i
 - kaufen → gekauft
 - studieren → studiert
 - telefonieren → telefoniert
+- buchstabieren → buchstabiert
+- funktionieren → funktioniert
+- zeichnen → gezeichnet
+- mieten → gemietet · atmen → geatmet · antworten → geantwortet
+- Perfekt: Ich habe das Wort buchstabiert. · Das Radio hat nicht funktioniert.
 
 **Ladder**
 1. machen → gemacht
 2. arbeiten → gearbeitet
 3. warten → gewartet
-4. kaufen → gekauft
-5. studieren → studiert (no *ge* with *-ieren*)
-6. durchtrainieren → durchtrainiert
-7. Trap: *ge + stem + t* vs *ge + stem + et* vs no *ge* with *-ieren*
+4. zeichnen → gezeichnet
+5. kaufen → gekauft
+6. studieren → studiert (no *ge* with *-ieren*)
+7. buchstabieren → buchstabiert · funktionieren → funktioniert
+8. durchtrainieren → durchtrainiert
+9. Trap: ~~ge + stem + t~~ vs ~~ge + stem + et~~ vs no *ge* with *-ieren*
 
-**Meta:** A1.2 Unit 6 · Dialog 1 · added 2026-10-05
+**Meta:** A1.2 Unit 6 · Dialog 1 · added 2026-10-05 · extended A2.1 Unit 2 (*-ieren*, *-et* stems)
 
 ---
 
@@ -2782,12 +2821,12 @@ Well-attested everyday idioms, kept here as a starter set. Nothing else in this 
 
 ## mich / dich
 
-**Frame:** *ich → mich* · *du → dich*
-**Meaning:** accusative personal pronouns — me, you
-**Slot:** the person the verb acts on
+**Frame:** *ich → mich* · *du → dich* · *er → ihn* · *sie → sie* · *es → es* · *wir → uns* · *ihr → euch* · *sie → sie* · *Sie → Sie*
+**Meaning:** accusative personal pronouns — me, you, him, her, it, us, them
+**Slot:** the person or thing the verb acts on (*Wen oder Was?*)
 **Register:** neutral
 
-**Behind it:** Many verbs need the accusative, and the pronoun changes: *Möchtest du **mich** malen?* · *Ich warne **dich**.* Nominative → accusative for these two: *ich → mich*, *du → dich*.
+**Behind it:** The accusative question is *Wen oder Was?*, and a noun there can be replaced by a pronoun — *Herr Kraut liebt seinen Sohn. → Herr Kraut liebt **ihn**.* Most forms differ from the nominative (*ich → mich*, *er → ihn*), but *sie · es · sie* and *Sie* stay the same. Two pairs are dative-identical: *uns · euch*.
 
 **Instances**
 - Möchtest du mich malen?
@@ -2796,16 +2835,32 @@ Well-attested everyday idioms, kept here as a starter set. Nothing else in this 
 - Ich liebe dich.
 - Kannst du mich vom Flughafen abholen? → Natürlich hole ich dich ab.
 - Ich möchte dich morgen besuchen. · Ich rufe dich später an.
+- Fragst du mich?
+- Er hat dich gesehen.
+- Isst du den Kuchen? — Ja, ich esse ihn.
+- Ich höre die Musik. — Hörst du sie auch?
+- Hast du das Foto gemacht? — Ja, ich habe es gemacht.
+- Hey Leute, habt ihr uns gestern angerufen?
+- Mama und Papa, ich besuche euch bald.
+- Herr Kraut, lieben Sie Ihre Kinder? — Natürlich liebe ich sie.
+- Tut mir leid, Herr Kraut. Ich habe Sie nicht gesehen.
+- Der Nachbar braucht den Schlüssel. → Er braucht ihn.
+- Die Frau kauft die Bücher. → Sie kauft sie.
+- Das Kind isst die Schokolade. → Es isst sie.
+- Die Mutter holt das Kind ab. → Sie holt es ab.
 
 **Ladder**
 1. Siehst du mich?
-2. Ich male dich.
-3. Liebst du mich?
-4. Kannst du mich abholen?
-5. Ich rufe dich später an.
-6. Trap: *~~Siehst du ich?~~* · *~~Ich liebe du.~~*
+2. Ich liebe dich.
+3. Fragst du mich?
+4. Isst du den Kuchen? — Ja, ich esse ihn.
+5. Trinken Sie den Kaffee? — Nein, ich trinke ihn nicht.
+6. Das Kind isst die Schokolade. → Es isst sie.
+7. Ich habe Sie nicht gesehen.
+8. Trap: ~~Siehst du ich?~~ → *Siehst du mich?* · ~~Ich liebe du.~~ → *Ich liebe dich.*
+9. Trap: *uns* and *euch* are one form for both accusative and dative — *uns/mich* is not a distinction to make
 
-**Meta:** A1.2 Unit 8 · Dialog 2 · added 2026-10-07
+**Meta:** A1.2 Unit 8 · Dialog 2 · added 2026-10-07 · extended A2.1 Unit 2 (whole accusative set, noun → pronoun)
 
 ---
 
@@ -3037,7 +3092,7 @@ Well-attested everyday idioms, kept here as a starter set. Nothing else in this 
 **Slot:** the person the dative verb acts on
 **Register:** neutral
 
-**Behind it:** Same shape as *mich / dich* (accusative), but dative. Verbs that take a dative person: *gefallen · passen · stehen · helfen · antworten · danken · gehören · gratulieren · vertrauen · schmecken*. The question for that person is ***Wem?*** — *Wem antwortet Katie? → Katie antwortet der Lehrerin.* (*schmecken* was already met in U3: [Das schmeckt mir](#das-schmeckt-mir).)
+**Behind it:** Same shape as *mich / dich* (accusative), but dative. Verbs that take a dative person: *gefallen · passen · stehen · helfen · antworten · danken · gehören · gratulieren · vertrauen · schmecken · glauben*. The question for that person is ***Wem?*** — *Wem antwortet Katie? → Katie antwortet der Lehrerin.* (*schmecken* was already met in U3: [Das schmeckt mir](#das-schmeckt-mir).) The same pronouns also follow *bei*: *bei mir · bei dir · bei Ihnen* — see [bei + Dativ](#bei--dativ).
 
 **Instances**
 - Die Hose passt mir nicht.
@@ -3048,6 +3103,11 @@ Well-attested everyday idioms, kept here as a starter set. Nothing else in this 
 - Ich gratuliere dir zum Geburtstag.
 - Schmecken dir die Kekse? — Ja, die Kekse schmecken mir.
 - Gefällt dir die Wohnung? — Ja, die Wohnung gefällt mir sehr gut.
+- Antwortest du der Frau? — Ja, ich antworte ihr.
+- Glaubst du Max und Maria? — Ja, ich glaube ihnen.
+- Das ist Pauls Auto. Das Auto gehört ihm.
+- Wie geht es dir? — Mir geht es gut. · Wie geht es euch? — Uns geht es gut. · Wie geht es Ihnen? — Mir geht es gut.
+- Sie wohnt nicht mehr bei mir. · Es war sehr nett bei Ihnen.
 
 **Ladder**
 1. Die Hose passt mir nicht.
@@ -3056,9 +3116,13 @@ Well-attested everyday idioms, kept here as a starter set. Nothing else in this 
 4. Ich helfe dir.
 5. Ich gratuliere dir zum Geburtstag.
 6. Schmecken dir die Kekse? → Ja, sie schmecken mir.
-7. Trap: *~~Das steht mich gut.~~* — *stehen* takes the dative
+7. Antwortest du der Frau? → Ja, ich antworte ihr.
+8. Das Auto gehört ihm.
+9. Wie geht es dir? → Mir geht es gut.
+10. Es war sehr nett bei Ihnen.
+11. Trap: *~~Das steht mich gut.~~* — *stehen* takes the dative
 
-**Meta:** A1.2 Unit 9 · Dialog 3 · added 2026-10-08
+**Meta:** A1.2 Unit 9 · Dialog 3 · added 2026-10-08 · extended A2.1 Unit 1 (*bei* + pronoun, *Wie geht es dir/euch/Ihnen?*)
 
 ---
 
@@ -3067,17 +3131,21 @@ Well-attested everyday idioms, kept here as a starter set. Nothing else in this 
 **Frame:** `sehen` / `schauen` / `gucken`
 **Meaning:** three near-synonyms for looking — but only one for seeing
 **Slot:** a thing you look at — except *sehen* when it means perceiving
-**Register:** *schauen* — southern Germany/Austria · *gucken* — colloquial, northern Germany
+**Register:** *schauen* — southern Germany/Austria · *gucken* — colloquial, northern Germany (pronounced like *kucken*)
 
 **Behind it:** All three work for “have a look” (*Sieh mal! = Schau mal! = Guck mal!*) and “watch” (*einen Film sehen/schauen/gucken*). But only **sehen** works for *perceiving with the eyes*: *Ich sehe dich.* · *Ich kann nichts sehen.* — “to look” doesn't fit there.
 
 **Instances**
 - Schau mal, Gogo.
 - Sieh mal! = Schau mal! = Guck mal!
+- Sehen Sie mal! = Schauen Sie mal! = Gucken Sie mal!
 - Wir sehen/schauen/gucken einen Film.
 - Ich sehe/schaue/gucke in den Spiegel.
+- Ich schaue aus dem Fenster.
+- Guck mal! Herr Kraut kommt.
 - Ich sehe dich. · Er sieht das Gebäude. · Ich kann nichts sehen.
 - Ich freue mich, dich zu sehen.
+- Wrong → right: ~~Guckst du den Fernsehturm?~~ → *Siehst du den Fernsehturm?* · ~~Ich habe Sie nicht geschaut.~~ → *Ich habe Sie nicht gesehen.*
 
 **Ladder**
 1. Guck mal!
@@ -3085,9 +3153,11 @@ Well-attested everyday idioms, kept here as a starter set. Nothing else in this 
 3. Wir gucken einen Film.
 4. Ich schaue in den Spiegel.
 5. Ich sehe dich.
-6. Trap: *Ich habe Sie nicht ~~geschaut~~* — *sehen*, not *schauen*
+6. Siehst du den Fernsehturm?
+7. Trap: *Ich habe Sie nicht ~~geschaut~~* — *sehen*, not *schauen*
+8. Trap: *gucken* is fine between friends, but a booklet-style formal address uses *Schauen/Sehen Sie mal!*
 
-**Meta:** A1.2 Unit 9 · Dialog 2 · added 2026-10-08
+**Meta:** A1.2 Unit 9 · Dialog 2 · added 2026-10-08 · extended A2.1 Unit 2 (regional register, only *sehen* for perceiving)
 
 ---
 
@@ -3319,6 +3389,9 @@ Well-attested everyday idioms, kept here as a starter set. Nothing else in this 
 - Ich lade ihn zur Party ein.
 - Katie hat viele Gäste (zu der Party) eingeladen.
 - Katie, wen hast du denn alles eingeladen?
+- Ich lade dich/euch/Sie zum Kaffee ein.
+- Darf ich Sie zum Kaffee einladen?
+- Ich möchte dich/euch/Sie einladen.
 
 **Ladder**
 1. Ich lade dich ein.
@@ -3366,6 +3439,254 @@ Well-attested everyday idioms, kept here as a starter set. Nothing else in this 
 11. Trap: *~~Was für ein Pullover kaufst du~~* — masculine object → *einen*
 
 **Meta:** A1.1 U9 → A1.2 U10 · gathered 2026-10-09 — first met in the restaurant unit (*Was für Bier haben Sie?*) and recycled in four more, but never given a section of its own. Retro-filled so the construction has one home.
+
+---
+
+## Wechselpräpositionen mit Akkusativ
+
+**Frame:** `Wohin?` → `<verb> + <Wechselpräposition> + <Akkusativ>.`
+**Meaning:** two-way prepositions with movement towards a goal — where **to**
+**Slot:** the nine prepositions *an · auf · hinter · in · neben · über · unter · vor · zwischen* + the target
+**Register:** neutral
+
+**Behind it:** The nine two-way prepositions change their case with the verb. A verb of **direction** (movement towards something) takes the **accusative**; the question is ***Wohin …?*** Only the **masculine** article changes: *der → den*. *die · das · die (Pl)* stay as in the nominative. Standard contractions: *an + das = ans* · *in + das = ins*.
+
+**Instances**
+- Wohin kommen die leeren Flaschen? → Wirf sie dort in den Müllcontainer.
+- Er wirft den Ball an den Container.
+- Er wirft den Ball auf den Container.
+- Er wirft den Ball vor den Container.
+- Er wirft den Ball hinter den Container.
+- Er wirft den Ball über den Container.
+- Er wirft den Ball unter den Container.
+- Er wirft den Ball in den Container.
+- Er wirft den Ball zwischen die Container.
+- Er wirft den Ball neben den Container.
+
+**Ladder**
+1. Er wirft den Ball in den Container. (der → den)
+2. Er wirft den Ball in die Mülltonne. (die — no change)
+3. Er wirft den Ball auf das Dach. (das — no change)
+4. Er wirft den Ball zwischen die Container. (Pl — no change)
+5. Er geht in den Keller.
+6. Ich bringe den Müll vor die Tür.
+7. Trap: *~~Er wirft den Ball in dem Container~~* — movement → accusative, not dative
+8. Trap: *~~in die Mülltonne~~* is right, but *~~in der Mülltonne~~* answers *Wo?* instead
+
+**Meta:** A2.1 Unit 1 · Dialog 1 · added 2026-10-12
+
+---
+
+## Wechselpräpositionen mit Dativ
+
+**Frame:** `Wo?` → `<verb> + <Wechselpräposition> + <Dativ>.`
+**Meaning:** two-way prepositions with a position — where
+**Slot:** the same nine prepositions + the place it sits in
+**Register:** neutral
+
+**Behind it:** When the verb shows a **position** — nothing moves — the same nine prepositions take the **dative**; the question is ***Wo …?*** Now **every** article changes: *der → dem · die → der · das → dem · die (Pl) → den*. Plural nouns also add **-n** unless they already end in *-n* or *-s*: *zwischen den Containern* · *auf den Stühlen* · *unter den Tischen* · but *auf den Sofas*.
+
+**Instances**
+- Wo ist der Kaffee? → Der Kaffee ist auf dem Tisch.
+- Der Ball ist an dem Container.
+- Der Ball ist auf dem Container.
+- Der Ball ist vor dem Container.
+- Der Ball ist hinter dem Container.
+- Der Ball ist über dem Container.
+- Der Ball ist unter dem Container.
+- Der Ball ist in dem Container.
+- Der Ball ist zwischen den Containern.
+- Der Ball ist neben dem Container.
+- Die Lampe ist zwischen dem Schrank und dem Fenster.
+- Die Maus ist zwischen den Mülltonnen.
+
+**Ladder**
+1. Der Kaffee ist auf dem Tisch. (der → dem)
+2. Die Blumen sind auf dem Tisch.
+3. Die Flaschen sind in der Mülltonne. (die → der)
+4. Er ist in dem Keller.
+5. Die Bilder sind an der Wand.
+6. Das Buch ist unter dem Bett. (das → dem)
+7. Die Maus ist zwischen den Mülltonnen. (Pl → den + -n)
+8. Die Kinder sitzen auf den Stühlen. (add -n)
+9. Die Hunde schlafen neben den Sofas. (ends in -s — no change)
+10. Trap: *~~zwischen den Mülltonne~~* · *~~auf den Stühle~~* — the plural noun needs -n
+11. Trap: *~~auf dem Dach~~* for *Wohin?* — position is *Wo?*, direction is *Wohin?*
+
+**Meta:** A2.1 Unit 1 · Dialog 2 · added 2026-10-12
+
+---
+
+## Wechselpräpositionen — Kurzformen
+
+**Frame:** preposition + article → one word
+**Meaning:** *ans · ins · am · im* (standard) and colloquial *aufs · hinters · nebens · übers · unters · vors · vorm · hinterm · unterm · überm*
+**Slot:** *an / in / hinter / neben / über / unter / vor* + definite article
+**Register:** *ans / ins / am / im* work in standard German — the rest are spoken
+
+**Behind it:** Some prepositions merge with the article. **Standard language** does this with four forms only: *an + das = ans* · *in + das = ins* · *an + dem = am* · *in + dem = im*. Everything else — *aufs · hinters · nebens · übers · unters · vors · hinterm · unterm · überm · vorm* — belongs to **Umgangssprache**. Mouth shape, not grammar: they mean exactly the same.
+
+**Instances**
+- Er stellt die Blumen ans Fenster. (an + das)
+- Ich gehe ins Bett. (in + das)
+- Er sitzt am Tisch. (an + dem)
+- Sie sind im Hof. (in + dem)
+- Herr Kraut wohnt im dritten Stock. · Wir wohnen im Erdgeschoss.
+- colloquial: hinterm Haus · unterm Tisch · überm Tisch · vorm Tisch
+
+**Ladder**
+1. ans Fenster (an + das)
+2. ins Bett (in + das)
+3. am Tisch (an + dem)
+4. im Hof (in + dem)
+5. im dritten Stock
+6. Ich gehe ins Bett.
+7. Er stellt die Blumen ans Fenster.
+8. vorm Tisch — colloquial (vor + dem)
+9. Trap: *~~Ich gehe in das Bett~~* sounds stilted — standard German prefers *ins*
+
+**Meta:** A2.1 Unit 1 · Dialog 1–2 · added 2026-10-12
+
+---
+
+## bei + Dativ
+
+**Frame:** `bei + Dativ` · `Wo? → bei dem / bei der / bei den …`
+**Meaning:** at / with a person — at someone's place
+**Slot:** person (*bei Herrn Kraut*) or dative noun (*bei der Ärztin*) or pronoun (*bei mir*)
+**Register:** neutral — *bei dem* usually contracts to **beim**
+
+**Behind it:** *bei* is used when you are **at a person's place**; the question is *Wo …?*. The person takes the **dative**. With a **name** there is no article at all: *bei Anja · bei Klaus*. With a noun, the article is dative: *bei dem Arzt → beim Arzt · bei der Kosmetikerin · bei den Eltern*. With a pronoun, the dative personal pronoun: *bei mir · bei Ihnen*.
+
+**Instances**
+- Wo sind Katie und Bobbi? → Sie sind bei Herrn Kraut.
+- Ich bin bei Anja. · Brigitte ist bei Klaus.
+- Sie sind bei dem Arzt. (= beim Arzt) · Ich bin bei der Kosmetikerin. · Er ist bei dem Mädchen.
+- Wir wohnen bei den Eltern.
+- Er kauft ein Brötchen bei dem Bäcker. · Wir warten bei der Ärztin.
+- Bleibt ihr heute bei Paul? · Herr Kraut, wohnen Sie bei Frau Stock?
+- Sie wohnt nicht mehr bei mir. · Es war sehr nett bei Ihnen.
+
+**Ladder**
+1. Ich bin bei Anja. (name — no article)
+2. Brigitte ist bei Klaus.
+3. Bleibt ihr heute bei Paul?
+4. Sie sind bei dem Arzt. → beim Arzt
+5. Ich bin bei der Kosmetikerin.
+6. Wir wohnen bei den Eltern.
+7. Sie wohnt nicht mehr bei mir.
+8. Es war sehr nett bei Ihnen.
+9. Trap: *~~bei Anja~~* is right, *~~bei der Anja~~* is not for a first name
+10. Trap: *~~bei dem Arzt~~* → written German prefers *beim Arzt*
+
+**Meta:** A2.1 Unit 1 · Dialog 3 · added 2026-10-12
+
+---
+
+## Auf eine Einladung reagieren
+
+**Frame:** `Ich lade dich zu X ein.` → `Ja, gern.` / `Danke für die Einladung!`
+**Meaning:** invite someone — accept — thank
+**Slot:** the person (*dich / euch / Sie*) and the occasion (*zum Kaffee · zum Essen*)
+**Register:** *dich/euch* informal · *Sie* formal
+
+**Behind it:** No rule to state — this is a formula box. *einladen* is separable (*Ich lade dich zum Kaffee **ein***) and takes the accusative person. Thanking uses *für* + accusative (*Danke für die Einladung*) or *nett von* + dative (*nett von dir / von Ihnen*).
+
+**Instances**
+- Wollen Sie beide einen Kaffee? · Möchten Sie einen Kaffee?
+- Ich lade dich/euch/Sie zum Kaffee ein.
+- Darf ich Sie zum Kaffee einladen?
+- Ja, gern. · Wir kommen gern zum Kaffee.
+- Vielen Dank/Danke für die Einladung!
+- Vielen Dank/Danke, das ist sehr nett von dir/Ihnen.
+- Vielen Dank für den Kaffee! Es war sehr nett bei dir/Ihnen.
+- Wir danken Ihnen für den Kaffee.
+
+**Ladder**
+1. Ich lade dich zum Kaffee ein.
+2. Darf ich Sie zum Kaffee einladen?
+3. Ja, gern.
+4. Wir kommen gern zum Kaffee.
+5. Danke für die Einladung!
+6. Das ist sehr nett von dir.
+7. Es war sehr nett bei Ihnen.
+8. Trap: *~~Ich lade dich zum Kaffee~~* — separable verb, the *ein* goes to the end
+9. Trap: *~~nett für dich~~* — *nett* uses *von* + dative
+
+**Meta:** A2.1 Unit 1 · Dialog 3 · added 2026-10-12
+
+---
+
+## Untrennbare Verben
+
+**Frame:** `Präfix + Verb` — never splits, participle **without** *ge-*
+**Meaning:** the prefix belongs to the verb and stays there in every tense
+**Slot:** the prefixes *be- · emp- · ent- · er- · ge- · miss- · ver- · zer-* + a verb
+**Register:** neutral — the **stem** is the stressed part (*ver**ste**hen*)
+
+**Behind it:** The mirror image of a separable verb. Nothing separates — *Er versteht die Sprache nicht.*, never ~~Er steht die Sprache ver~~. In the Perfekt the participle takes **no** *ge-*: *besucht*, *verstanden*. The stress sits on the stem, not the prefix, which is exactly how you can hear the difference: *aufstehen* (prefix stressed) vs *verstehen* (stem stressed).
+
+**Instances**
+- Herr Kraut besucht seine Tochter in Kanada.
+- Der Kellner empfiehlt den Schweinebraten.
+- Ich entschuldige mich für die Verspätung.
+- Die Oma erzählt eine Geschichte.
+- Die Party gefällt ihm. · Diese Leute missfallen mir.
+- Er versteht die Sprache nicht.
+- Du zerbrichst das Glas.
+- Was bedeutet dieses Wort? · Er missachtet das Stoppschild. · Du entscheidest dich. · Paul vergisst die Hausaufgaben. · Ihr zerschneidet das Papier. · Der Stift gehört mir.
+- Perfekt: besucht · empfohlen · entschuldigt · erzählt · gefallen · missfallen · verstanden · zerbrochen
+
+**Ladder**
+1. Er versteht die Sprache nicht.
+2. Die Oma erzählt eine Geschichte.
+3. Ich entschuldige mich für die Verspätung.
+4. Was bedeutet dieses Wort?
+5. Du zerbrichst das Glas.
+6. Perfekt: Die Oma hat eine Geschichte erzählt.
+7. Perfekt: Er hat die Sprache nicht verstanden.
+8. Perfekt: Ich habe mich für die Verspätung entschuldigt.
+9. Trap: ~~gebesucht~~ · ~~geverstanden~~ — an inseparable prefix takes no *ge-*
+10. Trap: ~~brichst das Glas zer~~ — an inseparable prefix never leaves the verb
+
+**Meta:** A2.1 Unit 2 · Dialog 2 · added 2026-10-13
+
+---
+
+## Partizip II ohne ge-
+
+**Frame:** the participle has **no** *ge-*: `-ieren` verbs, and verbs with an inseparable prefix
+**Meaning:** two whole groups skip *ge-* — not exceptions, a rule
+**Slot:** `-ieren`: *telefonieren · studieren · funktionieren · fotografieren · passieren* — inseparable: *besuchen · erzählen · verstehen · verlieren · bestehen · verpassen*
+**Register:** neutral
+
+**Behind it:** *ge-* is what marks a normal German participle, so the groups that never take it are the ones to name out loud before you say the form. Everything else with a prefix keeps it, but **inside**: *abgeholt*, *angerufen*.
+
+**Instances**
+- fotografieren → fotografiert · passieren → passiert
+- studieren → studiert · funktionieren → funktioniert · buchstabieren → buchstabiert
+- besuchen → besucht · erzählen → erzählt · verstehen → verstanden
+- verlieren → verloren · bestehen → bestanden · verpassen → verpasst
+- entschuldigen → entschuldigt · erleben → erlebt · beschweren → beschwert
+- Perfekt: Er hat die Vögel fotografiert.
+- Perfekt: Was ist gestern passiert?
+- Perfekt: Das Radio hat nicht funktioniert.
+- Perfekt: Die Oma hat eine Geschichte erzählt.
+- Perfekt: Er hat die Sprache nicht verstanden.
+- Perfekt: Habt ihr die Prüfung bestanden?
+
+**Ladder**
+1. Er hat die Vögel fotografiert.
+2. Was ist gestern passiert?
+3. Das Radio hat nicht funktioniert.
+4. Die Oma hat eine Geschichte erzählt.
+5. Er hat die Sprache nicht verstanden.
+6. Habt ihr die Prüfung bestanden?
+7. Wir haben den Bus verpasst.
+8. Trap: ~~gefunktioniert~~ → *funktioniert* · ~~gebesucht~~ → *besucht* · ~~geverstanden~~ → *verstanden*
+9. Trap: *ge-* is not “wrong everywhere” — *Ich habe Getränke **mitgebracht**.* keeps it, inside
+
+**Meta:** A2.1 Unit 2 · Dialog 2 · added 2026-10-13
 
 ---
 
@@ -3481,6 +3802,11 @@ Well-attested everyday idioms, kept here as a starter set. Nothing else in this 
 | *was für ein* agreement | Was für ein Auto? (n) | ~~Was für eine Auto~~ | *ein* agrees with the noun: *ein/eine/einen* |
 | *was für* + plural | Was für Autos sind das? | ~~Was für eine Autos~~ | no article with plurals or mass nouns |
 | *was für* split order | Was ist das für ein Auto? | = Was für ein Auto ist das? | same question, both orders fine |
+| untrennbar + *ge-* | besucht | ~~gebesucht~~ | an inseparable prefix never takes *ge-* |
+| *ge-* placement, separable | abgeholt | ~~geabholt~~ | the *ge-* goes **inside**: prefix + *ge* + stem |
+| *-ieren* participle | funktioniert | ~~gefunktioniert~~ | *-ieren* verbs take no *ge-* |
+| accusative *er* | Er braucht ihn. | ~~Er braucht er.~~ | *er → ihn* when it is the object |
+| *wir / ihr* pronouns | uns · euch | same as dative | one form serves both cases |
 
 ---
 

@@ -48,15 +48,15 @@ Mixed drill, 15 questions, cold.
 
 ## Status
 
-Both booklets are **complete**: A1.1 units 1–10 and A1.2 units 1–10.
+A1.1 and A1.2 are **complete** (units 1–10 each); A2.1 has started — units 1–2 of 10.
 
 | | |
 |---|---|
-| Units ingested | 20 |
-| Patterns in the library | 114 |
+| Units ingested | 22 |
+| Patterns in the library | 121 |
 | Rules in `grammatik.md` | every one of them, in 15 sections |
-| Glossary cards | ~1650 (`German.txt`) |
-| Cards in the deck | ~356 (`German-core.txt`) |
+| Glossary cards | ~1912 (`German.txt`) |
+| Cards in the deck | ~427 (`German-core.txt`) |
 
 ---
 
@@ -66,6 +66,7 @@ Both booklets are **complete**: A1.1 units 1–10 and A1.2 units 1–10.
 courses/                      # source PDFs + MAP.md per level
   a1.1/                       # A1-1 booklet + LÖSUNGEN + MAP.md
   a1.2/                       # A1-2 booklet + LÖSUNGEN + MAP.md
+  a2.1/                       # A2-1 booklet + LÖSUNGEN + MAP.md
 course/                       # processed notes
   grammatik.md                # EVERY rule, one page — start here
   check_grammatik.py          # proves every pattern is reachable from grammatik.md
@@ -73,6 +74,7 @@ course/                       # processed notes
   a1.1/                       # notes.md + unit-01…unit-10
   a1.2/                       # notes.md + unit-01…unit-10
                               #   + partizip-ii.md, vergangenheit.md (consolidated refs)
+  a2.1/                       # notes.md + unit-01…
 patterns/patterns.md          # cross-unit frames + ladders + traps — the real curriculum
 anki/German.txt               # glossary — EVERY card (chunk/noun/pattern/verb/teach)
 anki/German-core.txt          # deck — pattern/verb/teach only (generated from German.txt)
@@ -89,7 +91,7 @@ Three layers, each with one job:
 |---|---|---|
 | **Index** | `course/grammatik.md` | find the rule — one line + booklet examples + unit |
 | **Library** | `patterns/patterns.md` | the full pattern: frame, instances, ladder, traps |
-| **Spine** | `course/a1.1/notes.md` · `course/a1.2/notes.md` | raw tables (articles, pronouns, conjugations) |
+| **Spine** | `course/a1.1/notes.md` · `course/a1.2/notes.md` · `course/a2.1/notes.md` | raw tables (articles, pronouns, conjugations) |
 
 `/ingest` writes to all three, + cards. `check_grammatik.py` fails if a pattern never reaches
 the index — so “it's carded but explained nowhere” can't happen quietly.
@@ -102,8 +104,8 @@ Two files, two decks, on purpose:
 
 | File | `#deck:` | Anki deck | Role |
 |---|---|---|---|
-| `anki/German-core.txt` | `German-core` | **German-core** | the SRS deck — 356 cards to review |
-| `anki/German.txt` | `German` | **German** | the glossary — all ~1650, parked |
+| `anki/German-core.txt` | `German-core` | **German-core** | the SRS deck — 391 cards to review |
+| `anki/German.txt` | `German` | **German** | the glossary — all ~1780, parked |
 
 - Import **`German-core.txt`** for normal study. It is the only deck you review.
 - Import **`German.txt`** only if you want to filter on the parked cards. They sit inert.
@@ -136,5 +138,6 @@ Run them after any change to `patterns/`, `course/`, or `anki/`.
 ---
 
 See [`course/README.md`](course/README.md) for course-mode detail, and
-[`courses/a1.1/MAP.md`](courses/a1.1/MAP.md) / [`courses/a1.2/MAP.md`](courses/a1.2/MAP.md)
+[`courses/a1.1/MAP.md`](courses/a1.1/MAP.md) / [`courses/a1.2/MAP.md`](courses/a1.2/MAP.md) /
+[`courses/a2.1/MAP.md`](courses/a2.1/MAP.md)
 for what each unit covers.

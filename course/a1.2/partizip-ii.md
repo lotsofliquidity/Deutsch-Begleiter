@@ -1,10 +1,10 @@
 # Partizip II — complete list
 
 Every past participle the booklets teach, A1.2 Units 6–10 (the Perfekt is introduced in U6;
-A1.1 has none). Grouped by **how the form is built**, because that's the part you decide —
-not the part you look up.
+A1.1 has none) plus anything new met in A2.1. Grouped by **how the form is built**, because
+that's the part you decide — not the part you look up.
 
-Source: `courses/a1.2/` booklet + LÖSUNGEN. Nothing here is invented; the English glosses
+Source: `courses/` booklets + LÖSUNGEN. Nothing here is invented; the English glosses
 match the Anki cards.
 
 ---
@@ -17,6 +17,7 @@ match the Anki cards.
 | Regular, stem ends **-d/-t/-m/-n** | `ge + Stamm + et` | needs the extra *e* to be sayable |
 | **-ieren** | `Stamm + t` | **no** *ge-* |
 | Separable | `Präfix + ge + Stamm (+t/en)` | *ge* goes **inside** |
+| **Inseparable** | `Stamm (+t/en)` | **no** *ge-* at all |
 
 ## Regular — `ge + Stamm + t`
 
@@ -43,6 +44,9 @@ match the Anki cards.
 | weinen | geweint | to cry |
 | spielen | gespielt | to play |
 | packen | gepackt | to pack |
+| bügeln | gebügelt | to iron |
+| plaudern | geplaudert | to chat |
+| schimpfen | geschimpft | to scold |
 
 ## Regular — `ge + Stamm + et`
 
@@ -53,6 +57,8 @@ match the Anki cards.
 | warten | gewartet | to wait |
 | mieten | gemietet | to rent |
 | antworten | geantwortet | to answer |
+| atmen | geatmet | to breathe |
+| zeichnen | gezeichnet | to draw |
 
 ## `-ieren` — no *ge-*
 
@@ -68,6 +74,29 @@ match the Anki cards.
 | diskutieren | diskutiert | to discuss |
 | durchtrainieren | durchtrainiert | to work out (non-stop) |
 
+## Inseparable — no *ge-* (`be- emp- ent- er- ge- miss- ver- zer-`)
+
+| Infinitive | Partizip II | English |
+|---|---|---|
+| besuchen | besucht | to visit |
+| erzählen | erzählt | to tell |
+| entschuldigen | entschuldigt | to apologise |
+| erleben | erlebt | to experience |
+| beschweren | beschwert | to complain |
+| verpassen | verpasst | to miss |
+| missachten | missachtet | to disregard |
+| besichtigen | besichtigt | to view (a flat) |
+| verstehen | verstanden | to understand |
+| verlieren | verloren | to lose |
+| bestehen | bestanden | to pass (an exam) |
+| vergessen | vergessen | to forget |
+| empfehlen | empfohlen | to recommend |
+| zerbrechen | zerbrochen | to break (into pieces) |
+| zerschneiden | zerschnitten | to cut up |
+| entscheiden | entschieden | to decide |
+| gefallen | gefallen | to please |
+| missfallen | missfallen | to displease |
+
 ## Separable, regular — `Präfix + ge + Stamm + t`
 
 | Infinitive | Partizip II | English |
@@ -81,6 +110,7 @@ match the Anki cards.
 | ausmachen | ausgemacht | to turn off |
 | aufräumen | aufgeräumt | to tidy up |
 | anlächeln | angelächelt | to smile at |
+| reinstecken | reingesteckt | to plug in |
 
 ## Irregular — `ge…en` (stem often changes)
 
@@ -98,6 +128,7 @@ match the Anki cards.
 | nehmen | genommen | to take |
 | schlafen | geschlafen | to sleep |
 | waschen | gewaschen | to wash |
+| tun | getan | to do |
 | fangen | gefangen | to catch |
 | finden | gefunden | to find |
 | sitzen | gesessen | to sit |
@@ -113,6 +144,8 @@ match the Anki cards.
 | sterben | gestorben | to die |
 | bleiben | geblieben | to stay |
 | stehen | gestanden | to stand |
+| werfen | geworfen | to throw |
+| hängen | gehangen | to hang (be hanging) |
 
 ## Irregular — `ge…t` (stem changes)
 
@@ -123,6 +156,7 @@ match the Anki cards.
 | kennen | gekannt | to know (a person) |
 | bringen | gebracht | to bring |
 | brennen | gebrannt | to burn |
+| anhaben | angehabt | to have on (be wearing) |
 
 These look regular but aren't — the stem changes, so they're learned individually.
 
@@ -147,6 +181,10 @@ These look regular but aren't — the stem changes, so they're learned individua
 | einschlafen | eingeschlafen | to fall asleep |
 | aufwachen | aufgewacht | to wake up |
 | schwarzfahren | schwarzgefahren | to fare-dodge |
+| umziehen | umgezogen | to move house / to change (clothes) |
+| vorbeikommen | vorbeigekommen | to come over, drop by |
+| zurückkommen | zurückgekommen | to come back |
+| abbrechen | abgebrochen | to break off, drop out |
 
 ## No *ge-*, or otherwise special
 
@@ -168,6 +206,7 @@ These look regular but aren't — the stem changes, so they're learned individua
 The form isn't the hard part — you have these cards. The three decisions that trip people:
 
 1. **Which group?** *-ieren* → no *ge-*. Stem in *-d/-t/-m/-n* → *-et*. Separable → *ge* inside.
+   Inseparable (*be- emp- ent- er- ge- miss- ver- zer-*) → no *ge-* at all.
 2. **Which auxiliary?** movement / change of state / *passieren, bleiben, werden* → **sein**; everything else → **haben**. See [Perfekt mit "sein"](notes.md).
 3. **Where do the parts go?** auxiliary in position 2, participle at the end.
 

@@ -1670,6 +1670,135 @@ to invite — Partizip II?	eingeladen	a1.2 unit_10 verb
 to give — Partizip II?	gegeben	a1.2 unit_10 verb
 to call out / shout — Partizip II?	gerufen	a1.2 unit_10 verb
 
+# ── A2.1 Unit 1 — Haus & Nachbarn ──
+I am still tired.	Ich bin noch müde.	a2.1 unit_01 chunk
+Where does the garbage go here?	Wohin kommt der Müll hier?	a2.1 unit_01 chunk
+Throw it in the container there.	Wirf ihn in den Container da.	a2.1 unit_01 chunk
+Then put it next to it, next to the container.	Dann stell ihn daneben, neben den Container.	a2.1 unit_01 chunk
+Oh, there's still room here.	Ach, hier ist doch noch Platz.	a2.1 unit_01 chunk
+In Germany we separate the garbage.	In Deutschland trennen wir den Müll.	a2.1 unit_01 chunk
+Take it out again.	Hol es wieder raus.	a2.1 unit_01 chunk
+Just leave it. (formal — don't move it)	Lassen Sie ihn einfach liegen.	a2.1 unit_01 chunk
+Would you two like a coffee? (formal)	Wollen Sie beide einen Kaffee?	a2.1 unit_01 chunk
+Up there on the third floor.	Da oben im dritten Stock.	a2.1 unit_01 chunk
+Just come up. (formal)	Kommen Sie einfach hoch.	a2.1 unit_01 chunk
+We'll be right there.	Wir kommen gleich.	a2.1 unit_01 chunk
+I'll just change quickly. (informal)	Ich zieh' mich noch schnell um.	a2.1 unit_01 chunk
+I just hope that Mr Kraut is wearing pants this time.	Ich hoffe nur, dass Herr Kraut diesmal eine Hose anhat.	a2.1 unit_01 chunk
+Should we take off our shoes here in the hallway?	Sollen wir die Schuhe hier im Flur ausziehen?	a2.1 unit_01 chunk
+My girlfriend likes to clean.	Meine Freundin putzt gerne.	a2.1 unit_01 chunk
+Have a seat. (formal)	Nehmen Sie Platz.	a2.1 unit_01 chunk
+Coffee is on the table.	Kaffee steht auf dem Tisch.	a2.1 unit_01 chunk
+Do you want sugar? (formal)	Möchten Sie Zucker?	a2.1 unit_01 chunk
+Unfortunately, we're out of milk.	Milch ist leider aus.	a2.1 unit_01 chunk
+I'm on a diet right now.	Ich mache gerade eine Diät.	a2.1 unit_01 chunk
+There are a lot of sausage pictures hanging on the wall here.	Hier hängen viele Wurst-Bilder an der Wand.	a2.1 unit_01 chunk
+My darling, look.	Meine Süße, guck mal.	a2.1 unit_01 chunk
+What a surprise!	Was für eine Überraschung!	a2.1 unit_01 chunk
+What a pleasure to see you again. (formal)	Was für eine Freude, Sie wiederzusehen.	a2.1 unit_01 chunk
+Do you (plural) know each other?	Ihr kennt euch?	a2.1 unit_01 chunk
+You were supposedly in prison. (formal)	Sie waren ja angeblich im Gefängnis.	a2.1 unit_01 chunk
+Unfortunately, she no longer lives with me.	Sie wohnt leider nicht mehr bei mir.	a2.1 unit_01 chunk
+You wanted me to move out!	Du wolltest doch, dass ich ausziehe!	a2.1 unit_01 chunk
+Always this back and forth with you!	Immer dieses Hin und Her mit dir!	a2.1 unit_01 chunk
+You never know what you want!	Nie weißt du, was du willst!	a2.1 unit_01 chunk
+We have to keep cleaning up.	Wir müssen weiter aufräumen.	a2.1 unit_01 chunk
+It was very nice at your place. (formal)	Es war sehr nett bei Ihnen.	a2.1 unit_01 chunk
+I'm inviting you over for coffee. (informal singular)	Ich lade dich zum Kaffee ein.	a2.1 unit_01 chunk
+I'm inviting you all over for coffee. (informal plural)	Ich lade euch zum Kaffee ein.	a2.1 unit_01 chunk
+May I invite you over for coffee? (formal)	Darf ich Sie zum Kaffee einladen?	a2.1 unit_01 chunk
+Yes, with pleasure.	Ja, gern.	a2.1 unit_01 chunk
+We'd love to come by for coffee.	Wir kommen gern zum Kaffee.	a2.1 unit_01 chunk
+Thank you for the invitation!	Danke für die Einladung!	a2.1 unit_01 chunk
+That's very nice of you. (informal singular)	Das ist sehr nett von dir.	a2.1 unit_01 chunk
+Thank you for the coffee! It was very nice at your place. (formal)	Vielen Dank für den Kaffee! Es war sehr nett bei Ihnen.	a2.1 unit_01 chunk
+We thank you for the coffee. (formal)	Wir danken Ihnen für den Kaffee.	a2.1 unit_01 chunk
+They're at Mr Kraut's place.	Sie sind bei Herrn Kraut.	a2.1 unit_01 chunk
+I'm at Anja's place.	Ich bin bei Anja.	a2.1 unit_01 chunk
+I'm at the doctor's.	Ich bin beim Arzt.	a2.1 unit_01 chunk
+I'm at the beautician's.	Ich bin bei der Kosmetikerin.	a2.1 unit_01 chunk
+We live with the parents.	Wir wohnen bei den Eltern.	a2.1 unit_01 chunk
+I'm buying a roll at the baker's.	Ich kaufe ein Brötchen beim Bäcker.	a2.1 unit_01 chunk
+I like the photos.	Mir gefallen die Fotos.	a2.1 unit_01 chunk
+Do you like the coffee?	Schmeckt dir der Kaffee?	a2.1 unit_01 chunk
+The car belongs to him.	Das Auto gehört ihm.	a2.1 unit_01 chunk
+I'm answering her.	Ich antworte ihr.	a2.1 unit_01 chunk
+I'm helping him.	Ich helfe ihm.	a2.1 unit_01 chunk
+I believe them.	Ich glaube ihnen.	a2.1 unit_01 chunk
+Congratulations on your birthday. (formal)	Ich gratuliere Ihnen zum Geburtstag.	a2.1 unit_01 chunk
+How are you? — I'm fine. (informal singular)	Wie geht es dir? — Mir geht es gut.	a2.1 unit_01 chunk
+How are you? — We're fine. (informal plural)	Wie geht es euch? — Uns geht es gut.	a2.1 unit_01 chunk
+How are you? — I'm fine. (formal)	Wie geht es Ihnen? — Mir geht es gut.	a2.1 unit_01 chunk
+house	das Haus · die Häuser	a2.1 unit_01 noun
+roof	das Dach · die Dächer	a2.1 unit_01 noun
+chimney	der Schornstein · die Schornsteine	a2.1 unit_01 noun
+window	das Fenster · die Fenster	a2.1 unit_01 noun
+wall	die Wand · die Wände	a2.1 unit_01 noun
+door	die Tür · die Türen	a2.1 unit_01 noun
+front door	die Haustür · die Haustüren	a2.1 unit_01 noun
+mailbox	der Briefkasten · die Briefkästen	a2.1 unit_01 noun
+courtyard	der Hof · die Höfe	a2.1 unit_01 noun
+stairs	die Treppe · die Treppen	a2.1 unit_01 noun
+garage	die Garage · die Garagen	a2.1 unit_01 noun
+dumpster	der Müllcontainer · die Müllcontainer	a2.1 unit_01 noun
+garbage bin	die Mülltonne · die Mülltonnen	a2.1 unit_01 noun
+pillow / cushion	das Kissen · die Kissen	a2.1 unit_01 noun
+plant	die Pflanze · die Pflanzen	a2.1 unit_01 noun
+flower	die Blume · die Blumen	a2.1 unit_01 noun
+book	das Buch · die Bücher	a2.1 unit_01 noun
+newspaper	die Zeitung · die Zeitungen	a2.1 unit_01 noun
+floor / storey	das Stockwerk · die Stockwerke	a2.1 unit_01 noun
+floor / storey (synonym)	die Etage · die Etagen	a2.1 unit_01 noun
+attic / top floor	das Dachgeschoss · die Dachgeschosse	a2.1 unit_01 noun
+ground floor	das Erdgeschoss · die Erdgeschosse	a2.1 unit_01 noun
+resident	der Hausbewohner · die Hausbewohner	a2.1 unit_01 noun
+tenant (pays the rent)	der Mieter · die Mieter	a2.1 unit_01 noun
+landlord (gets the rent)	der Vermieter · die Vermieter	a2.1 unit_01 noun
+janitor	der Hausmeister · die Hausmeister	a2.1 unit_01 noun
+pet	das Haustier · die Haustiere	a2.1 unit_01 noun
+dog	der Hund · die Hunde	a2.1 unit_01 noun
+cat	die Katze · die Katzen	a2.1 unit_01 noun
+parrot	der Papagei · die Papageien	a2.1 unit_01 noun
+fish	der Fisch · die Fische	a2.1 unit_01 noun
+hamster	der Hamster · die Hamster	a2.1 unit_01 noun
+rabbit	das Kaninchen · die Kaninchen	a2.1 unit_01 noun
+guinea pig	das Meerschweinchen · die Meerschweinchen	a2.1 unit_01 noun
+mouse	die Maus · die Mäuse	a2.1 unit_01 noun
+Wohin or Wo — which case for a two-way preposition?	Wohin (movement) → Akkusativ · Wo (position) → Dativ	a2.1 unit_01 pattern
+Which article changes with a two-way preposition in the accusative?	Only the masculine: der → den	a2.1 unit_01 pattern akkusativ
+Which articles change with a two-way preposition in the dative?	Every one: der → dem · die → der · das → dem · die (Pl) → den	a2.1 unit_01 pattern dativ
+The nine two-way prepositions?	an · auf · hinter · in · neben · über · unter · vor · zwischen	a2.1 unit_01 pattern
+Two-way preposition + dative plural — the noun?	Add -n unless it already ends in -n or -s: zwischen den Containern · auf den Sofas	a2.1 unit_01 pattern dativ
+an + das = ?	ans (Er stellt die Blumen ans Fenster.)	a2.1 unit_01 pattern
+in + das = ?	ins (Ich gehe ins Bett.)	a2.1 unit_01 pattern
+an + dem = ?	am (Er sitzt am Tisch.)	a2.1 unit_01 pattern
+in + dem = ?	im (Sie sind im Hof.)	a2.1 unit_01 pattern
+aufs · vorm · hinterm — standard German?	No — colloquial (Umgangssprache). Standard: ans · ins · am · im	a2.1 unit_01 pattern
+Sentence begins with a prepositional phrase — where is the verb?	Still position 2 — the subject moves behind it: Auf dem Tisch ist der Kaffee.	a2.1 unit_01 pattern
+Which case does bei take?	Dativ (bei dem Arzt → beim Arzt)	a2.1 unit_01 pattern dativ
+bei + a first name — article?	None: bei Anja · bei Klaus · bei Paul	a2.1 unit_01 pattern
+Which question does bei answer?	Wo …? — at a person's place: Sie sind bei Herrn Kraut.	a2.1 unit_01 pattern
+glauben — which case is the person?	Dativ: Ich glaube ihnen.	a2.1 unit_01 pattern dativ
+gefallen — which case is the person?	Dativ: Mir gefallen die Fotos.	a2.1 unit_01 pattern dativ
+Which case follows nett von?	Dativ: Das ist sehr nett von dir.	a2.1 unit_01 pattern dativ
+einladen + the occasion — which case?	Dativ: Ich lade dich zum Kaffee ein. (zu + dem = zum)	a2.1 unit_01 pattern dativ
+Wie geht es dir? — the answer?	Mir geht es gut.	a2.1 unit_01 pattern
+Wie geht es euch? — the answer?	Uns geht es gut.	a2.1 unit_01 pattern
+Wie geht es Ihnen? — the answer?	Mir geht es gut.	a2.1 unit_01 pattern
+werfen — ich / wir?	ich werfe · wir werfen	a2.1 unit_01 verb
+werfen — du?	wirfst	a2.1 unit_01 verb
+werfen — er / sie / es?	wirft	a2.1 unit_01 verb
+werfen — ihr?	werft	a2.1 unit_01 verb
+werfen — Imperativ du?	Wirf!	a2.1 unit_01 verb
+to throw — Partizip II?	geworfen	a2.1 unit_01 verb
+to hang (be hanging) — Partizip II?	gehangen	a2.1 unit_01 verb
+to take off (shoes) — Partizip II?	ausgezogen	a2.1 unit_01 verb
+to move house / get changed — Partizip II?	umgezogen	a2.1 unit_01 verb
+to have on / be wearing — Partizip II?	angehabt	a2.1 unit_01 verb
+anhaben — er / sie / es?	hat an	a2.1 unit_01 verb
+ausziehen — du?	ziehst aus	a2.1 unit_01 verb
+hängen — er / sie / es?	hängt	a2.1 unit_01 verb
+
 # ── Redewendungen — Idiom-Set (Kurs + Extras) ──
 An idiom for horror — “I don’t believe it!” (lit. my pig is whistling)	Ich glaub', mein Schwein pfeift.	a1.1 idioms unit_01
 You’re crazy! (lit. you don’t have all the cups in the cupboard)	Du hast nicht alle Tassen im Schrank.	a1.2 idioms unit_06
@@ -1693,3 +1822,136 @@ I'm fed up. (lit. I have the nose full)	Ich habe die Nase voll.	teach idioms
 I don't care. (lit. that's sausage to me)	Das ist mir Wurst.	teach idioms
 to have a hangover (lit. to have a tomcat)	einen Kater haben	teach idioms
 Better late than never.	Besser spät als nie.	idioms extra
+
+# ── A2.1 Unit 2 — Kinder und Enkelkinder ──
+Well, I'm ironing.	Na, ich bügle.	a2.1 unit_02 chunk
+But why out here?	Aber warum denn hier draußen?	a2.1 unit_02 chunk
+to be in the way	im Weg stehen	a2.1 unit_02 chunk
+After all, cleaning always calms her down.	Putzen beruhigt sie nämlich immer.	a2.1 unit_02 chunk
+She's welcome to come over to our place.	Da kann sie gern mal bei uns vorbeikommen.	a2.1 unit_02 chunk
+No, no, don't.	Nein, nein, bloß nicht.	a2.1 unit_02 chunk
+I was just kidding.	Ich habe nur einen Spaß gemacht.	a2.1 unit_02 chunk
+to make a joke / kid around	einen Spaß machen	a2.1 unit_02 chunk
+You (formal) forgot to plug it in.	Sie haben vergessen, den Stecker reinzustecken.	a2.1 unit_02 chunk
+Don't tell X. (formal)	Sagen Sie nichts X.	a2.1 unit_02 chunk
+I'm just pretending to iron.	Ich tue doch nur so, als ob ich bügle.	a2.1 unit_02 chunk
+Will you finish soon? (informal)	Bist du bald mal fertig?	a2.1 unit_02 chunk
+Oh yes. I am the best grandpa in the world.	Oh ja. Ich bin der beste Opa der Welt.	a2.1 unit_02 chunk
+I believe that!	Das glaube ich!	a2.1 unit_02 chunk
+Wait. (formal)	Warten Sie.	a2.1 unit_02 chunk
+They have been living in Canada for four years.	Sie wohnen seit vier Jahren in Kanada.	a2.1 unit_02 chunk
+That's really far away.	Das ist aber weit weg.	a2.1 unit_02 chunk
+I've only visited them once so far.	Ich habe sie bislang auch nur einmal besucht.	a2.1 unit_02 chunk
+just today my grandchildren called me	gerade heute haben mich meine Enkel angerufen	a2.1 unit_02 chunk
+by video call	per Videotelefonie	a2.1 unit_02 chunk
+And how old are your grandchildren? (formal)	Und wie alt sind Ihre Enkelkinder?	a2.1 unit_02 chunk
+They are all in elementary school.	Die sind alle in der Grundschule.	a2.1 unit_02 chunk
+At least I think so.	Glaube ich zumindest.	a2.1 unit_02 chunk
+Have a look! (formal)	Schauen Sie mal!	a2.1 unit_02 chunk
+Nice! Cute photo!	Schön! Süßes Foto!	a2.1 unit_02 chunk
+Do you (formal) call them often?	Telefonieren Sie denn oft?	a2.1 unit_02 chunk
+Why is there so much dirt here again?	Warum ist denn hier schon wieder so viel Dreck?	a2.1 unit_02 chunk
+This modern technology!	Diese moderne Technik!	a2.1 unit_02 chunk
+Oh! Why is that?	Oh! Warum das denn?	a2.1 unit_02 chunk
+He is now 40.	Er ist mittlerweile 40.	a2.1 unit_02 chunk
+He is still studying.	Er studiert immer noch.	a2.1 unit_02 chunk
+And he constantly asks me for money.	Und fragt mich ständig nach Geld.	a2.1 unit_02 chunk
+I don't know what will become of him.	Ich weiß gar nicht, was aus dem mal werden soll.	a2.1 unit_02 chunk
+He was great in school.	Er war super in der Schule.	a2.1 unit_02 chunk
+He only got A's on his report card.	Er hatte nur Einsen auf dem Zeugnis.	a2.1 unit_02 chunk
+and graduated with a great GPA	und hat ein super Abitur gemacht	a2.1 unit_02 chunk
+And then what happened?	Und was ist dann passiert?	a2.1 unit_02 chunk
+But maybe it's the right thing for him.	Aber vielleicht ist es das Richtige für ihn.	a2.1 unit_02 chunk
+Now he's studying German.	Jetzt studiert er Germanistik.	a2.1 unit_02 chunk
+Such a breadless art!	So eine brotlose Kunst!	a2.1 unit_02 chunk
+Oh, don't be like that. (formal)	Och, seien Sie doch nicht so.	a2.1 unit_02 chunk
+It was nice chatting with you. (formal)	Es war nett, mit Ihnen zu plaudern.	a2.1 unit_02 chunk
+You're supposed to be ironing.	Du sollst doch bügeln.	a2.1 unit_02 chunk
+I'll be done in a minute.	Ich bin gleich fertig.	a2.1 unit_02 chunk
+What are you (plural) doing here?	Was macht ihr denn hier?	a2.1 unit_02 chunk
+meanwhile / by now	mittlerweile	a2.1 unit_02 chunk
+so far	bislang	a2.1 unit_02 chunk
+at least	zumindest	a2.1 unit_02 chunk
+constantly	ständig	a2.1 unit_02 chunk
+Which auxiliary do verbs with an accusative object take in the Perfekt?	haben — Ich habe den Bus gefahren.	a2.1 unit_02 pattern
+Stems ending in -d/-t/-m/-n — the Partizip II ending?	-et: gearbeitet · geöffnet · geatmet · gezeichnet	a2.1 unit_02 pattern
+Which prefixes never separate from the verb?	be- · emp- · ent- · er- · ge- · miss- · ver- · zer-	a2.1 unit_02 pattern
+Which prefixes always separate from the verb?	ab- · an- · auf- · aus- · bei- · ein- · fest- · her- · hin- · los- · mit- · nach- · vor- · weg- · zu- · zurück-	a2.1 unit_02 pattern
+Inseparable verb — does the Partizip II take ge-?	No: besucht · verstanden · zerbrochen · empfohlen	a2.1 unit_02 pattern
+Separable verb — where does ge- go in the Partizip II?	Inside, after the prefix: abgeholt · angerufen · eingeladen	a2.1 unit_02 pattern
+Accusative pronoun for er as the object?	ihn — Er braucht ihn.	a2.1 unit_02 pattern
+Accusative pronoun for ihr (informal plural)?	euch — Ich besuche euch bald.	a2.1 unit_02 pattern
+uns and euch — accusative or dative?	both — one form serves both cases	a2.1 unit_02 pattern
+schauen — which German-speaking regions?	southern Germany (Bavaria) and Austria	a2.1 unit_02 pattern
+gucken — register and region?	colloquial; northern Germany, spoken like kucken	a2.1 unit_02 pattern
+nämlich as a particle — does it mean “namely” here?	No — after all / you see: Putzen beruhigt sie nämlich immer.	a2.1 unit_02 pattern
+grandmother	die Großmutter · die Großmütter	a2.1 unit_02 noun
+dad (informal)	der Papa · die Papas	a2.1 unit_02 noun
+mom (informal)	die Mama · die Mamas	a2.1 unit_02 noun
+siblings (only plural)	die Geschwister	a2.1 unit_02 noun
+only child	das Einzelkind · die Einzelkinder	a2.1 unit_02 noun
+grandchild	das Enkelkind · die Enkelkinder	a2.1 unit_02 noun
+grandson (full form)	der Enkelsohn · die Enkelsöhne	a2.1 unit_02 noun
+granddaughter (full form)	die Enkeltochter · die Enkeltöchter	a2.1 unit_02 noun
+parents-in-law (only plural)	die Schwiegereltern	a2.1 unit_02 noun
+father-in-law	der Schwiegervater · die Schwiegerväter	a2.1 unit_02 noun
+mother-in-law	die Schwiegermutter · die Schwiegermütter	a2.1 unit_02 noun
+son-in-law	der Schwiegersohn · die Schwiegersöhne	a2.1 unit_02 noun
+daughter-in-law	die Schwiegertochter · die Schwiegertöchter	a2.1 unit_02 noun
+life partner (male)	der Lebenspartner · die Lebenspartner	a2.1 unit_02 noun
+life partner (female)	die Lebenspartnerin	a2.1 unit_02 noun
+life companion (male)	der Lebensgefährte · die Lebensgefährten	a2.1 unit_02 noun
+life companion (female)	die Lebensgefährtin	a2.1 unit_02 noun
+relationship	die Beziehung · die Beziehungen	a2.1 unit_02 noun
+marriage	die Ehe · die Ehen	a2.1 unit_02 noun
+divorce	die Scheidung · die Scheidungen	a2.1 unit_02 noun
+relationship (to someone)	das Verhältnis · die Verhältnisse	a2.1 unit_02 noun
+ex-husband	der Exmann · die Exmänner	a2.1 unit_02 noun
+ex-wife	die Exfrau · die Exfrauen	a2.1 unit_02 noun
+alimony / child support	der Unterhalt · no plural	a2.1 unit_02 noun
+day care centre	die Krippe · die Krippen	a2.1 unit_02 noun
+kindergarten	der Kindergarten · die Kindergärten	a2.1 unit_02 noun
+kindergarten / nursery school (long form)	die Kindertagesstätte · die Kindertagesstätten	a2.1 unit_02 noun
+school	die Schule · die Schulen	a2.1 unit_02 noun
+elementary school	die Grundschule	a2.1 unit_02 noun
+Hauptschule (secondary school)	die Hauptschule	a2.1 unit_02 noun
+Realschule (secondary school)	die Realschule	a2.1 unit_02 noun
+comprehensive school	die Gesamtschule	a2.1 unit_02 noun
+high school (leading to the Abitur)	das Gymnasium · die Gymnasien	a2.1 unit_02 noun
+grade / school year (the class)	die Klasse · die Klassen	a2.1 unit_02 noun
+grade (mark)	die Note · die Noten	a2.1 unit_02 noun
+grade (mark, official word)	die Zensur · die Zensuren	a2.1 unit_02 noun
+report card	das Zeugnis · die Zeugnisse	a2.1 unit_02 noun
+high school diploma	das Abitur · die Abiture	a2.1 unit_02 noun
+high school diploma (short form)	das Abi · die Abis	a2.1 unit_02 noun
+institution of higher education	die Hochschule	a2.1 unit_02 noun
+university	die Universität · die Universitäten	a2.1 unit_02 noun
+university of applied sciences	die Fachhochschule	a2.1 unit_02 noun
+subject (of study)	das Studienfach · die Studienfächer	a2.1 unit_02 noun
+semester	das Semester · die Semester	a2.1 unit_02 noun
+degree course / studies	das Studium	a2.1 unit_02 noun
+apprenticeship	die Lehre · die Lehren	a2.1 unit_02 noun
+to come over / drop by — Partizip II?	vorbeigekommen	a2.1 unit_02 verb
+to plug in — Partizip II?	reingesteckt	a2.1 unit_02 verb
+to do — Partizip II?	getan	a2.1 unit_02 verb
+to cut up — Partizip II?	zerschnitten	a2.1 unit_02 verb
+to disregard — Partizip II?	missachtet	a2.1 unit_02 verb
+to view (a flat) — Partizip II?	besichtigt	a2.1 unit_02 verb
+to miss — Partizip II?	verpasst	a2.1 unit_02 verb
+to complain — Partizip II?	beschwert	a2.1 unit_02 verb
+to break off / drop out — Partizip II?	abgebrochen	a2.1 unit_02 verb
+to displease — Partizip II?	missfallen	a2.1 unit_02 verb
+to recommend — Partizip II?	empfohlen	a2.1 unit_02 verb
+to break (into pieces) — Partizip II?	zerbrochen	a2.1 unit_02 verb
+to decide — Partizip II?	entschieden	a2.1 unit_02 verb
+to experience — Partizip II?	erlebt	a2.1 unit_02 verb
+to understand — Partizip II?	verstanden	a2.1 unit_02 verb
+to pass (an exam) — Partizip II?	bestanden	a2.1 unit_02 verb
+to lose — Partizip II?	verloren	a2.1 unit_02 verb
+to please — Partizip II?	gefallen	a2.1 unit_02 verb
+to visit — Partizip II?	besucht	a2.1 unit_02 verb
+to tell — Partizip II?	erzählt	a2.1 unit_02 verb
+to apologise — Partizip II?	entschuldigt	a2.1 unit_02 verb
+to forget — Partizip II?	vergessen	a2.1 unit_02 verb
+to come back — Partizip II?	zurückgekommen	a2.1 unit_02 verb
+to draw — Partizip II?	gezeichnet	a2.1 unit_02 verb

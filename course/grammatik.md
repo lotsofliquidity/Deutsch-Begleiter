@@ -1,12 +1,13 @@
 # Grammatik — every rule so far
 
-**Scope:** A1.1 U1–U10 · A1.2 U1–U10 (both booklets complete).
-Derived from [`patterns/patterns.md`](../patterns/patterns.md) + `a1.1/notes.md` + `a1.2/notes.md`.
+**Scope:** A1.1 U1–U10 · A1.2 U1–U10 · A2.1 U1–U2 (both A1 booklets complete).
+Derived from [`patterns/patterns.md`](../patterns/patterns.md) + `a1.1/notes.md` + `a1.2/notes.md` + `a2.1/notes.md`.
 
 > This is the **map**, not the manual. Every rule gets a short statement, its booklet examples,
 > and the unit it came from. Nothing here is invented — all German is copied from the course.
-> Ladders and traps live in [patterns.md](../patterns/patterns.md). Two systems have their own
-> page: [vergangenheit.md](a1.2/vergangenheit.md) and [partizip-ii.md](a1.2/partizip-ii.md).
+> The few rules that go *beyond* the booklets are marked *(general German)*; their examples are
+> course nouns too. Ladders and traps live in [patterns.md](../patterns/patterns.md). Two systems
+> have their own page: [vergangenheit.md](a1.2/vergangenheit.md) and [partizip-ii.md](a1.2/partizip-ii.md).
 
 ---
 
@@ -132,8 +133,8 @@ doing. The question word asks for the role; the middle column says what it means
 | Fall | Frage | Das ist … | Ausgelöst von | Was sich ändert |
 |---|---|---|---|---|
 | **Nominativ** | *Wer?* / *Was?* | the doer, or the one being described — the **subject** | the subject; the noun after *sein* / *werden* | base form |
-| **Akkusativ** | *Wen?* / *Was?* | the one something is done to — the **direct object** | the direct object · *für* · *es gibt* · most verbs | **masculine only** |
-| **Dativ** | *Wem?* | the one who gets or benefits — the **indirect object** | *mit · von · ab · zu · aus · bei · nach* · the dative verbs below | **every** article |
+| **Akkusativ** | *Wen?* / *Was?* | the one something is done to — the **direct object** | the direct object · *für* · *es gibt* · Wechselpräposition + *Wohin?* · most verbs | **masculine only** |
+| **Dativ** | *Wem?* | the one who gets or benefits — the **indirect object** | *mit · von · ab · zu · aus · bei · nach* · Wechselpräposition + *Wo?* · the dative verbs below | **every** article |
 | **Genitiv** | *Wessen?* | the owner — **possession** | possession — names (*-s*) or *von* + dative | the name takes *-s* |
 
 Note: *Wer?* and *Was?* are the same form for nominative and accusative — only a **masculine**
@@ -221,13 +222,30 @@ noun tells them apart (*der → den*), which is exactly why that change matters.
 | **Akkusativ** | mich | dich | ihn | sie | es | uns | euch | sie | Sie |
 | **Dativ** | mir | dir | ihm | ihr | ihm | uns | euch | ihnen | Ihnen |
 
-- **mich / dich vs mir / dir** *(A1.2 U9)*
+- **mich / dich vs mir / dir** *(A1.2 U9 · A2.1 U1)*
   - **Akkusativ**
     - *Siehst du **mich**?* — Do you see me?
     - *Ich liebe **dich**.* — I love you.
   - **Dativ**
     - *Gelb steht **dir**.* — Yellow suits you.
     - *Ich helfe **dir**.* — I'll help you.
+    - *Schmeckt **dir** der Kaffee?* — Do you like the coffee?
+    - *Wie geht es **dir**? — **Mir** geht es gut.* — How are you? — I'm fine.
+    - *Es war sehr nett bei **Ihnen**.* — It was very nice at your place.
+
+- **Akkusativ-Pronomen — the noun becomes a pronoun** *(A2.1 U2)*
+  - the accusative question is ***Wen oder Was?*** — whatever stands there can be replaced by a pronoun
+  - *Herr Kraut liebt seinen Sohn. → Herr Kraut liebt **ihn**.* — Mr Kraut loves his son. → … loves him.
+  - *Herr Kraut holt Fotos aus seinem Portemonnaie. → Er holt **sie** aus seinem Portemonnaie.* — He takes them out of his wallet.
+  - *Isst du den Kuchen? — Ja, ich esse **ihn**.* — Are you eating the cake? — Yes, I'm eating it.
+  - *Hast du das Foto gemacht? — Ja, ich habe **es** gemacht.* — Did you take that photo? — Yes, I took it.
+  - *Habt ihr **uns** gestern angerufen?* — Did you call us yesterday?
+  - *Mama und Papa, ich besuche **euch** bald.* — Mum and Dad, I'll visit you soon.
+  - *Tut mir leid, Herr Kraut. Ich habe **Sie** nicht gesehen.* — I'm sorry, Mr Kraut. I didn't see you.
+  - *uns* and *euch* are the **same** in the accusative and the dative — one form, two jobs
+  - Same drill with a pair: *Der Nachbar braucht den Schlüssel → **Er** braucht **ihn**.*
+  - Same drill with a pair: *Das Kind isst die Schokolade → **Es** isst **sie**.*
+  - Trap: ~~Er braucht er.~~ → *Er braucht **ihn**.*
 
 - **man** — impersonal “one”, never *der Mann* *(U1)*
   - *Sieht **man** das nicht?* — Don't you see that?
@@ -331,13 +349,30 @@ noun tells them apart (*der → den*), which is exactly why that change matters.
 
 ## 4. Nomen
 
-- **Learn every noun with its article** — gender is not predictable *(U2)*
+- **Learn every noun with its article** — the *meaning* gives you nothing *(U2)*
   - *der Stift* — the pen
   - *der Kuli* — the biro
   - *das Heft* — the notebook
   - *die Tafel* — the board
   - *der Lehrer* — the teacher
   - *die Lehrerin* — the teacher (female)
+
+**Genus-Regeln — but the *ending* gives the gender away** *(general German, not in the booklets; every example below is a course noun)*
+
+Read the **last letters** of the noun first, before you reach for the article:
+
+| Endung | Genus | Beispiele aus dem Kurs |
+|---|---|---|
+| *-ung · -heit · -keit · -schaft · -ei · -ion · -tät* | **die** | *die Rechnung · die Kleidung · die Ausbildung · die Pünktlichkeit · die Sehenswürdigkeit · die Bäckerei · die Polizei · die Rezeption* |
+| *-chen · -lein* | **das** | *das Brötchen · das Mädchen* |
+| *-um · -ment* | **das** | *das Museum · das Praktikum* |
+| *-er · -ling · -or* | **der** | *der Lehrer · der Computer · der Becher · der Frühling · der Motor* |
+| *-e* | **die** (almost always) | *die Tafel · die Apotheke · die Wohnung* — learn *der Kuchen* whole |
+
+- **Days, months, seasons, times of day are *der*** — *der Freitag · der Juli · der Sommer · der Morgen*; the exception is *das Wochenende*.
+- What is left — *der Stift · das Heft · der Kuli* — has no helpful ending. Those are learned whole, article and all, and there is no shortcut.
+- **Before you write the ending, say the article.** *ein / kein / mein* follow the noun's gender, so a guessed ending is the same error as an unknown gender — *~~kein Zeit~~ · ~~deinen Zimmer~~*.
+- Compound nouns are decided by the **last** word — full rule and examples in §1.
 
 - **Plural is learned with the noun**, not by rule *(U5)*
   - *das Bierglas → die Biergläser*
@@ -405,6 +440,7 @@ noun tells them apart (*der → den*), which is exactly why that change matters.
 |---|---|
 | **Akkusativ** | *für* (always) · *es gibt* |
 | **Dativ** | *mit · von · ab · zu · aus · bei · nach* |
+| **Wechselnd** | *an · auf · hinter · in · neben · über · unter · vor · zwischen* — Akkusativ with *Wohin?*, Dativ with *Wo?* |
 
 - ***zur* / *zum*** *(U8)*
   - *Wie komme ich **zur** Auguststraße?* — How do I get to the Auguststraße? · die
@@ -447,6 +483,67 @@ noun tells them apart (*der → den*), which is exactly why that change matters.
   - *Ich hätte gerne Erdbeeren.* — I'd like strawberries.
   - *Welche Äpfel hätten Sie gern?* — Which apples would you like?
 
+### Wechselpräpositionen
+
+- **Nine two-way prepositions** *(A2.1 U1)* — *an · auf · hinter · in · neben · über · unter · vor · zwischen*
+  - *Es gibt neun Wechselpräpositionen: an, auf, hinter, in, neben, über, unter, vor und zwischen.*
+  - These are the only prepositions whose case **the verb decides** — every other preposition above is fixed.
+
+- **Movement (*Wohin …?*) → Akkusativ** *(A2.1 U1)*
+  - *Wohin kommen die leeren Flaschen? → Wirf sie dort in den Müllcontainer.* — Where do the empty bottles go? → Throw them into the dumpster there.
+  - *Er wirft den Ball auf den Container.* — He throws the ball onto the container.
+  - *Er wirft den Ball in die Mülltonne.* — He throws the ball into the garbage bin.
+  - *Er wirft den Ball auf das Dach.* — He throws the ball onto the roof.
+  - *Er wirft den Ball zwischen die Container.* — He throws the ball between the containers.
+
+- **Only the masculine changes** in the accusative — *der → den* *(A2.1 U1)*
+  - *Er wirft den Ball unter **den** Container.* — He throws the ball under the container.
+  - *die · das · die (Pl)* keep the nominative form: *in **die** Mülltonne · auf **das** Dach · zwischen **die** Container*
+
+- **Position (*Wo …?*) → Dativ** *(A2.1 U1)*
+  - *Wo ist der Kaffee? → Der Kaffee ist auf dem Tisch.* — Where is the coffee? → The coffee is on the table.
+  - *Der Ball ist unter dem Container.* — The ball is under the container.
+  - *Der Ball ist in der Mülltonne.* — The ball is in the garbage bin.
+  - *Der Ball ist auf dem Dach.* — The ball is on the roof.
+  - *Der Ball ist zwischen den Containern.* — The ball is between the containers.
+
+- **In the dative every article changes** *(A2.1 U1)*
+  - *der → dem · die → der · das → dem · die (Pl) → den* — see §1
+  - *Die Blumen sind auf dem Tisch.* · *Die Flaschen sind in der Mülltonne.* · *Das Buch ist unter dem Bett.*
+  - *Die Lampe ist zwischen dem Schrank und dem Fenster.* — The lamp is between the cupboard and the window.
+
+- **Dativ plural adds -n** to the noun, unless it already ends in *-n* or *-s* *(A1.2 U9 · A2.1 U1)*
+  - *Die Maus ist zwischen den Mülltonnen.* — The mouse is between the garbage bins.
+  - *Die Kinder sitzen auf den Stühlen.* — The children are sitting on the chairs.
+  - *Die Hunde schlafen neben den Sofas.* — The dogs sleep next to the sofas. (ends in *-s* — no change)
+
+- ***an* · *neben* · *auf* — what each one means *(A2.1 U1)*
+  - *an* = lateral or upper contact, or immediate proximity: *Ich sitze an dem Tisch.* · *Die Uhr ist an der Wand / an der Decke.*
+  - *neben* = parallel lateral neighbourhood: *Herr Kraut wohnt neben Katie und Bobbi.* · *Bobbi sitzt neben Katie.*
+  - *auf* = contact with a surface, often from above: *Er ist auf dem Dach.* · *Die Blumen sind auf dem Tisch.*
+
+- **Kurzformen — *ans · ins · am · im*** are standard *(A2.1 U1)*
+  - *an + das = ans* — *Er stellt die Blumen ans Fenster.*
+  - *in + das = ins* — *Ich gehe ins Bett.*
+  - *an + dem = am* — *Er sitzt am Tisch.*
+  - *in + dem = im* — *Sie sind im Hof.* · *Herr Kraut wohnt im dritten Stock.*
+
+- **The other contractions are Umgangssprache** — *aufs · hinters · nebens · übers · unters · vors · hinterm · unterm · überm · vorm* *(A2.1 U1)*
+  - *hinterm Haus · unterm Tisch · überm Tisch · vorm Tisch* — spoken, same meaning
+  - Trap: *~~Ich gehe in das Bett~~* sounds stilted — standard German prefers *ins Bett*
+
+- **The sentence may start with the phrase** — the subject then stands behind the verb *(A2.1 U1)*
+  - *Auf dem Tisch ist der Kaffee.* — The coffee is on the table.
+  - *An der Wand sind viele Fotos.* — There are many photos on the wall.
+  - The same inversion as the *Verbposition* rule in §11.
+
+- ***bei* + Dativ — at a person's place** *(A2.1 U1)*
+  - *Wo sind Katie und Bobbi? → Sie sind bei Herrn Kraut.* — They're at Mr Kraut's place.
+  - *bei* + name — no article: *Ich bin bei Anja.* · *Brigitte ist bei Klaus.* · *Bleibt ihr heute bei Paul?*
+  - *bei* + dative noun: *Sie sind bei dem Arzt.* (*bei dem → beim*) · *Ich bin bei der Kosmetikerin.* · *Wir wohnen bei den Eltern.*
+  - *bei* + dative pronoun: *Sie wohnt nicht mehr bei mir.* · *Es war sehr nett bei Ihnen.*
+  - Trap: *~~bei der Anja~~* → *bei Anja* — a first name takes no article
+
 ### Zeit
 
 | Frage | Präposition | Beispiel |
@@ -469,7 +566,7 @@ noun tells them apart (*der → den*), which is exactly why that change matters.
   - *Ich habe **im** Unterricht nur “Blablablablabla” gehört und dann bin ich eingeschlafen.* — All I heard in class was “blablablablabla” and then I fell asleep. · *hören* — where it happened
   - *Ich kann leider nicht mehr **am** Unterricht teilnehmen.* — Unfortunately I can no longer take part in the class. · *teilnehmen* — participation
   - The pattern: *zu* + Dativ (motion to) · *in* + Dativ (inside) · *an* + Dativ (taking part). *zum · im · am* are contractions of *zu dem · in dem · an dem*.
-  - ***an* is not in the case table above** — *teilnehmen + an + Dativ* is memorised as a pair, not derived from a rule.
+  - ***an* is now in the case table above** (Wechselpräpositionen) — but *teilnehmen + an + Dativ* is memorised as a fixed verb + preposition pair, not derived from the *Wohin?* / *Wo?* rule.
 
 *Deeper:*
 - [`Wegbeschreibung`](../patterns/patterns.md#wegbeschreibung)
@@ -477,6 +574,10 @@ noun tells them apart (*der → den*), which is exactly why that change matters.
 - [`am / um / in der Nacht`](../patterns/patterns.md#am--um--in-der-nacht)
 - [`im + Monat / Jahreszeit`](../patterns/patterns.md#im--monat--jahreszeit)
 - [`von X bis Y`](../patterns/patterns.md#von-x-bis-y)
+- [`Wechselpräpositionen mit Akkusativ`](../patterns/patterns.md#wechselpräpositionen-mit-akkusativ)
+- [`Wechselpräpositionen mit Dativ`](../patterns/patterns.md#wechselpräpositionen-mit-dativ)
+- [`Wechselpräpositionen — Kurzformen`](../patterns/patterns.md#wechselpräpositionen--kurzformen)
+- [`bei + Dativ`](../patterns/patterns.md#bei--dativ)
 
 ---
 
@@ -515,11 +616,22 @@ either one away and the verb stays whole — it is the conjugated form that sepa
 - *Wo steigst du **um**?* — Where do you change trains?
 - *Die S-Bahn fährt am Bahnsteig 2 **ab**.* — The S-Bahn departs from platform 2.
 
-- ***sehen* / *schauen* / *gucken*** — all three for “have a look”; only *sehen* for perceiving *(A1.2 U9)*
+- **Trennbar oder untrennbar?** — the prefix decides *(A2.1 U2)*
+  - always **separable** — the prefix is stressed: *ab- · an- · auf- · aus- · bei- · ein- · fest- · her- · hin- · los- · mit- · nach- · vor- · weg- · zu- · zurück-*
+  - always **inseparable** — the **stem** is stressed: *be- · emp- · ent- · er- · ge- · miss- · ver- · zer-*
+  - *Ich hole meine Enkeltochter **ab**.* — I'm picking up my granddaughter.
+  - *Herr Kraut ruft seine Enkel **an**.* — Mr Kraut calls his grandchildren.
+  - *Er **versteht** die Sprache nicht.* — He doesn't understand the language.
+  - *Du **zerbrichst** das Glas.* — You're breaking the glass.
+  - Trap: ~~brichst das Glas zer~~ — an inseparable prefix never leaves the verb
+
+- ***sehen* / *schauen* / *gucken*** — all three for “have a look”; only *sehen* for perceiving *(A1.2 U9 · A2.1 U2)*
   - ***Sieh** mal! = **Schau** mal! = **Guck** mal!* — Have a look!
   - *Wir sehen/schauen/gucken einen Film.* — We're watching a film.
   - *Ich **sehe** dich.* — I can see you.
   - *Ich kann nichts **sehen**.* — I can't see anything.
+  - *schauen* — used a lot in southern Germany (Bavaria) and Austria
+  - *gucken* — colloquial, very common in northern Germany, spoken like *kucken*
   - Trap: ~~Ich habe Sie nicht geschaut.~~ → *gesehen*
 
 - ***an- / aus- / auf- / zu-machen*** — *an/aus* for devices, *auf/zu* for doors, bottles, shops *(A1.2 U4)*
@@ -536,6 +648,7 @@ either one away and the verb stays whole — it is the conjugated form that sepa
 
 *Deeper:*
 - [`Trennbare Verben (Bahn)`](../patterns/patterns.md#trennbare-verben-bahn)
+- [`Untrennbare Verben`](../patterns/patterns.md#untrennbare-verben)
 - [`Alternativer Imperativ`](../patterns/patterns.md#alternativer-imperativ)
 - [`sehen / schauen / gucken`](../patterns/patterns.md#sehen--schauen--gucken)
 - [`an- auf- aus- zu-machen`](../patterns/patterns.md#an--auf--aus--zu-machen)
@@ -688,6 +801,7 @@ sits in the participle, so translate the **pair**, not the helper alone.
   - *Ich **habe** die ganze Nacht **durchtrainiert**.* — I worked out all night.
   - *Was **hast** du gestern **gemacht**?* — What did you do yesterday?
   - *Sie **hat** hier **studiert**.* — She studied here.
+  - also **haben**: a verb with an **accusative object** — *Ich **habe** den Bus **gefahren**.* — I drove the bus. *(the bus: accusative object)*
 
 - **sein** — the exception: movement, change of state, and three that fit neither —
   *passieren · bleiben · werden* — plus *gewesen* for *sein* itself
@@ -699,8 +813,12 @@ sits in the participle, so translate the **pair**, not the helper alone.
 - **Building the participle**
   - *machen → gemacht* · *kaufen → gekauft*
   - *arbeiten → gearbeitet* · *warten → gewartet* — after *-d / -t*
-  - *studieren → studiert* — no *ge-*
+  - *atmen → geatmet* · *zeichnen → gezeichnet* · *mieten → gemietet* · *öffnen → geöffnet* — also *-m / -n*
+  - *denken → gedacht* · *kennen → gekannt* — irregular, but with *ge…t* (also *brennen · bringen · nennen · rennen · wissen*)
   - *sehen → gesehen* · *mitnehmen → mitgenommen* — *ge* goes inside
+  - *fotografieren → fotografiert* · *funktionieren → funktioniert* · *passieren → passiert* — **no *ge-*** with *-ieren*
+  - *besucht · empfohlen · entschuldigt · erzählt · verstanden · zerbrochen* — **no *ge-*** with *be- emp- ent- er- ge- miss- ver- zer-*
+  - *abgeholt · angerufen · eingeladen · aufgeräumt · mitgebracht* — separable prefix, *ge-* **inside**
 
 - **Same steps, two tenses**
   - *Ich stehe um 7 Uhr auf. ↔ Ich **bin** um 7 Uhr **aufgestanden**.* — I get up at 7. ↔ I got up at 7.
@@ -730,6 +848,7 @@ Full page: [vergangenheit.md](a1.2/vergangenheit.md) · all forms: [partizip-ii.
 - [`Präteritum sein und haben`](../patterns/patterns.md#präteritum-sein-und-haben)
 - [`Perfekt mit haben`](../patterns/patterns.md#perfekt-mit-haben)
 - [`Regelmäßiges Partizip II`](../patterns/patterns.md#regelmäßiges-partizip-ii)
+- [`Partizip II ohne ge-`](../patterns/patterns.md#partizip-ii-ohne-ge-)
 - [`Unregelmäßiges Partizip II`](../patterns/patterns.md#unregelmäßiges-partizip-ii)
 - [`Perfekt mit sein — Ortswechsel`](../patterns/patterns.md#perfekt-mit-sein--ortswechsel)
 - [`Perfekt mit sein — Zustandsänderung`](../patterns/patterns.md#perfekt-mit-sein--zustandsänderung)
@@ -964,6 +1083,9 @@ Full page: [vergangenheit.md](a1.2/vergangenheit.md) · all forms: [partizip-ii.
     - *Kennen Sie keine Vollkornbrötchen? — **Doch, doch**.* — Don't you have any wholemeal rolls? — Yes, we do.
     - *Bist du nicht von hier? — **Doch**!* — Aren't you from here? — I am!
   - *ja* — confirms something already agreed.
+  - *nämlich* — “after all / you see”, **not** “namely”: it explains and excuses
+    - *Putzen beruhigt sie **nämlich** immer.* — After all, cleaning always calms her down.
+    - *Mich beruhigt Putzen **nämlich** gar nicht.* — Cleaning doesn't calm *me* down at all.
 
 - **Entschuldigung vs Es tut mir leid** — not always interchangeable
   - Interrupt or own a fault: ***Entschuldigung**! Wo ist der Geldautomat?* — Excuse me! Where's the cash machine?
@@ -1046,6 +1168,12 @@ pointers rather than rules — the sentences themselves are in the unit files an
 [Wie findest du X?](../patterns/patterns.md#wie-findest-du-x) ·
 [gefallen · passen · stehen](../patterns/patterns.md#gefallen--passen--stehen)
 
+**Invitations and thanks**
+
+[Auf eine Einladung reagieren](../patterns/patterns.md#auf-eine-einladung-reagieren) ·
+[einladen zu + Dativ](../patterns/patterns.md#einladen-zu--dativ) ·
+[Gratulieren und schenken](../patterns/patterns.md#gratulieren-und-schenken)
+
 **Course and everyday life**
 
 [Im Kurs](../patterns/patterns.md#im-kurs) ·
@@ -1059,9 +1187,11 @@ pointers rather than rules — the sentences themselves are in the unit files an
 
 ## What this page does **not** cover
 
-Every rule in both booklets is above, and every one of the 114 pattern sections is accounted
-for — §1–§14 as rules, §15 as formulas. Beyond the booklets: full genitive articles,
+Every rule in the ingested units (A1.1 U1–U10 · A1.2 U1–U10 · A2.1 U1–U2) is above, and every
+one of the 121 pattern sections is accounted
+for — §1–§14 as rules, §15 as formulas. Beyond the ingested units: full genitive articles,
 adjective endings (*des neuen Hauses*), relative clauses, *weil* with verb-final order,
-the A2.1 past perfect, reflexive verbs (*sich verbessern* — it turns up inside a U7
+the A2.1 past perfect (not in A2.1 U1–U2), reflexive verbs (*sich verbessern* — it turns up inside a U7
 proverb gloss, but the *sich* system is never taught), and prepositions the booklets never
-drill (*seit · ohne · gegen · während*).
+drill (*ohne · gegen · während*). *seit* + dative appears in the U2 dialogue (*Sie wohnen seit vier
+Jahren in Kanada.*) but is not taught until A2.1 U6, so it is a chunk here, not a rule.

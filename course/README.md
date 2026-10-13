@@ -35,6 +35,8 @@ Drill me on A1.1 Unit 2
 ```
 courses/a1.1/     # PDFs + MAP.md
 course/a1.1/      # unit-NN-*.md + notes.md
+courses/a2.1/     # PDFs + MAP.md
+course/a2.1/      # unit-NN-*.md + notes.md
 ```
 
 Per booklet folder:
@@ -48,7 +50,7 @@ Per booklet folder:
 Cross-booklet:
 
 - [`grammatik.md`](grammatik.md) — **every rule, one page.** The index of rules learned so far
-  (A1.1 U1–U10 · A1.2 U1–U10), grouped by topic, each pointing back into `patterns/`.
+  (A1.1 U1–U10 · A1.2 U1–U10 · A2.1 U1–U2), grouped by topic, each pointing back into `patterns/`.
   `/ingest` folds every new rule in here; `check_grammatik.py` proves nothing is orphaned.
 
 ---
