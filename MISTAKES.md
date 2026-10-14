@@ -119,6 +119,7 @@ rules).
 |---|---|---|---|
 | 2026-10-10 | Past tense system — Perfekt vs Präteritum | A1.2 U6–U7 | Not landing: two forms, one time level. Drill the three decisions — participle form, auxiliary, placement. Set up 2026-10-06. |
 | 2026-10-26 | Wechselpräpositionen — *Wohin?* vs *Wo?* | A2.1 U1 | Confusing as a system: the case call isn't landing. Drill the decision first — *Wohin?* → Akkusativ, *Wo?* → Dativ — then the dative-plural *-n*. Set up 2026-10-12. |
+| 2026-10-28 | Possessivartikel im Dativ — *meinem · meiner · meinem · meinen* | A2.1 U3 | The booklet exercise (*Welcher Satz ist richtig?* + *Ergänze die Possessivartikel*) was hard — the ending is being guessed, not checked against the noun behind it. Drill the four slots cold, then *euer → eurem* (~~euerem~~) and the plural *-n* (*mit unseren Kindern*). Set up 2026-10-14. |
 
 ---
 

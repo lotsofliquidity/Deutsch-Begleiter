@@ -1576,7 +1576,7 @@ The noun is the trigger, not the verb — even mass nouns that take no article i
 **Slot:** appearance adjective
 **Register:** either
 
-**Behind it:** *aussehen* splits: *sieht … aus*. A person’s height is *groß / klein*, not *hoch / kurz*. *hässlich* is harsh; *nicht hübsch* is the usual alternative.
+**Behind it:** *aussehen* splits: *sieht … aus*. A person’s height is *groß / klein*, not *hoch / kurz*. *hässlich* is harsh; *nicht hübsch* is the usual alternative. Hair is normally said in the plural — *Die Haare sind lockig.* — even though the singular *das Haar* exists.
 
 **Instances**
 - Sie sieht verrückt aus.
@@ -1585,6 +1585,11 @@ The noun is the trigger, not the verb — even mass nouns that take no article i
 - Er ist dünn. / Er ist schlank.
 - Ist dein Opa jung? — Nein, er ist alt.
 - Sie ist nicht hübsch.
+- Wie sieht er aus? — Er ist groß.
+- Wie groß bist du?
+- Die Haare sind glatt // lockig. = Sie hat Locken.
+- Er hat einen Bart. · Er hat eine Glatze.
+- Ich habe blaue Augen. · Er hat braune Augen.
 
 **Ladder**
 1. Sie sieht verrückt aus.
@@ -1593,9 +1598,13 @@ The noun is the trigger, not the verb — even mass nouns that take no article i
 4. Er ist schlank.
 5. Nein, er ist alt.
 6. Sie ist nicht hübsch.
-7. Trap: *Sie aus sieht* · *Er ist hoch*
+7. Wie sieht er aus? — Er ist groß.
+8. Sie hat Locken. (Die Haare sind lockig.)
+9. Er hat braune Augen.
+10. Trap: *Sie aus sieht* · *Er ist hoch*
+11. Trap: ~~Mein Haare sind lang~~ → *Meine Haare sind lang.*
 
-**Meta:** A1.2 Unit 2 · Dialog 1 · added 2026-09-29
+**Meta:** A1.2 Unit 2 · Dialog 1 · added 2026-09-29 · extended A2.1 Unit 3 (*Wie sieht er aus?*, hair, eyes)
 
 ---
 
@@ -1726,7 +1735,7 @@ The noun is the trigger, not the verb — even mass nouns that take no article i
 **Slot:** accusative thing or person
 **Register:** either
 
-**Behind it:** *mögen* is a main verb here, not a modal. *ich mag* = *er mag* (no umlaut). *wir mögen* = *sie/Sie mögen*. Masculine object still takes *-en*: *seinen Bruder*.
+**Behind it:** *mögen* is a main verb here, not a modal. *ich mag* = *er mag* (no umlaut). *wir mögen* = *sie/Sie mögen*. Masculine object still takes *-en*: *seinen Bruder*. Its past is **mochte** — a liking that has stopped: *Früher mochte ich Comics.*
 
 **Instances**
 - Ich mag Bier.
@@ -1735,6 +1744,8 @@ The noun is the trigger, not the verb — even mass nouns that take no article i
 - Karin mag Käse. Aber sie mag keine Wurst.
 - Mögen Sie Kaffee?
 - Wir mögen keine Erdnussbutter.
+- Früher mochte ich Comics. · Am liebsten mochte er Comics.
+- Mochtest du als Kind Schokolade? · Mochten Sie den Film?
 
 **Ladder**
 1. Ich mag Bier.
@@ -1743,9 +1754,12 @@ The noun is the trigger, not the verb — even mass nouns that take no article i
 4. Die Kinder mögen Kuchen.
 5. Mögt ihr den Deutschkurs?
 6. Ich mag meinen Mitbewohner.
-7. Trap: *ich möge* · *mögen* + infinitive for “I like to”
+7. Früher mochte ich Comics. (*mochte* — no umlaut, no *ge-*)
+8. Mochtest du als Kind Schokolade?
+9. Trap: *ich möge* · *mögen* + infinitive for “I like to”
+10. Trap: *~~Früher möchte ich Comics~~* — *möchten* has no past
 
-**Meta:** A1.2 Unit 3 · Dialog 3 · added 2026-09-30
+**Meta:** A1.2 Unit 3 · Dialog 3 · added 2026-09-30 · extended A2.1 Unit 3 (*mochte*, the past)
 
 ---
 
@@ -2930,7 +2944,7 @@ Well-attested everyday idioms, kept here as a starter set. Nothing else in this 
 **Slot:** *mit dem Rock* (m/n) · *mit der Hose* (f) · *mit den Schuhen* (pl)
 **Register:** neutral
 
-**Behind it:** *mit* always takes the dative, and **every** article changes: *der → dem* · *die → der* · *das → dem* · *die (Pl) → den*. Plurals also add **-n** to the noun if it doesn't already end in one: *mit den Kindern* · *mit den Leuten*. A plural already ending in *-n* or *-s* stays: *mit den Eltern* · *mit den Autos* · *mit den Chefs*.
+**Behind it:** *mit* always takes the dative, and **every** article changes: *der → dem* · *die → der* · *das → dem* · *die (Pl) → den*. Plurals also add **-n** to the noun if it doesn't already end in one: *mit den Kindern* · *mit den Leuten*. A plural already ending in *-n* or *-s* stays: *mit den Eltern* · *mit den Autos* · *mit den Chefs*. The indefinite, negative and possessive forms follow the same grid — *mit einem Stift* · *mit keiner Tastatur* · *mit meinem Laptop*.
 
 **Instances**
 - Ich trage ein T-Shirt mit dem Rock.
@@ -2940,6 +2954,9 @@ Well-attested everyday idioms, kept here as a starter set. Nothing else in this 
 - Wie findest du die Bluse zusammen mit dem Hut?
 - Ich spiele mit den Kindern. · Er spricht mit den Leuten.
 - Wir fahren mit den Autos.
+- Ich komme mit deinem Touchpad nicht so klar.
+- Ich schreibe mit einem Stift.
+- Friseure arbeiten mit keinen Computern.
 
 **Ladder**
 1. mit dem Rock
@@ -2950,10 +2967,12 @@ Well-attested everyday idioms, kept here as a starter set. Nothing else in this 
 6. Er spricht mit den Leuten. (die Leute → add -n)
 7. Ich spreche mit den Eltern. (already -n — no change)
 8. Wir fahren mit den Autos. (ends in -s — no change)
-9. Trap: *~~mit der Rock~~* — masculine is *dem*, not *der*
-10. Trap: *~~mit den Kinder~~* · *~~mit den Leute~~* — the plural noun needs -n
+9. Ich komme mit deinem Touchpad nicht so klar. (possessive + dative)
+10. Ich schreibe mit einem Stift. (indefinite + dative)
+11. Trap: *~~mit der Rock~~* — masculine is *dem*, not *der*
+12. Trap: *~~mit den Kinder~~* · *~~mit den Leute~~* — the plural noun needs -n
 
-**Meta:** A1.2 Unit 9 · Dialog 1 · added 2026-10-08
+**Meta:** A1.2 Unit 9 · Dialog 1 · added 2026-10-08 · extended A2.1 Unit 3 (indefinite, negative and possessive forms)
 
 ---
 
@@ -3687,6 +3706,243 @@ Well-attested everyday idioms, kept here as a starter set. Nothing else in this 
 9. Trap: *ge-* is not “wrong everywhere” — *Ich habe Getränke **mitgebracht**.* keeps it, inside
 
 **Meta:** A2.1 Unit 2 · Dialog 2 · added 2026-10-13
+
+---
+
+## Dativ einem und keinem
+
+**Frame:** `Präposition + Dativ` → `einem · einer · einem` / `keinem · keiner · keinem`
+**Meaning:** the indefinite and the negative article in the dative
+**Slot:** *an einem Computer · mit einer Tasse Tee · auf einer Tastatur · mit keinem Touchpad*
+**Register:** neutral
+
+**Behind it:** *mit · von · bei* and the two-way prepositions with a position all take the dative, and there **every** form moves: *ein → einem* (m/n), *eine → einer* (f). Negated it is the same ending on *kein*: *kein → keinem*, *keine → keiner*. The plural has no indefinite article at all, but it does have a negative one — *mit keinen Computern* — and the noun adds *-n*.
+
+**Instances**
+- Das ist ein Computer. → Gogo sitzt an einem Computer.
+- Das ist eine Tastatur. → Er schreibt auf einer Tastatur.
+- Das ist ein Touchpad. → Er arbeitet mit einem Touchpad.
+- Er spielt mit einem Tablet. · Sie spricht mit einem Informatiker.
+- Wir helfen einer Frau. · Sie wohnt in einem Haus. · Schlaft ihr in einem Bett?
+- Ich schreibe mit einem Stift.
+- Das ist kein Computer. → Gogo sitzt an keinem Computer.
+- Das ist keine Tastatur. → Er schreibt auf keiner Tastatur.
+- Das ist kein Touchpad. → Er arbeitet mit keinem Touchpad.
+- Das sind keine Computer. → Friseure arbeiten mit keinen Computern.
+
+**Ladder**
+1. an einem Computer
+2. mit einem Stift
+3. mit einer Tasse Tee
+4. auf einer Tastatur
+5. Er spielt mit einem Tablet.
+6. Wir helfen einer Frau.
+7. an keinem Computer
+8. auf keiner Tastatur
+9. Friseure arbeiten mit keinen Computern. (plural + *-n*)
+10. Trap: *~~an einen Computer~~* answers *Wohin?* — a position is dative: *an einem Computer*
+11. Trap: ~~mit einem Tasse Tee~~ — feminine takes *einer*
+
+**Meta:** A2.1 Unit 3 · Dialog 1 · added 2026-10-14
+
+---
+
+## Possessiv im Dativ
+
+**Frame:** `Präposition + Dativ + Possessivartikel` → `meinem · meiner · meinem · meinen`
+**Meaning:** my / your / his … on a dative noun
+**Slot:** *mit meinem Laptop · mit deinem Touchpad · auf meiner Tastatur · mit deinen Computern*
+**Register:** neutral — *euer* drops its middle *e* before an ending
+
+**Behind it:** The ending is decided by the **noun after it**: *-em* for masculine and neuter, *-er* for feminine, *-en* for the plural. The set is the same for every possessive — *mein · dein · sein · ihr · unser · euer · Ihr*. *euer* is the one that changes shape: *Ist das euer Wohnzimmer? — Wir sitzen in **eurem** Wohnzimmer.*
+
+**Instances**
+- Nominativ: Das ist mein Laptop. → Dativ: Was machst du mit meinem Laptop?
+- Ich komme mit deinem Touchpad nicht so klar.
+- Ich schreibe auf meiner Tastatur.
+- Du arbeitest mit deinen Computern.
+- Gogo sitzt an seinem Computer. · Katie sitzt an ihrem Laptop.
+- Wir sitzen in unserer Küche.
+- Ist das euer Wohnzimmer? — Wir sitzen in eurem Wohnzimmer.
+- Katie und Bobbi sprechen mit ihren Nachbarn.
+- Herr Kraut, wohnen Sie bei Ihrer Freundin?
+- Ich helfe meinem Mitbewohner. · Katie hilft ihrer Nachbarin.
+- Helft ihr eurer Mutter? · Die Mutter glaubt ihrem Kind.
+- Der Vater vertraut seinem Sohn. · Gratulierst du deinem Chef zum Geburtstag?
+- Wir danken unseren Eltern. · Spielen Sie oft mit Ihren Kindern?
+
+**Ladder**
+1. mit meinem Laptop
+2. mit deinem Touchpad
+3. auf meiner Tastatur
+4. Ich helfe meinem Mitbewohner.
+5. Die Mutter glaubt ihrem Kind.
+6. Wir danken unseren Eltern.
+7. Spielen Sie oft mit Ihren Kindern?
+8. Wir sitzen in eurem Wohnzimmer. (*euer → eurem*)
+9. Trap: *~~in euerem Wohnzimmer~~* — the middle *e* of *euer* drops
+10. Trap: ~~mit meinen Laptop~~ — singular masculine dative is *meinem*
+
+**Meta:** A2.1 Unit 3 · Dialog 1 · added 2026-10-14
+
+---
+
+## Modalverben im Präteritum — müssen, können, dürfen
+
+**Frame:** modal in the Präteritum (position 2) + infinitive at the end
+**Meaning:** had to · could / was able to · was allowed to
+**Slot:** *musste · konnte · durfte* and the *du / ihr / Sie* forms
+**Register:** neutral — the booklet's past for modals is the **Präteritum**, not the Perfekt
+
+**Behind it:** A modal has six Präteritum forms of its own, of which only **four** are distinct: *ich* = *er/sie/es*, and *wir* = *sie/Sie*. The past needs **no** auxiliary — *musste* is one word — so the bracket still holds and a separable main verb stays **whole** at the end: *Ich musste deine Kreditkarte angeben.*
+
+| | müssen | können | dürfen |
+|---|---|---|---|
+| ich | musste | konnte | durfte |
+| du | musstest | konntest | durftest |
+| er/sie/es | musste | konnte | durfte |
+| wir | mussten | konnten | durften |
+| ihr | musstet | konntet | durftet |
+| sie/Sie | mussten | konnten | durften |
+
+**Instances**
+- Ich musste deine Kreditkarte angeben. · Ich musste das Passwort ändern.
+- Er musste die Kreditkarte angeben. · Er konnte mit 5 Jahren schon lesen.
+- Wir mussten die Übungen machen. · Wir durften im Garten eine Party feiern.
+- Katie konnte keine E-Mails schreiben. · Katie und Gogo konnten das Dokument speichern.
+- Er durfte den Film herunterladen. · Man konnte Fotos hochladen.
+- Musstest du viel lernen? · Durftest du das Dokument löschen?
+- Durftet ihr gestern fernsehen? · Musstet ihr den Laptop bezahlen?
+- Konnten Sie die Fotos hochladen? · Durften Sie den Film herunterladen?
+- Was konnte man hochladen? · Durftest du ihren Laptop benutzen?
+
+**Ladder**
+1. ich musste · du musstest · er musste
+2. wir mussten · ihr musstet · sie mussten
+3. ich konnte · wir konnten
+4. ich durfte · du durftest · ihr durftet
+5. Ich musste deine Kreditkarte angeben.
+6. Er durfte den Film herunterladen.
+7. Durftest du ihren Laptop benutzen?
+8. Musstest du die E-Mails abschicken? — Ja, ich musste die E-Mails abschicken.
+9. Trap: *~~Ich habe die Kreditkarte angeben gemusst~~* — the past of a modal is the Präteritum
+10. Trap: ~~Ich musste deine Kreditkarte an gab~~ — a separable verb stays whole at the end
+11. Trap: ~~Durften du ihren Laptop benutzen?~~ — *du* takes *durftest*
+
+**Meta:** A2.1 Unit 3 · Dialog 2 · added 2026-10-14
+
+---
+
+## Modalverben im Präteritum — mögen, wollen
+
+**Frame:** `mochte` / `wollte` (+ infinitive at the end for *wollen*)
+**Meaning:** used to like · wanted
+**Slot:** *mochte · mochten* (mögen) · *wollte · wolltest · wollten* (wollen)
+**Register:** neutral — *Früher …* is the natural frame for *mochte*
+
+**Behind it:** *mögen* usually stands as a **main verb** with an accusative object (*Er mag den Playboy.*), and its past is *mochte*: *Früher mochte er Comics.* *wollen* is a true modal — the wish is conjugated and the second verb goes to the end in the infinitive: *Als Kind wollte ich Pilot werden.* Only the *wollen* set has a past; *möchten* does not — see [`wollen vs möchten`](#wollen-vs-möchten).
+
+| | mögen | wollen |
+|---|---|---|
+| ich | mochte | wollte |
+| du | mochtest | wolltest |
+| er/sie/es | mochte | wollte |
+| wir | mochten | wollten |
+| ihr | mochtet | wolltet |
+| sie/Sie | mochten | wollten |
+
+**Instances**
+- Früher mochte ich Comics. · Früher mochte Karin kein Gemüse.
+- Wir mochten früher Katzen. · Mochtest du als Kind Schokolade?
+- Mochten Sie den Film? · Mochtet ihr früher eure Lehrer?
+- Am liebsten mochte er Comics.
+- Als Kind wollte ich immer Pilot werden. · Was wolltest du als Kind werden?
+- Wolltet ihr gestern mit euren Freunden chatten?
+- Katie und Gogo wollten im Internet surfen. · Wir wollten gestern Deutsch üben.
+- Ich wollte die Fotos hochladen. · Wollten Sie gestern ein Buch kaufen?
+- Als Kind wollte ich immer fernsehen, aber ich durfte nicht.
+- Ich wollte E-Mails schreiben, aber ich konnte nicht.
+
+**Ladder**
+1. ich mochte · du mochtest · er mochte
+2. wir mochten · ihr mochtet · sie mochten
+3. ich wollte · du wolltest · er wollte
+4. wir wollten · ihr wolltet · sie wollten
+5. Früher mochte ich Comics.
+6. Mochtest du als Kind Schokolade?
+7. Als Kind wollte ich Pilot werden.
+8. Was wolltest du als Kind werden?
+9. Wolltet ihr gestern mit euren Freunden chatten?
+10. Trap: *~~Als Kind möchte ich Pilot werden~~* — *möchten* has no past; the wish verb is *wollte*
+11. Trap: ~~Als Kind wollte ich Pilot geworden~~ — a modal keeps the **infinitive**: *werden*
+
+**Meta:** A2.1 Unit 3 · Dialog 3 · added 2026-10-14
+
+---
+
+## wollen vs möchten
+
+**Frame:** `Ich möchte …` (polite) · `Ich will …` (blunt) · `Ich wollte …` (past)
+**Meaning:** would like · want · wanted
+**Slot:** the same verb at three registers
+**Register:** *möchten* for shops, cafés and restaurants; *wollen* is demanding
+
+**Behind it:** *möchten* is the polite form of *wollen* — and it is **present-only**. For the past German falls back on *wollen*: there is no *möchtete*. So *Ich wollte dich sprechen* covers both “I wanted to talk to you” and a polite wish placed in the past.
+
+**Instances**
+- „Gogo, ich will dich sprechen." (fordernd) — demanding
+- „Gogo, ich möchte dich sprechen." (höflich) — polite
+- „Gogo, ich wollte dich sprechen." (Vergangenheit) — past
+- Willst du mal sehen? — Do you want to see it?
+- Ich möchte zum Alexanderplatz fahren.
+- Wollen wir das Radler aufmachen?
+
+**Ladder**
+1. Ich will dich sprechen. (demanding)
+2. Ich möchte dich sprechen. (polite)
+3. Ich wollte dich sprechen. (past)
+4. Möchten Sie einen Kaffee?
+5. Willst du mal sehen?
+6. Trap: *~~Ich möchtete dich sprechen~~* — *möchten* has no past form
+7. Trap: ~~Ich möchte dich gestern sprechen~~ — “I wanted to” is *wollte*
+
+**Meta:** A2.1 Unit 3 · Dialog 3 · added 2026-10-14
+
+---
+
+## Denglisch — englische Verben
+
+**Frame:** `chatten · checken · googeln · mailen · skypen · surfen` — infinitive ends in *-en*
+**Meaning:** a borrowed English verb is conjugated like a German one, and its participle ends in *-t* / *-et*
+**Slot:** any English verb taken into German
+**Register:** colloquial — the booklet's name for the mix is *Denglisch*
+
+**Behind it:** English words go straight into German. A borrowed verb takes the German infinitive ending *-en* and then behaves like any weak verb: *ich chatte · du checkst · er googelt*. The Partizip II takes *-t*, or *-et* when the stem ends in *-t/-d*: *gecheckt · gechattet · geskypt · gegoogelt*. One trap inside the group: *herunterladen* splits like a normal separable verb, *downloaden* does not.
+
+**Instances**
+- to chat = chatten: Ich chatte mit meinen Freunden.
+- to check = checken: Du checkst den Wetterbericht.
+- googeln: Er googelt ihren Namen. · Googelst du mal das Wort?
+- mailen: Wir mailen dir heute Abend.
+- skypen: Ihr skypt mit eurer Familie. · Hast du gestern mit deiner Mutter geskypt?
+- surfen: Sie surfen im Internet.
+- Partizip II: Ich habe mit meinen Freunden gechattet. · Du hast den Wetterbericht gecheckt.
+- Partizip II: Ich habe es schon gegoogelt.
+- Ich lade Bilder herunter. (trennbar) · Ich downloade Bilder. (nicht trennbar) — auch: Ich lade Bilder runter.
+
+**Ladder**
+1. chatten → ich chatte
+2. checken → du checkst
+3. googeln → er googelt
+4. Partizip II: gecheckt
+5. Partizip II: gechattet (stem ends in *-t* → *-et*)
+6. Partizip II: gegoogelt · geskypt
+7. Ich habe mit meinen Freunden gechattet.
+8. Ich lade Bilder herunter. (*herunterladen* splits)
+9. Ich downloade Bilder. (*downloaden* doesn't split)
+10. Trap: ~~Ich habe gechatt~~ — the borrowed verb keeps its German participle ending
+
+**Meta:** A2.1 Unit 3 · Dialog 2 · added 2026-10-14
 
 ---
 

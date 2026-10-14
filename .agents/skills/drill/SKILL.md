@@ -88,6 +88,34 @@ No praise paragraphs. No bracket spoilers. Max two lines of feedback mid-round.
 next one. The **round briefing** is the one allowed preamble — it names the round, never a
 question.
 
+## Paradigm detour — the one way out of a round
+
+A round has exactly one sanctioned early exit, and it is **asked for, never taken**.
+
+**Trigger** — all three, or keep drilling:
+- the **same mistake** has come back **twice** in the round (the same threshold as logging), and
+- the root is a **paradigm** — an article/case table, a pronoun set, a conjugation, a verb-form
+  system — *not* the frame being drilled, and
+- a one-line correction or a hint has already failed to land.
+
+**Do:**
+1. **Close the question on the table.** The current prompt is answered and reacted to first —
+   never abandon a question mid-turn.
+2. **One short message, four parts:** what repeated · where the root is · the paradigm, named as
+   it appears in `course/grammatik.md` · the ask. Then **stop and wait**.
+   *Shape:* `Halt — same ending twice: meinem/meiner is being guessed, not read off the noun.
+   That's §1, the dative grid, not this unit's chunks. Basics first, or finish the round?`
+3. **On "basics first"** — run `/teach` on that one paradigm, then re-enter with a one-line
+   briefing (*Back to it — same unit, cold*) and a **fresh** question. A detour never re-asks the
+   question it interrupted.
+4. **On "finish the round"** — finish as planned, then make that paradigm the round-end offer.
+5. **Either answer is logged** (rules below): twice-wrong is a row. The row's booklet is the unit
+   the **paradigm** belongs to, not the one being drilled.
+6. **Once per round.** A second repeat is another log row, not another detour.
+
+A detour is not a hint, not a second try, and not a rescue from a hard question. It exists for one
+case only: the wrong thing is being learnt at the root.
+
 ## Hints
 
 Hinted turns do **not** auto-log. Log only if they still blank or miss the **same pattern twice**.

@@ -50,7 +50,7 @@ Per booklet folder:
 Cross-booklet:
 
 - [`grammatik.md`](grammatik.md) — **every rule, one page.** The index of rules learned so far
-  (A1.1 U1–U10 · A1.2 U1–U10 · A2.1 U1–U2), grouped by topic, each pointing back into `patterns/`.
+  (A1.1 U1–U10 · A1.2 U1–U10 · A2.1 U1–U3), grouped by topic, each pointing back into `patterns/`.
   `/ingest` folds every new rule in here; `check_grammatik.py` proves nothing is orphaned.
 
 ---

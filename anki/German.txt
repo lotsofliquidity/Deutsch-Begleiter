@@ -1955,3 +1955,189 @@ to apologise — Partizip II?	entschuldigt	a2.1 unit_02 verb
 to forget — Partizip II?	vergessen	a2.1 unit_02 verb
 to come back — Partizip II?	zurückgekommen	a2.1 unit_02 verb
 to draw — Partizip II?	gezeichnet	a2.1 unit_02 verb
+# ── A2.1 Unit 3 — Technologie & Internet ──
+What are you doing with my X?	Was machst du mit meinem X?	a2.1 unit_03 chunk
+Is anyone else sitting at my X?	Sitzt noch jemand an meinem X?	a2.1 unit_03 chunk
+Sorry, my computer is broken.	Sorry, mein Rechner ist kaputt.	a2.1 unit_03 chunk
+But you could ask first.	Aber du kannst doch vorher fragen.	a2.1 unit_03 chunk
+Sorry, but it was urgent.	Tut mir leid, aber es war dringend.	a2.1 unit_03 chunk
+Tell me, don't you have a mouse?	Sag mal, hast du keine Maus?	a2.1 unit_03 chunk
+I can't get along with X.	Ich komme mit X nicht so klar.	a2.1 unit_03 chunk
+Do you need anything else? (besides that)	Brauchst du sonst noch etwas?	a2.1 unit_03 chunk
+X would be great.	X wäre toll.	a2.1 unit_03 chunk
+That's enough now!	Jetzt reicht's!	a2.1 unit_03 chunk
+You're welcome. (lit. not for this)	Nicht dafür.	a2.1 unit_03 chunk
+Do you need much longer?	Brauchst du noch lange?	a2.1 unit_03 chunk
+No, no! I'm almost done.	Nein, nein! Ich bin gleich fertig.	a2.1 unit_03 chunk
+I accidentally clicked on it.	Da hab' ich zufällig draufgeklickt.	a2.1 unit_03 chunk
+I'm looking for X on the Internet.	Ich suche im Internet nach X.	a2.1 unit_03 chunk
+I just registered here.	Ich habe mich hier eben angemeldet.	a2.1 unit_03 chunk
+Then all I had to do was enter X.	Dann musste ich nur noch X angeben.	a2.1 unit_03 chunk
+But you can't just take mine.	Aber du kannst doch nicht einfach meine nehmen.	a2.1 unit_03 chunk
+Now, take it easy.	Jetzt bleib mal locker.	a2.1 unit_03 chunk
+Don't worry, the first date is arranged free of charge.	Keine Angst, das erste Date wird kostenlos vermittelt.	a2.1 unit_03 chunk
+I don't need any more attempts.	Mehr Versuche brauche ich gar nicht.	a2.1 unit_03 chunk
+I'm writing my profile right now.	Ich schreibe gerade mein Profil.	a2.1 unit_03 chunk
+Do you want to see it?	Willst du mal sehen?	a2.1 unit_03 chunk
+Let me see!	Zeig mal!	a2.1 unit_03 chunk
+Nonsense!	Quatsch!	a2.1 unit_03 chunk
+That's me.	Das bin ich.	a2.1 unit_03 chunk
+good-looking	gutaussehend	a2.1 unit_03 chunk
+Ouch! That hurts.	Autsch! Das tut weh.	a2.1 unit_03 chunk
+And you are X?	Und du bist X?	a2.1 unit_03 chunk
+You have to delete X from your profile. (informal)	Und du musst X aus deinem Profil löschen.	a2.1 unit_03 chunk
+I used to like comics.	Früher mochte ich Comics.	a2.1 unit_03 chunk
+As a child I always wanted to be a pilot.	Als Kind wollte ich immer Pilot werden.	a2.1 unit_03 chunk
+What does he look like?	Wie sieht er aus?	a2.1 unit_03 chunk
+How tall are you? (informal)	Wie groß bist du?	a2.1 unit_03 chunk
+Her hair is curly.	Ihre Haare sind lockig.	a2.1 unit_03 chunk
+My hair is long and blond.	Meine Haare sind lang und blond.	a2.1 unit_03 chunk
+She has curls.	Sie hat Locken.	a2.1 unit_03 chunk
+He has a beard.	Er hat einen Bart.	a2.1 unit_03 chunk
+He is bald.	Er hat eine Glatze.	a2.1 unit_03 chunk
+I have blue eyes.	Ich habe blaue Augen.	a2.1 unit_03 chunk
+He is honest.	Er ist ehrlich.	a2.1 unit_03 chunk
+He is unreliable.	Er ist unzuverlässig.	a2.1 unit_03 chunk
+He is lazy.	Er ist faul.	a2.1 unit_03 chunk
+He is interesting.	Er ist interessant.	a2.1 unit_03 chunk
+He is likeable.	Er ist sympathisch.	a2.1 unit_03 chunk
+He is humourless.	Er ist humorlos.	a2.1 unit_03 chunk
+He is spontaneous.	Er ist spontan.	a2.1 unit_03 chunk
+He is romantic.	Er ist romantisch.	a2.1 unit_03 chunk
+He is athletic.	Er ist sportlich.	a2.1 unit_03 chunk
+She is pretty.	Sie ist hübsch.	a2.1 unit_03 chunk
+He is not good-looking.	Er ist nicht gutaussehend.	a2.1 unit_03 chunk
+computer (the word)	der Rechner · die Rechner	a2.1 unit_03 noun
+the computers (plural)	die Computer	a2.1 unit_03 noun
+laptop	der (das) Laptop · die Laptops	a2.1 unit_03 noun
+tablet	das Tablet · die Tablets	a2.1 unit_03 noun
+touchpad	das Touchpad · die Touchpads	a2.1 unit_03 noun
+keyboard	die Tastatur · die Tastaturen	a2.1 unit_03 noun
+key (on a keyboard)	die Taste · die Tasten	a2.1 unit_03 noun
+screen	der Bildschirm · die Bildschirme	a2.1 unit_03 noun
+USB flash drive	der USB-Stick · die USB-Sticks	a2.1 unit_03 noun
+USB slot	der USB-Anschluss · die USB-Anschlüsse	a2.1 unit_03 noun
+CD	die CD · die CDs	a2.1 unit_03 noun
+DVD	die DVD · die DVDs	a2.1 unit_03 noun
+CD/DVD drive	das CD-/DVD-Laufwerk · die CD-/DVD-Laufwerke	a2.1 unit_03 noun
+speaker	der Lautsprecher · die Lautsprecher	a2.1 unit_03 noun
+microphone	das Mikrofon · die Mikrofone	a2.1 unit_03 noun
+camera	die Kamera · die Kameras	a2.1 unit_03 noun
+headphones	der Kopfhörer · die Kopfhörer	a2.1 unit_03 noun
+cable	das Kabel · die Kabel	a2.1 unit_03 noun
+printer	der Drucker · die Drucker	a2.1 unit_03 noun
+scanner	der Scanner · die Scanner	a2.1 unit_03 noun
+e-mail	die E-Mail · die E-Mails	a2.1 unit_03 noun
+document	das Dokument · die Dokumente	a2.1 unit_03 noun
+website	die Webseite · die Webseiten	a2.1 unit_03 noun
+search result	das Suchergebnis · die Suchergebnisse	a2.1 unit_03 noun
+user account	das Benutzerkonto · die Benutzerkonten	a2.1 unit_03 noun
+chat	der Chat · no plural given	a2.1 unit_03 noun
+hair	das Haar · die Haare	a2.1 unit_03 noun
+hair colour	die Haarfarbe · die Haarfarben	a2.1 unit_03 noun
+eye colour	die Augenfarbe · die Augenfarben	a2.1 unit_03 noun
+curls	die Locken · plural only	a2.1 unit_03 noun
+braid	der Zopf · die Zöpfe	a2.1 unit_03 noun
+beard	der Bart · no plural given	a2.1 unit_03 noun
+bald head	die Glatze · no plural given	a2.1 unit_03 noun
+Indefinite article in the dative — masculine and neuter?	einem (an einem Computer)	a2.1 unit_03 pattern dativ
+Indefinite article in the dative — feminine?	einer (auf einer Tastatur)	a2.1 unit_03 pattern dativ
+Negative article in the dative — a computer?	keinem (an keinem Computer)	a2.1 unit_03 pattern dativ
+Negative article in the dative — the plural?	keinen, and the noun adds -n (mit keinen Computern)	a2.1 unit_03 pattern dativ
+Possessive in the dative — masculine or neuter noun?	-em: mit meinem Laptop	a2.1 unit_03 pattern dativ
+Possessive in the dative — feminine noun?	-er: auf meiner Tastatur	a2.1 unit_03 pattern dativ
+Possessive in the dative — plural noun?	-en: mit deinen Computern	a2.1 unit_03 pattern dativ
+euer + a dative ending — what happens to the e?	It drops: Wir sitzen in eurem Wohnzimmer.	a2.1 unit_03 pattern dativ
+müssen in the Präteritum — ich / du / er?	musste · musstest · musste	a2.1 unit_03 pattern
+können in the Präteritum — ich / wir?	konnte · konnten	a2.1 unit_03 pattern
+dürfen in the Präteritum — du / ihr?	durftest · durftet	a2.1 unit_03 pattern
+Modal in the Präteritum — where does the main verb go?	Infinitive at the end: Ich musste deine Kreditkarte angeben.	a2.1 unit_03 pattern
+Separable verb after a modal in the Präteritum?	It stays whole: Ich musste deine Kreditkarte angeben.	a2.1 unit_03 pattern
+mögen in the Präteritum — ich / er?	mochte · mochte	a2.1 unit_03 pattern
+wollen in the Präteritum — ich / ihr?	wollte · wolltet	a2.1 unit_03 pattern
+Which past does möchten have?	None — only wollen: Ich wollte dich sprechen.	a2.1 unit_03 pattern
+möchten vs wollen — which one is polite?	möchten (Ich möchte dich sprechen.) — wollen is demanding	a2.1 unit_03 pattern
+Modal verbs in the past — Perfekt or Präteritum?	Präteritum: Ich musste die Kreditkarte angeben.	a2.1 unit_03 pattern
+Denglisch verbs in the infinitive — the ending?	-en: chatten · checken · googeln	a2.1 unit_03 pattern
+Denglisch verb — the Partizip II ending?	-t or -et: gecheckt · gechattet · gegoogelt	a2.1 unit_03 pattern
+herunterladen vs downloaden — separable?	herunterladen splits (Ich lade Bilder herunter.) · downloaden does not	a2.1 unit_03 pattern
+Hair in everyday German — singular or plural?	Plural: Die Haare sind lockig. = Sie hat Locken.	a2.1 unit_03 pattern
+A person's height — groß or hoch?	groß: Er ist 1,89 m groß.	a2.1 unit_03 pattern
+to click on it — Partizip II?	draufgeklickt	a2.1 unit_03 verb
+to register (oneself) — Partizip II?	angemeldet	a2.1 unit_03 verb
+to arrange, place — Partizip II?	vermittelt	a2.1 unit_03 verb
+to check — Partizip II?	gecheckt	a2.1 unit_03 verb
+to chat — Partizip II?	gechattet	a2.1 unit_03 verb
+to skype — Partizip II?	geskypt	a2.1 unit_03 verb
+to google — Partizip II?	gegoogelt	a2.1 unit_03 verb
+to open	öffnen	a2.1 unit_03 verb
+to log in	sich einloggen	a2.1 unit_03 verb
+to switch on	anschalten	a2.1 unit_03 verb
+to switch off	ausschalten	a2.1 unit_03 verb
+to install	installieren	a2.1 unit_03 verb
+to upload	hochladen	a2.1 unit_03 verb
+to download	herunterladen	a2.1 unit_03 verb
+to download (colloquial)	runterladen	a2.1 unit_03 verb
+to program	programmieren	a2.1 unit_03 verb
+to cut out (a word)	ausschneiden	a2.1 unit_03 verb
+to copy (a word)	kopieren	a2.1 unit_03 verb
+to insert (a word)	einfügen	a2.1 unit_03 verb
+to delete (a file)	löschen	a2.1 unit_03 verb
+to highlight (a word)	markieren	a2.1 unit_03 verb
+to save (a file)	speichern	a2.1 unit_03 verb
+the Internet	das Internet	a2.1 unit_03 noun
+the net (for the Internet)	das Netz	a2.1 unit_03 noun
+internet page	die Internetseite · die Internetseiten	a2.1 unit_03 noun
+page / site	die Seite · die Seiten	a2.1 unit_03 noun
+program	das Programm · die Programme	a2.1 unit_03 noun
+attachment (of an e-mail)	der Anhang · die Anhänge	a2.1 unit_03 noun
+weather forecast	der Wetterbericht · die Wetterberichte	a2.1 unit_03 noun
+eye	das Auge · die Augen	a2.1 unit_03 noun
+full beard	der Vollbart · no plural given	a2.1 unit_03 noun
+stubble (three-day beard)	der Dreitagebart · no plural given	a2.1 unit_03 noun
+moustache	der Schnurrbart · no plural given	a2.1 unit_03 noun
+You switch the computer on.	Du schaltest den Computer an.	a2.1 unit_03 chunk
+You switch the computer off.	Du schaltest den Computer aus.	a2.1 unit_03 chunk
+You turn the computer on.	Du machst den Computer an.	a2.1 unit_03 chunk
+You turn the computer off.	Du machst den Computer aus.	a2.1 unit_03 chunk
+Katie is installing a program.	Katie installiert ein Programm.	a2.1 unit_03 chunk
+Computer scientists can program.	Informatiker können programmieren.	a2.1 unit_03 chunk
+I'm uploading pictures.	Ich lade Bilder hoch.	a2.1 unit_03 chunk
+He's downloading pictures.	Er lädt Bilder herunter.	a2.1 unit_03 chunk
+He's downloading pictures. (colloquial)	Er lädt Bilder runter.	a2.1 unit_03 chunk
+Gogo goes on the Internet.	Gogo geht ins Internet.	a2.1 unit_03 chunk
+Gogo is on the Internet.	Gogo ist im Internet.	a2.1 unit_03 chunk
+Gogo is online.	Gogo ist online.	a2.1 unit_03 chunk
+Gogo is surfing the Internet.	Gogo surft im Internet.	a2.1 unit_03 chunk
+Checking the weather forecast.	Den Wetterbericht checken.	a2.1 unit_03 chunk
+You check the weather forecast.	Du checkst den Wetterbericht.	a2.1 unit_03 chunk
+You have checked the weather forecast.	Du hast den Wetterbericht gecheckt.	a2.1 unit_03 chunk
+We're searching for something on the Internet.	Wir suchen etwas im Internet.	a2.1 unit_03 chunk
+I'm googling.	Ich google.	a2.1 unit_03 chunk
+We're googling.	Wir googeln.	a2.1 unit_03 chunk
+The website was in first place in the search results.	Die Webseite war in den Suchergebnissen auf Platz eins.	a2.1 unit_03 chunk
+Gogo clicks on the page.	Gogo klickt die Seite an.	a2.1 unit_03 chunk
+Gogo opens the page.	Gogo öffnet die Seite.	a2.1 unit_03 chunk
+He's setting up a user account.	Er richtet ein Benutzerkonto ein.	a2.1 unit_03 chunk
+Gogo signs up.	Gogo meldet sich an.	a2.1 unit_03 chunk
+Gogo registers.	Gogo registriert sich.	a2.1 unit_03 chunk
+Gogo logs out.	Gogo meldet sich ab.	a2.1 unit_03 chunk
+Katie logs in.	Katie loggt sich ein.	a2.1 unit_03 chunk
+Katie is setting up a password.	Katie richtet ein Passwort ein.	a2.1 unit_03 chunk
+Gogo changes the password.	Gogo ändert das Passwort.	a2.1 unit_03 chunk
+I'm writing an e-mail.	Ich schreibe eine E-Mail.	a2.1 unit_03 chunk
+Katie receives an e-mail.	Katie bekommt eine E-Mail.	a2.1 unit_03 chunk
+Katie receives an e-mail. (more formal)	Katie empfängt eine E-Mail.	a2.1 unit_03 chunk
+She answers the e-mail.	Sie beantwortet die E-Mail.	a2.1 unit_03 chunk
+She forwards the e-mail.	Sie leitet die E-Mail weiter.	a2.1 unit_03 chunk
+She sends the e-mail.	Sie schickt die E-Mail.	a2.1 unit_03 chunk
+She sends the e-mail. (more formal)	Sie sendet die E-Mail.	a2.1 unit_03 chunk
+I'm saving the document.	Ich speichere das Dokument.	a2.1 unit_03 chunk
+I'm deleting the document.	Ich lösche das Dokument.	a2.1 unit_03 chunk
+I attach the document to an e-mail.	Ich hänge das Dokument an eine E-Mail an.	a2.1 unit_03 chunk
+The document is in the attachment.	Das Dokument ist im Anhang.	a2.1 unit_03 chunk
+I highlight the word.	Ich markiere das Wort.	a2.1 unit_03 chunk
+I copy the word.	Ich kopiere das Wort.	a2.1 unit_03 chunk
+I cut the word out.	Ich schneide das Wort aus.	a2.1 unit_03 chunk
+I insert the word.	Ich füge das Wort ein.	a2.1 unit_03 chunk
+Gogo wants to chat with women.	Gogo möchte mit Frauen chatten.	a2.1 unit_03 chunk

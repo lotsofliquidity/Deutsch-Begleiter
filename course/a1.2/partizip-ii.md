@@ -16,6 +16,7 @@ match the Anki cards.
 | Regular | `ge + Stamm + t` | stem never changes |
 | Regular, stem ends **-d/-t/-m/-n** | `ge + Stamm + et` | needs the extra *e* to be sayable |
 | **-ieren** | `Stamm + t` | **no** *ge-* |
+| **Denglisch** | `ge + Stamm + t / et` | borrowed English verbs behave like weak verbs |
 | Separable | `Präfix + ge + Stamm (+t/en)` | *ge* goes **inside** |
 | **Inseparable** | `Stamm (+t/en)` | **no** *ge-* at all |
 
@@ -47,6 +48,7 @@ match the Anki cards.
 | bügeln | gebügelt | to iron |
 | plaudern | geplaudert | to chat |
 | schimpfen | geschimpft | to scold |
+| vermitteln | vermittelt | to arrange, place |
 
 ## Regular — `ge + Stamm + et`
 
@@ -73,6 +75,18 @@ match the Anki cards.
 | organisieren | organisiert | to organise |
 | diskutieren | diskutiert | to discuss |
 | durchtrainieren | durchtrainiert | to work out (non-stop) |
+
+## Denglisch — `ge + Stamm + t` / `ge + Stamm + et`
+
+Borrowed English verbs (A2.1 U3). The infinitive takes *-en*, and the participle then behaves
+like any weak one: *-t*, or *-et* after a stem in *-t/-d*.
+
+| Infinitive | Partizip II | English |
+|---|---|---|
+| chatten | gechattet | to chat |
+| checken | gecheckt | to check |
+| googeln | gegoogelt | to google |
+| skypen | geskypt | to skype |
 
 ## Inseparable — no *ge-* (`be- emp- ent- er- ge- miss- ver- zer-`)
 
@@ -111,6 +125,8 @@ match the Anki cards.
 | aufräumen | aufgeräumt | to tidy up |
 | anlächeln | angelächelt | to smile at |
 | reinstecken | reingesteckt | to plug in |
+| draufklicken | draufgeklickt | to click on it |
+| anmelden (sich) | angemeldet | to register, sign up |
 
 ## Irregular — `ge…en` (stem often changes)
 

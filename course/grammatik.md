@@ -1,6 +1,6 @@
 # Grammatik — every rule so far
 
-**Scope:** A1.1 U1–U10 · A1.2 U1–U10 · A2.1 U1–U2 (both A1 booklets complete).
+**Scope:** A1.1 U1–U10 · A1.2 U1–U10 · A2.1 U1–U3 (both A1 booklets complete).
 Derived from [`patterns/patterns.md`](../patterns/patterns.md) + `a1.1/notes.md` + `a1.2/notes.md` + `a2.1/notes.md`.
 
 > This is the **map**, not the manual. Every rule gets a short statement, its booklet examples,
@@ -77,6 +77,24 @@ picks the article. Ask for it: *Wer?* → Nominativ · *Wen?* → Akkusativ · *
   - *mit den Autos* — with the cars (no change)
   - *mit den Eltern* — with the parents (no change)
 
+- **The indefinite and negative article in the dative** *(A2.1 U3)*
+  - *ein → **einem*** (m/n) · *eine → **einer*** (f)
+  - *Gogo sitzt an **einem** Computer.* — Gogo is sitting at a computer.
+  - *Er schreibt auf **einer** Tastatur.* — He's writing on a keyboard.
+  - *Ich schreibe mit **einem** Stift.* — I'm writing with a pen.
+  - negated with the same endings: *an **keinem** Computer* · *auf **keiner** Tastatur* · *mit **keinem** Touchpad*
+  - the plural has no indefinite article, but it does have a negative one: *mit **keinen** Computern*
+  - Trap: ~~an einen Computer~~ answers *Wohin?* — a position is the dative
+
+- **The possessive in the dative** *(A2.1 U3)*
+  - *mein → **meinem*** (m/n) · *meine → **meiner*** (f) · *meine → **meinen*** (pl)
+  - *Was machst du mit **meinem** Laptop?* — What are you doing with my laptop?
+  - *Ich schreibe auf **meiner** Tastatur.* — I'm writing on my keyboard.
+  - *Du arbeitest mit **deinen** Computern.* — You work with your computers.
+  - the endings are the same for every possessive: *seinem · ihrem · unserem · Ihrem*
+  - *euer* drops its middle *e* before an ending: *Wir sitzen in **eurem** Wohnzimmer.*
+  - Trap: ~~in euerem Wohnzimmer~~ · ~~mit meinen Laptop~~
+
 **Nullartikel** — uncountable food, a bare plural, a profession, many countries *(U3, U6)*
 - *Ich brauche Fleisch, Reis und Salz.* — I need meat, rice and salt.
 - *Im Supermarkt gibt es auch Milch, Wasser, Brot und Butter.* — The supermarket also has milk, water, bread and butter.
@@ -116,6 +134,8 @@ picks the article. Ask for it: *Wer?* → Nominativ · *Wen?* → Akkusativ · *
 - [`Akkusativ der wird den`](../patterns/patterns.md#akkusativ-der-wird-den)
 - [`Akkusativ einen und keinen`](../patterns/patterns.md#akkusativ-einen-und-keinen)
 - [`mit + Dativ`](../patterns/patterns.md#mit--dativ)
+- [`Dativ einem und keinem`](../patterns/patterns.md#dativ-einem-und-keinem)
+- [`Possessiv im Dativ`](../patterns/patterns.md#possessiv-im-dativ)
 - [`Nullartikel`](../patterns/patterns.md#nullartikel)
 - [`Kompositum`](../patterns/patterns.md#kompositum)
 - [`Possessiv im Nominativ`](../patterns/patterns.md#possessiv-im-nominativ)
@@ -181,6 +201,7 @@ noun tells them apart (*der → den*), which is exactly why that change matters.
 | *danken* | to thank |
 | *gratulieren* | to congratulate |
 | *vertrauen* | to trust |
+| *glauben* | to believe |
 | *schenken* | to give (a present) |
 | *wünschen* | to wish |
 
@@ -421,6 +442,13 @@ Read the **last letters** of the noun first, before you reach for the article:
   - *Was machst du beruflich?* — What do you do for a living?
   - *Ich mache ein Praktikum bei Siemens.* — I'm doing an internship at Siemens.
 
+- **das Haar — die Haare** — everyday German says the **plural** *(A2.1 U3)*
+  - *Das Haar ist kurz // lang.* — The hair is short // long.
+  - *Die Haare sind glatt // lockig. = Sie hat Locken.* — Her hair is straight // curly. = She has curls.
+  - *Er hat einen Bart.* · *Er hat eine Glatze.* — He has a beard. · He's bald.
+  - *Sie hat einen Zopf.* — She has a braid. · *Welche Haarfarbe hat er? — Seine Haare sind dunkel.*
+  - Trap: ~~Mein Haare sind lang~~ → *Meine Haare sind lang.*
+
 *Deeper:*
 - [`Mengenangabe`](../patterns/patterns.md#mengenangabe)
 - [`einkaufen oder kaufen`](../patterns/patterns.md#einkaufen-oder-kaufen)
@@ -429,6 +457,7 @@ Read the **last letters** of the noun first, before you reach for the article:
 - [`Hunger und Durst`](../patterns/patterns.md#hunger-und-durst)
 - [`Ich bin X. / Ich arbeite als X.`](../patterns/patterns.md#ich-bin-x--ich-arbeite-als-x)
 - [`Was kostet / Was kosten …?`](../patterns/patterns.md#was-kostet--was-kosten-)
+- [`Sie sieht aus`](../patterns/patterns.md#sie-sieht-aus)
 
 ---
 
@@ -645,9 +674,18 @@ either one away and the verb stays whole — it is the conjugated form that sepa
   - *Ich mag Bier.* — I like beer.
   - *Bobbi mag **seinen** Bruder.* — Bobbi likes his brother.
   - *Wir mögen keine Erdnussbutter.* — We don't like peanut butter.
+  - its past is *mochte*: *Früher **mochte** ich Comics.* — I used to like comics.
+
+- **Denglisch — a borrowed English verb is a German verb** *(A2.1 U3)*
+  - the infinitive takes *-en*: *to chat = **chatten*** · *to check = **checken***
+  - conjugated like any weak verb: *Ich chatte mit meinen Freunden.* · *Du checkst den Wetterbericht.* · *Er googelt ihren Namen.*
+  - the Partizip II ends in *-t / -et*: *gecheckt · gechattet · geskypt · gegoogelt*
+  - *herunterladen* splits; *downloaden* does not: *Ich lade Bilder herunter.* / *Ich downloade Bilder.*
+  - Trap: ~~Ich habe gechatt~~ → *gechattet* — the German participle ending stays
 
 *Deeper:*
 - [`Trennbare Verben (Bahn)`](../patterns/patterns.md#trennbare-verben-bahn)
+- [`Denglisch — englische Verben`](../patterns/patterns.md#denglisch--englische-verben)
 - [`Untrennbare Verben`](../patterns/patterns.md#untrennbare-verben)
 - [`Alternativer Imperativ`](../patterns/patterns.md#alternativer-imperativ)
 - [`sehen / schauen / gucken`](../patterns/patterns.md#sehen--schauen--gucken)
@@ -711,8 +749,39 @@ either one away and the verb stays whole — it is the conjugated form that sepa
 - **A separable verb stays whole** in front of the bracket
   - *Sie zieht die Schuhe aus. → Ich muss die Schuhe **ausziehen**.* — She takes her shoes off. → I have to take my shoes off.
 
+- **Präteritum — every modal has its own past, with no Perfekt** *(A2.1 U3)*
+  - *müssen → **musste*** · *können → **konnte*** · *dürfen → **durfte*** · *mögen → **mochte*** · *wollen → **wollte***
+  - *Ich **musste** deine Kreditkarte angeben.* — I had to enter your credit card.
+  - *Er **durfte** ihren Laptop benutzen.* — He was allowed to use her laptop.
+  - *Man **konnte** Fotos hochladen.* — One could upload photos.
+  - *Früher **mochte** ich Comics.* — I used to like comics.
+  - *Als Kind **wollte** ich immer Pilot werden.* — As a child I always wanted to be a pilot.
+  - *ich* = *er/sie/es* and *wir* = *sie/Sie*, exactly as in the present
+
+| | müssen | können | dürfen | mögen | wollen |
+|---|---|---|---|---|---|
+| ich | musste | konnte | durfte | mochte | wollte |
+| du | musstest | konntest | durftest | mochtest | wolltest |
+| er/sie/es | musste | konnte | durfte | mochte | wollte |
+| wir | mussten | konnten | durften | mochten | wollten |
+| ihr | musstet | konntet | durftet | mochtet | wolltet |
+| sie/Sie | mussten | konnten | durften | mochten | wollten |
+
+  - the bracket still holds — the main verb is an infinitive at the end: *Ich musste deine Kreditkarte **angeben**.* · *Was konnte man **hochladen**?*
+  - a separable verb stays **whole**: *angeben*, not ~~an gab~~
+  - Trap: ~~Ich habe die Kreditkarte angeben gemusst~~ — the past of a modal is the Präteritum
+
+- ***möchten* exists only in the present** *(A2.1 U3)*
+  - polite present: *Ich **möchte** dich sprechen.* — I'd like to talk to you.
+  - its past is *wollen*: *Ich **wollte** dich sprechen.* — I wanted to talk to you.
+  - blunt present: *Ich **will** dich sprechen.* — I want to talk to you.
+  - Trap: ~~Ich möchtete dich sprechen~~ — there is no such form
+
 *Deeper:*
 - [`Modalverb + Infinitiv am Ende`](../patterns/patterns.md#modalverb--infinitiv-am-ende)
+- [`Modalverben im Präteritum — müssen, können, dürfen`](../patterns/patterns.md#modalverben-im-präteritum--müssen-können-dürfen)
+- [`Modalverben im Präteritum — mögen, wollen`](../patterns/patterns.md#modalverben-im-präteritum--mögen-wollen)
+- [`wollen vs möchten`](../patterns/patterns.md#wollen-vs-möchten)
 - [`müssen plus Infinitiv`](../patterns/patterns.md#müssen-plus-infinitiv)
 - [`sollen`](../patterns/patterns.md#sollen)
 - [`dürfen`](../patterns/patterns.md#dürfen)
@@ -841,6 +910,13 @@ Five more prefer it even in speech: **war · hatte · dachte · wusste · es gab
 - *Ich habe gekocht.* (speaking) — I cooked. (speaking)
 - *Katie hatte eine kleine Wohnung.* (writing) — Katie had a small flat. (writing)
 
+- **Modalverben go to the Präteritum — never the Perfekt** *(A2.1 U3)*
+  - *Ich **musste** deine Kreditkarte angeben.* — I had to enter your credit card.
+  - *Man **konnte** Fotos hochladen.* — One could upload photos.
+  - *Er **durfte** ihren Laptop benutzen.* — He was allowed to use her laptop.
+  - *Früher **mochte** ich Comics.* · *Als Kind **wollte** ich Pilot werden.*
+  - Trap: ~~Ich habe die Kreditkarte angeben gemusst~~
+
 Full page: [vergangenheit.md](a1.2/vergangenheit.md) · all forms: [partizip-ii.md](a1.2/partizip-ii.md)
 
 *Deeper:*
@@ -853,6 +929,8 @@ Full page: [vergangenheit.md](a1.2/vergangenheit.md) · all forms: [partizip-ii.
 - [`Perfekt mit sein — Ortswechsel`](../patterns/patterns.md#perfekt-mit-sein--ortswechsel)
 - [`Perfekt mit sein — Zustandsänderung`](../patterns/patterns.md#perfekt-mit-sein--zustandsänderung)
 - [`Perfekt mit sein — andere Verben`](../patterns/patterns.md#perfekt-mit-sein--andere-verben)
+- [`Modalverben im Präteritum — müssen, können, dürfen`](../patterns/patterns.md#modalverben-im-präteritum--müssen-können-dürfen)
+- [`Modalverben im Präteritum — mögen, wollen`](../patterns/patterns.md#modalverben-im-präteritum--mögen-wollen)
 
 ---
 
@@ -1102,6 +1180,11 @@ Full page: [vergangenheit.md](a1.2/vergangenheit.md) · all forms: [partizip-ii.
   - *Willst du heute Salat essen? — **Gerne**!* — Do you want to eat salad today? — Yes please!
   - *Dein Zimmer ist echt schön. — **Das stimmt**.* — Your room is really nice. — That's true.
 
+- **„hässlich" sagen wir selten** *(A2.1 U3)*
+  - it sounds too harsh about a person — *„hässlich" sagen wir selten, weil es sehr hart klingt*
+  - *Er ist gutaussehend = hübsch, schön.* — He's good-looking / handsome.
+  - the alternative is a negation: *nicht gutaussehend* · *nicht so hübsch*
+
 - **Formal e-mail** — comma after the salutation, next sentence lowercase (unless noun, name, or *Sie*); no comma after *Mit freundlichen Grüßen* — Kind regards
   - *Sehr geehrte Frau Stock,* — Dear Ms Stock,
   - *ich kann leider nicht mehr am Unterricht teilnehmen.* — Unfortunately I can no longer take part in the class.
@@ -1187,11 +1270,11 @@ pointers rather than rules — the sentences themselves are in the unit files an
 
 ## What this page does **not** cover
 
-Every rule in the ingested units (A1.1 U1–U10 · A1.2 U1–U10 · A2.1 U1–U2) is above, and every
-one of the 121 pattern sections is accounted
+Every rule in the ingested units (A1.1 U1–U10 · A1.2 U1–U10 · A2.1 U1–U3) is above, and every
+one of the 127 pattern sections is accounted
 for — §1–§14 as rules, §15 as formulas. Beyond the ingested units: full genitive articles,
 adjective endings (*des neuen Hauses*), relative clauses, *weil* with verb-final order,
-the A2.1 past perfect (not in A2.1 U1–U2), reflexive verbs (*sich verbessern* — it turns up inside a U7
+the A2.1 past perfect (not in A2.1 U1–U3), reflexive verbs (*sich verbessern* — it turns up inside a U7
 proverb gloss, but the *sich* system is never taught), and prepositions the booklets never
 drill (*ohne · gegen · während*). *seit* + dative appears in the U2 dialogue (*Sie wohnen seit vier
 Jahren in Kanada.*) but is not taught until A2.1 U6, so it is a chunk here, not a rule.

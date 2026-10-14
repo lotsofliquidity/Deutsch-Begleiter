@@ -476,3 +476,50 @@ to apologise — Partizip II?	entschuldigt	a2.1 unit_02 verb
 to forget — Partizip II?	vergessen	a2.1 unit_02 verb
 to come back — Partizip II?	zurückgekommen	a2.1 unit_02 verb
 to draw — Partizip II?	gezeichnet	a2.1 unit_02 verb
+
+# ── A2.1 Unit 3 — Technologie & Internet ──
+Indefinite article in the dative — masculine and neuter?	einem (an einem Computer)	a2.1 unit_03 pattern dativ
+Indefinite article in the dative — feminine?	einer (auf einer Tastatur)	a2.1 unit_03 pattern dativ
+Negative article in the dative — a computer?	keinem (an keinem Computer)	a2.1 unit_03 pattern dativ
+Negative article in the dative — the plural?	keinen, and the noun adds -n (mit keinen Computern)	a2.1 unit_03 pattern dativ
+Possessive in the dative — masculine or neuter noun?	-em: mit meinem Laptop	a2.1 unit_03 pattern dativ
+Possessive in the dative — feminine noun?	-er: auf meiner Tastatur	a2.1 unit_03 pattern dativ
+Possessive in the dative — plural noun?	-en: mit deinen Computern	a2.1 unit_03 pattern dativ
+euer + a dative ending — what happens to the e?	It drops: Wir sitzen in eurem Wohnzimmer.	a2.1 unit_03 pattern dativ
+müssen in the Präteritum — ich / du / er?	musste · musstest · musste	a2.1 unit_03 pattern
+können in the Präteritum — ich / wir?	konnte · konnten	a2.1 unit_03 pattern
+dürfen in the Präteritum — du / ihr?	durftest · durftet	a2.1 unit_03 pattern
+Modal in the Präteritum — where does the main verb go?	Infinitive at the end: Ich musste deine Kreditkarte angeben.	a2.1 unit_03 pattern
+Separable verb after a modal in the Präteritum?	It stays whole: Ich musste deine Kreditkarte angeben.	a2.1 unit_03 pattern
+mögen in the Präteritum — ich / er?	mochte · mochte	a2.1 unit_03 pattern
+wollen in the Präteritum — ich / ihr?	wollte · wolltet	a2.1 unit_03 pattern
+Which past does möchten have?	None — only wollen: Ich wollte dich sprechen.	a2.1 unit_03 pattern
+möchten vs wollen — which one is polite?	möchten (Ich möchte dich sprechen.) — wollen is demanding	a2.1 unit_03 pattern
+Modal verbs in the past — Perfekt or Präteritum?	Präteritum: Ich musste die Kreditkarte angeben.	a2.1 unit_03 pattern
+Denglisch verbs in the infinitive — the ending?	-en: chatten · checken · googeln	a2.1 unit_03 pattern
+Denglisch verb — the Partizip II ending?	-t or -et: gecheckt · gechattet · gegoogelt	a2.1 unit_03 pattern
+herunterladen vs downloaden — separable?	herunterladen splits (Ich lade Bilder herunter.) · downloaden does not	a2.1 unit_03 pattern
+Hair in everyday German — singular or plural?	Plural: Die Haare sind lockig. = Sie hat Locken.	a2.1 unit_03 pattern
+A person's height — groß or hoch?	groß: Er ist 1,89 m groß.	a2.1 unit_03 pattern
+to click on it — Partizip II?	draufgeklickt	a2.1 unit_03 verb
+to register (oneself) — Partizip II?	angemeldet	a2.1 unit_03 verb
+to arrange, place — Partizip II?	vermittelt	a2.1 unit_03 verb
+to check — Partizip II?	gecheckt	a2.1 unit_03 verb
+to chat — Partizip II?	gechattet	a2.1 unit_03 verb
+to skype — Partizip II?	geskypt	a2.1 unit_03 verb
+to google — Partizip II?	gegoogelt	a2.1 unit_03 verb
+to open	öffnen	a2.1 unit_03 verb
+to log in	sich einloggen	a2.1 unit_03 verb
+to switch on	anschalten	a2.1 unit_03 verb
+to switch off	ausschalten	a2.1 unit_03 verb
+to install	installieren	a2.1 unit_03 verb
+to upload	hochladen	a2.1 unit_03 verb
+to download	herunterladen	a2.1 unit_03 verb
+to download (colloquial)	runterladen	a2.1 unit_03 verb
+to program	programmieren	a2.1 unit_03 verb
+to cut out (a word)	ausschneiden	a2.1 unit_03 verb
+to copy (a word)	kopieren	a2.1 unit_03 verb
+to insert (a word)	einfügen	a2.1 unit_03 verb
+to delete (a file)	löschen	a2.1 unit_03 verb
+to highlight (a word)	markieren	a2.1 unit_03 verb
+to save (a file)	speichern	a2.1 unit_03 verb

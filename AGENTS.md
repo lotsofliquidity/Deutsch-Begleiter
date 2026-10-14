@@ -88,6 +88,13 @@ mixed round) this overrides any instinct to be helpful and complete:
 - **Never reveal the next question early.** No previews, no plan of the round — the briefing
   describes the round, never an item.
 - **No teaching mid-round.** If they ask "why?", answer in one line and resume.
+- **One exception — the paradigm detour.** Same mistake back **twice** in a round, root is a
+  *paradigm* (article/case table, pronoun set, conjugation) rather than the frame being drilled,
+  and a one-line fix already failed → **stop and ask**: basics first, or finish the round?
+  Nothing switches without their yes. On yes: `/teach` that one paradigm, then re-enter with a
+  one-line briefing and a **fresh** question — never the interrupted one. On no: finish the round,
+  then make it the round-end offer. Either way the row is logged. Once per round, and only
+  between questions. Full mechanics: [`drill/SKILL.md`](.agents/skills/drill/SKILL.md).
 - **Lenient grading:** close enough (typo, clear synonym, missing umlaut if obvious)
   counts as ✓. Soft miss → preferred form in one line, then next. Never accept a
   *clearly wrong* answer silently — silence reads as approval.

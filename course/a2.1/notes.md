@@ -304,3 +304,150 @@ Regular but inseparable (no *ge-*): *besuchen → besucht* · *erzählen → erz
 - *bloß nicht* = don't, absolutely not · *im Weg stehen* = to be in the way · *mittlerweile* = meanwhile / by now
 - *bislang* = so far · *zumindest* = at least · *ständig* = constantly · *plaudern* = to chat
 - *brotlos* = “breadless”, earning you no money: *So eine brotlose Kunst!*
+
+---
+
+# A2.1 Unit 3 — Technologie & Internet
+
+## Dativ: Indefinit-, Negativ- und Possessivartikel (U3)
+
+The dative grid the unit drills — *mit · von · bei* and the two-way prepositions with *Wo?*:
+
+| | m | f | n | Pl |
+|---|---|---|---|---|
+| **indefinit** | *einem* | *einer* | *einem* | — |
+| **negativ** | *keinem* | *keiner* | *keinem* | *keinen* |
+| **possessiv** | *meinem* | *meiner* | *meinem* | *meinen* |
+
+- *Gogo sitzt an einem Computer.* · *Er schreibt auf einer Tastatur.* · *Er arbeitet mit einem Touchpad.* · *Ich schreibe mit einem Stift.*
+- *Gogo sitzt an keinem Computer.* · *Er schreibt auf keiner Tastatur.* · *Friseure arbeiten mit keinen Computern.*
+- *Was machst du mit meinem Laptop?* · *Ich komme mit deinem Touchpad nicht so klar.* · *Ich schreibe auf meiner Tastatur.*
+- *Gogo sitzt an seinem Computer.* · *Katie sitzt an ihrem Laptop.* · *Katie und Bobbi sprechen mit ihren Nachbarn.* · *Herr Kraut, wohnen Sie bei Ihrer Freundin?*
+- *euer* verliert das *e* vor der Endung: *Wir sitzen in **eurem** Wohnzimmer.*
+- Plural + *-n*: *Du arbeitest mit deinen Computern.* · *Wir danken unseren Eltern.* · *Spielen Sie oft mit Ihren Kindern?*
+
+Dativ-Verben aus den Übungen: *helfen · glauben · vertrauen · gratulieren · danken* — *Ich helfe meinem Mitbewohner.* · *Katie hilft ihrer Nachbarin.* · *Die Mutter glaubt ihrem Kind.* · *Der Vater vertraut seinem Sohn.* · *Gratulierst du deinem Chef zum Geburtstag?*
+
+## Modalverben im Präteritum (U3)
+
+Präteritum ist die Vergangenheit der Modalverben — nicht das Perfekt. Nur **vier** Formen sind verschieden: *ich* = *er/sie/es*, *wir* = *sie/Sie*.
+
+| | müssen | können | dürfen | mögen | wollen |
+|---|---|---|---|---|---|
+| ich | musste | konnte | durfte | mochte | wollte |
+| du | musstest | konntest | durftest | mochtest | wolltest |
+| er/sie/es | musste | konnte | durfte | mochte | wollte |
+| wir | mussten | konnten | durften | mochten | wollten |
+| ihr | musstet | konntet | durftet | mochtet | wolltet |
+| sie/Sie | mussten | konnten | durften | mochten | wollten |
+
+- Bedeutung: *müssen* = Notwendigkeit oder Aufforderung (*Du musst mir helfen.*) · *können* = Fähigkeit oder Möglichkeit (*Man kann Fotos hochladen.*) · *dürfen* = erlaubt, *nicht dürfen* = verboten (*Er darf ihren Laptop nicht benutzen.*)
+- Satzklammer hält: Modal konjugiert auf Position 2, Hauptverb im Infinitiv am Ende — *Ich musste deine Kreditkarte angeben.* · *Was konnte man hochladen?* · *Durftest du ihren Laptop benutzen?*
+- Trennbare Verben bleiben am Ende **ganz**: *angeben*, nicht ~~an gab~~.
+- *mögen* steht meist als Vollverb mit Akkusativobjekt: *Früher mochte ich Comics.* · *Am liebsten mochte er Comics.*
+- Oppositionspaare: *Als Kind wollte ich immer fernsehen, aber ich durfte nicht.* · *Ich wollte E-Mails schreiben, aber ich konnte nicht.*
+- *möchten* hat **keine** Vergangenheit — *„Gogo, ich wollte dich sprechen."*
+
+## Denglisch (U3)
+
+Englische Verben bekommen im Infinitiv ein *-en*, werden wie deutsche Verben konjugiert, und ihr Partizip II endet auf *-t / -et*.
+
+| Infinitiv | Präsens | Partizip II |
+|---|---|---|
+| *chatten* | *Ich chatte mit meinen Freunden.* | gechattet |
+| *checken* | *Du checkst den Wetterbericht.* | gecheckt |
+| *googeln* | *Er googelt ihren Namen.* | gegoogelt |
+| *skypen* | *Ihr skypt mit eurer Familie.* | geskypt |
+| *mailen* | *Wir mailen dir heute Abend.* | — |
+| *surfen* | *Sie surfen im Internet.* | — |
+
+- *herunterladen* trennt: *Ich lade Bilder herunter.* (= *Ich lade Bilder runter.*) — *downloaden* trennt nicht: *Ich downloade Bilder.*
+
+## Wortfeld: Computer und Zubehör (U3)
+
+| Noun | Meaning |
+|---|---|
+| *der Computer* (Pl: *Computer*) = *der Rechner* (Pl: *Rechner*) | the computer |
+| *der (das) Laptop* (Pl: *Laptops*) | the laptop |
+| *das Tablet* (Pl: *Tablets*) | the tablet |
+| *die Maus* (Pl: *Mäuse*) | the mouse |
+| *das Touchpad* (Pl: *Touchpads*) | the touchpad |
+| *die Tastatur* (Pl: *Tastaturen*) | the keyboard |
+| *die Taste* (Pl: *Tasten*) | the key |
+| *der Bildschirm* (Pl: *Bildschirme*) | the screen |
+| *der USB-Stick* (Pl: *USB-Sticks*) | the USB flash drive |
+| *der USB-Anschluss* (Pl: *USB-Anschlüsse*) | the USB slot |
+| *die CD* (Pl: *CDs*) · *die DVD* (Pl: *DVDs*) | the CD · the DVD |
+| *das CD-/DVD-Laufwerk* (Pl: *CD-/DVD-Laufwerke*) | the CD/DVD drive |
+| *der Lautsprecher* (Pl: *Lautsprecher*) | the speaker |
+| *das Mikrofon* (Pl: *Mikrofone*) | the microphone |
+| *die Kamera* (Pl: *Kameras*) | the camera |
+| *der Kopfhörer / die Kopfhörer* | the headphones |
+| *das Kabel* (Pl: *Kabel*) | the cable |
+| *der Drucker* (Pl: *Drucker*) | the printer |
+| *der Scanner* (Pl: *Scanner*) | the scanner |
+| *das Passwort* (Pl: *Passwörter*) | the password |
+| *die E-Mail* (Pl: *E-Mails*) | the e-mail |
+| *das Dokument* (Pl: *Dokumente*) | the document |
+| *die Internetseite* (Pl: *Internetseiten*) | the internet page |
+| *die Webseite* (Pl: *Webseiten*) | the website |
+| *die Seite* (Pl: *Seiten*): *eine Seite anklicken, öffnen* — *Gogo klickt die Seite an.* | the page / site |
+| *das Internet* (= *das Netz*): *Gogo geht ins Internet.* / *Gogo ist im Internet.* | the Internet (= the net) |
+| *das Programm* (Pl: *Programme*): *Katie installiert ein Programm.* | the program |
+| *der Anhang*: *Das Dokument ist im Anhang.* — *Ich hänge das Dokument an eine E-Mail an.* | the attachment |
+| *der Wetterbericht* (Pl: *Wetterberichte*): *Du checkst den Wetterbericht.* | the weather forecast |
+| *das Suchergebnis* (Pl: *Suchergebnisse*) | the search result |
+| *das Benutzerkonto* (Pl: *Benutzerkonten*) | the user account |
+| *der Chat* | the chat |
+
+Verben: *anschalten / ausschalten* (= *anmachen / ausmachen*) · *installieren · programmieren · hochladen · herunterladen* (= *runterladen*) · *anklicken · öffnen · speichern · löschen · markieren · kopieren · ausschneiden · einfügen · (sich) anmelden · registrieren · (sich) abmelden · (sich) einloggen · weiterleiten · beantworten · schicken* (= *senden*) *· bekommen* (= *empfangen*) *· chatten · googeln · surfen · mailen · skypen*
+
+## Wortfeld: Personen beschreiben (U3)
+
+| Adjektiv | Gegenteil |
+|---|---|
+| *groß* | *klein* |
+| *dünn (schlank)* | *dick* |
+| *sportlich* | *unsportlich* |
+| *gutaussehend* (= *hübsch, schön*) | *hässlich* (!) |
+| *ehrlich* | *unehrlich* |
+| *humorvoll* (*lustig* = *witzig*) | *humorlos* |
+| *interessant* | *uninteressant (langweilig)* |
+| *sympathisch (nett)* | *unsympathisch* |
+| *spontan* | *nicht spontan* |
+| *romantisch* | *unromantisch* |
+| *anspruchsvoll* | *anspruchslos* |
+| *liebevoll* | *lieblos* |
+| *fantasievoll* | *fantasielos* |
+| *zuverlässig* | *unzuverlässig* |
+| *selbstständig* | *unselbstständig* |
+| *fleißig* | *faul* |
+
+- *„hässlich" sagen wir selten, weil es sehr hart klingt.* — Alternativ: *„nicht gutaussehend"* oder *„nicht so hübsch".*
+- Größe: *Er ist 1,89 m (Meter).* · *Er ist ein Meter neunundachtzig (groß).* · *Er ist eins neunundachtzig (groß).*
+- Haare: *Das Haar ist kurz // lang.* · *Die Haare sind glatt // lockig. = Sie hat Locken.* · *Sie hat einen Zopf* (Pl: *Zöpfe*). · *Er hat eine Glatze.* · *Er hat einen Bart* (*Vollbart, Dreitagebart, Schnurrbart*).
+- Augen: *das Auge* (Pl: *die Augen*) — *Er hat braune Augen.*
+- Haarfarbe: *dunkel // hell · blond · braun · rot · schwarz · grau · weiß* — *Sie ist blond, braunhaarig, rothaarig, …* · *Sie hat dunkle / rote / schwarze Haare.*
+- Augenfarbe: *braun · grau · grün · blau · blau-grün* — *Er hat braune Augen.* · *Seine Augenfarbe ist braun.*
+- Fragen: *Wie sieht er aus? · Wie groß ist er? · Welche Haarfarbe hat er? · Welche Augenfarbe hat er?*
+
+## Partizip II — new in U3
+
+Not irregular, but a new group: the borrowed *Denglisch* verbs, plus the two separable verbs of the unit. Full list in [`../a1.2/partizip-ii.md`](../a1.2/partizip-ii.md).
+
+| Infinitive | Partizip II |
+|---|---|
+| *draufklicken* | draufgeklickt |
+| *sich anmelden* | angemeldet |
+| *vermitteln* | vermittelt |
+| *checken* | gecheckt |
+| *chatten* | gechattet |
+| *skypen* | geskypt |
+| *googeln* | gegoogelt |
+
+## Footnotes and particles (U3)
+
+- *Nicht dafür.* = You're welcome (lit. “not for this”) — *Vielen Dank für den Tipp. — Nicht dafür.*
+- *Ich bin ja keine Petze.* — I'm not a tattletale.
+- *Jetzt reicht's!* = That's enough now! · *Jetzt bleib mal locker.* = Now, take it easy. · *Keine Angst …* = Don't worry …
+- Glossen: *das Netz* = the net · *online sein* = to be online · *runterladen* = *herunterladen*

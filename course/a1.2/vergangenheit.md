@@ -2,7 +2,7 @@
 
 Every past-tense thing the course teaches, each with an example. A1.2 Units 1, 6 and 7 —
 the Perfekt is introduced in U6, Präteritum *sein/haben* in U1, *denken/wissen/es gibt* in
-U7. A1.1 has no past tense.
+U7. A1.1 has no past tense. A2.1 U3 adds the **modal Präteritum**.
 
 Form inventory for the participles: [`partizip-ii.md`](partizip-ii.md).
 Source: `courses/a1.2/` booklet + LÖSUNGEN. Nothing here is invented.
@@ -71,8 +71,26 @@ Nine groups, all listed in [`partizip-ii.md`](partizip-ii.md):
 |---|---|---|
 | 18 | ***sein* → war** · ***haben* → hatte** — *ich* and *er/sie/es* are the same form; use these in speech, not the Perfekt | *Wo **warst** du gestern?* · *Ich **hatte** eine kleine Wohnung.* |
 | 19 | the set that prefers Präteritum in speech | *Ich **dachte**, du kommst morgen.* · *Ich **wusste** die Antwort nicht.* · *Es **gab** keine Milch.* |
+| 20 | **Modalverben** — the past of a modal is **always** the Präteritum, never the Perfekt (A2.1 U3) | *Ich **musste** deine Kreditkarte angeben.* |
 
 *Es gab* is the Präteritum of *es gibt* — one word, no auxiliary, no *ge-*.
+
+### The modals — six forms each, four distinct
+
+| | müssen | können | dürfen | mögen | wollen |
+|---|---|---|---|---|---|
+| ich | musste | konnte | durfte | mochte | wollte |
+| du | musstest | konntest | durftest | mochtest | wolltest |
+| er/sie/es | musste | konnte | durfte | mochte | wollte |
+| wir | mussten | konnten | durften | mochten | wollten |
+| ihr | musstet | konntet | durftet | mochtet | wolltet |
+| sie/Sie | mussten | konnten | durften | mochten | wollten |
+
+- *ich* = *er/sie/es*, and *wir* = *sie/Sie* — the same two collapses as *war/hatte*.
+- No auxiliary, so the **bracket survives**: the modal is the finite verb in position 2 and the main verb stays an infinitive at the end. *Ich musste deine Kreditkarte **angeben**.* · *Durftest du ihren Laptop **benutzen**?* — a separable verb stays **whole** (~~an gab~~).
+- *mögen* is a main verb, not a modal, but its past has the same shape: *Früher **mochte** ich Comics.*
+- *möchten* has **no past at all**: *„Gogo, ich **wollte** dich sprechen."*
+- Oppositions from the U3 answer key: *Als Kind **wollte** ich immer fernsehen, aber ich **durfte** nicht.* · *Ich **wollte** E-Mails schreiben, aber ich **konnte** nicht.*
 
 ### What *war* and *hatte* actually mean
 
@@ -166,13 +184,14 @@ stories and news. The regular pattern (stem + *-te*) exists; the booklet defers 
 | **Register decides, not meaning** | *Wie **war** dein Tag?* = *Wie **ist** dein Tag gewesen?* |
 | Speaking → Perfekt | *Ich habe gekocht.* |
 | Stories / news / literature → Präteritum | *Katie hatte eine kleine Wohnung.* |
-| Speaking, but unavoidable → Präteritum | *sein, haben, denken, wissen, es gibt* |
+| Speaking, but unavoidable → Präteritum | *sein, haben, denken, wissen, es gibt* · the modals (*musste · konnte · durfte · mochte · wollte*) |
 
 **For you, now: default to Perfekt.** The only Präteritum you need to *produce* is five
-words — *war · hatte · dachte · wusste · es gab*. General *ich kochte, ich ging* is
-**recognition-only**; you'll read it in stories, you don't build it. Even the booklet's
-own storytelling exercise uses the Perfekt: *Zuerst **hat** Gogo **gefrühstückt**. Dann
-**hat** er seine Ex-Frau **abgeholt**.*
+words — *war · hatte · dachte · wusste · es gab* — plus the modal set (*musste · konnte ·
+durfte · mochte · wollte*), which has no Perfekt alternative at all. General *ich kochte, ich
+ging* is **recognition-only**; you'll read it in stories, you don't build it. Even the
+booklet's own storytelling exercise uses the Perfekt: *Zuerst **hat** Gogo **gefrühstückt**.
+Dann **hat** er seine Ex-Frau **abgeholt**.*
 
 **Register** = the variety of language a situation calls for: spoken vs written, casual vs
 formal. English does this with vocabulary — *kids* / *children* / *offspring* mean the same
@@ -198,12 +217,15 @@ the system, and the full inventory lives in [`notes.md`](notes.md).
 | *stehen → **hat** gestanden* | *aufstehen → **ist** aufgestanden* |
 | *schlafen → **hat** geschlafen* | *einschlafen → **ist** eingeschlafen* |
 
-**3 · Five Präteritum words — §C.** The only Präteritum forms you *produce*:
+**3 · Five Präteritum words — §C.** The only non-modal Präteritum forms you *produce*:
 ***war · hatte · dachte · wusste · es gab***.
 
 **4 · The participles — one per verb.** The full inventory is
 [`partizip-ii.md`](partizip-ii.md). Four are irregular enough to flag:
 *gewesen · gehabt · geworden · passiert*.
+
+**5 · The modal Präteritum — §C.** Four distinct forms per verb, no auxiliary, no Perfekt
+alternative: ***musste · konnte · durfte · mochte · wollte***.
 
 **Not on the list — these are rules, not memory:**
 
