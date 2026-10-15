@@ -2,7 +2,7 @@
 
 Source: [`A2-1-KOMPLETT.pdf`](A2-1-KOMPLETT.pdf) · answers: [`A2-1_LOESUNGEN_KOMPLETT.pdf`](A2-1_LOESUNGEN_KOMPLETT.pdf)
 
-**Ingested:** units 1–3 · **Not yet:** units 4–10
+**Ingested:** units 1–4 · **Not yet:** units 5–10
 
 Ask: `/ingest` · `/teach` · `/drill`
 
@@ -13,7 +13,7 @@ Ask: `/ingest` · `/teach` · `/drill`
 | 1 | Haus & Nachbarn | Im Hof | ingested | 8–43 |
 | 2 | Kinder und Enkelkinder | Im Treppenhaus | ingested | 44–79 |
 | 3 | Technologie & Internet | Am Computer | ingested | 80–112 |
-| 4 | Kennenlernen | Beim Date | not yet | 113–146 |
+| 4 | Kennenlernen | Beim Date | ingested | 113–146 |
 | 5 | Sommer und Picknick | Im Park | not yet | 147–174 |
 | 6 | Ämter und Behörden | Auf dem Einwohnermeldeamt | not yet | 175–208 |
 | 7 | Essen bestellen | Zu Hause | not yet | 209–236 |

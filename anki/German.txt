@@ -2141,3 +2141,140 @@ I copy the word.	Ich kopiere das Wort.	a2.1 unit_03 chunk
 I cut the word out.	Ich schneide das Wort aus.	a2.1 unit_03 chunk
 I insert the word.	Ich füge das Wort ein.	a2.1 unit_03 chunk
 Gogo wants to chat with women.	Gogo möchte mit Frauen chatten.	a2.1 unit_03 chunk
+# ── A2.1 Unit 4 — Kennenlernen ──
+Everyone calls me Gogo.	Alle nennen mich Gogo.	a2.1 unit_04 chunk
+Oh, that's right.	Oh, das stimmt.	a2.1 unit_04 chunk
+You must earn a lot of money, right?	Da verdient man doch bestimmt viel Geld, oder?	a2.1 unit_04 chunk
+I can't complain at all.	Ich kann mich überhaupt nicht beklagen.	a2.1 unit_04 chunk
+Yes, very much so!	Ja, und wie!	a2.1 unit_04 chunk
+I think you've found the right one this time.	Ich glaube, diesmal hast du den Richtigen gefunden.	a2.1 unit_04 chunk
+Wow! Isn't your profession dangerous?	Wow! Ist dein Beruf nicht gefährlich?	a2.1 unit_04 chunk
+Think of something impressive quickly!	Denk dir schnell etwas Beeindruckendes aus!	a2.1 unit_04 chunk
+Really? You're a hero too?	Echt? Ein Held bist du auch noch?	a2.1 unit_04 chunk
+I really need to meet you.	Ich muss dich unbedingt treffen.	a2.1 unit_04 chunk
+Did you take my laptop again?	Hast du schon wieder meinen Laptop?	a2.1 unit_04 chunk
+No idea.	Keine Ahnung.	a2.1 unit_04 chunk
+Here again at last!	Endlich wieder hier!	a2.1 unit_04 chunk
+Wow, no! Disgusting!	Oh! Boah, nee! Widerlich!	a2.1 unit_04 chunk
+Hi Gogo! I'm glad that you're finally here!	Schön, dass du endlich da bist!	a2.1 unit_04 chunk
+Yes, sorry for the delay.	Ja, entschuldige die Verspätung.	a2.1 unit_04 chunk
+It doesn't matter, my hero.	Das macht nichts, mein Held.	a2.1 unit_04 chunk
+It is almost as beautiful as you.	Sie ist fast so schön wie du.	a2.1 unit_04 chunk
+That's kind of you.	Das ist lieb von dir.	a2.1 unit_04 chunk
+Oh, and the way you smile today.	Ach, und wie du heute lächelst.	a2.1 unit_04 chunk
+Gorgeous!	Umwerfend!	a2.1 unit_04 chunk
+Oh! So many compliments.	Oh! So viele Komplimente.	a2.1 unit_04 chunk
+Do you know what your eyes look like?	Weißt du, wie deine Augen aussehen?	a2.1 unit_04 chunk
+Like a starry sky.	Wie ein Sternenhimmel.	a2.1 unit_04 chunk
+You look gorgeous!	Du siehst umwerfend aus!	a2.1 unit_04 chunk
+You look pretty tonight.	Du siehst hübsch aus heute Abend.	a2.1 unit_04 chunk
+You're looking good!	Gut siehst du aus!	a2.1 unit_04 chunk
+You have great charisma.	Du hast eine tolle Ausstrahlung.	a2.1 unit_04 chunk
+Your smile is enchanting.	Dein Lächeln ist bezaubernd.	a2.1 unit_04 chunk
+I like your smile.	Ich mag dein Lächeln.	a2.1 unit_04 chunk
+You have beautiful eyes.	Du hast wunderschöne Augen.	a2.1 unit_04 chunk
+You are cute.	Du bist süß.	a2.1 unit_04 chunk
+You are a cutie.	Du bist eine Süße.	a2.1 unit_04 chunk
+You appeal to me.	Du gefällst mir.	a2.1 unit_04 chunk
+I like you.	Ich mag dich.	a2.1 unit_04 chunk
+I like you. (lit. I find you good)	Ich finde dich gut.	a2.1 unit_04 chunk
+I fancy you.	Ich steh' auf dich.	a2.1 unit_04 chunk
+I have a crush.	Ich bin verknallt.	a2.1 unit_04 chunk
+I fell in love with you at first sight.	Ich hab' mich auf den ersten Blick in dich verliebt.	a2.1 unit_04 chunk
+I'm in love.	Ich bin verliebt.	a2.1 unit_04 chunk
+I love you.	Ich liebe dich.	a2.1 unit_04 chunk
+I'm fond of you.	Ich hab' dich lieb.	a2.1 unit_04 chunk
+You are the woman of my life.	Du bist die Frau meines Lebens.	a2.1 unit_04 chunk
+You are the man of my life.	Du bist der Mann meines Lebens.	a2.1 unit_04 chunk
+You are the love of my life.	Du bist die Liebe meines Lebens.	a2.1 unit_04 chunk
+You are my everything!	Du bist mein Ein und Alles!	a2.1 unit_04 chunk
+Viola, I would like to get to know you better.	Viola, ich würde dich gerne besser kennenlernen.	a2.1 unit_04 chunk
+What are your hobbies?	Was sind denn deine Hobbys?	a2.1 unit_04 chunk
+I like to go climbing and hiking.	Ich gehe gern klettern und wandern.	a2.1 unit_04 chunk
+wo / woher / wohin — the three place questions?	wo = where · woher = where from · wohin = where to	a2.1 unit_04 pattern
+I love sailing.	Ich liebe es zu segeln.	a2.1 unit_04 chunk
+No, no, not me. But my ex-boyfriend did.	Nein, nein, ich nicht. Aber mein Exfreund.	a2.1 unit_04 chunk
+Do you have a boat?	Hast du ein Boot?	a2.1 unit_04 chunk
+Yes, I just got back from Hamburg yesterday.	Ja, ich bin gestern gerade erst aus Hamburg zurückgekommen.	a2.1 unit_04 chunk
+Unbelievable!	Unglaublich!	a2.1 unit_04 chunk
+And next week, I'm going to Venice — the city of love.	Und nächste Woche, da fliege ich nach Venedig — die Stadt der Liebe.	a2.1 unit_04 chunk
+And what are you doing tomorrow?	Und was machst du morgen?	a2.1 unit_04 chunk
+Shall we go to your yacht tomorrow?	Wollen wir morgen zu deiner Jacht fahren?	a2.1 unit_04 chunk
+I have a much better idea.	Ich habe eine viel bessere Idee.	a2.1 unit_04 chunk
+We'll go to the park tomorrow.	Wir gehen morgen in den Park.	a2.1 unit_04 chunk
+I have a yacht in Hamburg.	Ich habe eine Jacht in Hamburg.	a2.1 unit_04 chunk
+Don't give up now!	Jetzt nicht aufgeben!	a2.1 unit_04 chunk
+Where do you live?	Wo wohnst du?	a2.1 unit_04 chunk
+How old are you?	Wie alt bist du?	a2.1 unit_04 chunk
+Who are you?	Wer bist du?	a2.1 unit_04 chunk
+Do you have siblings?	Hast du Geschwister?	a2.1 unit_04 chunk
+I have a brother.	Ich habe einen Bruder.	a2.1 unit_04 chunk
+I have a sister.	Ich habe eine Schwester.	a2.1 unit_04 chunk
+Do you like travelling?	Reist du gern?	a2.1 unit_04 chunk
+I have already visited many countries.	Ich habe schon viele Länder besucht.	a2.1 unit_04 chunk
+Where have you been so far?	Wo warst du schon?	a2.1 unit_04 chunk
+The sun is shining today.	Heute scheint die Sonne.	a2.1 unit_04 chunk
+It has been raining all day.	Es regnet schon den ganzen Tag.	a2.1 unit_04 chunk
+It is really cold today.	Heute ist es aber kalt.	a2.1 unit_04 chunk
+charming	charmant	a2.1 unit_04 chunk
+the chance	die Chance · die Chancen	a2.1 unit_04 noun
+the opportunity	die Möglichkeit · die Möglichkeiten	a2.1 unit_04 noun
+cream	die Creme · die Cremes	a2.1 unit_04 noun
+the wallet	das Portemonnaie · die Portemonnaies	a2.1 unit_04 noun
+the wallet (German word)	die Geldbörse · die Geldbörsen	a2.1 unit_04 noun
+the rendezvous / romantic date	das Rendezvous · die Rendezvous	a2.1 unit_04 noun
+the director (of a film)	der Regisseur · die Regisseure	a2.1 unit_04 noun
+the restaurants (plural)	die Restaurants	a2.1 unit_04 noun
+the inn / restaurant (German word)	die Gaststätte · die Gaststätten	a2.1 unit_04 noun
+the genre	das Genre · die Genres	a2.1 unit_04 noun
+the dessert (German word)	die Nachspeise · die Nachspeisen	a2.1 unit_04 noun
+hobby	das Hobby · die Hobbys	a2.1 unit_04 noun
+free time	die Freizeit	a2.1 unit_04 noun
+journey / trip	die Reise · die Reisen	a2.1 unit_04 noun
+country	das Land · die Länder	a2.1 unit_04 noun
+yacht	die Jacht · die Jachten	a2.1 unit_04 noun
+sailboat	das Segelboot · die Segelboote	a2.1 unit_04 noun
+boat	das Boot · die Boote	a2.1 unit_04 noun
+ex-boyfriend	der Exfreund · die Exfreunde	a2.1 unit_04 noun
+charisma	die Ausstrahlung · die Ausstrahlungen	a2.1 unit_04 noun
+smile	das Lächeln · die Lächeln	a2.1 unit_04 noun
+starry sky	der Sternenhimmel	a2.1 unit_04 noun
+darling (pet name, lit. treasure)	der Schatz	a2.1 unit_04 noun
+darling (pet name)	der Liebling	a2.1 unit_04 noun
+bunny (pet name)	der Hase	a2.1 unit_04 noun
+pearl (pet name)	die Perle	a2.1 unit_04 noun
+snail (pet name)	die Schnecke	a2.1 unit_04 noun
+mouse (pet name)	die Maus	a2.1 unit_04 noun
+cherry (pet name)	die Kirsche	a2.1 unit_04 noun
+deshalb — where does the conjugated verb go?	Position 2, right after it: Deshalb musste ich auf dem Wannsee notlanden.	a2.1 unit_04 pattern
+deshalb inside the clause — the punctuation?	A period: Ich musste deshalb auf dem Wannsee notlanden.	a2.1 unit_04 pattern
+Variants of deshalb?	deswegen · daher · darum · aus diesem Grund	a2.1 unit_04 pattern
+deshalb — is the second clause the cause or the consequence?	The consequence (Ursache im ersten Satz)	a2.1 unit_04 pattern
+In a dass-clause, where does the conjugated verb stand?	At the end: Ich weiß, dass ich zu spät bin.	a2.1 unit_04 pattern
+A separable verb in a dass-clause?	Stays whole at the end: Ich will, dass du die Tür aufmachst.	a2.1 unit_04 pattern
+dass or das — which one opens a clause?	dass (double s)	a2.1 unit_04 pattern
+das — the two jobs it can do?	Definite article (Das Restaurant) or demonstrative pronoun (Das macht nichts.)	a2.1 unit_04 pattern
+Ich hoffe, ___ das Essen lecker ist.	dass	a2.1 unit_04 pattern
+Which form of an -eln verb may drop the -e?	Only ich: ich läch(e)le	a2.1 unit_04 pattern
+Which form of an -ern verb may drop the -e?	Only ich: ich wander(e)	a2.1 unit_04 pattern
+du + wandern?	du wanderst	a2.1 unit_04 verb
+wir + klingeln?	wir klingeln	a2.1 unit_04 verb
+Where does the second verb go with gehen?	Infinitive at the end: Ich gehe gern wandern.	a2.1 unit_04 pattern
+gehen + Infinitiv with a modal — the word order?	Both infinitives at the end: Ich will heute nicht arbeiten gehen.	a2.1 unit_04 pattern
+gehen + Infinitiv in the Perfekt?	Ich bin heute nicht arbeiten gegangen.	a2.1 unit_04 pattern
+Woher? / Wo? / Wohin? — the preposition for a city?	aus / in / nach	a2.1 unit_04 pattern
+A country with an article — the preposition for Wohin?	in + Akkusativ: in die Schweiz	a2.1 unit_04 pattern
+die Schweiz — Wohin?	in die Schweiz	a2.1 unit_04 pattern
+die USA — Wo?	in den USA	a2.1 unit_04 pattern
+der Irak — Woher?	aus dem Irak	a2.1 unit_04 pattern
+Woher kommst du? — the colloquial split form?	Wo kommst du her?	a2.1 unit_04 pattern
+Which five topics are safe for small talk?	Wetter · Familie · Arbeit · Freizeit · Reisen	a2.1 unit_04 pattern
+Which topics should you avoid in German small talk?	Politik · Religion · Beziehungen · persönliche Probleme · Geld	a2.1 unit_04 pattern
+auf jemanden stehen — case and meaning?	Akkusativ = to fancy someone: Ich stehe auf dich.	a2.1 unit_04 pattern
+to get to know — Partizip II?	kennengelernt	a2.1 unit_04 verb
+to fail / be cancelled — Partizip II?	ausgefallen	a2.1 unit_04 verb
+to attack — Partizip II?	angegriffen	a2.1 unit_04 verb
+to fall in love — Partizip II?	verliebt	a2.1 unit_04 verb
+I don't want to go to work today.	Ich will heute nicht arbeiten gehen.	a2.1 unit_04 chunk
+I didn't go to work today.	Ich bin heute nicht arbeiten gegangen.	a2.1 unit_04 chunk
+Three verbs in a dass-clause — where does the finite verb go?	Very last, after the infinitive and the participle: …, dass ich heute nicht arbeiten gegangen bin.	a2.1 unit_04 pattern

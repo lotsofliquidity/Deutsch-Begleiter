@@ -523,3 +523,36 @@ to insert (a word)	einfügen	a2.1 unit_03 verb
 to delete (a file)	löschen	a2.1 unit_03 verb
 to highlight (a word)	markieren	a2.1 unit_03 verb
 to save (a file)	speichern	a2.1 unit_03 verb
+
+# ── A2.1 Unit 4 — Kennenlernen ──
+wo / woher / wohin — the three place questions?	wo = where · woher = where from · wohin = where to	a2.1 unit_04 pattern
+deshalb — where does the conjugated verb go?	Position 2, right after it: Deshalb musste ich auf dem Wannsee notlanden.	a2.1 unit_04 pattern
+deshalb inside the clause — the punctuation?	A period: Ich musste deshalb auf dem Wannsee notlanden.	a2.1 unit_04 pattern
+Variants of deshalb?	deswegen · daher · darum · aus diesem Grund	a2.1 unit_04 pattern
+deshalb — is the second clause the cause or the consequence?	The consequence (Ursache im ersten Satz)	a2.1 unit_04 pattern
+In a dass-clause, where does the conjugated verb stand?	At the end: Ich weiß, dass ich zu spät bin.	a2.1 unit_04 pattern
+A separable verb in a dass-clause?	Stays whole at the end: Ich will, dass du die Tür aufmachst.	a2.1 unit_04 pattern
+dass or das — which one opens a clause?	dass (double s)	a2.1 unit_04 pattern
+das — the two jobs it can do?	Definite article (Das Restaurant) or demonstrative pronoun (Das macht nichts.)	a2.1 unit_04 pattern
+Ich hoffe, ___ das Essen lecker ist.	dass	a2.1 unit_04 pattern
+Which form of an -eln verb may drop the -e?	Only ich: ich läch(e)le	a2.1 unit_04 pattern
+Which form of an -ern verb may drop the -e?	Only ich: ich wander(e)	a2.1 unit_04 pattern
+du + wandern?	du wanderst	a2.1 unit_04 verb
+wir + klingeln?	wir klingeln	a2.1 unit_04 verb
+Where does the second verb go with gehen?	Infinitive at the end: Ich gehe gern wandern.	a2.1 unit_04 pattern
+gehen + Infinitiv with a modal — the word order?	Both infinitives at the end: Ich will heute nicht arbeiten gehen.	a2.1 unit_04 pattern
+gehen + Infinitiv in the Perfekt?	Ich bin heute nicht arbeiten gegangen.	a2.1 unit_04 pattern
+Woher? / Wo? / Wohin? — the preposition for a city?	aus / in / nach	a2.1 unit_04 pattern
+A country with an article — the preposition for Wohin?	in + Akkusativ: in die Schweiz	a2.1 unit_04 pattern
+die Schweiz — Wohin?	in die Schweiz	a2.1 unit_04 pattern
+die USA — Wo?	in den USA	a2.1 unit_04 pattern
+der Irak — Woher?	aus dem Irak	a2.1 unit_04 pattern
+Woher kommst du? — the colloquial split form?	Wo kommst du her?	a2.1 unit_04 pattern
+Which five topics are safe for small talk?	Wetter · Familie · Arbeit · Freizeit · Reisen	a2.1 unit_04 pattern
+Which topics should you avoid in German small talk?	Politik · Religion · Beziehungen · persönliche Probleme · Geld	a2.1 unit_04 pattern
+auf jemanden stehen — case and meaning?	Akkusativ = to fancy someone: Ich stehe auf dich.	a2.1 unit_04 pattern
+to get to know — Partizip II?	kennengelernt	a2.1 unit_04 verb
+to fail / be cancelled — Partizip II?	ausgefallen	a2.1 unit_04 verb
+to attack — Partizip II?	angegriffen	a2.1 unit_04 verb
+to fall in love — Partizip II?	verliebt	a2.1 unit_04 verb
+Three verbs in a dass-clause — where does the finite verb go?	Very last, after the infinitive and the participle: …, dass ich heute nicht arbeiten gegangen bin.	a2.1 unit_04 pattern

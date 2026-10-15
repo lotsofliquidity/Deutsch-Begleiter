@@ -201,6 +201,9 @@ These look regular but aren't — the stem changes, so they're learned individua
 | vorbeikommen | vorbeigekommen | to come over, drop by |
 | zurückkommen | zurückgekommen | to come back |
 | abbrechen | abgebrochen | to break off, drop out |
+| kennenlernen | kennengelernt | to get to know |
+| ausfallen | ausgefallen | to fail, be cancelled |
+| angreifen | angegriffen | to attack |
 
 ## No *ge-*, or otherwise special
 

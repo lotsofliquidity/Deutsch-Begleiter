@@ -795,22 +795,26 @@ Seed patterns not yet drilled from early units: [Hast du X dabei?](#hast-du-x-da
 **Slot:** person(s); pronoun matches gender/number
 **Register:** either
 
-**Behind it:** Personal pronouns replace a named noun. *Freut mich.* ≈ *Schön dich kennenzulernen.*
+**Behind it:** Personal pronouns replace a named noun. *Freut mich.* ≈ *Schön dich kennenzulernen.* A demonstrative *Das* also points back at a whole sentence rather than a person: *Entschuldige die Verspätung. — Das macht nichts.*
 
 **Instances**
 - Das ist meine Freundin. Sie heißt Joana. Sie ist Lehrerin.
 - Das ist mein Freund. Er heißt Pietro. Er ist Ingenieur.
 - Das sind meine Freunde. Sie kommen aus Italien.
 - Wer ist das? / Freut mich.
+- Entschuldige die Verspätung. — Das macht nichts.
+- Oh, ein Veilchen! — Das ist lieb von dir.
 
 **Ladder**
 1. Das ist Katie. → Sie ist aus Australien.
 2. Das ist Gogo. → Er kommt aus Berlin.
 3. Das sind Joana und Pietro. → Sie sprechen Italienisch.
 4. Freut mich.
-5. Trap: *Das ist meine Freunde* (*sind*)
+5. Entschuldige die Verspätung. — Das macht nichts.
+6. Trap: *Das ist meine Freunde* (*sind*)
+7. Trap: *~~Das macht nicht~~* — the fixed reply is *Das macht nichts*
 
-**Meta:** A1.1 Unit 6 · Dialog 3 · added 2026-09-20
+**Meta:** A1.1 Unit 6 · Dialog 3 · added 2026-09-20 · extended A2.1 Unit 4 (*Das* for a whole sentence)
 
 ---
 
@@ -1555,6 +1559,7 @@ The noun is the trigger, not the verb — even mass nouns that take no article i
 - Mein Vater ist größer als meine Mutter.
 - Katie ist lustiger als ihre Schwester.
 - Katie ist jung, ihre Schwester ist jünger, am jüngsten.
+- Sie ist fast so schön wie du.
 
 **Ladder**
 1. so alt wie
@@ -1563,9 +1568,11 @@ The noun is the trigger, not the verb — even mass nouns that take no article i
 4. größer als
 5. am jüngsten
 6. teurer als
-7. Trap: *mehr teuer* · *so älter wie* · *am lustigsten als*
+7. Sie ist fast so schön wie du. (*fast so … wie* — almost as … as)
+8. Trap: *mehr teuer* · *so älter wie* · *am lustigsten als*
+9. Trap: *~~Sie ist fast so schön als du~~* — *so … wie*, never *als*
 
-**Meta:** A1.2 Unit 2 · Dialog 2 · added 2026-09-29
+**Meta:** A1.2 Unit 2 · Dialog 2 · added 2026-09-29 · extended A2.1 Unit 4 (*fast so … wie*)
 
 ---
 
@@ -3943,6 +3950,444 @@ Well-attested everyday idioms, kept here as a starter set. Nothing else in this 
 10. Trap: ~~Ich habe gechatt~~ — the borrowed verb keeps its German participle ending
 
 **Meta:** A2.1 Unit 3 · Dialog 2 · added 2026-10-14
+
+---
+
+## deshalb
+
+**Frame:** `Hauptsatz 1, deshalb <Verb> <Subjekt> …` · `Hauptsatz 1. Deshalb <Verb> …` · `… Ich <Verb> deshalb …`
+**Meaning:** therefore — the second clause is the **consequence** of the first
+**Slot:** cause clause + consequence clause; variants *deswegen · daher · darum · aus diesem Grund*
+**Register:** neutral, both spoken and written
+
+**Behind it:** *deshalb* is an **adverb**, and it links two **main clauses** in a cause→consequence relation. Because it is an adverb it takes **position 1** and the conjugated verb comes straight after it, subject behind the verb — the inversion rule. It can also stand *inside* the second clause, in which case the subject keeps position 1. Punctuation: comma or period before it; but if it stands inside the clause, a **period** is required.
+
+| | Position 1 | Position 2 |
+|---|---|---|
+| … und **deshalb** | musste | ich auf dem Wannsee notlanden. |
+| …, **deshalb** | musste | ich auf dem Wannsee notlanden. |
+| …. **Deshalb** | musste | ich auf dem Wannsee notlanden. |
+| …. **Ich** | musste | **deshalb** auf dem Wannsee notlanden. |
+
+**Instances**
+- Gestern ist ein Triebwerk ausgefallen und deshalb musste ich auf dem Wannsee notlanden.
+- Wir haben Hunger, deshalb gehen wir ins Restaurant.
+- Gogo sucht eine Freundin, deshalb ist er auf einer Datingseite.
+- Der Computer von Gogo ist kaputt, deshalb nimmt er Katies Laptop.
+- Ich bin müde, deshalb gehe ich ins Bett.
+- Ich brauche Geld, deshalb suche ich eine Arbeit.
+- Sie hat Geburtstag, deshalb macht sie eine Party.
+- Sie machen eine Party, deshalb laden sie viele Freunde ein.
+- Jakob kann nicht schlafen, deshalb trinkt er Milch.
+- Die Prüfung ist sehr schwierig, darum müssen wir viel lernen.
+- Sie hat um 7 Uhr Unterricht, deswegen steht sie sehr früh auf.
+- Der Kühlschrank ist leer, deshalb kaufen wir im Supermarkt ein.
+- Gogo ist Pilot, daher fliegt er sehr viel.
+- Viola ist sehr nett, daher möchte Gogo sie kennenlernen.
+
+**Ladder**
+1. Gogo ist Pilot, deshalb fliegt er sehr viel.
+2. Wir haben Hunger, deshalb gehen wir ins Restaurant.
+3. Ich bin müde, deshalb gehe ich ins Bett.
+4. Ich möchte mit meiner Freundin sprechen, deshalb rufe ich sie an.
+5. Der Kühlschrank ist leer, deshalb kaufen wir im Supermarkt ein.
+6. Gogo ist Pilot, daher fliegt er sehr viel.
+7. Sie hat Geburtstag, deswegen macht sie eine Party.
+8. Ich musste deshalb auf dem Wannsee notlanden. (in the clause → period before)
+9. Trap: *~~Deshalb ich gehe ins Bett~~* — the verb follows *deshalb*, not the subject
+10. Trap: *~~Gogo ist Pilot, deshalb er fliegt sehr viel~~* — inversion after position 1
+11. Trap: *~~… deshalb ich musste …~~* — the modal is the conjugated verb and takes position 2
+
+**Meta:** A2.1 Unit 4 · Dialog 1 · added 2026-10-15
+
+---
+
+## dass-Sätze
+
+**Frame:** `Hauptsatz, dass <Subjekt> … <konjugiertes Verb>.`
+**Meaning:** a subordinate clause that completes a thought, a feeling, an opinion or knowledge
+**Slot:** *dass* + the whole clause; after *wissen · glauben · denken · hoffen · finden · meinen · sagen · Es tut mir leid · Es ist schön · Schade · Ich bin froh · Ich will*
+**Register:** neutral · the comma between the clauses is obligatory
+
+**Behind it:** In the main clause the conjugated verb is at **position 2**; in the *dass*-clause it goes to the **end**. The subject normally stands right behind *dass*. A **separable** verb stays **whole** at the end — the prefix does not leave it in a subordinate clause.
+
+**Instances**
+- Ich weiß, dass ich zu spät bin.
+- Es ist schade, dass du heute arbeiten musst.
+- Ich bin froh, dass du einen Tisch reserviert hast.
+- Ich dachte, dass es zu deinem Namen passt.
+- Er glaubt, dass sie Komplimente mag.
+- Schön, dass du endlich da bist!
+- Es tut mir leid, dass ich zu spät bin.
+- Ich finde, dass du schöne Augen hast.
+- Wir hoffen, dass ihr bald kommt.
+- Ich meine, dass dein Beruf gefährlich ist.
+- Ich möchte, dass du lächelst.
+- Ich hoffe, dass das Essen gut ist.
+- Ich weiß, dass der Koch aus Italien kommt.
+- Ich glaube, dass sie seinen Namen vergessen hat.
+- Ich hoffe, dass du mich einlädst.
+- Ich weiß, dass er heute nicht kommt.
+- Ich bin froh, dass du mich kennenlernen möchtest.
+- Es tut mir leid, dass ihr eure Arbeit verloren habt.
+- Ich will, dass du die Rechnung bezahlst.
+- Ich denke, dass ich mehr Deutsch lernen muss.
+- Ich weiß, dass ihr kochen könnt.
+- Separable: Ich will, dass du die Tür aufmachst.
+
+**Ladder**
+1. Ich weiß, dass ich zu spät bin.
+2. Es tut mir leid, dass ich zu spät bin.
+3. Ich hoffe, dass das Essen gut ist.
+4. Schön, dass du endlich da bist!
+5. Ich glaube, dass sie seinen Namen vergessen hat.
+6. Ich bin froh, dass du mich kennenlernen möchtest.
+7. Ich denke, dass ich mehr Deutsch lernen muss.
+8. Ich weiß, dass ihr kochen könnt. (modal at the very end)
+9. Ich will, dass du die Tür aufmachst. (separable verb stays whole)
+10. Trap: *~~Ich weiß, dass ich bin zu spät~~* — the verb goes to the end
+11. Trap: *~~Ich will, dass du machst die Tür auf~~* — no splitting in a subordinate clause
+12. Trap: *~~Ich weiß, dass ich zu spät bin~~* is right, but without the comma the sentence falls apart
+
+**Meta:** A2.1 Unit 4 · Dialog 2 · added 2026-10-15
+
+---
+
+## das vs dass
+
+**Frame:** `dass` = conjunction · `das` = article or demonstrative pronoun
+**Meaning:** one *s* introduces a clause; one *s* points at a noun
+**Slot:** two *s* → *dass* · one *s* → *das*
+**Register:** neutral — a spelling decision, and both can appear in one sentence
+
+**Behind it:** Ask what the word is doing. If it **joins** a subordinate clause to a main clause, it is *dass* with double *s*: *Wir hoffen, dass ihr bald kommt.* If it stands **in front of a noun** it is the definite article: *Das Restaurant ist schön.* If it **replaces** something already named — a noun or a whole sentence — it is the demonstrative pronoun *das*: *Das macht nichts.*
+
+**Instances**
+- Wir hoffen, dass ihr bald kommt. (conjunction)
+- Das Restaurant ist schön. · Das Veilchen ist für dich. (article)
+- Kennst du das Restaurant? — Nein, das kenne ich nicht. (demonstrative, replaces the noun)
+- Hast du das Profil von Viola gelesen? — Ja, das habe ich gelesen.
+- Entschuldige die Verspätung. — Das macht nichts. (replaces the whole sentence)
+- Oh, ein Veilchen! — Das ist lieb von dir.
+- Ich denke, dass er kommt.
+- Ich hoffe, dass ich keinen Fehler gemacht habe.
+- Mein Papagei ist gestorben. — Oh, das tut mir leid.
+- Ich habe einen Wein für dich bestellt. — Das ist sehr lieb von dir.
+- Ich weiß, dass sie Deutsch kann.
+- Wie findest du das Thema? — Das finde ich sehr interessant.
+- Gut, dass das Glas nicht kaputt ist. (both in one sentence)
+- Ich glaube, dass ich den Unterschied zwischen „das" und „dass" verstanden habe.
+
+**Ladder**
+1. Ich denke, dass er kommt.
+2. Ich weiß, dass sie Deutsch kann.
+3. Das Restaurant ist schön.
+4. Entschuldige die Verspätung. — Das macht nichts.
+5. Oh, ein Veilchen! — Das ist lieb von dir.
+6. Gut, dass das Glas nicht kaputt ist.
+7. Trap: *~~Ich denke, das er kommt~~* — a clause needs the double *s*
+8. Trap: *~~Dass Restaurant ist schön~~* — an article needs the single *s*
+
+**Meta:** A2.1 Unit 4 · Dialog 2 · added 2026-10-15
+
+---
+
+## Verben mit -eln
+
+**Frame:** `ich läch(e)le` — the *-e* before the *-l* may drop in the 1st person singular
+**Meaning:** a whole verb family whose stem ends in *-el*
+**Slot:** *lächeln · wechseln · sammeln · bügeln · angeln · googeln · klingeln*
+**Register:** both forms are correct; the short one is more common in speech
+
+**Behind it:** Only the **ich** form is at stake — everywhere else the ending is added to the full stem: *du lächelst · er lächelt · wir lächeln · ihr lächelt · sie lächeln*. Spoken German often drops the *-e* even further (*ich lächel · ich wechsel*), which is heard but not written in standard German.
+
+| | full | shortened |
+|---|---|---|
+| ich | lächele | lächle · (spoken: lächel) |
+| du | lächelst | lächelst |
+| er/sie/es | lächelt | lächelt |
+| wir | lächeln | lächeln |
+| ihr | lächelt | lächelt |
+| sie/Sie | lächeln | lächeln |
+
+**Instances**
+- Lächelst du immer so umwerfend?
+- Wo wechselst du dein Geld? — Ich wechsele es im Hotel.
+- Sammelt ihr Comics? — Nein, wir sammeln keine Comics.
+- Bügelst du deine Blusen? — Ja, ich bügele sie.
+- Mein Freund angelt gern. — Ich angle nicht gern.
+- Googelst du Violas Namen? — Ja, ich google ihn.
+- Klingelt ihr an der Tür? — Ja, wir klingeln gleich.
+
+**Ladder**
+1. lächeln → ich läch(e)le
+2. lächeln → du lächelst
+3. lächeln → wir lächeln
+4. wechseln → ich wech(s)le
+5. sammeln → wir sammeln
+6. bügeln → ich büg(e)le
+7. googeln → ich goog(e)le
+8. klingeln → wir klingeln
+9. Trap: *~~ich lächele~~* is correct too — but never *~~ich lächelst~~*
+10. Trap: *~~du lächle~~* — only the *ich* form may shorten
+
+**Meta:** A2.1 Unit 4 · Dialog 2 · added 2026-10-15
+
+---
+
+## Verben mit -ern
+
+**Frame:** `ich wander(e)` — the *-e* may drop in the 1st person singular
+**Meaning:** the verb family whose stem ends in *-er*
+**Slot:** *wandern · klettern · ändern · dauern · feiern · liefern · rudern · sichern · speichern*
+**Register:** both forms correct; the short one is the spoken norm
+
+**Behind it:** Like the *-eln* verbs, only the **ich** form varies: *du wanderst · er wandert · wir wandern · ihr wandert · sie wandern*. The *-er* stays in every other form — the ending is added after *-er*, so *du wanderst*, never ~~du wandrst~~.
+
+| | full | shortened |
+|---|---|---|
+| ich | wandere | wander · (klettere → kletter) |
+| du | wanderst | wanderst |
+| er/sie/es | wandert | wandert |
+| wir | wandern | wandern |
+| ihr | wandert | wandert |
+| sie/Sie | wandern | wandern |
+
+**Instances**
+- Wanderst du gern?
+- Wie lange dauert der Kurs?
+- Feiert ihr gern Partys? — Ja, wir feiern gern Partys.
+- Änderst du deine Meinung? — Nein, ich ändere meine Meinung nicht.
+- Wann liefern Sie die Waschmaschine? — Wir liefern sie am Montag.
+- Wo speicherst du das Dokument? — Ich speichere es hier.
+- Er klettert gern auf Bäume. — Das ist doch gefährlich! Ich klettere nie auf Bäume.
+
+**Ladder**
+1. wandern → ich wander(e)
+2. wandern → du wanderst
+3. klettern → er klettert
+4. dauern → wie lange dauert der Kurs?
+5. feiern → wir feiern gern Partys
+6. ändern → ich ändere meine Meinung nicht
+7. speichern → wo speicherst du das Dokument?
+8. Trap: *~~du wandrst~~* — the *-er* never disappears
+9. Trap: *~~ich feiere~~* is fine too, but *~~ich feierst~~* is not
+
+**Meta:** A2.1 Unit 4 · Dialog 3 · added 2026-10-15
+
+---
+
+## gehen + Infinitiv
+
+**Frame:** `gehen (konjugiert) … Infinitiv` — the second verb sits at the end
+**Meaning:** to go somewhere **in order to do** something
+**Slot:** *arbeiten · einkaufen · essen · joggen · schwimmen · schlafen · spazieren · wandern · klettern*
+**Register:** neutral — the everyday way to talk about hobbies and errands
+
+**Behind it:** You leave one place to do something in another, so *gehen* pairs with a bare infinitive. *gehen* is the conjugated verb in position 2, the other verb is an infinitive at the end — the same bracket as a modal. With a **modal** or in the **Perfekt** the infinitive pair stacks at the end: *Ich will heute nicht arbeiten gehen.* · *Ich bin heute nicht arbeiten gegangen.* *essen gehen* means going out to a restaurant to eat there.
+
+**Instances**
+- Ich gehe gern wandern und klettern.
+- Ich gehe gern joggen.
+- Ich gehe gern segeln.
+- Er geht jetzt schlafen.
+- Sie gehen einkaufen.
+- Gehen wir wandern?
+- Wohin geht ihr essen?
+- Gehst du heute arbeiten? — Nein, ich bin krank.
+- Gehen wir schwimmen?
+- Gehst du am Abend einkaufen?
+- Wann gehen Sie schlafen?
+- Katie und Bobbi gehen spazieren.
+- Gogo geht mit Viola essen.
+- Mit Modal: Ich will heute nicht arbeiten gehen.
+- Perfekt: Ich bin heute nicht arbeiten gegangen.
+- Im dass-Satz: Ich bin froh, dass ich heute nicht arbeiten gegangen bin.
+
+**Ladder**
+1. Ich gehe joggen.
+2. Ich gehe gern wandern.
+3. Er geht jetzt schlafen.
+4. Gehen wir schwimmen?
+5. Gehst du heute arbeiten?
+6. Sie gehen einkaufen.
+7. Ich will heute nicht arbeiten gehen.
+8. Ich bin heute nicht arbeiten gegangen.
+9. Ich bin froh, dass ich heute nicht arbeiten gegangen bin.
+10. Trap: *~~Ich gehe joggen machen~~* — a bare infinitive, no *machen*
+11. Trap: *~~Ich will heute nicht gehen arbeiten~~* — the infinitive pair stays together at the end
+
+**Meta:** A2.1 Unit 4 · Dialog 3 · added 2026-10-15
+
+---
+
+## aus, in, nach — Länder und Städte
+
+**Frame:** `Woher? → aus` · `Wo? → in` · `Wohin? → nach` (bare names) · with an article: `aus/in + Dativ`, `Wohin → in + Akkusativ`
+**Meaning:** the three movement questions decide the preposition — and the article decides the case
+**Slot:** cities (*Hamburg · Berlin · München*) and countries, with or without an article
+**Register:** neutral; *Wo kommst du her?* / *Wo fliegst du hin?* is the colloquial split form
+
+**Behind it:** Cities and most countries take **no article** and a bare preposition: *aus Hamburg · in Hamburg · nach Venedig*. A country **with** an article can't take *nach* — you switch to *in*. Then the case follows the question: *Woher?* and *Wo?* are **dative**, *Wohin?* is **accusative**.
+
+| | without article | with article |
+|---|---|---|
+| **Woher?** | aus Hamburg · aus Australien | aus **dem** Irak · aus **der** Schweiz · aus **den** USA |
+| **Wo?** | in Hamburg · in Australien | in **dem** Irak (= im Irak) · in **der** Schweiz · in **den** USA |
+| **Wohin?** | nach Venedig · nach Spanien | in **den** Irak · in **die** Schweiz · in **die** USA |
+
+Countries with an article: **maskulin** *der Irak · der Iran · der Jemen* — **feminin** *die Schweiz · die Slowakei · die Türkei · die Ukraine* — **neutrum** *das / der Kosovo* — **plural** *die USA / die Vereinigten Staaten · die Niederlande · die Vereinigten Arabischen Emirate*
+
+**Instances**
+- Er ist aus Hamburg gekommen.
+- Katie kommt aus Australien.
+- Henning kommt aus Österreich. · Ich komme aus der Schweiz.
+- Katie und Bobbi leben in Berlin. · Ich lebe in Charlottenburg.
+- Meine Familie lebt in Italien. · Ich habe letztes Jahr in Portugal studiert.
+- In Dresden habe ich viele Freunde.
+- Er hat eine Jacht in Hamburg.
+- Wir fliegen nach Spanien. · Ich fahre nach Köln.
+- Er fliegt nach Venedig. · Sie fliegt nach Australien zurück.
+- Gestern war ich in Paris und morgen reise ich nach Barcelona.
+- Ich mache in der Türkei Urlaub.
+- Wir fahren in die Schweiz. · Mein Bruder fährt in die Niederlande.
+- Ich fliege in die USA. · Ich fliege nächstes Jahr in die Ukraine.
+- Kommst du aus dem Iran? · Kommt ihr aus der Ukraine? · Sie fliegen in den Irak.
+- Meine Mutter lebt in den Niederlanden. · Seine Freundin kommt aus den Niederlanden.
+
+**Ladder**
+1. aus Hamburg
+2. in Berlin
+3. nach Venedig
+4. Ich komme aus der Schweiz.
+5. Meine Mutter lebt in den Niederlanden.
+6. Wir fliegen nach Spanien.
+7. Ich fliege in die USA.
+8. Sie fliegen in den Irak.
+9. Woher? — Wo? — Wohin? (the three questions before the preposition)
+10. Trap: *~~Ich fliege nach die Schweiz~~* — an article country switches to *in* + accusative
+11. Trap: *~~Ich lebe in der USA~~* — plural is *in **den** USA*
+12. Trap: *~~Ich fahre in Schweiz~~* — a country without an article needs no article at all
+
+**Meta:** A2.1 Unit 4 · Dialog 3 · added 2026-10-15
+
+---
+
+## Komplimente machen
+
+**Frame:** `Du siehst <Adj> aus!` · `Du hast <Adj> …!` · `Du gefällst mir.` · `Ich mag dich.`
+**Meaning:** giving compliments and saying you like someone — a whole register, from friendly to in love
+**Slot:** the marked adjective or noun + the person
+**Register:** *Deutsche flirten nicht oft und machen selten Komplimente* (booklet) — so these land differently in German than in English. *Ich steh' auf dich* is slang; *Ich liebe dich* is serious.
+
+**Behind it:** The set runs on a scale, and picking the wrong rung is the trap. The **preposition decides the meaning**: *auf jemand**en** stehen* (accusative) = to fancy someone — *Ich stehe auf dich.* · *auf jemand**em** stehen* (dative) = to be standing physically on someone — *Ich stehe auf dir.* The compliment itself is usually *aussehen* (*Du siehst … aus*), *haben* (*Du hast …*), *gefallen* (dative — *Du gefällst mir*) or *mögen* (*Ich mag dich*).
+
+**Instances**
+- Weißt du, wie deine Augen aussehen? — Wie ein Sternenhimmel.
+- Und wie du heute lächelst. Umwerfend!
+- Du siehst umwerfend aus!
+- Du siehst in dem Kleid einfach umwerfend aus.
+- Du siehst hübsch aus heute Abend. · Gut siehst du aus!
+- Du hast eine tolle Ausstrahlung.
+- Dein Lächeln ist bezaubernd. · Ich mag dein Lächeln.
+- Du hast wunderschöne Augen / Haare …
+- Du bist süß / hübsch. · Du bist eine Süße / Hübsche.
+- Du gefällst mir. · Ich mag dich. · Ich finde dich gut.
+- Ich steh' auf dich. · Ich bin verknallt.
+- Ich hab' mich auf den ersten Blick in dich verliebt. · Ich bin verliebt.
+- Ich liebe dich. · (Ich) hab' dich lieb.
+- Du bist die Frau / der Mann meines Lebens.
+- Du bist die Liebe meines Lebens. / Du bist meine große Liebe.
+- Du bist mein Ein und Alles!
+
+**Ladder**
+1. Du siehst umwerfend aus!
+2. Du siehst hübsch aus heute Abend.
+3. Du hast wunderschöne Augen.
+4. Du gefällst mir.
+5. Ich mag dich.
+6. Ich steh' auf dich.
+7. Ich hab' mich auf den ersten Blick in dich verliebt.
+8. Ich liebe dich.
+9. Trap: *~~Ich stehe auf dir~~* — for fancying someone it is *auf dich*
+10. Trap: *~~Du gefällst mich~~* — *gefallen* takes the **dative**: *Du gefällst **mir***
+11. Trap: *~~Ich liebe dich~~* said casually — the booklet's scale means this is the heavy one
+
+**Meta:** A2.1 Unit 4 · Dialog 2 · added 2026-10-15
+
+---
+
+## Kosenamen
+
+**Frame:** `mein/meine <Kosename>` — pet names for a partner
+**Meaning:** terms of endearment
+**Slot:** *Schatz · Liebling · Hase · Perle · Schnecke · Maus · Kirsche*
+**Register:** intimate; several are gendered in use, most are fine for either person
+
+**Behind it:** All of them are **nouns**, so they capitalise and take a possessive: *mein Schatz · meine Maus · meine Kirsche*. Grammatical gender does not always match the person — *der Hase*, *die Maus* and *die Schnecke* are used for anyone. *Ach, meine Kirsche.* is Gogo's line, not standard flirting.
+
+**Instances**
+- (der) Schatz (lit. treasure) — darling
+- (der) Liebling — darling
+- (der) Hase — bunny
+- (die) Perle — pearl
+- (die) Schnecke — snail
+- (die) Maus — mouse
+- (die) Kirsche — cherry
+- Ach, meine Kirsche.
+- Das macht nichts, mein Held.
+
+**Ladder**
+1. mein Schatz
+2. mein Liebling
+3. mein Hase
+4. meine Maus
+5. meine Perle
+6. Trap: *~~meine Schatz~~* — *der Schatz* is masculine
+7. Trap: capitalise them — a pet name is a noun, not an adjective
+
+**Meta:** A2.1 Unit 4 · Dialog 2 · added 2026-10-15
+
+---
+
+## Small Talk
+
+**Frame:** `Wie heißt du? · Woher kommst du? · Wo wohnst du? · Wie alt bist du?` → answer in a full sentence
+**Meaning:** the safe opening set — and the list of topics to leave alone
+**Slot:** weather · family · work · free time · travel
+**Register:** friendly neutral; *Was bist du von Beruf?* and *Was machst du beruflich?* are both fine
+
+**Behind it:** The booklet gives five safe topics (*Wetter, Familie, Arbeit, Freizeit, Reisen*) and five to avoid (*Politik, Religion, Beziehungen, persönliche Probleme, Geld*) — *Deutsche sprechen oft nicht gern über das Geld oder darüber, was sie verdienen.* The topic decides the verb: the weather takes *sein* and *scheinen*, family takes *haben*, work takes *sein* or *arbeiten*, free time takes *gehen + Infinitiv*, travel takes *reisen* and *sein*.
+
+**Instances**
+- Wie heißt du? / Wer bist du? / Wie ist dein Name? — Ich heiße Gogo.
+- Woher kommst du? — Ich komme aus Berlin.
+- Wo wohnst du? — Ich wohne in Berlin.
+- Wie alt bist du? — Ich bin 32 Jahre alt.
+- Heute scheint die Sonne, wie schön!
+- Es regnet schon den ganzen Tag, wie schrecklich!
+- Heute ist es aber kalt.
+- Hast du Geschwister? — Ja, ich habe einen Bruder. / Ich habe eine Schwester.
+- Was bist du von Beruf? / Was machst du beruflich? — Ich bin Pilot.
+- Was machst du in deiner Freizeit? / Was sind deine Hobbys? — Ich gehe gern wandern und klettern.
+- Reist du gern? — Ja, sehr gern. Ich habe schon viele Länder besucht.
+- Wo warst du schon? — Ich war schon in Frankreich, Portugal …
+- Wo wohnst du, Viola? — Ich wohne in Berlin Mitte.
+- Und was machst du in deiner Freizeit? — Ich gehe gern segeln.
+- Wie geht es dir? — Sehr gut, danke!
+- Meiden: Politik · Religion · Beziehungen · persönliche Probleme · Geld
+
+**Ladder**
+1. Wie heißt du? — Ich heiße Gogo.
+2. Woher kommst du? — Ich komme aus Berlin.
+3. Wo wohnst du? — Ich wohne in Berlin Mitte.
+4. Was machst du beruflich? — Ich arbeite als Model.
+5. Was machst du in deiner Freizeit? — Ich gehe gern segeln.
+6. Reist du gern? — Ja, sehr gern.
+7. Trap: *~~Wie ist dein Name?~~* is fine, but the answer keeps *heißen*: *Ich heiße …*
+8. Trap: asking about *Geld* or *Beziehungen* — the booklet's avoid-list, not a grammar error
+
+**Meta:** A2.1 Unit 4 · Dialog 3 · added 2026-10-15
 
 ---
 

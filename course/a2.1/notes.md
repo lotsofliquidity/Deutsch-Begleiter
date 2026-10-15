@@ -451,3 +451,162 @@ Not irregular, but a new group: the borrowed *Denglisch* verbs, plus the two sep
 - *Ich bin ja keine Petze.* — I'm not a tattletale.
 - *Jetzt reicht's!* = That's enough now! · *Jetzt bleib mal locker.* = Now, take it easy. · *Keine Angst …* = Don't worry …
 - Glossen: *das Netz* = the net · *online sein* = to be online · *runterladen* = *herunterladen*
+
+---
+
+# A2.1 Unit 4 — Kennenlernen
+
+## Satzverbindung mit „deshalb" (U4)
+
+*deshalb* ist ein **Adverb** und verbindet zwei **Hauptsätze** in einer Ursache-Folge-Beziehung.
+
+| Stellung | Beispiel |
+|---|---|
+| Position 1, mit *und* | *Gestern ist ein Triebwerk ausgefallen **und deshalb musste ich** auf dem Wannsee notlanden.* |
+| Position 1, nach Komma | *Wir haben Hunger**, deshalb gehen wir** ins Restaurant.* |
+| Position 1, nach Punkt | *Ich bin müde. **Deshalb gehe ich** ins Bett.* |
+| im Satz | *Ich **musste deshalb** auf dem Wannsee notlanden.* (Punkt nötig) |
+
+- Auf Position 1 folgt das **Verb**, das Subjekt geht dahinter — Verbposition 2.
+- Varianten mit gleicher Funktion: *deswegen · daher · darum · aus diesem Grund*.
+- *Gogo ist Pilot, daher fliegt er sehr viel.* · *Die Prüfung ist sehr schwierig, darum müssen wir viel lernen.*
+- *Sie hat um 7 Uhr Unterricht, deswegen steht sie sehr früh auf.*
+- *Der Kühlschrank ist leer, deshalb kaufen wir im Supermarkt ein.*
+
+## „dass"-Sätze (U4)
+
+*Ein dass-Satz ist ein Nebensatz, der den Sinn eines Hauptsatzes ergänzt.*
+
+| | Satz | Verb |
+|---|---|---|
+| Hauptsatz | *Ich **weiß**,* | Position **2** |
+| Nebensatz | *… dass ich zu spät **bin**.* | **Ende** |
+
+- *Es ist schade, dass du heute arbeiten musst.* · *Ich bin froh, dass du einen Tisch reserviert hast.*
+- *Schön, dass du endlich da bist!* · *Es tut mir leid, dass ich zu spät bin.*
+- *Ich glaube, dass sie seinen Namen vergessen hat.* · *Ich denke, dass ich mehr Deutsch lernen muss.*
+- *Ich weiß, dass ihr kochen könnt.* (Modal am Ende) · *Ich möchte, dass du lächelst.*
+- Das Subjekt steht meist direkt hinter *dass*; Komma zwischen HS und NS.
+- **Trennbare Verben** werden im Nebensatz **nicht** getrennt: *Du machst die Tür auf.* → *Ich will, dass du die Tür **aufmachst**.*
+
+## "das" oder "dass" (U4)
+
+| Wort | Funktion | Beispiel |
+|---|---|---|
+| *dass* (2 s) | **Konjunktion**, leitet Nebensatz ein | *Wir hoffen, dass ihr bald kommt.* |
+| *das* (1 s) | **bestimmter Artikel** | *Das Restaurant ist schön.* |
+| *das* (1 s) | **Demonstrativpronomen** (Nomen schon genannt) | *Kennst du das Restaurant? — Nein, das kenne ich nicht.* |
+| *das* (1 s) | **bezieht sich auf einen ganzen Satz** | *Entschuldige die Verspätung. — Das macht nichts.* |
+
+- Beide in einem Satz: *Ich hoffe, dass das Essen lecker ist.* · *Gut, dass das Glas nicht kaputt ist.*
+
+## Verben mit „-eln" und „-ern" (U4)
+
+Nur die **1. Person Singular** kann das *-e* verlieren; alle anderen Formen hängen die Endung an den vollen Stamm.
+
+| | -eln (*lächeln*) | -ern (*wandern*) |
+|---|---|---|
+| ich | *lächele / lächle* | *wandere / wander* |
+| du | *lächelst* | *wanderst* |
+| er/sie/es | *lächelt* | *wandert* |
+| wir | *lächeln* | *wandern* |
+| ihr | *lächelt* | *wandert* |
+| sie/Sie | *lächeln* | *wandern* |
+
+- *-eln:* *angeln · bügeln · googeln · klingeln · sammeln* — *Ich bügele sie.* · *Wir klingeln gleich.*
+- *-ern:* *ändern · dauern · feiern · liefern · rudern · sichern · speichern* — *Wie lange dauert der Kurs?* · *Ich speichere es hier.*
+- Umgangssprache vertauscht oft *-le* → *-el* (bzw. *-re* → *-er*): *ich lächel · ich wechsel*. Gehört, aber nicht Schriftsprache.
+
+## gehen + Infinitiv (U4)
+
+*gehen* wird konjugiert, das zweite Verb steht als **Infinitiv am Satzende** — wie eine Satzklammer.
+
+- *Ich gehe gern wandern und klettern.* · *Ich gehe joggen.* · *Er geht jetzt schlafen.*
+- *Sie gehen einkaufen.* · *Gehen wir schwimmen?* · *Gehst du heute arbeiten?*
+- *Wo geht ihr essen?* · *Wann gehen Sie schlafen?* · *Katie und Bobbi gehen spazieren.*
+- *essen gehen* = in ein Restaurant gehen, um dort zu essen: *Gogo geht mit Viola essen.*
+- Mit **Modalverb**: *Ich will heute nicht arbeiten gehen.* · **Perfekt**: *Ich bin heute nicht arbeiten gegangen.*
+- Im **dass-Satz**: *Ich bin froh, dass ich heute nicht arbeiten gegangen bin.*
+
+## Lokalpräpositionen: aus, in, nach (U4)
+
+| Frage | ohne Artikel | mit Artikel |
+|---|---|---|
+| *Woher?* | *aus Hamburg · aus Australien* | *aus **dem** Irak · aus **der** Schweiz · aus **den** USA* |
+| *Wo?* | *in Berlin · in Italien* | *in **dem** Irak (= im Irak) · in **der** Schweiz · in **den** Niederlanden* |
+| *Wohin?* | *nach Venedig · nach Spanien* | *in **den** Irak · in **die** Schweiz · in **die** USA* |
+
+Der Kasus folgt der Frage: *Woher?*/*Wo?* → **Dativ**, *Wohin?* → **Akkusativ**.
+
+Die drei Fragewörter: ***Woher?*** = where from · ***Wo?*** = where · ***Wohin?*** = where to.
+
+- *Woher kommst du? — Ich komme aus Berlin.* · *Wo wohnst du? — Ich wohne in Berlin.* · *Wohin fährst du? — Nach Köln.*
+- Umgangssprache trennt das Fragewort: *Wo kommst du **her**?* · *Wo fliegst du **hin**?*
+
+## Wortfeld: Länder mit Artikel (U4)
+
+| Genus | Länder |
+|---|---|
+| Maskulin | *der Irak · der Iran · der Jemen* |
+| Feminin | *die Schweiz · die Slowakei · die Türkei · die Ukraine* |
+| Neutrum | *das / der Kosovo* |
+| Plural | *die USA / die Vereinigten Staaten · die Niederlande · die Vereinigten Arabischen Emirate* |
+
+- In den Nachrichten neuerdings auch ohne Artikel: *Ich komme aus Iran. · Ich wohne in Irak. · Ich fliege nach Irak.*
+- Umgangssprache: *Woher kommst du? → Wo kommst du **her**?* · *Wohin fliegst du? → Wo fliegst du **hin**?*
+
+## Wortfeld: Französische Wörter im Deutschen (U4)
+
+*Gallizismen* — *Es gibt einige Wörter, die aus dem Französischen stammen.*
+
+| Wort | Bedeutung |
+|---|---|
+| *die Chance* (Pl: *Chancen*) | *die Möglichkeit* — the chance |
+| *charmant* | *bezaubernd, liebenswürdig* — charming |
+| *die Creme / Crème* (Pl: *Cremes*) | Salbe für die Haut; Süßspeise |
+| *das Dessert* (Pl: *Desserts*) | *die Nachspeise / der Nachtisch* |
+| *die Orange* (Pl: *Orangen*) · *orange* | die Frucht · die Farbe |
+| *das Portemonnaie* (Pl: *Portemonnaies*) | *die Geldbörse* — the wallet |
+| *das Rendezvous* (Pl: *Rendezvous*) | eine „romantische" Verabredung (= *das Date*) |
+| *der Regisseur* (Pl: *Regisseure*) | jemand, der einen Film macht |
+| *das Restaurant* (Pl: *Restaurants*) | *die Gaststätte* |
+| *das Genre* (Pl: *Genres*) | *die Gattung und Art* (Kunst, Kultur, Musik) |
+
+## Wortfeld: Freizeit und Reisen (U4)
+
+- *das Hobby* (Pl: *Hobbys*) · *die Freizeit* · *die Reise* (Pl: *Reisen*) · *das Land* (Pl: *Länder*) · *die Stadt* (Pl: *Städte*)
+- *klettern · wandern · joggen · schwimmen · segeln · spazieren gehen · angeln · rudern*
+- *reisen · besuchen · zurückkommen · fliegen · fahren*
+- *die Jacht* (Pl: *Jachten*) · *das Segelboot* (Pl: *Segelboote*) · *das Boot* (Pl: *Boote*) · *der Exfreund* (Pl: *Exfreunde*)
+- *Reist du gern? — Ja, sehr gern. Ich habe schon viele Länder besucht.*
+- *Wo warst du schon? — Ich war schon in Frankreich, Portugal …*
+- *der Sternenhimmel* · *die Ausstrahlung* · *das Lächeln* · *der Blick* · *das Veilchen* · *die Kirsche*
+
+## Kosenamen (U4)
+
+*(der) Schatz · (der) Liebling · (der) Hase · (die) Perle · (die) Schnecke · (die) Maus · (die) Kirsche*
+— darling (lit. treasure), darling, bunny, pearl, snail, mouse, cherry. Alle sind **Nomen**: *mein Schatz · meine Maus.*
+
+## Partizip II — new in U4
+
+Vollständige Liste in [`../a1.2/partizip-ii.md`](../a1.2/partizip-ii.md).
+
+| Infinitive | Partizip II |
+|---|---|
+| *kennenlernen* | kennengelernt |
+| *ausfallen* | ausgefallen |
+| *angreifen* | angegriffen |
+| *sich verlieben* | verliebt |
+
+Bereits gelistet und hier nur wieder verwendet: *gelesen · gesehen · vergessen · verloren · gegangen · gestorben · eingeladen · zurückgekommen*.
+
+## Footnotes and particles (U4)
+
+- *und wie!* — „and how!" = sehr, allerdings: *Ist dein Beruf nicht gefährlich? — Ja, und wie!*
+- *So, so!* — „well, well!" (ironisch): *Blonde, lange Haare und zwei so große … Augen. — So, so!*
+- *Keine Ahnung.* = no clue / no idea · *Widerlich!* = disgusting · *Boah, nee!* = wow, no
+- *Das macht nichts.* = that's okay / it doesn't matter · *Ui, das geht ja schnell.* = wow, that's fast
+- *zu Fuß* = on foot: *Er ist zu Fuß gegangen.* · *auf den ersten Blick* = at first sight
+- *nächste Woche, da fliege ich …* — topic fronted, then *da* + verb (Verbposition 2)
+- *Ich würde dich gerne besser kennenlernen.* — *würde* + *gerne* + Infinitiv = polite wish
+- *Wie ein Sternenhimmel.* — like a starry sky · *Du bist mein Ein und Alles!* — you are my everything

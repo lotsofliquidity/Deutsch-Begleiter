@@ -1,6 +1,6 @@
 # Grammatik — every rule so far
 
-**Scope:** A1.1 U1–U10 · A1.2 U1–U10 · A2.1 U1–U3 (both A1 booklets complete).
+**Scope:** A1.1 U1–U10 · A1.2 U1–U10 · A2.1 U1–U4 (both A1 booklets complete).
 Derived from [`patterns/patterns.md`](../patterns/patterns.md) + `a1.1/notes.md` + `a1.2/notes.md` + `a2.1/notes.md`.
 
 > This is the **map**, not the manual. Every rule gets a short statement, its booklet examples,
@@ -226,6 +226,8 @@ noun tells them apart (*der → den*), which is exactly why that change matters.
 - [`für + Akkusativ`](../patterns/patterns.md#für--akkusativ)
 - [`von + Dativ`](../patterns/patterns.md#von--dativ)
 - [`ab + Dativ`](../patterns/patterns.md#ab--dativ)
+- [`aus, in, nach — Länder und Städte`](../patterns/patterns.md#aus-in-nach--länder-und-städte)
+- [`Komplimente machen`](../patterns/patterns.md#komplimente-machen)
 - [`mir / dir`](../patterns/patterns.md#mir--dir)
 - [`Gratulieren und schenken`](../patterns/patterns.md#gratulieren-und-schenken)
 - [`Genitiv -s (Besitz)`](../patterns/patterns.md#genitiv--s-besitz)
@@ -487,6 +489,20 @@ Read the **last letters** of the noun first, before you reach for the article:
   - *Woher kommst du? → Ich komme **aus** Australien.* — Where are you from? → I'm from Australia.
   - Trap: ~~Ich komme Australien.~~
 
+- **Länder mit Artikel — *aus · in · nach*** *(A2.1 U4)*
+  - Cities and most countries take **no article**: *aus Hamburg · in Berlin · nach Venedig*
+  - A country **with** an article never takes *nach* — it switches to *in*:
+    - **Woher?** *aus* + Dativ: *aus **der** Schweiz* · *aus **dem** Irak* · *aus **den** USA*
+    - **Wo?** *in* + Dativ: *in **der** Schweiz* · *in **den** Niederlanden* · *Ich mache in **der** Türkei Urlaub.*
+    - **Wohin?** *in* + Akkusativ: *in **die** Schweiz* · *in **die** USA* · *in **den** Irak*
+  - Artikel-Länder: *der Irak · der Iran · der Jemen* · *die Schweiz · die Slowakei · die Türkei · die Ukraine*
+  - neutrum *das / der Kosovo* · plural *die USA · die Niederlande*
+  - Trap: ~~Ich fliege nach die Schweiz.~~ → *in die Schweiz* · ~~Ich lebe in der USA.~~ → *in **den** USA*
+
+- ***auf jemanden* / *auf jemandem stehen*** — the case changes the meaning *(A2.1 U4)*
+  - *auf jemand**en** stehen* (Akkusativ) = to fancy someone: *Ich stehe auf **dich**.*
+  - *auf jemand**em** stehen* (Dativ) = to be standing physically on someone: *Ich stehe auf **dir**.*
+
 - **Place words — position (*Wo?*)** *(U7)*
   - All measured from **the speaker** — *hier* is where you are, *da* is visible but away from you, *dort* is farther off
 
@@ -676,6 +692,31 @@ either one away and the verb stays whole — it is the conjugated form that sepa
   - *Wir mögen keine Erdnussbutter.* — We don't like peanut butter.
   - its past is *mochte*: *Früher **mochte** ich Comics.* — I used to like comics.
 
+- ***-eln* verbs** — only the *ich* form may drop the *-e* *(A2.1 U4)*
+  - *ich lächele = ich lächle* · *ich wechsele = ich wechsle* — everywhere else the ending is added to the full stem
+  - *du lächelst · er lächelt · wir lächeln · ihr lächelt · sie lächeln*
+  - *Lächelst du immer so umwerfend?* · *Ich wechsele es im Hotel.* · *Wir sammeln keine Comics.* · *Ich bügele sie.*
+  - family: *angeln · bügeln · googeln · klingeln · sammeln*
+  - Trap: ~~du lächle~~ — only *ich* may shorten · spoken *ich lächel* is heard but not written
+
+- ***-ern* verbs** — the same drop, and the *-er* never disappears *(A2.1 U4)*
+  - *ich wandere = ich wander* · *ich klettere = ich kletter*
+  - *du wanderst · er wandert · wir wandern · ihr wandert · sie wandern*
+  - *Wanderst du gern?* · *Wie lange dauert der Kurs?* · *Wir feiern gern Partys.* · *Ich ändere meine Meinung nicht.*
+  - family: *ändern · dauern · feiern · liefern · rudern · sichern · speichern*
+  - Trap: ~~du wandrst~~ — the *-er* stays
+
+- ***gehen* + Infinitiv** — *gehen* is conjugated, the second verb goes to the end *(A2.1 U4)*
+  - you leave a place in order to do something somewhere else
+  - *Ich **gehe** gern **wandern** und **klettern**.* — I like to go hiking and climbing.
+  - *Ich gehe joggen.* · *Er geht jetzt schlafen.* · *Gehen wir schwimmen?* · *Gehst du heute arbeiten?*
+  - fixed combinations: *arbeiten · einkaufen · essen · joggen · schwimmen · schlafen · spazieren*
+  - *essen gehen* means going out to a restaurant to eat there
+  - a modal or the Perfekt stacks the pair at the end:
+    - *Ich **will** heute nicht arbeiten **gehen**.* — I don't want to go to work today.
+    - *Ich **bin** heute nicht arbeiten **gegangen**.* — I didn't go to work today.
+  - Trap: ~~Ich gehe joggen machen~~ — the bare infinitive is enough
+
 - **Denglisch — a borrowed English verb is a German verb** *(A2.1 U3)*
   - the infinitive takes *-en*: *to chat = **chatten*** · *to check = **checken***
   - conjugated like any weak verb: *Ich chatte mit meinen Freunden.* · *Du checkst den Wetterbericht.* · *Er googelt ihren Namen.*
@@ -690,6 +731,9 @@ either one away and the verb stays whole — it is the conjugated form that sepa
 - [`Alternativer Imperativ`](../patterns/patterns.md#alternativer-imperativ)
 - [`sehen / schauen / gucken`](../patterns/patterns.md#sehen--schauen--gucken)
 - [`an- auf- aus- zu-machen`](../patterns/patterns.md#an--auf--aus--zu-machen)
+- [`Verben mit -eln`](../patterns/patterns.md#verben-mit--eln)
+- [`Verben mit -ern`](../patterns/patterns.md#verben-mit--ern)
+- [`gehen + Infinitiv`](../patterns/patterns.md#gehen--infinitiv)
 - [`mögen`](../patterns/patterns.md#mögen)
 - [`werden`](../patterns/patterns.md#werden)
 - [`einladen zu + Dativ`](../patterns/patterns.md#einladen-zu--dativ)
@@ -1013,7 +1057,35 @@ Full page: [vergangenheit.md](a1.2/vergangenheit.md) · all forms: [partizip-ii.
   - *Sie **geht** auch jeden Tag joggen.* — She also goes jogging every day.
   - *geht* is the conjugated verb in position 2, and *spazieren* / *joggen* sits at the end — the same bracket as a
     modal, and always written as **two words**. Only a **conjunction** moves the finite verb to the end — compare
-    *dass ich zu spät **bin*** *(§14)*. A comma on its own proves nothing.
+    *dass ich zu spät **bin*** below. A comma on its own proves nothing.
+
+- ***deshalb*** — cause → consequence, and it takes position 1 *(A2.1 U4)*
+  - *deshalb* is an **adverb** joining two **main clauses**: *Wir haben Hunger, deshalb **gehen wir** ins Restaurant.*
+  - on position 1 the verb follows it, subject behind the verb:
+    - *Gestern ist ein Triebwerk ausgefallen und deshalb **musste ich** auf dem Wannsee notlanden.*
+  - it may also stand inside the clause — then the subject keeps position 1: *Ich **musste deshalb** auf dem Wannsee notlanden.*
+  - punctuation: comma or period before it; if it stands *inside* the clause a **period** is required
+  - same meaning and function: *deswegen · daher · darum · aus diesem Grund* — *Gogo ist Pilot, **daher fliegt er** sehr viel.*
+  - Trap: ~~Gogo ist Pilot, deshalb er fliegt sehr viel~~ — inversion after position 1
+  - Trap: ~~… deshalb ich musste …~~ — the conjugated verb takes position 2, not the subject
+
+- ***dass*-Sätze** — the conjugated verb goes to the **end** *(A2.1 U4)*
+  - a subordinate clause completing a thought, feeling, opinion or knowledge; the comma is obligatory
+  - *Ich **weiß**, dass ich zu spät **bin**.* · *Es ist **schade**, dass du heute arbeiten **musst**.*
+  - *Ich **bin** froh, dass du einen Tisch reserviert **hast**.*
+  - the subject normally stands right behind *dass*
+  - triggers: *wissen · glauben · denken · hoffen · finden · meinen · sagen · Es tut mir leid · Es ist schön · Schade · Ich bin froh · Ich will*
+  - a **separable** verb stays **whole** at the end: *Du machst die Tür **auf**.* → *Ich will, dass du die Tür **aufmachst**.*
+  - *Ich möchte, dass du lächelst.* · *Ich weiß, dass ihr kochen könnt.* (modal at the very end)
+  - Trap: ~~Ich weiß, dass ich bin zu spät~~ — the finite verb belongs at the end
+
+- ***das* vs *dass*** — one *s* or two *(A2.1 U4)*
+  - *dass* (double *s*) is the **conjunction** and opens a subordinate clause: *Wir hoffen, dass ihr bald kommt.*
+  - *das* (single *s*) is the **definite article** before a noun: *Das Restaurant ist schön.*
+  - or the **demonstrative pronoun**, replacing a noun already named: *Kennst du das Restaurant? — Nein, **das** kenne ich nicht.*
+  - or pointing at a whole sentence: *Entschuldige die Verspätung. — **Das** macht nichts.*
+  - both can appear together: *Ich hoffe, dass **das** Essen lecker ist.*
+  - Trap: ~~Ich denke, das er kommt.~~ → *dass* · ~~Dass Restaurant ist schön.~~ → *Das*
 
 - ***und* / *aber* / *oder*** — no comma before *und* or *oder*; comma before *aber* *(A1.2 U5)*
   - *Ich komme aus Australien**, aber** meine Oma ist Deutsche.* — I'm from Australia, but my grandma is German.
@@ -1041,6 +1113,9 @@ Full page: [vergangenheit.md](a1.2/vergangenheit.md) · all forms: [partizip-ii.
 - [`Wie ist das Wetter?`](../patterns/patterns.md#wie-ist-das-wetter)
 - [`Personenangaben`](../patterns/patterns.md#personenangaben)
 - [`Satzverbindungen mit und, aber, oder`](../patterns/patterns.md#satzverbindungen-mit-und-aber-oder)
+- [`deshalb`](../patterns/patterns.md#deshalb)
+- [`dass-Sätze`](../patterns/patterns.md#dass-sätze)
+- [`das vs dass`](../patterns/patterns.md#das-vs-dass)
 
 ---
 
@@ -1246,6 +1321,7 @@ pointers rather than rules — the sentences themselves are in the unit files an
 
 **Small talk and plans**
 
+[Small Talk](../patterns/patterns.md#small-talk) ·
 [Hast du Lust? / Ich bin dabei.](../patterns/patterns.md#hast-du-lust--ich-bin-dabei) ·
 [Hast du Zeit?](../patterns/patterns.md#hast-du-zeit) ·
 [Wie findest du X?](../patterns/patterns.md#wie-findest-du-x) ·
@@ -1256,6 +1332,11 @@ pointers rather than rules — the sentences themselves are in the unit files an
 [Auf eine Einladung reagieren](../patterns/patterns.md#auf-eine-einladung-reagieren) ·
 [einladen zu + Dativ](../patterns/patterns.md#einladen-zu--dativ) ·
 [Gratulieren und schenken](../patterns/patterns.md#gratulieren-und-schenken)
+
+**Love and pet names**
+
+[Komplimente machen](../patterns/patterns.md#komplimente-machen) ·
+[Kosenamen](../patterns/patterns.md#kosenamen)
 
 **Course and everyday life**
 
@@ -1270,10 +1351,11 @@ pointers rather than rules — the sentences themselves are in the unit files an
 
 ## What this page does **not** cover
 
-Every rule in the ingested units (A1.1 U1–U10 · A1.2 U1–U10 · A2.1 U1–U3) is above, and every
-one of the 127 pattern sections is accounted
+Every rule in the ingested units (A1.1 U1–U10 · A1.2 U1–U10 · A2.1 U1–U4) is above, and every
+one of the 137 pattern sections is accounted
 for — §1–§14 as rules, §15 as formulas. Beyond the ingested units: full genitive articles,
-adjective endings (*des neuen Hauses*), relative clauses, *weil* with verb-final order,
+adjective endings (*des neuen Hauses*), relative clauses, and *weil* with verb-final order — the
+*dass*-clause is the one verb-final subordinate clause the course actually teaches;
 the A2.1 past perfect (not in A2.1 U1–U3), reflexive verbs (*sich verbessern* — it turns up inside a U7
 proverb gloss, but the *sich* system is never taught), and prepositions the booklets never
 drill (*ohne · gegen · während*). *seit* + dative appears in the U2 dialogue (*Sie wohnen seit vier

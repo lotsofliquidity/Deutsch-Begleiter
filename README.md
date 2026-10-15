@@ -48,15 +48,15 @@ Mixed drill, 15 questions, cold.
 
 ## Status
 
-A1.1 and A1.2 are **complete** (units 1–10 each); A2.1 has started — units 1–3 of 10.
+A1.1 and A1.2 are **complete** (units 1–10 each); A2.1 has started — units 1–4 of 10.
 
 | | |
 |---|---|
-| Units ingested | 23 |
-| Patterns in the library | 127 |
+| Units ingested | 24 |
+| Patterns in the library | 137 |
 | Rules in `grammatik.md` | every one of them, in 15 sections |
-| Glossary cards | ~2097 (`German.txt`) |
-| Cards in the deck | ~472 (`German-core.txt`) |
+| Glossary cards | ~2233 (`German.txt`) |
+| Cards in the deck | ~503 (`German-core.txt`) |
 
 ---
 
