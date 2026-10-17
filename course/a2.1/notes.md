@@ -610,3 +610,212 @@ Bereits gelistet und hier nur wieder verwendet: *gelesen · gesehen · vergessen
 - *nächste Woche, da fliege ich …* — topic fronted, then *da* + verb (Verbposition 2)
 - *Ich würde dich gerne besser kennenlernen.* — *würde* + *gerne* + Infinitiv = polite wish
 - *Wie ein Sternenhimmel.* — like a starry sky · *Du bist mein Ein und Alles!* — you are my everything
+
+---
+
+# A2.1 Unit 5 — Sommer und Picknick
+
+## Adjektive mit Dativergänzung (U5)
+
+Einige Adjektive brauchen ein **Dativobjekt**. *es* ist das Subjekt, *mir* das Dativobjekt — und man
+kürzt den Satz: *Es ist mir heiß.* → *Mir ist heiß.*
+
+| Adjektiv | Beispiel |
+|---|---|
+| *heiß · kalt · warm* | *Ist euch kalt / warm? — Ja, uns ist kalt / warm.* |
+| *langweilig* | *Es ist mir langweilig.* → *Mir ist langweilig.* |
+| *schlecht · übel* | *Katie hat zu viel Eis gegessen. Ihr ist schlecht.* |
+| *egal* | *Das ist mir egal. — Was ist dir egal?* |
+| *klar* | *Das ist uns nicht klar. — Was ist euch nicht klar?* |
+| *peinlich* | *Das ist mir peinlich. — Was ist dir peinlich?* |
+| *wichtig* | *Frau Koch, was ist Ihnen wichtig? — Mir ist wichtig, dass ich gut Deutsch spreche.* |
+
+Pronomen im Dativ: *mir · dir · ihm · ihr · uns · euch · ihnen / Ihnen.*
+
+**Dativ vs. Nominativ — was passiert dir vs. was du bist:**
+
+| Dativ (es passiert **mit** der Person) | Nominativ (eine **Eigenschaft** der Person) |
+|---|---|
+| *Es sind 35 Grad. = Mir ist heiß.* | *Ich bin heiß. = Ich bin sexy.* |
+| *Ich habe nichts zu tun. = Mir ist langweilig.* | *Ich bin langweilig. = Ich bin nicht interessant.* |
+| *Ich habe zu viel Eis gegessen. = Mir ist schlecht.* | *Ich bin schlecht. = Ich mache schlechte Dinge.* |
+
+## Modalpartikel „denn" (U5)
+
+- *denn* steht in der **Satzmitte**, hinter Verb und Pronomen, und macht **Fragen** freundlicher.
+- Interesse / Erstaunen: *Wo hast du **denn** Deutsch gelernt?* · *Wie alt bist du **denn**?* · *Was willst du **denn** mit dem Sonnenschirm?* · *Wie hast du das **denn** gemacht?*
+- Negative Überraschung / Kritik: *Was soll das **denn** heißen?* · *Bist du **denn** wahnsinnig?*
+- Keine grammatikalische Funktion — man kann *denn* weglassen: *Bist du **denn** wahnsinnig?* → *Bist du wahnsinnig?*
+- Umgangssprache: *Was ist **denn** passiert?* → *Was is'n passiert?*
+
+## Konjunktionen auf Position 0: und, oder, aber, denn (U5)
+
+*und · oder · aber · denn* verbinden zwei **Hauptsätze** und stehen auf **Position 0** — der zweite
+Satz behält die normale Ordnung (Subjekt, dann Verb).
+
+| Konjunktion | Komma? | Besonderheit |
+|---|---|---|
+| *und* | nein | gleiches Subjekt / gleiches Modal- oder Hilfsverb darf wegfallen |
+| *oder* | nein | Subjekt wiederholen, wenn das Verb ein anderes ist |
+| *aber* | ja | Subjekt wiederholen, wenn das Verb ein anderes ist |
+| *denn* | ja | Subjekt **und** konjugiertes Verb stehen immer da |
+
+- Subjekt weglassen: *Ich geh' schon mal los **und hol'** Viola ab.*
+- Modal- / Hilfsverb weglassen: *Ich **will** in den Park gehen und **ein Eis essen**.* · *Er **hat** den Picknickkorb gepackt und **die Schuhe angezogen**.* · *Sie **sind** früh aufgestanden und **in den Park gegangen**.*
+- Achtung: Steht nach *und* nicht das Subjekt auf Position 1, muss das Subjekt wiederholt werden: *Ich will in den Park gehen **und später will ich** ein Eis essen.*
+- Bei denselben Satzgliedern nach *aber / oder* fällt alles weg: *Er kann nicht segeln, **aber schwimmen**.*
+- Nach *denn* immer Subjekt + Verb: *Er ist nicht in den Park gegangen, **denn er war** müde.*
+
+## Inversion (U5)
+
+Auf Position 1 kann das Subjekt stehen — oder ein anderes Wort. Dann **Verb auf Position 2, Subjekt
+dahinter**. Position 1 hebt das Wort hervor.
+
+| Ohne Inversion | Mit Inversion |
+|---|---|
+| *Wir gehen **heute** in den Park.* | ***Heute gehen wir** in den Park.* · ***In den Park gehen wir** heute.* |
+| *Wir wollen heute in den Park gehen.* | ***Heute wollen wir** in den Park gehen.* |
+| *Gogo steht im Flur.* | ***Im Flur steht Gogo**.* |
+| *Wir können ein Eis essen.* | ***Ein Eis können wir** essen.* |
+| *Der Deutschkurs fängt am Montag an.* | ***Am Montag fängt der Deutschkurs** an.* |
+| *Ich habe gestern Deutsch gelernt.* | ***Gestern habe ich** Deutsch gelernt.* |
+| *Es gibt viele Blumen im Park.* | ***Viele Blumen gibt es** im Park.* · ***Im Park gibt es** viele Blumen.* |
+| *Katie geht am Abend einkaufen.* | ***Am Abend geht Katie** einkaufen.* |
+| *Bobbi legt die Decke auf die Wiese.* | ***Die Decke legt Bobbi** auf die Wiese.* |
+| *Gogo hat Viola im Internet kennengelernt.* | ***Im Internet hat Gogo** Viola kennengelernt.* |
+
+Auch *deshalb* auf Position 1 macht eine Inversion: *Wir möchten ein Picknick machen**, deshalb gehen wir** in den Park.*
+
+## Kausalsätze mit „weil" (U5)
+
+*weil* gibt einen **Grund** (Antwort auf *Warum? / Wieso?*) und leitet einen **Nebensatz** ein: das
+konjugierte Verb steht **am Ende**, Komma davor.
+
+- *Etwas Süßes für meine Süße, **weil du so süß bist**.*
+- *Wir haben einen Sonnenbrand, weil wir keine Sonnencreme **benutzt haben**.*
+- *Ich kann den Salat nicht essen, weil ich das Besteck **vergessen habe**.*
+- *Warum hat Peter wenig Freizeit? — Weil er viel **arbeiten muss**.* (Modal ganz am Ende)
+- *Warum sind sie nicht zu Hause? — Weil sie nach Venedig **gefahren sind**.*
+
+Der *weil*-Satz kann **allein** stehen, wenn die Situation klar ist — *Warum gibt Viola Gogo eine
+Ohrfeige? — Weil er sie angelogen hat.* — und er kann **vorne** stehen; dann beginnt der Hauptsatz
+mit dem finiten Verb:
+
+- *Sie gehen in den Park, weil sie ein Picknick machen wollen.*
+- *Weil sie ein Picknick machen wollen, **gehen sie** in den Park.*
+
+Tipp Umgangssprache (im Test falsch): *Warum geht ihr in den Park? — Weil wir **wollen** ein Picknick machen.* · *Ich habe keinen Hunger, weil ich **bin** krank.*
+
+| | *weil* | *denn* |
+|---|---|---|
+| Verb | am **Ende** (Nebensatz) | **Position 2** (Hauptsatz, Position 0) |
+| Register | gesprochen | geschrieben |
+
+## Wortfeld: der Sommer (U5)
+
+| Nomen | Englisch |
+|---|---|
+| *der Sommer* | summer |
+| *die Sonne · der Sonnenschein* | sun · sunshine |
+| *der Ventilator* (Pl: *Ventilatoren*) | fan |
+| *die Klimaanlage* (Pl: *Klimaanlagen*) | air conditioner |
+| *der Schweiß* | sweat |
+| *das Picknick* (Pl: *Picknicke / Picknicks*) | picnic |
+| *der Sonnenschirm* (Pl: *-schirme*) | parasol |
+| *der Sonnenhut* (Pl: *-hüte*) | sunhat |
+| *die Sonnenbrille* (Pl: *-brillen*) | sunglasses |
+| *die Sonnencreme* (Pl: *-cremes*) | sunscreen |
+| *der Sonnenbrand* (Pl: *-brände*) | sunburn |
+| *der Schatten* (Pl: *Schatten*) | shade |
+| *das Eis* (kein Plural) | ice cream |
+
+Sätze: *Es ist Sommer.* · *Die Sonne scheint.* · *Es ist warm / heiß.* · *Mir ist warm / heiß.* ·
+*Ich schwitze.* · *Wir machen ein Picknick.* · *Sie grillen.* · *Ich sonne mich.*
+
+## Wortfeld: ein Picknick machen (U5)
+
+| Nomen | Englisch |
+|---|---|
+| *der Picknickkorb* (Pl: *-körbe*) | picnic basket |
+| *die Decke* (Pl: *Decken*) | blanket |
+| *die Wiese* (Pl: *Wiesen*) | meadow |
+| *der Teich* (Pl: *Teiche*) | pond |
+| *die Ente* (Pl: *Enten*) | duck |
+| *die Blume* (Pl: *Blumen*) | flower |
+| *das Brot* (Pl: *Brote*) | bread |
+| *der Salat* (Pl: *Salate*) | salad |
+| *die Torte* (Pl: *Torten*) / *der Kuchen* (Pl: *Kuchen*) | layer cake / cake |
+| *die Serviette* (Pl: *Servietten*) | napkin |
+| *das Geschirr* (kein Pl.) · *der Teller* / *der Becher* | tableware · plate / cup |
+| *das Besteck* (Pl: *Bestecke*) · *das Messer* / *die Gabel* / *der Löffel* | cutlery · knife / fork / spoon |
+
+Verben: *den Picknickkorb vorbereiten / packen* · *den Picknickkorb auspacken* · *Essen, Getränke,
+Geschirr und Besteck einpacken.*
+
+## Wortfeld: einen Park beschreiben (U5)
+
+| Nomen | Englisch | Beispielsatz |
+|---|---|---|
+| *der Park* (Pl: *Parks*) | park | *Der Park ist schön / grün / ruhig.* |
+| *die Bank* (Pl: *Bänke*) | bench | *Die Leute sitzen auf den Bänken.* |
+| *der Brunnen* (Pl: *Brunnen*) | fountain | *Im Brunnen plätschert das Wasser.* |
+| *der Weg* (Pl: *Wege*) | path | *Die Leute laufen auf den Wegen.* |
+| *die Natur* (kein Pl.) | nature | *Ich genieße die Natur.* |
+| *die Pflanze* (Pl: *Pflanzen*) | plant | *Die Pflanzen wachsen.* |
+| *der Baum* (Pl: *Bäume*) | tree | *Der Baum ist sehr alt.* |
+| *der Busch* (Pl: *Büsche*) / *der Strauch* (Pl: *Sträucher*) | bush / shrub | *Die Sträucher blühen.* |
+| *das Gras* (Pl: *Gräser*) | grass | *Das Gras ist grün.* |
+| *der Vogel* (Pl: *Vögel*) | bird | *Die Vögel zwitschern.* |
+| *der Frosch* (Pl: *Frösche*) | frog | *Die Frösche quaken.* |
+| *der Hund* (Pl: *Hunde*) | dog | *Die Hunde bellen.* |
+| *die Ente* (Pl: *Enten*) | duck | *Die Enten schnattern.* |
+| *die Blume* (Pl: *Blumen*) | flower | *Die Blumen duften.* |
+
+## Irregular verbs used in U5
+
+| Infinitiv | Partizip II |
+|---|---|
+| *lügen* | gelogen |
+| *anlügen* | angelogen |
+| *einpacken* | eingepackt |
+| *auspacken* | ausgepackt |
+| *vorbereiten* | vorbereitet |
+| *schwitzen* | geschwitzt |
+| *grillen* | gegrillt |
+| *sich sonnen* | gesonnt |
+| *aufstehen* | aufgestanden |
+| *schlafen* | geschlafen |
+| *vergessen* | vergessen |
+| *passieren* | passiert (ist) |
+| *anmachen* | angemacht |
+| *erzählen* | erzählt |
+| *besuchen* | besucht |
+
+## Partizip II — new in U5
+
+Vollständige Liste in [`../a1.2/partizip-ii.md`](../a1.2/partizip-ii.md).
+
+| Infinitive | Partizip II |
+|---|---|
+| *lügen* | gelogen |
+| *anlügen* | angelogen |
+| *einpacken* | eingepackt |
+| *vorbereiten* | vorbereitet |
+| *schwitzen* | geschwitzt |
+| *grillen* | gegrillt |
+| *sich sonnen* | gesonnt |
+
+Bereits gelistet und hier nur wieder verwendet: *aufgestanden · geschlafen · vergessen · verloren · passiert · angemacht · erzählt · besucht · benutzt · eingekauft · ausgepackt · abgeholt · gegangen · gegessen*.
+
+## Footnotes and particles (U5)
+
+- *was* = *etwas*: *Haben wir **was** verpasst?* — Did we miss something?
+- *eh* = sowieso: *Ach, egal, die Sonne ist **eh** weg.*
+- *auf einmal* = all of a sudden: *Und irgendwie ist **auf einmal** Herbst.*
+- *sogar* = even: *Da ist **sogar** ein Teich mit Enten.*
+- *Was geht denn hier ab?* = What's going on here? · *Was soll denn das heißen?* = What's that supposed to mean?
+- *nicht direkt* = not exactly: *Es ist irgendwie … nicht direkt.*
+- *sowieso* = anyway: *Ich wollte **sowieso** mit Viola dahin gehen.*
+- *Meins!* = Mine! · *Du Lügner!* = You liar! · *Nun warte doch mal.* = Now wait a minute.
+- *zum Essen* vs *zum Kühlen*: *Eis **zum Essen*** — ice cream to eat; *Eis **zum Kühlen** von Getränken* — ice to cool drinks
+- *Die Komplimente waren genauso echt wie Violas Haare.* — a joke: they were as real as her hair (= a wig)

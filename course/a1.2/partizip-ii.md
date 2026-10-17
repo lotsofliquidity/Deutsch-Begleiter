@@ -49,6 +49,9 @@ match the Anki cards.
 | plaudern | geplaudert | to chat |
 | schimpfen | geschimpft | to scold |
 | vermitteln | vermittelt | to arrange, place |
+| schwitzen | geschwitzt | to sweat |
+| grillen | gegrillt | to barbecue |
+| sonnen (sich) | gesonnt | to sunbathe |
 
 ## Regular — `ge + Stamm + et`
 
@@ -110,6 +113,7 @@ like any weak one: *-t*, or *-et* after a stem in *-t/-d*.
 | entscheiden | entschieden | to decide |
 | gefallen | gefallen | to please |
 | missfallen | missfallen | to displease |
+| vorbereiten | vorbereitet | to prepare |
 
 ## Separable, regular — `Präfix + ge + Stamm + t`
 
@@ -121,6 +125,7 @@ like any weak one: *-t*, or *-et* after a stem in *-t/-d*.
 | anmachen | angemacht | to turn on |
 | zumachen | zugemacht | to close |
 | auspacken | ausgepackt | to unpack |
+| einpacken | eingepackt | to pack (in) |
 | ausmachen | ausgemacht | to turn off |
 | aufräumen | aufgeräumt | to tidy up |
 | anlächeln | angelächelt | to smile at |
@@ -162,6 +167,7 @@ like any weak one: *-t*, or *-et* after a stem in *-t/-d*.
 | stehen | gestanden | to stand |
 | werfen | geworfen | to throw |
 | hängen | gehangen | to hang (be hanging) |
+| lügen | gelogen | to lie |
 
 ## Irregular — `ge…t` (stem changes)
 
@@ -204,6 +210,7 @@ These look regular but aren't — the stem changes, so they're learned individua
 | kennenlernen | kennengelernt | to get to know |
 | ausfallen | ausgefallen | to fail, be cancelled |
 | angreifen | angegriffen | to attack |
+| anlügen | angelogen | to lie to |
 
 ## No *ge-*, or otherwise special
 

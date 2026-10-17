@@ -1,6 +1,6 @@
 # Grammatik — every rule so far
 
-**Scope:** A1.1 U1–U10 · A1.2 U1–U10 · A2.1 U1–U4 (both A1 booklets complete).
+**Scope:** A1.1 U1–U10 · A1.2 U1–U10 · A2.1 U1–U5 (both A1 booklets complete).
 Derived from [`patterns/patterns.md`](../patterns/patterns.md) + `a1.1/notes.md` + `a1.2/notes.md` + `a2.1/notes.md`.
 
 > This is the **map**, not the manual. Every rule gets a short statement, its booklet examples,
@@ -8,6 +8,13 @@ Derived from [`patterns/patterns.md`](../patterns/patterns.md) + `a1.1/notes.md`
 > The few rules that go *beyond* the booklets are marked *(general German)*; their examples are
 > course nouns too. Ladders and traps live in [patterns.md](../patterns/patterns.md). Two systems
 > have their own page: [vergangenheit.md](a1.2/vergangenheit.md) and [partizip-ii.md](a1.2/partizip-ii.md).
+
+**Terms used below.** *konjugiertes Verb* (= *finites Verb* / “conjugated verb”) — the one form in a
+clause that changes with its subject: *ich geh**e** · du geh**st** · er geh**t***. Every clause has
+exactly one. It is the form that holds **position 2**, the one that moves to the end after *weil* or
+*dass*, and the one that carries the tense. The other forms in the verb group — the **infinitive**
+(*gehen*) and the **Partizip II** (*gegangen*) — never change with the subject and stay put at the
+end: *Ich **will** heute nicht arbeiten **gehen**.* · *Ich **bin** heute nicht arbeiten **gegangen**.*
 
 ---
 
@@ -1020,11 +1027,22 @@ Full page: [vergangenheit.md](a1.2/vergangenheit.md) · all forms: [partizip-ii.
   - *Er ist groß.* — He's tall.
   - *Sie ist klein.* — She's short.
 
+- **Adjektive mit Dativergänzung** — how you *feel* takes a dative person *(A2.1 U5)*
+  - *Es ist **mir** heiß.* → ***Mir** ist heiß.* — I feel hot. (dative person, *es* is the real subject)
+  - *Es ist **mir** langweilig.* → ***Mir** ist langweilig.* — I'm bored.
+  - *Ist **euch** kalt / warm? — Ja, **uns** ist kalt.* · *Katie hat zu viel Eis gegessen. **Ihr** ist schlecht.*
+  - *Das ist **mir** egal. — Was ist **dir** egal?* · *Das ist **uns** nicht klar.* · *Das ist **ihm** nicht peinlich.*
+  - *Was ist **Ihnen** wichtig? — **Mir** ist wichtig, dass ich gut Deutsch spreche.*
+  - dative = what happens *to* you, nominative = what you *are*: *Es sind 35 Grad. = Mir ist heiß.* vs *Ich bin heiß. = Ich bin sexy.*
+  - Trap: ~~Ich bin langweilig~~ for “I'm bored” → *Mir ist langweilig*
+  - Trap: ~~Das ist mich egal~~ → the person is **dative**: *Das ist mir egal*
+
 *Deeper:*
 - [`so wie / -er als`](../patterns/patterns.md#so-wie---er-als)
 - [`Adjektiv verstärken`](../patterns/patterns.md#adjektiv-verstärken)
 - [`zu plus Adjektiv`](../patterns/patterns.md#zu-plus-adjektiv)
 - [`gern, lieber, am liebsten`](../patterns/patterns.md#gern-lieber-am-liebsten)
+- [`Adjektive mit Dativergänzung`](../patterns/patterns.md#adjektive-mit-dativergänzung)
 
 ---
 
@@ -1051,6 +1069,7 @@ Full page: [vergangenheit.md](a1.2/vergangenheit.md) · all forms: [partizip-ii.
 
 - ***denn*** — position 0, so the clause after it keeps normal order *(A1.2 U7)*
   - *Ich kann leider nicht zum Deutschunterricht kommen, **denn heute muss** ich arbeiten.* — Unfortunately I can't come to German class, because I have to work today.
+  - this is the **conjunction** (*because*); the **particle** *denn* in a question is a different word — it stands after the verb and the pronoun (§14)
 
 - **Comma ≠ verb-final** — with no conjunction the second clause keeps main-clause order: subject, then verb *(A1.2 U2)*
   - *Du meinst, sie **geht** spazieren?* — You mean she goes for a walk?
@@ -1087,9 +1106,41 @@ Full page: [vergangenheit.md](a1.2/vergangenheit.md) · all forms: [partizip-ii.
   - both can appear together: *Ich hoffe, dass **das** Essen lecker ist.*
   - Trap: ~~Ich denke, das er kommt.~~ → *dass* · ~~Dass Restaurant ist schön.~~ → *Das*
 
-- ***und* / *aber* / *oder*** — no comma before *und* or *oder*; comma before *aber* *(A1.2 U5)*
+- ***und* / *aber* / *oder* / *denn*** — Position 0 conjunctions: the second clause keeps normal order *(A1.2 U5 · A2.1 U5)*
+  - no comma before *und* or *oder*; comma before *aber* and *denn*
   - *Ich komme aus Australien**, aber** meine Oma ist Deutsche.* — I'm from Australia, but my grandma is German.
   - *Katie wohnt in einer WG **und** ihre Mitbewohner sind nett.* — Katie lives in a shared flat and her flatmates are nice.
+  - *Sie gehen in den Park**, denn sie wollen** ein Picknick machen.* — They go to the park, because they want to have a picnic.
+  - same subject + *und* → the subject is dropped: *Ich geh' schon mal los und **hol'** Viola ab.*
+  - a repeated modal or auxiliary drops too: *Ich **will** in den Park gehen und **ein Eis essen**.* · *… und **die Schuhe angezogen**.*
+  - after *aber / oder* the subject repeats when the verb is a different one: *…, aber **wir haben** heute keine Zeit.*
+  - identical sentence parts may all drop: *Er kann nicht segeln, **aber schwimmen**.*
+  - if position 1 after *und* is **not** the subject, the subject returns: *… und **später will ich** ein Eis essen*
+  - after *denn* subject **and** verb are always there: *…**, denn er war** müde*
+  - Trap: ~~…, denn muss ich arbeiten~~ — *denn* is position 0, so the normal order follows
+
+- ***weil*** — causal clause, the conjugated verb goes to the **end** *(A2.1 U5)*
+  - *Etwas Süßes für meine Süße, **weil du so süß bist**.* — Something sweet for my sweetie, because you are so sweet.
+  - *Wir haben einen Sonnenbrand, weil wir keine Sonnencreme **benutzt haben**.* — We have sunburn because we didn't use sunscreen.
+  - the *weil*-clause can be the whole answer: *Warum gibt Viola Gogo eine Ohrfeige? — Weil er sie **angelogen hat**.*
+  - *weil* first → the main clause starts with its finite verb: *Weil sie ein Picknick machen wollen, **gehen sie** in den Park.*
+  - *weil* is the spoken “because”; *denn* (position 0, normal order) is more written
+  - the **spoken verb-second variant** — *weil* behaving like a coordinating conjunction *(general German)*
+    - **speech only, never in a test**: *Warum geht ihr in den Park? — Weil wir **wollen** ein Picknick machen.* · *Ich habe keinen Hunger, weil ich **bin** krank.*
+    - it works when the *weil*-clause is a **separate assertion**: a new reason, an afterthought, or the answer to a real *Warum?*
+    - impossible when the clause is **fronted** — position 1 forces verb-final: ~~Weil sie wollen ein Picknick machen, gehen sie in den Park~~ → *Weil sie ein Picknick machen **wollen**, gehen sie in den Park*
+    - impossible when the main clause has a **correlate** pointing at the reason (*deshalb · darum · deswegen · nur deshalb · vor allem deshalb*): *Gogo geht nur deshalb in den Park, weil er Viola **treffen will**.* (~~… weil er will Viola treffen~~)
+    - impossible when the causal link itself is focused or negated (*nicht … weil*) — the integrated reading needs the verb at the end
+    - in writing, position 2 has its own conjunction: use *denn*
+  - Trap: ~~Weil ich habe keinen Hunger~~ → *weil ich keinen Hunger habe*
+
+- **Inversion** — anything but the subject on position 1 → verb 2, subject behind it *(A2.1 U5)*
+  - *Wir gehen heute in den Park.* → *Heute **gehen wir** in den Park.* → *In den Park **gehen wir** heute.*
+  - with a modal the bracket holds: *Heute **wollen wir** in den Park gehen.*
+  - *Im Flur **steht Gogo**.* · *Ein Eis **können wir** essen.* · *Am Montag **fängt der Deutschkurs** an.*
+  - *Gestern **habe ich** Deutsch gelernt.* · *Im Internet **hat Gogo** Viola kennengelernt.*
+  - the same inversion with *deshalb* on position 1: *…, deshalb **gehen wir** in den Park.*
+  - Trap: ~~Heute wir gehen in den Park~~ — the time is position 1, so the verb is position 2
 
 - **Sequence words** — when *dann / danach* starts the sentence, the verb still holds position 2
   - ***Zuerst hat** Gogo gefrühstückt.* — First Gogo had breakfast.
@@ -1116,6 +1167,8 @@ Full page: [vergangenheit.md](a1.2/vergangenheit.md) · all forms: [partizip-ii.
 - [`deshalb`](../patterns/patterns.md#deshalb)
 - [`dass-Sätze`](../patterns/patterns.md#dass-sätze)
 - [`das vs dass`](../patterns/patterns.md#das-vs-dass)
+- [`Kausalsätze mit weil`](../patterns/patterns.md#kausalsätze-mit-weil)
+- [`Inversion`](../patterns/patterns.md#inversion)
 
 ---
 
@@ -1227,9 +1280,22 @@ Full page: [vergangenheit.md](a1.2/vergangenheit.md) · all forms: [partizip-ii.
   - *Wie heißt ihr? → Wir heißen …* — What are your names? → We're called
 
 - **Modal particles** — flavour, not content. Dropping them leaves a correct sentence.
-  - *denn* — makes a question sound natural rather than probing
+  - *denn* — makes a question sound natural rather than probing *(A1.1 U1 · A2.1 U5)*
+    - position: *denn* stands in the middle of the sentence, **after the verb and the pronoun** — never at the end
+      - booklet wording: *Modalpartikeln stehen meistens in der Satzmitte hinter dem Verb und dem Pronomen.*
+      - *Wo **hast du denn** Deutsch gelernt?* · *Wie alt **bist du denn**?*
+      - *Was **willst du denn** mit dem Sonnenschirm?* · *Was **soll das denn** heißen?*
+      - Trap: ~~Wo hast du Deutsch gelernt denn?~~ — that is the conjunction position, not the particle
     - *Woher kommst du **denn**?* — Where are you from, then?
     - *Wo ist **denn** mein Anschnallgurt?* — Where's my seatbelt, then?
+    - it makes questions friendlier and more relaxed, or shows interest and astonishment
+      - *Wo hast du **denn** Deutsch gelernt?* · *Wie alt bist du **denn**?*
+      - *Was willst du **denn** mit dem Sonnenschirm?* · *Wie hast du das **denn** gemacht?*
+    - it also carries negative surprise or criticism
+      - *Was soll das **denn** heißen?* — What's that supposed to mean?
+      - *Bist du **denn** wahnsinnig?* — Are you crazy?
+    - it has no grammatical function, so it can be dropped: *Bist du **denn** wahnsinnig?* → *Bist du wahnsinnig?*
+    - spoken contraction: *Was ist denn passiert?* → *Was is'n passiert?*
   - *eigentlich* — softens a question you should have asked earlier
     - *Wie heißt du **eigentlich**?* — What's your name, by the way?
   - *doch* — contradicts a negative question
@@ -1308,7 +1374,9 @@ pointers rather than rules — the sentences themselves are in the unit files an
 [Ist hier eine X?](../patterns/patterns.md#ist-hier-eine-x--ja-die-x) ·
 [Wo ist mein/dein/Ihr X?](../patterns/patterns.md#wo-ist-meindeinihr-x) ·
 [Wo ist / Ich suche / Wo finde ich X?](../patterns/patterns.md#wo-ist--ich-suche--wo-finde-ich-x) ·
-[Wohin möchten Sie fahren?](../patterns/patterns.md#wohin-möchten-sie-fahren)
+[Wohin möchten Sie fahren?](../patterns/patterns.md#wohin-möchten-sie-fahren) ·
+[Haben wir noch X?](../patterns/patterns.md#haben-wir-noch-x) ·
+[Heißt das, dass …?](../patterns/patterns.md#heißt-das-dass-)
 
 **Restaurant and food**
 
@@ -1338,6 +1406,13 @@ pointers rather than rules — the sentences themselves are in the unit files an
 [Komplimente machen](../patterns/patterns.md#komplimente-machen) ·
 [Kosenamen](../patterns/patterns.md#kosenamen)
 
+**Summer, picnic and park**
+
+[etwas Süßes](../patterns/patterns.md#etwas-süßes) ·
+[zu zweit / zu dritt / zu viert](../patterns/patterns.md#zu-zweit--zu-dritt--zu-viert) ·
+[sich vor + Dativ schützen](../patterns/patterns.md#sich-vor--dativ-schützen) ·
+[Lass X doch erst mal …](../patterns/patterns.md#lass-x-doch-erst-mal-)
+
 **Course and everyday life**
 
 [Im Kurs](../patterns/patterns.md#im-kurs) ·
@@ -1351,12 +1426,12 @@ pointers rather than rules — the sentences themselves are in the unit files an
 
 ## What this page does **not** cover
 
-Every rule in the ingested units (A1.1 U1–U10 · A1.2 U1–U10 · A2.1 U1–U4) is above, and every
-one of the 137 pattern sections is accounted
+Every rule in the ingested units (A1.1 U1–U10 · A1.2 U1–U10 · A2.1 U1–U5) is above, and every
+one of the 146 pattern sections is accounted
 for — §1–§14 as rules, §15 as formulas. Beyond the ingested units: full genitive articles,
-adjective endings (*des neuen Hauses*), relative clauses, and *weil* with verb-final order — the
-*dass*-clause is the one verb-final subordinate clause the course actually teaches;
-the A2.1 past perfect (not in A2.1 U1–U3), reflexive verbs (*sich verbessern* — it turns up inside a U7
+adjective endings (*des neuen Hauses*), relative clauses, the A2.1 past perfect (not in A2.1 U1–U3),
+reflexive verbs (*sich verbessern* — it turns up inside a U7
 proverb gloss, but the *sich* system is never taught), and prepositions the booklets never
 drill (*ohne · gegen · während*). *seit* + dative appears in the U2 dialogue (*Sie wohnen seit vier
 Jahren in Kanada.*) but is not taught until A2.1 U6, so it is a chunk here, not a rule.
+*weil* joins *dass* as a verb-final subordinate clause from A2.1 U5.

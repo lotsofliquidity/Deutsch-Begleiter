@@ -6,7 +6,7 @@ description: >-
   modal particles. Use when they say /teach, "teach me possessives / articles /
   conjugation", or ask how a table works. Explains with contrast tables, runs a
   short mini-check, adds Anki cards. Only teach what is already in notes/units —
-  A1.1 U1–U10, A1.2 U1–U10 are complete and A2.1 is underway (U1–U4 so far), and
+  A1.1 U1–U10, A1.2 U1–U10 are complete and A2.1 is underway (U1–U5 so far), and
   `course/grammatik.md` indexes every rule. Not for parsing units (/ingest) or full
   drill rounds (/drill).
 ---
@@ -54,7 +54,7 @@ When a later unit adds e.g. adjective endings or more conjunctions, thicken
 
 ## Learned so far — 24 units
 
-A1.1 U1–U10 and A1.2 U1–U10 are ingested, plus A2.1 U1–U4 — the whole inventory so far is teachable.
+A1.1 U1–U10 and A1.2 U1–U10 are ingested, plus A2.1 U1–U5 — the whole inventory so far is teachable.
 
 **The inventory lives in [`course/grammatik.md`](../../../course/grammatik.md)** — 15 sections,
 every rule, each with booklet examples and the unit it came from. Read that before teaching

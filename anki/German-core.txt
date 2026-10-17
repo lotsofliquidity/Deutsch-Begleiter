@@ -556,3 +556,55 @@ to fail / be cancelled — Partizip II?	ausgefallen	a2.1 unit_04 verb
 to attack — Partizip II?	angegriffen	a2.1 unit_04 verb
 to fall in love — Partizip II?	verliebt	a2.1 unit_04 verb
 Three verbs in a dass-clause — where does the finite verb go?	Very last, after the infinitive and the participle: …, dass ich heute nicht arbeiten gegangen bin.	a2.1 unit_04 pattern
+Ist dir kalt? — the answer?	Nein, mir ist nicht kalt.	a2.1 unit_05 pattern
+Katie ate too much ice cream. ___ is feeling sick.	Ihr ist schlecht.	a2.1 unit_05 pattern
+Paul has no work. ___ is bored.	Ihm ist langweilig.	a2.1 unit_05 pattern
+Mir ist heiß vs Ich bin heiß — the difference?	Mir ist heiß = I feel hot · Ich bin heiß = I'm sexy	a2.1 unit_05 pattern
+Mir ist langweilig vs Ich bin langweilig?	Mir ist langweilig = I'm bored · Ich bin langweilig = I'm a boring person	a2.1 unit_05 pattern
+Adjectives of feeling like heiß, kalt, langweilig — which case is the person?	Dative: Es ist mir heiß. → Mir ist heiß.	a2.1 unit_05 pattern
+In Winter ist ___ immer kalt. (uns / es)	Im Winter ist uns / es immer kalt.	a2.1 unit_05 pattern
+In a question, what does the particle denn add?	It makes the question friendlier, or shows interest, surprise, criticism	a2.1 unit_05 pattern
+Where does the particle denn sit in a question?	In the middle, after the verb and the pronoun: Wo hast du denn Deutsch gelernt?	a2.1 unit_05 pattern
+German, particle: Bist du ___ wahnsinnig?	denn	a2.1 unit_05 pattern
+Was ist denn passiert? — the spoken contraction?	Was is'n passiert?	a2.1 unit_05 pattern
+Wie hast du das ___ gemacht? (particle of surprise)	denn	a2.1 unit_05 pattern
+Do und / oder / aber / denn change the word order?	No — they stand on position 0, so the clause keeps normal order	a2.1 unit_05 pattern
+Same subject + und — what happens?	The subject is dropped: Ich geh' schon mal los und hol' Viola ab.	a2.1 unit_05 pattern
+Same modal or auxiliary + und — what happens?	It is dropped too: Ich will in den Park gehen und ein Eis essen.	a2.1 unit_05 pattern
+… und später ___ ich ein Eis essen. (subject?)	The subject returns: und später will ich ein Eis essen	a2.1 unit_05 pattern
+Comma before und / oder / aber / denn?	No comma before und or oder · comma before aber and denn	a2.1 unit_05 pattern
+After denn, which elements must be there?	Subject and conjugated verb: … denn er war müde.	a2.1 unit_05 pattern
+Position 0 conjunction — "They go to the park because they want to have a picnic." with denn?	Sie gehen in den Park, denn sie wollen ein Picknick machen.	a2.1 unit_05 pattern
+What is inversion?	Anything but the subject on position 1 → the verb stays in position 2 and the subject moves behind it	a2.1 unit_05 pattern
+Wir gehen heute in den Park. — start with Heute.	Heute gehen wir in den Park.	a2.1 unit_05 pattern
+Wir gehen heute in den Park. — start with In den Park.	In den Park gehen wir heute.	a2.1 unit_05 pattern
+Gogo steht im Flur. — start with Im Flur.	Im Flur steht Gogo.	a2.1 unit_05 pattern
+Wir können ein Eis essen. — start with Ein Eis.	Ein Eis können wir essen.	a2.1 unit_05 pattern
+Der Deutschkurs fängt am Montag an. — start with Am Montag.	Am Montag fängt der Deutschkurs an.	a2.1 unit_05 pattern
+Ich habe gestern Deutsch gelernt. — start with Gestern.	Gestern habe ich Deutsch gelernt.	a2.1 unit_05 pattern
+Es gibt viele Blumen im Park. — start with Im Park.	Im Park gibt es viele Blumen.	a2.1 unit_05 pattern
+Katie geht am Abend einkaufen. — start with Am Abend.	Am Abend geht Katie einkaufen.	a2.1 unit_05 pattern
+Bobbi legt die Decke auf die Wiese. — start with Die Decke.	Die Decke legt Bobbi auf die Wiese.	a2.1 unit_05 pattern
+Gogo hat Viola im Internet kennengelernt. — start with Im Internet.	Im Internet hat Gogo Viola kennengelernt.	a2.1 unit_05 pattern
+In a weil-clause, where does the conjugated verb go?	At the end: … weil du so süß bist.	a2.1 unit_05 pattern
+weil or denn — the word-order difference?	weil + verb at the end (subordinate) · denn + normal order (position 0)	a2.1 unit_05 pattern
+Which is spoken and which is written: weil / denn?	weil = spoken · denn = written	a2.1 unit_05 pattern
+weil comes first in the sentence — what happens in the main clause?	The main clause starts with its finite verb: Weil sie ein Picknick machen wollen, gehen sie in den Park.	a2.1 unit_05 pattern
+Causal clause — "They go to the park because they want to have a picnic." with weil?	Sie gehen in den Park, weil sie ein Picknick machen wollen.	a2.1 unit_05 pattern
+something sweet	etwas Süßes	a2.1 unit_05 pattern
+something cold (to drink)	etwas Kaltes	a2.1 unit_05 pattern
+nothing new	nichts Neues	a2.1 unit_05 pattern
+the four of us (we're going as four)	zu viert	a2.1 unit_05 pattern
+the two of us	zu zweit	a2.1 unit_05 pattern
+sich schützen + which preposition and case?	vor + Dativ: sich vor der Sonne schützen	a2.1 unit_05 pattern
+After lassen, which verb form?	The bare infinitive at the end: Lass ihn auspacken.	a2.1 unit_05 pattern
+Heißt das, dass … — where does the verb go?	At the end (dass-clause): … , dass du kein Pilot bist	a2.1 unit_05 pattern
+Haben wir noch ___ Saft? (article)	einen Saft	a2.1 unit_05 pattern
+Eis zum Essen / Eis zum Kühlen — meaning?	ice cream to eat · ice to cool drinks	a2.1 unit_05 pattern
+to lie (untrugh) — Partizip II?	gelogen	a2.1 unit_05 verb
+to lie to someone — Partizip II?	angelogen	a2.1 unit_05 verb
+to pack (in) — Partizip II?	eingepackt	a2.1 unit_05 verb
+to prepare — Partizip II?	vorbereitet	a2.1 unit_05 verb
+to sweat — Partizip II?	geschwitzt	a2.1 unit_05 verb
+to barbecue — Partizip II?	gegrillt	a2.1 unit_05 verb
+to sunbathe (sich) — Partizip II?	gesonnt	a2.1 unit_05 verb

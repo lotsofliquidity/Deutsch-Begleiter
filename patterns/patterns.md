@@ -193,18 +193,26 @@ Seed patterns not yet drilled from early units: [Hast du X dabei?](#hast-du-x-da
 
 ## denn in questions
 
-**Frame:** `<question> denn?` (particle sits inside the question, often near the end)
+**Frame:** `<Fragewort> <Verb> <Pronomen> denn …?` — the particle sits **after the verb and the pronoun**, in the middle of the question, never at the end
 **Meaning:** softens / adds curiosity or mild surprise — not the conjunction “because”
 **Slot:** any booklet question (*Woher kommst du denn?* · *Wo ist denn mein …?*)
 **Register:** spoken, casual
 
-**Behind it:** Booklet marks *denn* as a **Modalpartikel**. In questions it is flavour, not content. Dropping it still leaves a correct question; adding it sounds more natural.
+**Behind it:** Booklet marks *denn* as a **Modalpartikel**: *Modalpartikeln stehen meistens in der Satzmitte hinter dem Verb und dem Pronomen.* In questions it is flavour, not content. Dropping it still leaves a correct question; adding it sounds more natural.
 
 **Instances**
 - Woher kommst du denn?
 - Wo ist denn mein Anschnallgurt?
 - Aber warum denn hier draußen?
 - Oh! Warum das denn?
+- Wo hast du denn Deutsch gelernt?
+- Wie alt bist du denn?
+- Was willst du denn mit dem Sonnenschirm?
+- Wie hast du das denn gemacht?
+- Was geht denn hier ab?
+- Wann wollen wir denn mal zu deiner Jacht in Hamburg?
+- Was soll denn das heißen?
+- Was ist denn mit deinem Gesicht passiert?
 
 **Ladder**
 1. Woher kommst du?
@@ -212,13 +220,18 @@ Seed patterns not yet drilled from early units: [Hast du X dabei?](#hast-du-x-da
 3. Wo ist denn mein Zimmer?
 4. Was ist das denn?
 5. Warum das denn?
-6. Trap: translating *denn* as “because” inside these questions
+6. Was soll denn das heißen?
+7. Position: build the order — *Wo **hast du denn** Deutsch gelernt?* / *Wie alt **bist du denn**?*
+8. Trap: ~~Wo hast du Deutsch gelernt denn?~~ — the particle never goes to the end
+9. Trap: translating *denn* as “because” inside these questions
 
 **Traps**
 - Question-*denn* ≠ conjunction *denn* (“because”).
 - It does not change word order the way a full clause would.
+- Position: it stands **after the verb and the pronoun** (*Wo hast du denn …?*), in the middle of the question — not at the end.
+- *denn* can be dropped without breaking the question: *Bist du denn wahnsinnig?* → *Bist du wahnsinnig?*
 
-**Meta:** A1.1 Unit 1 · Dialog 1 · added 2026-09-16 · extended A2.1 Unit 2 (*Warum das denn?*)
+**Meta:** A1.1 Unit 1 · Dialog 1 · added 2026-09-16 · extended A2.1 Unit 2 (*Warum das denn?*) · extended A2.1 Unit 5 (full particle rule: friendlier questions, surprise, criticism, position after verb + pronoun)
 
 ---
 
@@ -2095,26 +2108,51 @@ The noun is the trigger, not the verb — even mass nouns that take no article i
 
 ## Satzverbindungen mit und, aber, oder
 
-**Frame:** `Hauptsatz 1 + und/aber/oder + Hauptsatz 2`
+**Frame:** `Hauptsatz 1 + und/oder/aber/denn + Hauptsatz 2`
 **Meaning:** connect two main clauses
 **Slot:** second clause starts with the same or another subject; verb stays in position 2
 **Register:** neutral
 
-**Behind it:** no comma before *und* or *oder*; comma before *aber*.
+**Behind it:** All four conjunctions stand on **position 0**, so the clause after them keeps normal order — subject first, verb second. Comma: none before *und* or *oder*, one before *aber* and *denn*. With the **same subject** and *und*, the subject is dropped (*… und hol' Viola ab*); the same goes for a repeated modal or auxiliary (*Ich will … und ein Eis essen*). If something other than the subject would come first after *und*, the subject must be repeated: *… und **später will ich** ein Eis essen.* After *aber / oder* the subject repeats whenever the verb is a different one; identical sentence parts may all be dropped (*Er kann nicht segeln, aber schwimmen.*). After ***denn*** subject **and** conjugated verb are always there: *… , denn er war müde.*
 
 **Instances**
 - Ich komme aus Australien, aber meine Oma ist Deutsche.
 - Ich mache einen Deutschkurs oder ich lerne allein Deutsch.
 - Katie wohnt in einer WG und ihre Mitbewohner sind nett.
+- Ich geh' schon mal los und ich hol' Viola ab. → Ich geh' schon mal los und hol' Viola ab.
+- Wir gehen in den Park oder wir bleiben zu Hause.
+- Wir möchten in den Park gehen, aber wir haben heute keine Zeit.
+- Sie gehen in den Park, denn sie wollen ein Picknick machen.
+- Ich will in den Park gehen und ich will ein Eis essen. → Ich will in den Park gehen und ein Eis essen.
+- Er hat den Picknickkorb gepackt und er hat die Schuhe angezogen. → Er hat den Picknickkorb gepackt und die Schuhe angezogen.
+- Sie sind früh aufgestanden und sie sind in den Park gegangen. → Sie sind früh aufgestanden und in den Park gegangen.
+- Ich will in den Park gehen und später will ich ein Eis essen.
+- Er kann nicht segeln, aber er kann schwimmen.
+- Er ist nicht in den Park gegangen, denn er war müde.
+- Im Park sind viele Leute und sie sitzen auf der Wiese.
+- Katie und Bobbi essen ein Eis und Gogo trinkt einen Apfelsaft.
+- Es gibt im Park viele Blumen, aber es gibt keine Bäume.
+- Wir wollen spazieren gehen, aber das Wetter ist schlecht.
+- Wir spielen Tennis oder wir fahren Fahrrad.
+- Ich kann den Salat nicht essen, denn ich habe das Besteck vergessen.
+- Maria ist nach Hamburg gefahren und hat ihre Familie besucht.
+- Paul kann kochen, aber er hat keine Lust.
 
 **Ladder**
 1. Ich komme aus Australien, aber meine Oma ist Deutsche.
 2. Katie wohnt in einer WG und die Mitbewohner sind nett.
 3. Ich lerne Deutsch oder ich mache einen Kurs.
 4. Wir essen zu Hause und dann gehen wir weg.
-5. Trap: comma before *aber* only
+5. Sie gehen in den Park, denn sie wollen ein Picknick machen.
+6. Ich geh' schon mal los und hol' Viola ab.
+7. Er hat den Picknickkorb gepackt und die Schuhe angezogen.
+8. Maria ist nach Hamburg gefahren und hat ihre Familie besucht.
+9. Ich will in den Park gehen und später will ich ein Eis essen.
+10. Trap: comma before *aber* and *denn* only
+11. Trap: *~~…, denn muss ich arbeiten~~* — *denn* is position 0, normal order follows
+12. Trap: *~~… und später will ein Eis essen~~* — with a new position 1 the subject returns: *und später will ich*
 
-**Meta:** A1.2 Unit 5 · Dialog 1 · added 2026-10-03
+**Meta:** A1.2 Unit 5 · Dialog 1 · added 2026-10-03 · extended A2.1 Unit 5 (*denn*, Position 0, subject and auxiliary omission)
 
 ---
 
@@ -4336,6 +4374,9 @@ Countries with an article: **maskulin** *der Irak · der Iran · der Jemen* — 
 - (die) Kirsche — cherry
 - Ach, meine Kirsche.
 - Das macht nichts, mein Held.
+- Etwas Süßes für meine Süße.
+- Du Lügner!
+- Miss Sonnencreme (scherzhaft)
 
 **Ladder**
 1. mein Schatz
@@ -4346,7 +4387,7 @@ Countries with an article: **maskulin** *der Irak · der Iran · der Jemen* — 
 6. Trap: *~~meine Schatz~~* — *der Schatz* is masculine
 7. Trap: capitalise them — a pet name is a noun, not an adjective
 
-**Meta:** A2.1 Unit 4 · Dialog 2 · added 2026-10-15
+**Meta:** A2.1 Unit 4 · Dialog 2 · added 2026-10-15 · extended A2.1 Unit 5 (*meine Süße* · *Du Lügner!*)
 
 ---
 
@@ -4388,6 +4429,276 @@ Countries with an article: **maskulin** *der Irak · der Iran · der Jemen* — 
 8. Trap: asking about *Geld* or *Beziehungen* — the booklet's avoid-list, not a grammar error
 
 **Meta:** A2.1 Unit 4 · Dialog 3 · added 2026-10-15
+
+---
+
+## Adjektive mit Dativergänzung
+
+**Frame:** `Mir / Dir / Ihm / Ihr / Uns / Euch / Ihnen ist <Adjektiv>.`
+**Meaning:** how you **feel** — the dative person is the one something happens to
+**Slot:** *heiß · kalt · warm · langweilig · schlecht · übel · egal · klar · peinlich · wichtig*
+**Register:** neutral — the short form without *es* is what people actually say
+
+**Behind it:** The adjective takes a **dative object**, and *es* is the real subject: *Es ist **mir** heiß.* → ***Mir** ist heiß.* Same for *langweilig · schlecht · übel · egal · klar · peinlich · wichtig*. Trap pair: with the dative you describe a state that happens **to** you (*Mir ist heiß.* = I feel hot · *Mir ist langweilig.* = I'm bored); with the nominative you describe a **property of the person** (*Ich bin heiß.* = I'm sexy · *Ich bin langweilig.* = I'm a boring person).
+
+**Instances**
+- Es ist mir heiß. → Mir ist heiß.
+- Es ist mir langweilig. → Mir ist langweilig.
+- Ist euch kalt / warm? — Ja, uns ist kalt / warm.
+- Katie hat zu viel Eis gegessen. Ihr ist schlecht.
+- Das ist mir egal. — Was ist dir egal?
+- Das ist uns nicht klar. — Was ist euch nicht klar?
+- Das ist mir peinlich. — Was ist dir peinlich?
+- Frau Koch, was ist Ihnen wichtig? — Mir ist wichtig, dass ich gut Deutsch spreche.
+- Paul, ist dir kalt? — Nein, mir ist nicht kalt.
+- Hallo Peter und Maria, ist euch langweilig? — Ja, uns ist sehr langweilig.
+- Ilona hat zu viel Schokolade gegessen. Ihr ist jetzt schlecht.
+- Wir haben keine Hausaufgaben gemacht, aber das ist uns egal.
+- Ist dir heiß? Ich kann die Klimaanlage anmachen. — Ja, mir ist sehr heiß.
+- Paul hat keine Arbeit. Ihm ist langweilig.
+- Im Winter ist uns / es immer kalt.
+
+**Ladder**
+1. Mir ist heiß.
+2. Mir ist kalt.
+3. Mir ist langweilig.
+4. Ist dir kalt? — Nein, mir ist nicht kalt.
+5. Ist euch langweilig? — Ja, uns ist sehr langweilig.
+6. Das ist mir egal. — Was ist dir egal?
+7. Das ist ihm nicht peinlich.
+8. Was ist Ihnen wichtig? — Mir ist wichtig, dass ich gut Deutsch spreche.
+9. Trap: *~~Ich bin langweilig~~* for “I'm bored” — *Mir ist langweilig*
+10. Trap: *~~Das ist mich egal~~* — the person is **dative**: *Das ist mir egal*
+
+**Meta:** A2.1 Unit 5 · Dialog 1 · added 2026-10-16
+
+---
+
+## Kausalsätze mit weil
+
+**Frame:** `Hauptsatz, weil + Subjekt … Verb.` — the conjugated verb goes to the **end**
+**Meaning:** give the reason — the answer to *Warum? / Wieso?*
+**Slot:** any clause; the *weil*-clause may also stand **first**, then the main clause starts with its verb
+**Register:** spoken — *weil* is the normal spoken “because” (*denn* is more written)
+
+**Behind it:** *weil* opens a **subordinate** clause, so the conjugated verb moves to the last position and a comma separates it from the main clause. Inverted order is the same bracket as the *dass*-clause. When the *weil*-clause comes first it occupies position 1, so the main clause begins with the finite verb: *Weil sie ein Picknick machen wollen, **gehen sie** in den Park.*
+
+**The spoken verb-second variant** *(general German)* — *weil* behaves like a coordinating conjunction: *… weil ich **bin** krank.* Speech only, and it only survives while the clause is a **separate assertion** (a new reason, an afterthought, an answer to a real *Warum?*). It breaks as soon as the clause is grammatically tied to the main clause:
+
+- fronted → verb-final is forced: *Weil sie ein Picknick machen **wollen**, gehen sie in den Park* — ~~Weil sie wollen ein Picknick machen, gehen sie in den Park~~
+- main clause with a correlate (*deshalb · darum · deswegen · nur deshalb*) → *Gogo geht nur deshalb in den Park, weil er Viola **treffen will**.* — ~~… weil er will Viola treffen~~
+- causal link focused or negated (*nicht … weil*) → verb-final
+- in writing, position 2 has its own conjunction: *denn*
+
+**Instances**
+- Etwas Süßes für meine Süße, weil du so süß bist.
+- Warum gibt Viola Gogo eine Ohrfeige? — Weil er sie angelogen hat.
+- Sie gehen in den Park, weil sie ein Picknick machen wollen.
+- Weil sie ein Picknick machen wollen, gehen sie in den Park.
+- Wir haben einen Sonnenbrand, weil wir keine Sonnencreme benutzt haben.
+- Herr Kraut ist glücklich, weil er einen Papagei hat.
+- Er arbeitet viel, weil er reich werden will.
+- Er ist zu spät gekommen, weil er zu lange geschlafen hat.
+- Sein Beruf gefällt ihm, weil er selbstständig arbeiten kann.
+- Katie hat den Computer angemacht, weil sie im Internet surfen wollte.
+- Ihr Kühlschrank ist voll, weil sie heute einkaufen gegangen sind.
+- Wir fahren in die Berge, weil wir wandern gehen wollen.
+- Warum fahrt ihr mit dem Fahrrad? — Weil wir Sport machen wollen.
+- Warum hat Peter wenig Freizeit? — Weil er viel arbeiten muss.
+- Warum sind sie nicht zu Hause? — Weil sie nach Venedig gefahren sind.
+- Warum mag Gogo Viola? — Weil sie sehr gut aussieht.
+
+**Ladder**
+1. Ich lerne Deutsch, weil ich Freunde in Deutschland habe.
+2. Er arbeitet viel, weil er reich werden will.
+3. Wir haben einen Sonnenbrand, weil wir keine Sonnencreme benutzt haben.
+4. Ich kann den Salat nicht essen, weil ich das Besteck vergessen habe.
+5. Warum hat Peter wenig Freizeit? — Weil er viel arbeiten muss.
+6. Weil er Pilot ist, fliegt er viel.
+7. Weil sie ein Picknick machen wollen, gehen sie in den Park.
+8. Trap: *~~Weil ich habe keinen Hunger~~* — verb at the end: *weil ich keinen Hunger habe*
+9. Trap: *~~Weil er Pilot ist, er fliegt viel~~* — the main clause starts with its verb: *…, fliegt er viel*
+10. Trap: *~~Weil sie wollen ein Picknick machen, gehen sie in den Park~~* — a fronted *weil*-clause forbids the verb-second variant
+11. Trap: *~~Gogo geht nur deshalb in den Park, weil er will Viola treffen~~* — with a correlate (*nur deshalb*) the verb goes to the end
+
+**Register note:** the verb-second variant is *Umgangssprache*. Recognise it, use it in speech if you like — never in a test, and never where a *deshalb*-correlate or fronting is involved. For position 2 in writing the tool is *denn*.
+
+**Meta:** A2.1 Unit 5 · Dialog 3 · added 2026-10-16
+
+---
+
+## Inversion
+
+**Frame:** `Position 1 ≠ Subjekt → Verb auf Position 2, Subjekt dahinter`
+**Meaning:** whatever you put first gets the emphasis — the verb never leaves position 2
+**Slot:** time (*heute · gestern · am Montag · am Abend*) · place (*im Flur · im Park · im Internet*) · object (*ein Eis · die Decke · viele Blumen*)
+**Register:** neutral
+
+**Behind it:** German has no fixed subject-first rule — only a fixed **verb-second** rule. Put any other element on position 1 and the subject moves behind the verb. *Wir gehen heute in den Park.* → *Heute gehen wir in den Park.* → *In den Park gehen wir heute.* With a modal, the finite verb stays second and the infinitive stays last: *Heute **wollen wir** in den Park gehen.* *deshalb* on position 1 triggers the same inversion.
+
+**Instances**
+- Wir gehen heute in den Park. → Heute gehen wir in den Park. → In den Park gehen wir heute.
+- Wir wollen heute in den Park gehen. → Heute wollen wir in den Park gehen.
+- Gogo steht im Flur. → Im Flur steht Gogo.
+- Wir können ein Eis essen. → Ein Eis können wir essen.
+- Der Deutschkurs fängt am Montag an. → Am Montag fängt der Deutschkurs an.
+- Ich habe gestern Deutsch gelernt. → Gestern habe ich Deutsch gelernt.
+- Es gibt viele Blumen im Park. → Viele Blumen gibt es im Park. / Im Park gibt es viele Blumen.
+- Katie geht am Abend einkaufen. → Am Abend geht Katie einkaufen.
+- Bobbi legt die Decke auf die Wiese. → Die Decke legt Bobbi auf die Wiese.
+- Gogo hat Viola im Internet kennengelernt. → Im Internet hat Gogo Viola kennengelernt.
+- Wir möchten ein Picknick machen, deshalb gehen wir in den Park.
+
+**Ladder**
+1. Heute gehen wir in den Park.
+2. Gestern habe ich Deutsch gelernt.
+3. Am Montag fängt der Deutschkurs an.
+4. Im Flur steht Gogo.
+5. Ein Eis können wir essen.
+6. Im Internet hat Gogo Viola kennengelernt.
+7. Am Abend geht Katie einkaufen.
+8. Trap: *~~Heute wir gehen in den Park~~* — the verb holds position 2, so the subject follows it
+9. Trap: *~~In den Park wir gehen heute~~* — same inversion with a place
+
+**Meta:** A2.1 Unit 5 · Dialog 2 · added 2026-10-16
+
+---
+
+## etwas Süßes
+
+**Frame:** `etwas / nichts + <Adjektiv + -es>`
+**Meaning:** “something / nothing + adjective” — the adjective becomes a noun
+**Slot:** *süß · neu · kalt · warm · Gutes · Schönes · Wichtiges*
+**Register:** neutral
+
+**Behind it:** After *etwas* and *nichts* an adjective is capitalised and declines with *-es*: *etwas Süßes · nichts Neues · etwas Kaltes.* Only *etwas* and *nichts* keep this shape — with *viel / wenig / alles* the ending changes.
+
+**Instances**
+- Etwas Süßes für meine Süße, weil du so süß bist.
+- Ich möchte etwas Kaltes trinken.
+- Hast du etwas Neues gehört?
+- Zum Geburtstag gibt es etwas Schönes.
+
+**Ladder**
+1. Etwas Süßes für meine Süße.
+2. Ich möchte etwas Kaltes.
+3. Hast du etwas Neues?
+4. Nichts Neues.
+5. Trap: *~~etwas süß~~* — the adjective is nominalised: *etwas Süßes*
+
+**Meta:** A2.1 Unit 5 · Dialog 3 · added 2026-10-16
+
+---
+
+## zu zweit / zu dritt / zu viert
+
+**Frame:** `Wir sind zu <Zahl>.` · `Wir gehen zu <Zahl>.`
+**Meaning:** how many people are together — “the two / three / four of us”
+**Slot:** *zu zweit · zu dritt · zu viert · zu fünft*
+**Register:** neutral, very common in speech
+
+**Behind it:** *zu* + ordinal-looking form names the group size. The number is not declined: *Wir gehen zu viert.* = the four of us are going.
+
+**Instances**
+- Super! Na dann gehen wir zu viert.
+- Wir waren zu zweit im Kino.
+
+**Ladder**
+1. Wir gehen zu viert.
+2. Wir fahren zu zweit nach Hamburg.
+3. Trap: *~~Wir gehen vier~~* — the *zu* is obligatory
+
+**Meta:** A2.1 Unit 5 · Dialog 1 · added 2026-10-16
+
+---
+
+## sich vor + Dativ schützen
+
+**Frame:** `Ich schütze mich vor <Dativ>.`
+**Meaning:** protect yourself **from** something
+**Slot:** *der Sonne · der Kälte · dem Regen*
+**Register:** neutral
+
+**Behind it:** Reflexive *sich schützen* takes *vor* + **dative** — the same *vor* as *vor dem Haus*. The pronoun agrees with the subject: *ich schütze **mich*** · *du schützt **dich*** · *wir schützen **uns***.
+
+**Instances**
+- Na, ich will mich vor der Sonne schützen.
+- Ich schütze mich vor der Kälte.
+
+**Ladder**
+1. Ich will mich vor der Sonne schützen.
+2. Du musst dich vor der Kälte schützen.
+3. Trap: *~~mich vor die Sonne schützen~~* — *vor* takes the dative here
+
+**Meta:** A2.1 Unit 5 · Dialog 1 · added 2026-10-16
+
+---
+
+## Lass X doch erst mal …
+
+**Frame:** `Lass <Person> doch erst mal <Infinitiv>.`
+**Meaning:** let someone do their thing first — mild, friendly protest
+**Slot:** *auspacken · ankommen · essen · reden*
+**Register:** casual, and it takes the edge off an order
+
+**Behind it:** *lassen* + bare infinitive: the second verb goes to the end. *doch* + *erst mal* is the softening pair — “let X … for a start”.
+
+**Instances**
+- Hey, Gogo! Lass Bobbi doch erst mal auspacken.
+- Lass ihn doch erst mal reden.
+- Lass mich doch erst mal ankommen.
+
+**Ladder**
+1. Lass Bobbi doch erst mal auspacken.
+2. Lass ihn doch erst mal reden.
+3. Trap: *~~Lass Bobbi doch erst mal auspackt~~* — a bare infinitive follows *lassen*
+
+**Meta:** A2.1 Unit 5 · Dialog 2 · added 2026-10-16
+
+---
+
+## Heißt das, dass …?
+
+**Frame:** `Heißt das, dass …?`
+**Meaning:** “Does that mean (that) …?” — checking what someone just implied
+**Slot:** any *dass*-clause (verb at the end)
+**Register:** neutral, direct
+
+**Behind it:** *heißen* = to mean, so the question asks what follows from what was said. It introduces a *dass*-clause, so the conjugated verb goes to the end: *Heißt das, dass du auch kein Pilot bist?* The clipped version *Heißt das, du bist kein Pilot?* drops *dass* and keeps main-clause order.
+
+**Instances**
+- Heißt das, dass du auch kein Pilot bist?
+- Heißt das, dass du nicht mitkommst?
+
+**Ladder**
+1. Heißt das, dass du auch kein Pilot bist?
+2. Heißt das, dass sie nicht mitkommt?
+3. Trap: *~~Heißt das, dass du bist kein Pilot?~~* — verb at the end in the *dass*-clause
+
+**Meta:** A2.1 Unit 5 · Dialog 3 · added 2026-10-16
+
+---
+
+## Haben wir noch X?
+
+**Frame:** `Haben wir noch <X>?`
+**Meaning:** “Do we still have …?” — checking the cupboard before going out
+**Slot:** *Eis · Milch · Brot · Zeit*
+**Register:** neutral, household
+
+**Behind it:** *noch* = still / left. The thing asked about is an accusative object, so a masculine noun takes *einen*: *Haben wir noch **einen** Saft?*
+
+**Instances**
+- Haben wir noch Eis in der Tiefkühltruhe?
+- Haben wir noch Milch?
+- Haben wir noch Zeit?
+
+**Ladder**
+1. Haben wir noch Eis in der Tiefkühltruhe?
+2. Haben wir noch Milch?
+3. Trap: *~~Haben wir noch ein Saft?~~* — masculine accusative: *einen Saft*
+
+**Meta:** A2.1 Unit 5 · Dialog 1 · added 2026-10-16
 
 ---
 
@@ -4508,6 +4819,12 @@ Countries with an article: **maskulin** *der Irak · der Iran · der Jemen* — 
 | *-ieren* participle | funktioniert | ~~gefunktioniert~~ | *-ieren* verbs take no *ge-* |
 | accusative *er* | Er braucht ihn. | ~~Er braucht er.~~ | *er → ihn* when it is the object |
 | *wir / ihr* pronouns | uns · euch | same as dative | one form serves both cases |
+| *mir* vs *ich* + heiß | Mir ist heiß. (I feel hot) | Ich bin heiß. (I'm sexy) | dative = what happens to you · nominative = a property of the person |
+| *etwas* + adjective | etwas Süßes | ~~etwas süß~~ | the adjective is nominalised: capital + *-es* |
+| *vor* + dative | sich vor der Sonne schützen | ~~vor die Sonne schützen~~ | *vor* takes the dative here |
+| *lassen* + infinitive | Lass ihn auspacken. | ~~Lass ihn auspackt~~ | bare infinitive after *lassen* |
+| *und* + new position 1 | … und später will ich ein Eis essen. | ~~… und später will ein Eis essen~~ | the subject returns when position 1 isn't the subject |
+| common group size | Wir gehen zu viert. | ~~Wir gehen vier.~~ | *zu* + number: *zu zweit · zu dritt · zu viert* |
 
 ---
 

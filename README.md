@@ -48,7 +48,7 @@ Mixed drill, 15 questions, cold.
 
 ## Status
 
-A1.1 and A1.2 are **complete** (units 1–10 each); A2.1 has started — units 1–4 of 10.
+A1.1 and A1.2 are **complete** (units 1–10 each); A2.1 has started — units 1–5 of 10.
 
 | | |
 |---|---|

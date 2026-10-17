@@ -2278,3 +2278,185 @@ to fall in love — Partizip II?	verliebt	a2.1 unit_04 verb
 I don't want to go to work today.	Ich will heute nicht arbeiten gehen.	a2.1 unit_04 chunk
 I didn't go to work today.	Ich bin heute nicht arbeiten gegangen.	a2.1 unit_04 chunk
 Three verbs in a dass-clause — where does the finite verb go?	Very last, after the infinitive and the participle: …, dass ich heute nicht arbeiten gegangen bin.	a2.1 unit_04 pattern
+Oh, I'm bored and I'm hot!	Oh, mir ist langweilig und mir ist heiß!	a2.1 unit_05 chunk
+Do we still have ice cream in the freezer?	Haben wir noch Eis in der Tiefkühltruhe?	a2.1 unit_05 chunk
+No, I mean ice cream to eat.	Nein, ich meine Eis zum Essen.	a2.1 unit_05 chunk
+Ah! Great idea!	Ah! Super Idee!	a2.1 unit_05 chunk
+There, I'm ready. (lit. done)	So, ich bin fertig.	a2.1 unit_05 chunk
+Well, I want to protect myself from the sun.	Na, ich will mich vor der Sonne schützen.	a2.1 unit_05 chunk
+Are you coming along to the park too?	Kommst du auch mit in den Park?	a2.1 unit_05 chunk
+I wanted to go there with Viola anyway.	Ich wollte sowieso mit Viola dahin gehen.	a2.1 unit_05 chunk
+Great! Well then, the four of us will go.	Super! Na dann gehen wir zu viert.	a2.1 unit_05 chunk
+A double date: you, me, Viola and Miss Sunscreen here.	Ein Doppeldate: Du, ich, Viola und Miss Sonnencreme hier.	a2.1 unit_05 chunk
+We could go to the park. There is an ice cream stand there.	Aber wir könnten in den Park gehen. Dort gibt es einen Eisstand.	a2.1 unit_05 chunk
+We can have a picnic there right away.	Da können wir auch gleich ein Picknick machen.	a2.1 unit_05 chunk
+Yes, I'm going to prepare the picnic basket.	Ja, ich bereite gleich den Picknickkorb vor.	a2.1 unit_05 chunk
+What happened to your face?	Was ist denn mit deinem Gesicht passiert?	a2.1 unit_05 chunk
+the summer	der Sommer · die Sommer	a2.1 unit_05 noun
+the sun	die Sonne · die Sonnen	a2.1 unit_05 noun
+the sunshine	der Sonnenschein	a2.1 unit_05 noun
+the fan (electric)	der Ventilator · die Ventilatoren	a2.1 unit_05 noun
+the air conditioner	die Klimaanlage · die Klimaanlagen	a2.1 unit_05 noun
+the sweat	der Schweiß	a2.1 unit_05 noun
+the parasol	der Sonnenschirm · die Sonnenschirme	a2.1 unit_05 noun
+the sunhat	der Sonnenhut · die Sonnenhüte	a2.1 unit_05 noun
+sunglasses	die Sonnenbrille · die Sonnenbrillen	a2.1 unit_05 noun
+the sunscreen	die Sonnencreme · die Sonnencremes	a2.1 unit_05 noun
+the sunburn	der Sonnenbrand · die Sonnenbrände	a2.1 unit_05 noun
+the shade	der Schatten · die Schatten	a2.1 unit_05 noun
+the ice cream	das Eis	a2.1 unit_05 noun
+It's summer.	Es ist Sommer.	a2.1 unit_05 chunk
+It's warm / hot.	Es ist warm / heiß.	a2.1 unit_05 chunk
+I feel warm / hot.	Mir ist warm / heiß.	a2.1 unit_05 chunk
+I'm sweating.	Ich schwitze.	a2.1 unit_05 chunk
+We're having a picnic.	Wir machen ein Picknick.	a2.1 unit_05 chunk
+They're having a barbecue.	Sie grillen.	a2.1 unit_05 chunk
+I'm sunbathing.	Ich sonne mich.	a2.1 unit_05 chunk
+Oh, it doesn't matter, the sun is gone anyway.	Ach, egal, die Sonne ist eh weg.	a2.1 unit_05 chunk
+I'm cold!	Mir ist kalt!	a2.1 unit_05 chunk
+And somehow it's autumn all of a sudden. Look!	Und irgendwie ist auf einmal Herbst. Guck mal!	a2.1 unit_05 chunk
+Look, there's even a pond with ducks.	Guck mal, da ist sogar ein Teich mit Enten.	a2.1 unit_05 chunk
+Come here! (to more than one person)	Kommt her!	a2.1 unit_05 chunk
+Gogo has already told us a lot about you.	Gogo hat schon viel von dir erzählt.	a2.1 unit_05 chunk
+That looks delicious.	Das sieht ja lecker aus.	a2.1 unit_05 chunk
+Let Bobbi unpack first.	Lass Bobbi doch erst mal auspacken.	a2.1 unit_05 chunk
+Mine!	Meins!	a2.1 unit_05 chunk
+the picnic	das Picknick · die Picknicks	a2.1 unit_05 noun
+the picnic basket	der Picknickkorb · die Picknickkörbe	a2.1 unit_05 noun
+the blanket	die Decke · die Decken	a2.1 unit_05 noun
+the meadow	die Wiese · die Wiesen	a2.1 unit_05 noun
+the pond	der Teich · die Teiche	a2.1 unit_05 noun
+the duck	die Ente · die Enten	a2.1 unit_05 noun
+the flower	die Blume · die Blumen	a2.1 unit_05 noun
+the bread	das Brot · die Brote	a2.1 unit_05 noun
+the salad	der Salat · die Salate	a2.1 unit_05 noun
+the layer cake	die Torte · die Torten	a2.1 unit_05 noun
+the cake	der Kuchen · die Kuchen	a2.1 unit_05 noun
+the napkin	die Serviette · die Servietten	a2.1 unit_05 noun
+the tableware (no plural)	das Geschirr	a2.1 unit_05 noun
+the plate	der Teller · die Teller	a2.1 unit_05 noun
+the cup	der Becher · die Becher	a2.1 unit_05 noun
+the cutlery	das Besteck · die Bestecke	a2.1 unit_05 noun
+the knife	das Messer · die Messer	a2.1 unit_05 noun
+the fork	die Gabel · die Gabeln	a2.1 unit_05 noun
+the spoon	der Löffel · die Löffel	a2.1 unit_05 noun
+to prepare / pack the picnic basket	den Picknickkorb vorbereiten	a2.1 unit_05 chunk
+to unpack the picnic basket	den Picknickkorb auspacken	a2.1 unit_05 chunk
+Pack food, drinks, tableware and cutlery.	Essen, Getränke, Geschirr und Besteck einpacken.	a2.1 unit_05 chunk
+Something sweet for my sweetie.	Etwas Süßes für meine Süße.	a2.1 unit_05 chunk
+Did we miss something?	Haben wir was verpasst?	a2.1 unit_05 chunk
+What's going on here?	Was geht denn hier ab?	a2.1 unit_05 chunk
+So when are we going to your yacht in Hamburg?	Wann wollen wir denn mal zu deiner Jacht in Hamburg?	a2.1 unit_05 chunk
+What's that supposed to mean?	Was soll denn das heißen?	a2.1 unit_05 chunk
+Does that mean you're also not a pilot?	Heißt das, dass du auch kein Pilot bist?	a2.1 unit_05 chunk
+Um, so, it's kind of … not exactly.	Ähm, also, es ist irgendwie … nicht direkt.	a2.1 unit_05 chunk
+You liar!	Du Lügner!	a2.1 unit_05 chunk
+I never want to see you again!	Ich will dich nie wiedersehen!	a2.1 unit_05 chunk
+Now wait a minute.	Nun warte doch mal.	a2.1 unit_05 chunk
+The compliments were honest.	Die Komplimente waren ehrlich.	a2.1 unit_05 chunk
+I think we have a problem.	Ich glaube, wir haben ein Problem.	a2.1 unit_05 chunk
+Wait for me!	Warte doch auf mich!	a2.1 unit_05 chunk
+the park	der Park · die Parks	a2.1 unit_05 noun
+the bench	die Bank · die Bänke	a2.1 unit_05 noun
+the fountain	der Brunnen · die Brunnen	a2.1 unit_05 noun
+the path	der Weg · die Wege	a2.1 unit_05 noun
+nature (no plural)	die Natur	a2.1 unit_05 noun
+the plant	die Pflanze · die Pflanzen	a2.1 unit_05 noun
+the tree	der Baum · die Bäume	a2.1 unit_05 noun
+the bush	der Busch · die Büsche	a2.1 unit_05 noun
+the shrub	der Strauch · die Sträucher	a2.1 unit_05 noun
+the grass	das Gras · die Gräser	a2.1 unit_05 noun
+the bird	der Vogel · die Vögel	a2.1 unit_05 noun
+the frog	der Frosch · die Frösche	a2.1 unit_05 noun
+the dog	der Hund · die Hunde	a2.1 unit_05 noun
+The park is beautiful / green / calm.	Der Park ist schön / grün / ruhig.	a2.1 unit_05 chunk
+The people are sitting on the benches.	Die Leute sitzen auf den Bänken.	a2.1 unit_05 chunk
+The people are walking on the paths.	Die Leute laufen auf den Wegen.	a2.1 unit_05 chunk
+I'm enjoying nature.	Ich genieße die Natur.	a2.1 unit_05 chunk
+The plants are growing.	Die Pflanzen wachsen.	a2.1 unit_05 chunk
+The shrubs are blooming.	Die Sträucher blühen.	a2.1 unit_05 chunk
+The birds are chirping.	Die Vögel zwitschern.	a2.1 unit_05 chunk
+The ducks are quacking.	Die Enten schnattern.	a2.1 unit_05 chunk
+The frogs are croaking.	Die Frösche quaken.	a2.1 unit_05 chunk
+The dogs are barking.	Die Hunde bellen.	a2.1 unit_05 chunk
+The water is burbling in the fountain.	Im Brunnen plätschert das Wasser.	a2.1 unit_05 chunk
+The flowers smell good.	Die Blumen duften.	a2.1 unit_05 chunk
+I feel hot.	Mir ist heiß.	a2.1 unit_05 chunk
+I feel cold.	Mir ist kalt.	a2.1 unit_05 chunk
+I'm bored.	Mir ist langweilig.	a2.1 unit_05 chunk
+I don't care about that.	Das ist mir egal.	a2.1 unit_05 chunk
+What don't you care about?	Was ist dir egal?	a2.1 unit_05 chunk
+That's not clear to us.	Das ist uns nicht klar.	a2.1 unit_05 chunk
+This is embarrassing for me.	Das ist mir peinlich.	a2.1 unit_05 chunk
+What is important to you? (formal)	Was ist Ihnen wichtig?	a2.1 unit_05 chunk
+It's important to me that I speak German well.	Mir ist wichtig, dass ich gut Deutsch spreche.	a2.1 unit_05 chunk
+Are you (plural, informal) bored? — Yes, we're very bored.	Ist euch langweilig? — Ja, uns ist sehr langweilig.	a2.1 unit_05 chunk
+Ist dir kalt? — the answer?	Nein, mir ist nicht kalt.	a2.1 unit_05 pattern
+Katie ate too much ice cream. ___ is feeling sick.	Ihr ist schlecht.	a2.1 unit_05 pattern
+Paul has no work. ___ is bored.	Ihm ist langweilig.	a2.1 unit_05 pattern
+Mir ist heiß vs Ich bin heiß — the difference?	Mir ist heiß = I feel hot · Ich bin heiß = I'm sexy	a2.1 unit_05 pattern
+Mir ist langweilig vs Ich bin langweilig?	Mir ist langweilig = I'm bored · Ich bin langweilig = I'm a boring person	a2.1 unit_05 pattern
+Adjectives of feeling like heiß, kalt, langweilig — which case is the person?	Dative: Es ist mir heiß. → Mir ist heiß.	a2.1 unit_05 pattern
+In Winter ist ___ immer kalt. (uns / es)	Im Winter ist uns / es immer kalt.	a2.1 unit_05 pattern
+In a question, what does the particle denn add?	It makes the question friendlier, or shows interest, surprise, criticism	a2.1 unit_05 pattern
+Where does the particle denn sit in a question?	In the middle, after the verb and the pronoun: Wo hast du denn Deutsch gelernt?	a2.1 unit_05 pattern
+German, particle: Bist du ___ wahnsinnig?	denn	a2.1 unit_05 pattern
+Was ist denn passiert? — the spoken contraction?	Was is'n passiert?	a2.1 unit_05 pattern
+Wie hast du das ___ gemacht? (particle of surprise)	denn	a2.1 unit_05 pattern
+Do und / oder / aber / denn change the word order?	No — they stand on position 0, so the clause keeps normal order	a2.1 unit_05 pattern
+Same subject + und — what happens?	The subject is dropped: Ich geh' schon mal los und hol' Viola ab.	a2.1 unit_05 pattern
+Same modal or auxiliary + und — what happens?	It is dropped too: Ich will in den Park gehen und ein Eis essen.	a2.1 unit_05 pattern
+… und später ___ ich ein Eis essen. (subject?)	The subject returns: und später will ich ein Eis essen	a2.1 unit_05 pattern
+Comma before und / oder / aber / denn?	No comma before und or oder · comma before aber and denn	a2.1 unit_05 pattern
+After denn, which elements must be there?	Subject and conjugated verb: … denn er war müde.	a2.1 unit_05 pattern
+Position 0 conjunction — "They go to the park because they want to have a picnic." with denn?	Sie gehen in den Park, denn sie wollen ein Picknick machen.	a2.1 unit_05 pattern
+Maria drove to Hamburg and visited her family.	Maria ist nach Hamburg gefahren und hat ihre Familie besucht.	a2.1 unit_05 chunk
+I'll head off now and pick Viola up.	Ich geh' schon mal los und hol' Viola ab.	a2.1 unit_05 chunk
+He packed the picnic basket and put on his shoes.	Er hat den Picknickkorb gepackt und die Schuhe angezogen.	a2.1 unit_05 chunk
+What is inversion?	Anything but the subject on position 1 → the verb stays in position 2 and the subject moves behind it	a2.1 unit_05 pattern
+Wir gehen heute in den Park. — start with Heute.	Heute gehen wir in den Park.	a2.1 unit_05 pattern
+Wir gehen heute in den Park. — start with In den Park.	In den Park gehen wir heute.	a2.1 unit_05 pattern
+Gogo steht im Flur. — start with Im Flur.	Im Flur steht Gogo.	a2.1 unit_05 pattern
+Wir können ein Eis essen. — start with Ein Eis.	Ein Eis können wir essen.	a2.1 unit_05 pattern
+Der Deutschkurs fängt am Montag an. — start with Am Montag.	Am Montag fängt der Deutschkurs an.	a2.1 unit_05 pattern
+Ich habe gestern Deutsch gelernt. — start with Gestern.	Gestern habe ich Deutsch gelernt.	a2.1 unit_05 pattern
+Es gibt viele Blumen im Park. — start with Im Park.	Im Park gibt es viele Blumen.	a2.1 unit_05 pattern
+Katie geht am Abend einkaufen. — start with Am Abend.	Am Abend geht Katie einkaufen.	a2.1 unit_05 pattern
+Bobbi legt die Decke auf die Wiese. — start with Die Decke.	Die Decke legt Bobbi auf die Wiese.	a2.1 unit_05 pattern
+Gogo hat Viola im Internet kennengelernt. — start with Im Internet.	Im Internet hat Gogo Viola kennengelernt.	a2.1 unit_05 pattern
+In a weil-clause, where does the conjugated verb go?	At the end: … weil du so süß bist.	a2.1 unit_05 pattern
+weil or denn — the word-order difference?	weil + verb at the end (subordinate) · denn + normal order (position 0)	a2.1 unit_05 pattern
+Which is spoken and which is written: weil / denn?	weil = spoken · denn = written	a2.1 unit_05 pattern
+weil comes first in the sentence — what happens in the main clause?	The main clause starts with its finite verb: Weil sie ein Picknick machen wollen, gehen sie in den Park.	a2.1 unit_05 pattern
+We have sunburn because we didn't use sunscreen.	Wir haben einen Sonnenbrand, weil wir keine Sonnencreme benutzt haben.	a2.1 unit_05 chunk
+Why do you not go to work today? — Because I lost my job.	Warum gehst du heute nicht arbeiten? — Weil ich meinen Job verloren habe.	a2.1 unit_05 chunk
+Why does Viola slap Gogo? — Because he lied to her.	Warum gibt Viola Gogo eine Ohrfeige? — Weil er sie angelogen hat.	a2.1 unit_05 chunk
+Causal clause — "They go to the park because they want to have a picnic." with weil?	Sie gehen in den Park, weil sie ein Picknick machen wollen.	a2.1 unit_05 pattern
+Why does Gogo like Viola? — Because she looks very good.	Warum mag Gogo Viola? — Weil sie sehr gut aussieht.	a2.1 unit_05 chunk
+Why are they not at home? — Because they have gone to Venice.	Warum sind sie nicht zu Hause? — Weil sie nach Venedig gefahren sind.	a2.1 unit_05 chunk
+something sweet	etwas Süßes	a2.1 unit_05 pattern
+something cold (to drink)	etwas Kaltes	a2.1 unit_05 pattern
+nothing new	nichts Neues	a2.1 unit_05 pattern
+the four of us (we're going as four)	zu viert	a2.1 unit_05 pattern
+the two of us	zu zweit	a2.1 unit_05 pattern
+sich schützen + which preposition and case?	vor + Dativ: sich vor der Sonne schützen	a2.1 unit_05 pattern
+After lassen, which verb form?	The bare infinitive at the end: Lass ihn auspacken.	a2.1 unit_05 pattern
+Heißt das, dass … — where does the verb go?	At the end (dass-clause): … , dass du kein Pilot bist	a2.1 unit_05 pattern
+Haben wir noch ___ Saft? (article)	einen Saft	a2.1 unit_05 pattern
+the freezer	die Tiefkühltruhe · die Tiefkühltruhen	a2.1 unit_05 noun
+the ice cream stand	der Eisstand · die Eisstände	a2.1 unit_05 noun
+the double date	das Doppeldate	a2.1 unit_05 noun
+all of a sudden	auf einmal	a2.1 unit_05 chunk
+anyway (colloquial, short)	eh	a2.1 unit_05 chunk
+even (there is even a pond)	sogar	a2.1 unit_05 chunk
+anyway / in any case	sowieso	a2.1 unit_05 chunk
+not exactly	nicht direkt	a2.1 unit_05 chunk
+something (short form)	was (= etwas)	a2.1 unit_05 chunk
+Eis zum Essen / Eis zum Kühlen — meaning?	ice cream to eat · ice to cool drinks	a2.1 unit_05 pattern
+to lie (untrugh) — Partizip II?	gelogen	a2.1 unit_05 verb
+to lie to someone — Partizip II?	angelogen	a2.1 unit_05 verb
+to pack (in) — Partizip II?	eingepackt	a2.1 unit_05 verb
+to prepare — Partizip II?	vorbereitet	a2.1 unit_05 verb
+to sweat — Partizip II?	geschwitzt	a2.1 unit_05 verb
+to barbecue — Partizip II?	gegrillt	a2.1 unit_05 verb
+to sunbathe (sich) — Partizip II?	gesonnt	a2.1 unit_05 verb
