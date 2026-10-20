@@ -220,6 +220,14 @@ noun tells them apart (*der → den*), which is exactly why that change matters.
 - The question for that person is ***Wem?***
   - *Wem antwortet Katie? → Sie antwortet **der Lehrerin**.* — Who does Katie answer? → She answers the teacher.
 
+- **Verben mit Dativ und Akkusativ** — person gets the dative, thing the accusative *(A2.1 U7)*
+  - Two nouns → Dativ before Akkusativ: *Bobbi gibt **dem Mann** **das Geld**.*
+  - *Bobbi leiht **Gogo** **10 Euro**.* · *Kannst du **mir** Geld leihen?*
+  - Akkusativ is a pronoun → that pronoun first: *Er gibt **es** dem Mann.*
+  - Both pronouns → Akk before Dat: *Er gibt **es ihm**.* · *Ich empfehle **es ihm**.*
+  - More: *bringen · empfehlen · erklären · erzählen · holen · kaufen · schenken · schicken · schreiben · vorlesen · wünschen · zeigen*
+  - Trap: ~~Er gibt dem Mann es.~~ → *Er gibt **es** dem Mann.* · ~~Er gibt ihm es.~~ → *Er gibt **es ihm**.*
+
 - **Possession**
   - *Das ist **Katies** Zimmer.* — This is Katie's room.
   - *Das ist der Tisch **von Bobbi**.* — This is Bobbi's table.
@@ -239,6 +247,7 @@ noun tells them apart (*der → den*), which is exactly why that change matters.
 - [`Gratulieren und schenken`](../patterns/patterns.md#gratulieren-und-schenken)
 - [`Genitiv -s (Besitz)`](../patterns/patterns.md#genitiv--s-besitz)
 - [`Es gibt`](../patterns/patterns.md#es-gibt)
+- [`Verben mit Dativ und Akkusativ`](../patterns/patterns.md#verben-mit-dativ-und-akkusativ)
 
 ---
 
@@ -281,6 +290,20 @@ noun tells them apart (*der → den*), which is exactly why that change matters.
   - *Sieht **man** das nicht?* — Don't you see that?
   - *Wie sagt **man** das auf Deutsch?* — How do you say that in German?
   - *Hier muss **man** aufpassen.* — You have to be careful here.
+
+- **Indefinitpronomen *ein- / welch-*** — stand-in for a countable noun already named *(A2.1 U7)*
+  - Nominativ: *Hier ist **einer**.* · *Hier ist **eins**.* · *Hier ist **eine**.*
+  - Akkusativ: *Wir haben **einen**.* · *Wir haben **eins**.* · *Wir haben **eine**.*
+  - Plural → *welch-*: *Hier sind **welche**.* · *Wir brauchen **welche**.*
+  - *Wo ist denn das Kochbuch? → In der Küche ist **eins**.*
+  - Trap: ~~Hier ist ein.~~ → *Hier ist **einer** / **eins** / **eine**.*
+
+- **Indefinitpronomen *kein-*** — “none”, the negative of *ein-* *(A2.1 U7)*
+  - Nominativ: *keiner* · *keins* · *keine* · plural *keine*
+  - Akkusativ: *keinen* · *keins* · *keine* · plural *keine*
+  - *Ist hier ein Geldautomat? → Nein, hier ist **keiner**.*
+  - *Geld hab' ich **keins** mehr.*
+  - Trap: ~~Ich habe kein.~~ → *Ich habe **keinen** / **keins** / **keine**.*
 
 - **Return question — dative, not *du***
   - *Gut, und **dir**?* — Fine, and you?
@@ -374,6 +397,8 @@ noun tells them apart (*der → den*), which is exactly why that change matters.
 - [`der / die / das (Demonstrativ)`](../patterns/patterns.md#der--die--das-demonstrativ)
 - [`Wer oder Wen`](../patterns/patterns.md#wer-oder-wen)
 - [`Das ist … / Er / Sie / Sie`](../patterns/patterns.md#das-ist----er--sie--sie)
+- [`Indefinitpronomen ein- / welch-`](../patterns/patterns.md#indefinitpronomen-ein---welch-)
+- [`Indefinitpronomen kein-`](../patterns/patterns.md#indefinitpronomen-kein-)
 
 ---
 
@@ -1251,10 +1276,16 @@ Full page: [vergangenheit.md](a1.2/vergangenheit.md) · all forms: [partizip-ii.
 - ***kein … mehr***  *(A1.2 U4)*
   - *Ich habe **keinen** Durst **mehr**.* — I'm not thirsty any more. · German has no “not thirsty any more” adjective
 
+- ***kein-* as a pronoun** — “none”, not only an article *(A2.1 U7)*
+  - *Du hast doch keine Kreditkarte! — Stimmt, ich habe **keine**.*
+  - *Ist hier ein Geldautomat? — Nein, hier ist **keiner**.*
+  - *Hast du ein Portemonnaie? — Nein, ich habe **keins**.*
+
 *Deeper:*
 - [`nicht vs kein`](../patterns/patterns.md#nicht-vs-kein)
 - [`schon → noch nicht`](../patterns/patterns.md#schon--noch-nicht)
 - [`Das ist kein / keine X.`](../patterns/patterns.md#das-ist-kein--keine-x)
+- [`Indefinitpronomen kein-`](../patterns/patterns.md#indefinitpronomen-kein-)
 
 ---
 
@@ -1433,7 +1464,8 @@ pointers rather than rules — the sentences themselves are in the unit files an
 [Haben wir noch X?](../patterns/patterns.md#haben-wir-noch-x) ·
 [Heißt das, dass …?](../patterns/patterns.md#heißt-das-dass-) ·
 [Auf dem Einwohnermeldeamt](../patterns/patterns.md#auf-dem-einwohnermeldeamt) ·
-[dabeihaben / dabei sein](../patterns/patterns.md#dabeihaben--dabei-sein)
+[dabeihaben / dabei sein](../patterns/patterns.md#dabeihaben--dabei-sein) ·
+[Verben rund ums Geld](../patterns/patterns.md#verben-rund-ums-geld)
 
 **Restaurant and food**
 
@@ -1442,7 +1474,8 @@ pointers rather than rules — the sentences themselves are in the unit files an
 [Zusammen oder getrennt?](../patterns/patterns.md#zusammen-oder-getrennt) ·
 [Das schmeckt mir](../patterns/patterns.md#das-schmeckt-mir) ·
 [Mahlzeiten](../patterns/patterns.md#mahlzeiten) ·
-[Riecht und schmeckt](../patterns/patterns.md#riecht-und-schmeckt)
+[Riecht und schmeckt](../patterns/patterns.md#riecht-und-schmeckt) ·
+[Essen bestellen und bezahlen](../patterns/patterns.md#essen-bestellen-und-bezahlen)
 
 **Small talk and plans**
 
@@ -1483,12 +1516,9 @@ pointers rather than rules — the sentences themselves are in the unit files an
 
 ## What this page does **not** cover
 
-Every rule in the ingested units (A1.1 U1–U10 · A1.2 U1–U10 · A2.1 U1–U5) is above, and every
-one of the 146 pattern sections is accounted
-for — §1–§14 as rules, §15 as formulas. Beyond the ingested units: full genitive articles,
+Every rule in the ingested units (A1.1 U1–U10 · A1.2 U1–U10 · A2.1 U1–U7) is above.
+§1–§14 hold the rules; §15 holds the formulas. Beyond the ingested units: full genitive articles,
 adjective endings (*des neuen Hauses*), relative clauses, the A2.1 past perfect (not in A2.1 U1–U3),
-reflexive verbs (*sich verbessern* — it turns up inside a U7
-proverb gloss, but the *sich* system is never taught), and prepositions the booklets never
-drill (*ohne · gegen · während*). *seit* + dative appears in the U2 dialogue (*Sie wohnen seit vier
-Jahren in Kanada.*) but is not taught until A2.1 U6, so it is a chunk here, not a rule.
+reflexive verbs (*sich verbessern* — it turns up inside a proverb gloss, but the *sich* system
+is never taught), and prepositions the booklets never drill (*ohne · gegen · während*).
 *weil* joins *dass* as a verb-final subordinate clause from A2.1 U5.

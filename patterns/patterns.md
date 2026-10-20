@@ -137,6 +137,11 @@ Taught by `/ingest`. Drilled by `/drill`. Source PDFs: `courses/`.
 | [sollen im Präteritum](#sollen-im-präteritum) | *sollte* — was supposed to | A2.1 U6 |
 | [Auf dem Einwohnermeldeamt](#auf-dem-einwohnermeldeamt) | register, number, form | A2.1 U6 |
 | [dabeihaben / dabei sein](#dabeihaben--dabei-sein) | have with you · I'm in | A2.1 U6 |
+| [Indefinitpronomen ein- / welch-](#indefinitpronomen-ein---welch-) | *eins / einer / eine / welche* stand in for a noun | A2.1 U7 |
+| [Indefinitpronomen kein-](#indefinitpronomen-kein-) | *keiner / keins / keine* — none | A2.1 U7 |
+| [Verben mit Dativ und Akkusativ](#verben-mit-dativ-und-akkusativ) | *geben / leihen* — person then thing | A2.1 U7 |
+| [Verben rund ums Geld](#verben-rund-ums-geld) | pay · lend · withdraw · spend | A2.1 U7 |
+| [Essen bestellen und bezahlen](#essen-bestellen-und-bezahlen) | order delivery · keep the change | A2.1 U7 |
 
 Seed patterns not yet drilled from early units: [Wohin + Verb](#wohin--verb-der-bewegung)
 
@@ -4925,6 +4930,151 @@ Countries with an article: **maskulin** *der Irak · der Iran · der Jemen* — 
 
 ---
 
+## Indefinitpronomen ein- / welch-
+
+**Frame:** `Hier ist einer/eins/eine.` · `Ich brauche einen/eins/eine.` · `Wir brauchen welche.`
+**Meaning:** one / some — the pronoun stands in for a countable noun already known
+**Slot:** the gender/number of the missing noun
+**Register:** either
+
+**Behind it:** *ein-* replaces a countable noun you have already named. Masculine nominative *einer*, accusative *einen*. Neuter *eins* in both. Feminine *eine* in both. Plural becomes *welch-*: *welche*.
+
+**Instances**
+- Wo ist denn das Kochbuch? — In der Küche ist eins.
+- Ich mache eine Kartoffelsuppe. — Ich habe schon mal eine gegessen.
+- Wo ist ein Löffel? — Hier ist einer.
+- Haben wir ein Messer? — Ja, wir haben eins.
+- Brauchen wir Zwiebeln? — Ja, wir brauchen welche.
+- Brauchst du noch ein Rezept? — Ja, ich brauche eins.
+
+**Ladder**
+1. In der Küche ist eins.
+2. Hier ist einer.
+3. Ich brauche eine.
+4. Ich brauche einen.
+5. Wir brauchen welche.
+6. Trap: ~~Hier ist ein.~~ · ~~Wir brauchen eine~~ for plural onions
+
+**Meta:** A2.1 Unit 7 · Dialog 1 · added 2026-10-20
+
+---
+
+## Indefinitpronomen kein-
+
+**Frame:** `Hier ist keiner/keins/keine.` · `Ich habe keinen/keins/keine.`
+**Meaning:** none / not one — the negative stand-in for *ein-*
+**Slot:** the gender/number of the missing noun
+**Register:** either
+
+**Behind it:** Same endings as *ein-* in the singular. Plural is always *keine*. *Geld hab' ich keins mehr.*
+
+**Instances**
+- Du hast doch keine Kreditkarte! — Stimmt, ich habe keine.
+- Ist hier ein Geldautomat? — Nein, hier ist keiner.
+- Hast du ein Portemonnaie? — Nein, ich habe keins.
+- Hast du einen 20-Euro-Schein? — Nein, ich habe keinen.
+- Brauchen wir Kartoffeln? — Nein, wir brauchen keine.
+- Hat Gogo eine Kreditkarte? — Nein, er hat keine. Aber Katie hat eine.
+
+**Ladder**
+1. Ich habe keine.
+2. Hier ist keiner.
+3. Ich habe keins.
+4. Ich habe keinen.
+5. Wir brauchen keine.
+6. Trap: ~~Ich habe kein.~~ for a feminine noun · ~~keiner~~ in the accusative
+
+**Meta:** A2.1 Unit 7 · Dialog 2 · added 2026-10-20
+
+---
+
+## Verben mit Dativ und Akkusativ
+
+**Frame:** `X gibt/leiht/schenkt <Dativ> <Akkusativ>.` · `X gibt es ihm.`
+**Meaning:** give / lend / buy for someone — person (dative) + thing (accusative)
+**Slot:** the person who receives · the thing they get
+**Register:** either
+
+**Behind it:** Two nouns → dative before accusative. Accusative pronoun alone → that pronoun first. Both pronouns → accusative before dative (*es ihm*). Verbs: *geben · leihen · bringen · empfehlen · erklären · erzählen · holen · kaufen · schenken · schicken · schreiben · vorlesen · wünschen · zeigen*.
+
+**Instances**
+- Bobbi gibt dem Mann das Geld.
+- Bobbi leiht Gogo 10 Euro. · Kannst du mir Geld leihen?
+- Er gibt es dem Mann. · Er gibt es ihm.
+- Maria schenkt ihrem Freund ein Kochbuch.
+- Wir schicken unseren Freunden ein Paket.
+- Empfiehlst du Max das Restaurant? — Ja, ich empfehle es ihm.
+
+**Ladder**
+1. Bobbi gibt dem Mann das Geld.
+2. Kannst du mir Geld leihen?
+3. Er gibt es dem Mann.
+4. Er gibt es ihm.
+5. Ich bestelle ihn ihr.
+6. Trap: ~~Er gibt dem Mann es.~~ · ~~Ich gebe ihm es.~~
+
+**Meta:** A2.1 Unit 7 · Dialog 3 · added 2026-10-20
+
+---
+
+## Verben rund ums Geld
+
+**Frame:** `Geld leihen / abheben / ausgeben / sparen / verdienen / verschwenden / wechseln.`
+**Meaning:** lend · withdraw · spend · save · earn · waste · change
+**Slot:** the money verb
+**Register:** either · *Zahlen, bitte!* is restaurant speech
+
+**Behind it:** *leihen* takes a dative person (*Kannst du mir Geld leihen?*). *schulden*: *Du schuldest mir 20 Euro.* *bezahlen* the bill · *zahlen* at the table · *zählen* = count.
+
+**Instances**
+- Kannst du mir 10 Euro leihen?
+- Ich muss Geld abheben.
+- Berlin ist teuer, deshalb gebe ich hier viel Geld aus.
+- Wir sparen Geld, weil wir ein Haus kaufen wollen.
+- Du verschwendest dein Geld für unnötige Dinge.
+- Können Sie Dollars in Euro wechseln?
+
+**Ladder**
+1. Kannst du mir Geld leihen?
+2. Ich muss Geld abheben.
+3. Ich gebe viel Geld aus.
+4. Wir sparen Geld.
+5. Du verdienst viel Geld.
+6. Trap: *leihen* vs *schulden* · *bezahlen* vs *zählen*
+
+**Meta:** A2.1 Unit 7 · Dialog 3 · added 2026-10-20
+
+---
+
+## Essen bestellen und bezahlen
+
+**Frame:** `Dreimal hätte ich gerne X.` · `Wie lange dauert das?` · `Stimmt so.` · `Das macht X, bitte!`
+**Meaning:** order delivery · ask how long · keep the change · the total
+**Slot:** the dish · the price
+**Register:** phone / door: *hätte ich gerne* · *Stimmt so* to the delivery person
+
+**Behind it:** *Das macht 19,50, bitte!* is the courier's total. *Stimmt so. Den Rest können Sie behalten.* keeps the tip. *Ist nicht dein Ernst.* rejects a joke offer.
+
+**Instances**
+- Dreimal hätte ich gerne Spaghetti mit Tomatensoße.
+- Wie lange dauert das?
+- Das macht 19,50, bitte!
+- Stimmt so. Den Rest können Sie behalten.
+- Ist nicht dein Ernst.
+- Kannst du mir mal Geld leihen? — Wie viel denn?
+
+**Ladder**
+1. Dreimal hätte ich gerne X.
+2. Wie lange dauert das?
+3. Das macht 19,50, bitte!
+4. Stimmt so.
+5. Ist nicht dein Ernst.
+6. Trap: ~~Stimmt so, bitte!~~ as the total — that line is *Das macht …*
+
+**Meta:** A2.1 Unit 7 · Dialogs 2–3 · added 2026-10-20
+
+---
+
 ## Later seeds (not yet fully met)
 
 ### Wohin + Verb der Bewegung
@@ -5040,6 +5190,14 @@ Countries with an article: **maskulin** *der Irak · der Iran · der Jemen* — 
 | *lassen* + infinitive | Lass ihn auspacken. | ~~Lass ihn auspackt~~ | bare infinitive after *lassen* |
 | *und* + new position 1 | … und später will ich ein Eis essen. | ~~… und später will ein Eis essen~~ | the subject returns when position 1 isn't the subject |
 | common group size | Wir gehen zu viert. | ~~Wir gehen vier.~~ | *zu* + number: *zu zweit · zu dritt · zu viert* |
+| indefinite *ein-* | Hier ist einer / eins / eine. | ~~Hier ist ein.~~ | the pronoun needs the ending |
+| plural stand-in | Wir brauchen welche. | ~~Wir brauchen eine.~~ | plural of *ein-* is *welch-* |
+| indefinite *kein-* | Ich habe keinen / keins / keine. | ~~Ich habe kein.~~ | same endings as *ein-* |
+| two nouns → Dat before Akk | gibt dem Mann das Geld | ~~gibt das Geld dem Mann~~ is also fine with definite articles | default order is dative first |
+| Akk pronoun first | Er gibt es dem Mann. | ~~Er gibt dem Mann es.~~ | a pronoun object moves left |
+| both pronouns | Er gibt es ihm. | ~~Er gibt ihm es.~~ | Akk before Dat when both are pronouns |
+| *leihen* vs *schulden* | Kannst du mir Geld leihen? | Du schuldest mir 20 Euro. | lend vs owe |
+| *bezahlen* vs *zählen* | die Rechnung bezahlen | das Geld zählen | pay vs count |
 
 ---
 

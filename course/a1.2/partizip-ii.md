@@ -163,6 +163,7 @@ like any weak one: *-t*, or *-et* after a stem in *-t/-d*.
 | kommen | gekommen | to come |
 | bekommen | bekommen | to receive |
 | rennen | gerannt | to run |
+| riechen | gerochen | to smell |
 | wachsen | gewachsen | to grow |
 | sterben | gestorben | to die |
 | bleiben | geblieben | to stay |

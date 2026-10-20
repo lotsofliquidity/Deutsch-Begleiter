@@ -2588,3 +2588,191 @@ sollen — Präteritum wir / sie / Sie?	sollten	a2.1 unit_06 verb
 to receive — Partizip II?	bekommen	a2.1 unit_06 verb
 to sign — Partizip II?	unterschrieben	a2.1 unit_06 verb
 to hand in — Partizip II?	abgegeben	a2.1 unit_06 verb
+I have never seen X.	Ich habe noch nie X gesehen.	a2.1 unit_07 chunk
+What are you cooking for us tonight? (softened)	Was kochst du heute Abend eigentlich für uns?	a2.1 unit_07 chunk
+Why do I always have to cook?	Wieso muss ich immer kochen?	a2.1 unit_07 chunk
+Why don't you cook for a change?	Warum kochst du nicht mal?	a2.1 unit_07 chunk
+Of course I can cook.	Na klar kann ich kochen.	a2.1 unit_07 chunk
+Even very well.	Sogar sehr gut.	a2.1 unit_07 chunk
+As good as you can fly a plane?	So gut wie du ein Flugzeug fliegen kannst?	a2.1 unit_07 chunk
+I'll prove to you that I can cook. (to several people)	Ich beweise euch, dass ich kochen kann.	a2.1 unit_07 chunk
+Do you need help?	Brauchst du Hilfe?	a2.1 unit_07 chunk
+I have everything under control.	Ich hab alles unter Kontrolle.	a2.1 unit_07 chunk
+ingredients	Zutaten	a2.1 unit_07 chunk
+There's one in the kitchen. (a cookbook)	In der Küche ist eins.	a2.1 unit_07 chunk
+I've even eaten one before. (a soup)	Ich hab sogar schon mal eine gegessen.	a2.1 unit_07 chunk
+Let's see how that goes.	Das kann was werden.	a2.1 unit_07 chunk
+Let's see!	Mal sehen!	a2.1 unit_07 chunk
+I don't have enough money.	Ich habe nicht genug Geld.	a2.1 unit_07 chunk
+That's cheap.	Das ist billig.	a2.1 unit_07 chunk
+Delicious!	Lecker!	a2.1 unit_07 chunk
+Three times I'd like X.	Dreimal hätte ich gerne X.	a2.1 unit_07 chunk
+How long does it take?	Wie lange dauert das?	a2.1 unit_07 chunk
+I knew it!	Ich wusste es!	a2.1 unit_07 chunk
+Who is going to pay for that?	Wer soll das bezahlen?	a2.1 unit_07 chunk
+I have an idea.	Ich hab eine Idee.	a2.1 unit_07 chunk
+I don't have any money left. (neuter stand-in)	Geld hab ich keins mehr.	a2.1 unit_07 chunk
+That smells delicious!	Riecht das lecker!	a2.1 unit_07 chunk
+That's 19.50, please.	Das macht 19,50, bitte!	a2.1 unit_07 chunk
+Keep the change.	Stimmt so.	a2.1 unit_07 chunk
+You can keep the rest. (formal)	Den Rest können Sie behalten.	a2.1 unit_07 chunk
+You're kidding.	Ist nicht dein Ernst.	a2.1 unit_07 chunk
+Count again.	Zähl noch mal nach.	a2.1 unit_07 chunk
+Too little.	Zu wenig.	a2.1 unit_07 chunk
+Can you lend me some money?	Kannst du mir mal Geld leihen?	a2.1 unit_07 chunk
+How much? (softened)	Wie viel denn?	a2.1 unit_07 chunk
+You get your piggy bank back.	Du kriegst dein Sparschwein zurück.	a2.1 unit_07 chunk
+Give me that.	Gib her.	a2.1 unit_07 chunk
+That's mine.	Das ist doch meins.	a2.1 unit_07 chunk
+Pay the bill.	Die Rechnung bezahlen.	a2.1 unit_07 chunk
+The check, please! (restaurant)	Zahlen, bitte!	a2.1 unit_07 chunk
+count the money	das Geld zählen	a2.1 unit_07 chunk
+Can you lend me 10 euros?	Kannst du mir 10 Euro leihen?	a2.1 unit_07 chunk
+You owe me 20 euros.	Du schuldest mir 20 Euro.	a2.1 unit_07 chunk
+withdraw money	Geld abheben	a2.1 unit_07 chunk
+spend money	Geld ausgeben	a2.1 unit_07 chunk
+save money	Geld sparen	a2.1 unit_07 chunk
+donate money	Geld spenden	a2.1 unit_07 chunk
+earn money	Geld verdienen	a2.1 unit_07 chunk
+waste money	Geld verschwenden	a2.1 unit_07 chunk
+change money / change a bill	Geld wechseln	a2.1 unit_07 chunk
+pay vs count (money)?	bezahlen / zahlen · zählen	a2.1 unit_07 pattern
+lend vs owe?	leihen · schulden	a2.1 unit_07 pattern
+Bobbi gives the man the money.	Bobbi gibt dem Mann das Geld.	a2.1 unit_07 chunk
+Bobbi lends Gogo 10 euros.	Bobbi leiht Gogo 10 Euro.	a2.1 unit_07 chunk
+He gives it to the man.	Er gibt es dem Mann.	a2.1 unit_07 chunk
+He gives it to him.	Er gibt es ihm.	a2.1 unit_07 chunk
+I recommend it to him.	Ich empfehle es ihm.	a2.1 unit_07 chunk
+I bring it to her. (the bag)	Ich bringe sie ihr mit.	a2.1 unit_07 chunk
+I order it for her. (the salad)	Ich bestelle ihn ihr.	a2.1 unit_07 chunk
+Here is one. (a spoon, subject)	Hier ist einer.	a2.1 unit_07 chunk
+Here is one. (a knife, subject)	Hier ist eins.	a2.1 unit_07 chunk
+Here is one. (a fork, subject)	Hier ist eine.	a2.1 unit_07 chunk
+We have one. (a spoon, object)	Wir haben einen.	a2.1 unit_07 chunk
+We need some. (onions)	Wir brauchen welche.	a2.1 unit_07 chunk
+I need one. (a recipe)	Ich brauche eins.	a2.1 unit_07 chunk
+There is none here. (an ATM)	Hier ist keiner.	a2.1 unit_07 chunk
+I have none. (a credit card)	Ich habe keine.	a2.1 unit_07 chunk
+I have none. (a wallet)	Ich habe keins.	a2.1 unit_07 chunk
+I have none. (a 20-euro bill)	Ich habe keinen.	a2.1 unit_07 chunk
+We need none. (potatoes)	Wir brauchen keine.	a2.1 unit_07 chunk
+Peel the potatoes first.	Zuerst die Kartoffeln schälen.	a2.1 unit_07 chunk
+Dice the potatoes roughly.	Die Kartoffeln grob würfeln.	a2.1 unit_07 chunk
+Fry the onions.	Die Zwiebeln anbraten.	a2.1 unit_07 chunk
+Stir the soup.	Die Suppe umrühren.	a2.1 unit_07 chunk
+Garnish with parsley.	Mit Petersilie garnieren.	a2.1 unit_07 chunk
+wallet (Portemonnaie)	das Portemonnaie · die Portemonnaies	a2.1 unit_07 noun
+purse / wallet (Geldbörse)	die Geldbörse · die Geldbörsen	a2.1 unit_07 noun
+cash	das Bargeld · no plural	a2.1 unit_07 noun
+coin	die Münze · die Münzen	a2.1 unit_07 noun
+banknote	der Geldschein · die Geldscheine	a2.1 unit_07 noun
+small change	das Kleingeld · no plural	a2.1 unit_07 noun
+tip (money)	das Trinkgeld · no plural	a2.1 unit_07 noun
+change (from a purchase)	das Wechselgeld · no plural	a2.1 unit_07 noun
+pocket money	das Taschengeld · no plural	a2.1 unit_07 noun
+cookbook	das Kochbuch · die Kochbücher	a2.1 unit_07 noun
+recipe	das Rezept · die Rezepte	a2.1 unit_07 noun
+ingredient	die Zutat · die Zutaten	a2.1 unit_07 noun
+potato soup	die Kartoffelsuppe · die Kartoffelsuppen	a2.1 unit_07 noun
+rice pudding	der Milchreis · no plural	a2.1 unit_07 noun
+hash browns	die Kartoffelpuffer	a2.1 unit_07 noun
+piggy bank	das Sparschwein · die Sparschweine	a2.1 unit_07 noun
+expensive // cheap	teuer // billig	a2.1 unit_07 chunk
+stingy // generous	geizig // großzügig	a2.1 unit_07 chunk
+rich // poor	reich // arm	a2.1 unit_07 chunk
+ein- as pronoun — masculine nominative?	einer	a2.1 unit_07 pattern
+ein- as pronoun — neuter?	eins	a2.1 unit_07 pattern
+ein- as pronoun — feminine?	eine	a2.1 unit_07 pattern
+ein- as pronoun — masculine accusative?	einen	a2.1 unit_07 pattern
+ein- plural stand-in?	welche	a2.1 unit_07 pattern
+kein- as pronoun — masculine nominative?	keiner	a2.1 unit_07 pattern
+kein- as pronoun — neuter?	keins	a2.1 unit_07 pattern
+kein- as pronoun — feminine / plural?	keine	a2.1 unit_07 pattern
+kein- as pronoun — masculine accusative?	keinen	a2.1 unit_07 pattern
+Two noun objects — which first?	dative before accusative	a2.1 unit_07 pattern
+Accusative is a pronoun — order?	the pronoun comes first	a2.1 unit_07 pattern
+Both objects are pronouns — order?	accusative before dative	a2.1 unit_07 pattern
+to smell — Partizip II?	gerochen	a2.1 unit_07 verb
+Peel and dice the onion.	Zwiebel schälen und würfeln.	a2.1 unit_07 chunk
+Peel the carrots and cut them into slices.	Karotten schälen und in Scheiben schneiden.	a2.1 unit_07 chunk
+Peel and roughly dice the potatoes.	Kartoffeln schälen und grob würfeln.	a2.1 unit_07 chunk
+Fry the onion in oil until golden brown.	Zwiebel in Öl goldgelb anbraten.	a2.1 unit_07 chunk
+Add the carrots and potato cubes and steam them together.	Karotten und Kartoffelwürfel dazugeben und mitdünsten.	a2.1 unit_07 chunk
+Pour in the vegetable broth.	Mit Gemüsebrühe angießen.	a2.1 unit_07 chunk
+Season with salt, pepper and marjoram.	Mit Salz, Pfeffer und Majoran würzen.	a2.1 unit_07 chunk
+Let it simmer for about 20 minutes.	Etwa 20 Minuten köcheln lassen.	a2.1 unit_07 chunk
+Cut the sausages into slices.	Würste in Scheiben schneiden.	a2.1 unit_07 chunk
+Wash the parsley, shake it dry and cut it finely.	Petersilie waschen, trocken schütteln und fein schneiden.	a2.1 unit_07 chunk
+Garnish the soup with the sausages and parsley and serve it.	Suppe mit Würstchen und Petersilie garnieren und servieren.	a2.1 unit_07 chunk
+Cut the parsley finely.	Die Petersilie fein schneiden.	a2.1 unit_07 chunk
+to peel	schälen	a2.1 unit_07 chunk
+to dice	würfeln	a2.1 unit_07 chunk
+to fry / brown	anbraten	a2.1 unit_07 chunk
+to add (into the pan)	dazugeben	a2.1 unit_07 chunk
+to steam together	mitdünsten	a2.1 unit_07 chunk
+to pour in (liquid)	angießen	a2.1 unit_07 chunk
+to season	würzen	a2.1 unit_07 chunk
+to let simmer	köcheln lassen	a2.1 unit_07 chunk
+to stir	umrühren	a2.1 unit_07 chunk
+to garnish	garnieren	a2.1 unit_07 chunk
+to serve (food)	servieren	a2.1 unit_07 chunk
+into slices	in Scheiben	a2.1 unit_07 chunk
+vegetable broth	die Gemüsebrühe · die Gemüsebrühen	a2.1 unit_07 noun
+parsley	die Petersilie · no plural	a2.1 unit_07 noun
+marjoram	der Majoran · no plural	a2.1 unit_07 noun
+Bockwurst	die Bockwurst · die Bockwürste	a2.1 unit_07 noun
+tablespoon	der Esslöffel · die Esslöffel	a2.1 unit_07 noun
+teaspoon	der Teelöffel · die Teelöffel	a2.1 unit_07 noun
+sunflower oil	das Sonnenblumenöl · no plural	a2.1 unit_07 noun
+slice (of food)	die Scheibe · die Scheiben	a2.1 unit_07 noun
+schnitzel with roast potatoes	das Schnitzel mit Bratkartoffeln	a2.1 unit_07 noun
+fried sausage with sauerkraut	die Bratwurst mit Sauerkraut	a2.1 unit_07 noun
+Königsberg meatballs	die Königsberger Klopse	a2.1 unit_07 noun
+roast pork with dumplings	der Schweinebraten mit Klößen	a2.1 unit_07 noun
+roulade with red cabbage	die Roulade mit Rotkohl	a2.1 unit_07 noun
+roulade with red cabbage (Rotkraut)	die Roulade mit Rotkraut	a2.1 unit_07 noun
+potato soup with sausages	die Kartoffelsuppe mit Würstchen	a2.1 unit_07 noun
+hash browns (Reibekuchen)	der Reibekuchen · die Reibekuchen	a2.1 unit_07 noun
+schnitzel	das Schnitzel · die Schnitzel	a2.1 unit_07 noun
+fried sausage	die Bratwurst · die Bratwürste	a2.1 unit_07 noun
+roast potatoes	die Bratkartoffeln	a2.1 unit_07 noun
+dumpling (German)	der Kloß · die Klöße	a2.1 unit_07 noun
+roulade (meat)	die Roulade · die Rouladen	a2.1 unit_07 noun
+red cabbage	der Rotkohl · no plural	a2.1 unit_07 noun
+red cabbage (Rotkraut)	das Rotkraut · no plural	a2.1 unit_07 noun
+small sausage	das Würstchen · die Würstchen	a2.1 unit_07 noun
+Which verbs take dative + accusative?	geben · leihen · bringen · empfehlen · erklären · erzählen · holen · kaufen · schenken · schicken · schreiben · vorlesen · wünschen · zeigen	a2.1 unit_07 pattern
+Bobbi lends his roommate 10 euros.	Bobbi leiht seinem Mitbewohner 10 Euro.	a2.1 unit_07 chunk
+Hans buys his children a guinea pig.	Hans kauft seinen Kindern ein Meerschweinchen.	a2.1 unit_07 chunk
+Mr Kraut gets his girlfriend a glass of wine.	Herr Kraut holt seiner Freundin ein Glas Wein.	a2.1 unit_07 chunk
+Maria gives her boyfriend a cookbook.	Maria schenkt ihrem Freund ein Kochbuch.	a2.1 unit_07 chunk
+We send our friends a parcel.	Wir schicken unseren Freunden ein Paket.	a2.1 unit_07 chunk
+Ms Stock wishes her students a nice weekend.	Frau Stock wünscht ihren Schülern ein schönes Wochenende.	a2.1 unit_07 chunk
+The man gives his wife a blouse.	Der Mann schenkt seiner Frau eine Bluse.	a2.1 unit_07 chunk
+The woman writes her husband a letter.	Die Frau schreibt ihrem Mann einen Brief.	a2.1 unit_07 chunk
+We give our parents a trip.	Wir schenken unseren Eltern eine Reise.	a2.1 unit_07 chunk
+He gives his dog a sausage.	Er gibt seinem Hund eine Wurst.	a2.1 unit_07 chunk
+She reads her daughter a book.	Sie liest ihrer Tochter ein Buch vor.	a2.1 unit_07 chunk
+The parents buy their son a computer.	Die Eltern kaufen ihrem Sohn einen Computer.	a2.1 unit_07 chunk
+She gives the woman the bike.	Sie gibt der Frau das Fahrrad.	a2.1 unit_07 chunk
+He gives the child the ball.	Er gibt dem Kind den Ball.	a2.1 unit_07 chunk
+They show the guests the restaurant.	Sie zeigen den Gästen das Restaurant.	a2.1 unit_07 chunk
+She shows the tenant the flat.	Sie zeigt dem Mieter die Wohnung.	a2.1 unit_07 chunk
+He recommends the guest the salad.	Er empfiehlt dem Gast den Salat.	a2.1 unit_07 chunk
+Can you lend me money? — No, I don't want to lend you any money.	Kannst du mir Geld leihen? — Nein, ich will dir kein Geld leihen.	a2.1 unit_07 chunk
+I write her an e-mail.	Ich schreibe ihr eine E-Mail.	a2.1 unit_07 chunk
+I give him a book.	Ich schenke ihm ein Buch.	a2.1 unit_07 chunk
+Can you explain this word to us? (formal)	Können Sie uns dieses Wort erklären?	a2.1 unit_07 chunk
+Can I give you my phone number? (formal)	Kann ich Ihnen meine Telefonnummer geben?	a2.1 unit_07 chunk
+I send them the photos.	Ich schicke ihnen die Fotos.	a2.1 unit_07 chunk
+I tell it to them. (a joke)	Ich erzähle ihn ihnen.	a2.1 unit_07 chunk
+I explain it to them. (the homework)	Ich erkläre sie ihnen.	a2.1 unit_07 chunk
+to give someone something	jemandem etwas geben	a2.1 unit_07 chunk
+to lend someone something	jemandem etwas leihen	a2.1 unit_07 chunk
+to give someone something as a present	jemandem etwas schenken	a2.1 unit_07 chunk
+to send someone something	jemandem etwas schicken	a2.1 unit_07 chunk
+to show someone something	jemandem etwas zeigen	a2.1 unit_07 chunk
+to explain something to someone	jemandem etwas erklären	a2.1 unit_07 chunk
+to tell someone something	jemandem etwas erzählen	a2.1 unit_07 chunk
+to wish someone something	jemandem etwas wünschen	a2.1 unit_07 chunk
+to read something aloud to someone	jemandem etwas vorlesen	a2.1 unit_07 chunk

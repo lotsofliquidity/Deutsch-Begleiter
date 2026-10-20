@@ -2,7 +2,7 @@
 
 Source: [`A2-1-KOMPLETT.pdf`](A2-1-KOMPLETT.pdf) · answers: [`A2-1_LOESUNGEN_KOMPLETT.pdf`](A2-1_LOESUNGEN_KOMPLETT.pdf)
 
-**Ingested:** units 1–6 · **Not yet:** units 7–10
+**Ingested:** units 1–7 · **Not yet:** units 8–10
 
 Ask: `/ingest` · `/teach` · `/drill`
 
@@ -16,7 +16,7 @@ Ask: `/ingest` · `/teach` · `/drill`
 | 4 | Kennenlernen | Beim Date | ingested | 113–146 |
 | 5 | Sommer und Picknick | Im Park | ingested | 147–174 |
 | 6 | Ämter und Behörden | Auf dem Einwohnermeldeamt | ingested | 175–208 |
-| 7 | Essen bestellen | Zu Hause | not yet | 209–236 |
+| 7 | Essen bestellen | Zu Hause | ingested | 209–236 |
 | 8 | Wollen wir einen Film gucken? | Auf der Couch | not yet | 237–266 |
 | 9 | Kundenservice | Am Telefon | not yet | 267–299 |
 | 10 | Ausgehen am Wochenende | Auf dem Konzert | not yet | 300– |

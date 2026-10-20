@@ -924,3 +924,67 @@ Vollständige Liste in [`../a1.2/partizip-ii.md`](../a1.2/partizip-ii.md).
 - *Kuckuck!* = peekaboo
 - Reinhard Mey, *Einen Antrag auf Erteilung eines Antragsformulars* — a joke about German officials
 - *fleißig* = diligent · *ungeduldig* = impatient · *die Anschrift* = the address · *koffeinfrei* = decaf
+
+---
+
+## Indefinitpronomen *ein-* / *welch-* (U7)
+
+Stand-in for a countable noun already named.
+
+| | m | n | f | pl |
+|---|---|---|---|---|
+| Nominativ | *einer* | *eins* | *eine* | *welche* |
+| Akkusativ | *einen* | *eins* | *eine* | *welche* |
+
+*Wo ist denn das Kochbuch? — In der Küche ist eins.* · *Brauchen wir Zwiebeln? — Ja, wir brauchen welche.*
+
+## Indefinitpronomen *kein-* (U7)
+
+| | m | n | f | pl |
+|---|---|---|---|---|
+| Nominativ | *keiner* | *keins* | *keine* | *keine* |
+| Akkusativ | *keinen* | *keins* | *keine* | *keine* |
+
+*Ist hier ein Geldautomat? — Nein, hier ist keiner.* · *Geld hab' ich keins mehr.*
+
+## Verben mit Dativ und Akkusativ (U7)
+
+| Role | Case | Question |
+|---|---|---|
+| who does it | Nominativ | *Wer?* |
+| who receives | Dativ | *Wem?* |
+| what they get | Akkusativ | *Was?* |
+
+Default with two nouns: **Dativ before Akkusativ** — *Bobbi gibt dem Mann das Geld.*
+Akkusativ pronoun alone → first: *Er gibt es dem Mann.*
+Both pronouns → **Akk before Dat**: *Er gibt es ihm.*
+
+Verbs: *geben · leihen · bringen · empfehlen · erklären · erzählen · holen · kaufen · schenken · schicken · schreiben · vorlesen · wünschen · zeigen*
+
+## Verben rund ums Geld (U7)
+
+*bezahlen* (the bill) · *zahlen* (*Zahlen, bitte!*) · *zählen* (count) · *leihen* · *schulden* · *abheben* · *ausgeben* · *sparen* · *spenden* · *verdienen* · *verschwenden* · *wechseln*
+
+## Wortfeld: Geld und Gerichte (U7)
+
+- **der** — *Geldautomat* · *Geldbeutel* · *Geldschein* · *Milchreis* · *Schweinebraten* · *Reibekuchen*
+- **die** — *Kreditkarte* · *Geldbörse* · *Münze* · *Bratwurst* · *Roulade* · *Kartoffelsuppe* · *Zutat*
+- **das** — *Portemonnaie* · *Bargeld* · *Kleingeld* · *Trinkgeld* · *Wechselgeld* · *Taschengeld* · *Kochbuch* · *Rezept* · *Schnitzel*
+- Adjektive: *teuer // billig = günstig = preiswert* · *geizig // großzügig* · *reich // arm*
+
+## Partizip II — neue Formen (U7)
+
+| Infinitiv | Partizip II |
+|---|---|
+| *riechen* | gerochen |
+
+Vollständige Liste in [`../a1.2/partizip-ii.md`](../a1.2/partizip-ii.md).
+
+## Footnotes (U7)
+
+- *dran* = *daran*
+- *kriegen* = casual *bekommen*
+- *Das kann was werden.* = let's see how that goes
+- *Mal sehen!* = let's see
+- *Ist nicht dein Ernst.* = you're kidding
+- *gib her* = give me that

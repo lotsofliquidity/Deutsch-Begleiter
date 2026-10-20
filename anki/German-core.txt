@@ -638,3 +638,19 @@ sollen — Präteritum wir / sie / Sie?	sollten	a2.1 unit_06 verb
 to receive — Partizip II?	bekommen	a2.1 unit_06 verb
 to sign — Partizip II?	unterschrieben	a2.1 unit_06 verb
 to hand in — Partizip II?	abgegeben	a2.1 unit_06 verb
+pay vs count (money)?	bezahlen / zahlen · zählen	a2.1 unit_07 pattern
+lend vs owe?	leihen · schulden	a2.1 unit_07 pattern
+ein- as pronoun — masculine nominative?	einer	a2.1 unit_07 pattern
+ein- as pronoun — neuter?	eins	a2.1 unit_07 pattern
+ein- as pronoun — feminine?	eine	a2.1 unit_07 pattern
+ein- as pronoun — masculine accusative?	einen	a2.1 unit_07 pattern
+ein- plural stand-in?	welche	a2.1 unit_07 pattern
+kein- as pronoun — masculine nominative?	keiner	a2.1 unit_07 pattern
+kein- as pronoun — neuter?	keins	a2.1 unit_07 pattern
+kein- as pronoun — feminine / plural?	keine	a2.1 unit_07 pattern
+kein- as pronoun — masculine accusative?	keinen	a2.1 unit_07 pattern
+Two noun objects — which first?	dative before accusative	a2.1 unit_07 pattern
+Accusative is a pronoun — order?	the pronoun comes first	a2.1 unit_07 pattern
+Both objects are pronouns — order?	accusative before dative	a2.1 unit_07 pattern
+to smell — Partizip II?	gerochen	a2.1 unit_07 verb
+Which verbs take dative + accusative?	geben · leihen · bringen · empfehlen · erklären · erzählen · holen · kaufen · schenken · schicken · schreiben · vorlesen · wünschen · zeigen	a2.1 unit_07 pattern
