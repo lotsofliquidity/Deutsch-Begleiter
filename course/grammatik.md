@@ -451,6 +451,13 @@ Read the **last letters** of the noun first, before you reach for the article:
   - *Was machst du beruflich?* — What do you do for a living?
   - *Ich mache ein Praktikum bei Siemens.* — I'm doing an internship at Siemens.
 
+- **Nomen mit -ung** — built from a verb, always *die*, plural *-en* *(A2.1 U6)*
+  - *anmelden → die Anmeldung* · *Wie funktioniert denn die Anmeldung?*
+  - *wohnen → die Wohnung → die Wohnungen* · *beschreiben → die Beschreibung*
+  - *einladen → die Einladung* · *entschuldigen → die Entschuldigung*
+  - Stem changes: *sammeln → die Sammlung* · *wandern → die Wanderung* · *liefern → die Lieferung*
+  - Trap: ~~der Anmeldung~~ → *die Anmeldung* · ~~die Wohnungs~~ → *die Wohnungen*
+
 - **das Haar — die Haare** — everyday German says the **plural** *(A2.1 U3)*
   - *Das Haar ist kurz // lang.* — The hair is short // long.
   - *Die Haare sind glatt // lockig. = Sie hat Locken.* — Her hair is straight // curly. = She has curls.
@@ -467,6 +474,7 @@ Read the **last letters** of the noun first, before you reach for the article:
 - [`Ich bin X. / Ich arbeite als X.`](../patterns/patterns.md#ich-bin-x--ich-arbeite-als-x)
 - [`Was kostet / Was kosten …?`](../patterns/patterns.md#was-kostet--was-kosten-)
 - [`Sie sieht aus`](../patterns/patterns.md#sie-sieht-aus)
+- [`Nomen mit -ung`](../patterns/patterns.md#nomen-mit--ung)
 
 ---
 
@@ -596,6 +604,30 @@ Read the **last letters** of the noun first, before you reach for the article:
   - *bei* + dative pronoun: *Sie wohnt nicht mehr bei mir.* · *Es war sehr nett bei Ihnen.*
   - Trap: *~~bei der Anja~~* → *bei Anja* — a first name takes no article
 
+- **Into a building → *in* + Akkusativ; towards a person → *zu* + Dativ** *(A2.1 U6)*
+  - *Wohin?* and the place is a building or a room: *Sie geht **ins** Einwohnermeldeamt.* · *Ich gehe **in den** Supermarkt.* · *Sie geht **in die** Küche.*
+  - *Wohin?* and the place is a person or an activity: *Er geht **zu** Katie.* · *Katie geht **zum** Pförtner.* · *Ich gehe heute nicht **zur** Arbeit.*
+  - *zum* = *zu + dem* · *zur* = *zu + der* · *ins* = *in + das*
+  - Towards the building, not yet inside: *Katie geht **zum** Einwohnermeldeamt.* Inside: *Katie geht **ins** Einwohnermeldeamt.*
+  - Sometimes both: *Meine Tochter geht schon **in die** Schule.* = *… **zur** Schule.*
+  - Trap: ~~zu das Kino~~ → *ins Kino* · a first name takes no article: *zu Anna* (*zur Paula* is colloquial)
+
+- **Inside → *in* + Dativ; at a person or activity → *bei* + Dativ** *(A2.1 U6)*
+  - *Wo?* inside: *Sie ist **im** Wartezimmer.* · *Sie ist **in der** Küche.* · *im* = *in + dem*
+  - *Wo?* at a person or an activity: *Katie ist **beim** Pförtner.* · *Wir sind **beim** Sport.* · *Ich bin heute nicht **bei der** Arbeit.*
+  - *beim* = *bei + dem* · a name has no article: *Er ist **bei** Katie.* · *Bleibst du heute **bei** mir?*
+
+- ***im* Amt is the building, *auf dem* Amt is the institution** *(A2.1 U6)*
+  - *Sie ist **im** Einwohnermeldeamt.* — inside the building
+  - *Sie ist **auf dem** Einwohnermeldeamt.* — dealing with the authority
+
+- **Out of a building → *aus* + Dativ; from a person → *von* + Dativ** *(A2.1 U6)*
+  - *Woher?* out of a room: *Sie kommt **aus dem** Einwohnermeldeamt.* · *Sie kommt **aus der** Küche.* · *Er kommt **aus dem** Keller.*
+  - *Woher?* from a person or an activity: *Er kommt **von** Katie.* · *Katie kommt **vom** Pförtner.*
+  - *Ich komme **von der** Arbeit.* · *Wir kommen **vom** Sport.*
+  - *vom* = *von + dem*
+  - Trap: ~~aus der Arbeit~~ for “coming from work” → *von der Arbeit* · ~~von der Küche~~ for “out of the kitchen” → *aus der Küche*
+
 ### Zeit
 
 | Frage | Präposition | Beispiel |
@@ -611,6 +643,14 @@ Read the **last letters** of the noun first, before you reach for the article:
 - ***Am** Abend geht Katie mit Jonas essen.* — In the evening Katie goes out to eat with Jonas.
 - ***Im** Sommer spielen wir immer im Park.* — In summer we always play in the park.
 - ***In der** Nacht fährt der Zug.* — The train runs at night.
+
+- ***seit* + Dativ — it started and is not over** *(A2.1 U6)*
+  - Question *Seit wann?* / *Wie lange?* — the verb stays in the **present**
+  - *Seit wann sind Sie in Deutschland? — Ich bin seit 3 Monaten in Deutschland.*
+  - *Sie lernt seit einem Monat Deutsch.* · *Er hat seit einem Jahr einen Papagei.*
+  - Singular: *seit einem Monat* · *seit einem Jahr* · *seit einer Woche* · *seit einer Stunde*
+  - Plural: *seit drei Jahren* · *seit zwei Tagen* · *seit zwei Wochen* (already ends in *-n*)
+  - Trap: ~~seit drei Jahre~~ → *seit drei Jahren* · ~~Ich war seit drei Monaten …~~ while you are still there → *Ich bin seit drei Monaten …*
 
 - **Worked example — one noun, three prepositions** *(A1.2 U7)* — the **verb** picks the
   preposition; the noun only takes whatever case that preposition gives it
@@ -630,6 +670,8 @@ Read the **last letters** of the noun first, before you reach for the article:
 - [`Wechselpräpositionen mit Dativ`](../patterns/patterns.md#wechselpräpositionen-mit-dativ)
 - [`Wechselpräpositionen — Kurzformen`](../patterns/patterns.md#wechselpräpositionen--kurzformen)
 - [`bei + Dativ`](../patterns/patterns.md#bei--dativ)
+- [`Lokale Präpositionen: in, zu, bei, aus, von`](../patterns/patterns.md#lokale-präpositionen-in-zu-bei-aus-von)
+- [`seit + Dativ`](../patterns/patterns.md#seit--dativ)
 
 ---
 
@@ -776,10 +818,22 @@ either one away and the verb stays whole — it is the conjugated form that sepa
   - *Muss ich die Schuhe ausziehen?* — Do I have to take my shoes off?
   - *Man muss sein Geschirr immer selber spülen.* — You always have to wash your own dishes.
 
-- ***sollen***
+- ***sollen*** — three jobs *(A1.2 U5 · A2.1 U6)*
   - *Ich soll meine Daten eintragen.* — I'm supposed to enter my details.
   - *Was soll ich machen?* — What should I do?
   - *Sie sollen heute pünktlich sein.* — You're supposed to be on time today.
+  - Report someone else's order: *Kreuzen Sie hier Ihr Geschlecht an! → Ich soll mein Geschlecht ankreuzen.*
+  - Offer: *Soll ich Ihnen helfen?* · *Soll ich zum Einwohnermeldeamt mitkommen?*
+  - Ask for advice: *Soll ich das Bußgeld zahlen?*
+  - The infinitive stays at the end: *Sie sollen das Formular ausfüllen.*
+
+- ***sollen* im Präteritum — *sollte*** *(A2.1 U6)*
+  - *ich sollte · du solltest · er sollte · wir sollten · ihr solltet · sie sollten*
+  - *ich* = *er/sie/es* and *wir* = *sie/Sie*, as with every modal
+  - *Katie sollte das Formular ausfüllen.* — Katie was supposed to fill out the form.
+  - *Du solltest doch pünktlich nach Hause kommen!* — You were supposed to come home on time!
+  - *Was sollte Pietro machen?* — What was Pietro supposed to do?
+  - Trap: ~~Ich habe das Formular ausfüllen gesollt~~ → *Ich sollte das Formular ausfüllen.*
 
 - ***sollen* vs *wollen*** — both translate "shall", split by **who the question is about**
   - *Soll ich die Schuhe ausziehen?* — **Shall I** take my shoes off? — your own action
@@ -835,6 +889,7 @@ either one away and the verb stays whole — it is the conjugated form that sepa
 - [`wollen vs möchten`](../patterns/patterns.md#wollen-vs-möchten)
 - [`müssen plus Infinitiv`](../patterns/patterns.md#müssen-plus-infinitiv)
 - [`sollen`](../patterns/patterns.md#sollen)
+- [`sollen im Präteritum`](../patterns/patterns.md#sollen-im-präteritum)
 - [`dürfen`](../patterns/patterns.md#dürfen)
 
 ---
@@ -1376,7 +1431,9 @@ pointers rather than rules — the sentences themselves are in the unit files an
 [Wo ist / Ich suche / Wo finde ich X?](../patterns/patterns.md#wo-ist--ich-suche--wo-finde-ich-x) ·
 [Wohin möchten Sie fahren?](../patterns/patterns.md#wohin-möchten-sie-fahren) ·
 [Haben wir noch X?](../patterns/patterns.md#haben-wir-noch-x) ·
-[Heißt das, dass …?](../patterns/patterns.md#heißt-das-dass-)
+[Heißt das, dass …?](../patterns/patterns.md#heißt-das-dass-) ·
+[Auf dem Einwohnermeldeamt](../patterns/patterns.md#auf-dem-einwohnermeldeamt) ·
+[dabeihaben / dabei sein](../patterns/patterns.md#dabeihaben--dabei-sein)
 
 **Restaurant and food**
 

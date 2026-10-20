@@ -104,6 +104,7 @@ like any weak one: *-t*, or *-et* after a stem in *-t/-d*.
 | missachten | missachtet | to disregard |
 | besichtigen | besichtigt | to view (a flat) |
 | verstehen | verstanden | to understand |
+| unterschreiben | unterschrieben | to sign |
 | verlieren | verloren | to lose |
 | bestehen | bestanden | to pass (an exam) |
 | vergessen | vergessen | to forget |
@@ -160,6 +161,7 @@ like any weak one: *-t*, or *-et* after a stem in *-t/-d*.
 | schwimmen | geschwommen | to swim |
 | fliegen | geflogen | to fly |
 | kommen | gekommen | to come |
+| bekommen | bekommen | to receive |
 | rennen | gerannt | to run |
 | wachsen | gewachsen | to grow |
 | sterben | gestorben | to die |
@@ -187,6 +189,7 @@ These look regular but aren't — the stem changes, so they're learned individua
 | Infinitive | Partizip II | English |
 |---|---|---|
 | mitnehmen | mitgenommen | to take along |
+| abgeben | abgegeben | to hand in |
 | abwaschen | abgewaschen | to wash up |
 | fernsehen | ferngesehen | to watch TV |
 | anfangen | angefangen | to begin |

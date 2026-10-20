@@ -89,7 +89,7 @@ Taught by `/ingest`. Drilled by `/drill`. Source PDFs: `courses/`.
 | [Im Kurs](#im-kurs) | classroom nouns | A1.2 U5 |
 | [Imperativ formell](#imperativ-formell) | formal commands | A1.2 U5 |
 | [Alternativer Imperativ](#alternativer-imperativ) | short instruction forms | A1.2 U5 |
-| [sollen](#sollen) | be supposed to / should | A1.2 U5 |
+| [sollen](#sollen) | be supposed to / should | A1.2 U5 · A2.1 U6 |
 | [Eine Geschichte erzählen](#eine-geschichte-erzählen) | sequence events in a story | A1.2 U6 |
 | [Unregelmäßiges Partizip II](#unregelmäßiges-partizip-ii) | learn strong and irregular participle forms | A1.2 U6 |
 | [Perfekt mit sein — Ortswechsel](#perfekt-mit-sein--ortswechsel) | movement verbs: *sein* + Partizip II | A1.2 U7 |
@@ -131,8 +131,14 @@ Taught by `/ingest`. Drilled by `/drill`. Source PDFs: `courses/`.
 | [Auf eine Einladung reagieren](#auf-eine-einladung-reagieren) | invite · accept · thank | A2.1 U1 |
 | [Untrennbare Verben](#untrennbare-verben) | prefix never splits · participle without *ge-* | A2.1 U2 |
 | [Partizip II ohne ge-](#partizip-ii-ohne-ge-) | *-ieren* and inseparable prefixes skip *ge-* | A2.1 U2 |
+| [Nomen mit -ung](#nomen-mit--ung) | verb → *die* noun, plural *-en* | A2.1 U6 |
+| [Lokale Präpositionen: in, zu, bei, aus, von](#lokale-präpositionen-in-zu-bei-aus-von) | building vs person · into / towards / out of | A2.1 U6 |
+| [seit + Dativ](#seit--dativ) | since / for — still going on | A2.1 U6 |
+| [sollen im Präteritum](#sollen-im-präteritum) | *sollte* — was supposed to | A2.1 U6 |
+| [Auf dem Einwohnermeldeamt](#auf-dem-einwohnermeldeamt) | register, number, form | A2.1 U6 |
+| [dabeihaben / dabei sein](#dabeihaben--dabei-sein) | have with you · I'm in | A2.1 U6 |
 
-Seed patterns not yet drilled from early units: [Hast du X dabei?](#hast-du-x-dabei) · [Wohin + Verb](#wohin--verb-der-bewegung)
+Seed patterns not yet drilled from early units: [Wohin + Verb](#wohin--verb-der-bewegung)
 
 ---
 
@@ -2309,11 +2315,19 @@ The noun is the trigger, not the verb — even mass nouns that take no article i
 **Slot:** subject + *sollen* + infinitive at the end, with separables kept whole
 **Register:** neutral
 
+**Behind it:** Three jobs in A2.1 Unit 6. You **report someone else's order** (*Der Beamte sagt: Kreuzen Sie hier Ihr Geschlecht an! → Ich soll mein Geschlecht ankreuzen.*). You **offer** (*Soll ich Ihnen helfen?*). You **ask for advice** (*Was soll ich machen? · Soll ich das Bußgeld zahlen?*). The infinitive stays at the end. The past is a separate pattern: [`sollen im Präteritum`](#sollen-im-präteritum).
+
 **Instances**
 - Ich soll meine Daten eintragen.
 - Was soll ich machen?
 - Sie sollen heute pünktlich sein.
 - Du sollst doch bügeln.
+- Was? Ich soll mein Geschlecht ankreuzen?
+- Ich soll jetzt 1000 Euro zahlen!
+- Soll ich Ihnen helfen?
+- Soll ich zum Einwohnermeldeamt mitkommen?
+- Soll ich das Bußgeld zahlen?
+- Sie sollen das Formular ausfüllen. · Du sollst das Buch lesen. · Ihr sollt ruhig sein.
 
 **Ladder**
 1. Was soll ich machen?
@@ -2322,9 +2336,12 @@ The noun is the trigger, not the verb — even mass nouns that take no article i
 4. Du sollst oft Deutsch sprechen.
 5. Wir sollen das Buch kaufen.
 6. Du sollst doch bügeln.
-7. Trap: *Du sollst doch bügeln* — infinitive stays at the end, the verb is never *bügelst*
+7. Ich soll mein Geschlecht ankreuzen.
+8. Soll ich Ihnen helfen?
+9. Soll ich das Bußgeld zahlen?
+10. Trap: *Du sollst doch bügeln* — infinitive stays at the end, the verb is never *bügelst*
 
-**Meta:** A1.2 Unit 5 · Dialog 3 · added 2026-10-03 · extended A2.1 Unit 2 (reproach *Du sollst doch …*)
+**Meta:** A1.2 Unit 5 · Dialog 3 · added 2026-10-03 · extended A2.1 Unit 2 (reproach *Du sollst doch …*) · extended A2.1 Unit 6 (report / offer / advice)
 
 ---
 
@@ -4702,15 +4719,213 @@ Countries with an article: **maskulin** *der Irak · der Iran · der Jemen* — 
 
 ---
 
+## Nomen mit -ung
+
+**Frame:** `Verb → die + Stamm + ung` · plural `+ en`
+**Meaning:** the noun of the action — registration, description, payment
+**Slot:** a verb that forms a feminine *-ung* noun
+**Register:** neutral
+
+**Behind it:** Most nouns in *-ung* are built from a verb and are **feminine**. The plural adds *-en*: *die Wohnung → die Wohnungen*. Three booklet exceptions change the stem: *sammeln → die Sammlung* · *wandern → die Wanderung* · *liefern → die Lieferung*.
+
+**Instances**
+- anmelden → die Anmeldung · Wie funktioniert denn die Anmeldung?
+- beschreiben → die Beschreibung · bedeuten → die Bedeutung
+- bestellen → die Bestellung · bezahlen → die Bezahlung
+- einladen → die Einladung · erklären → die Erklärung
+- entschuldigen → die Entschuldigung · üben → die Übung
+- wohnen → die Wohnung · Ich habe eine neue Wohnung gefunden.
+- entscheiden → die Entscheidung · meinen → die Meinung · empfehlen → die Empfehlung
+- sammeln → die Sammlung · wandern → die Wanderung · liefern → die Lieferung
+
+**Ladder**
+1. anmelden → die Anmeldung
+2. wohnen → die Wohnung → die Wohnungen
+3. beschreiben → die Beschreibung
+4. einladen → die Einladung
+5. entschuldigen → die Entschuldigung
+6. liefern → die Lieferung
+7. wandern → die Wanderung
+8. Trap: ~~der Anmeldung~~ — *-ung* is *die*
+9. Trap: ~~die Wohnungs~~ — the plural is *die Wohnungen*
+
+**Meta:** A2.1 Unit 6 · Dialog 1 · added 2026-10-19
+
+---
+
+## Lokale Präpositionen: in, zu, bei, aus, von
+
+**Frame:** *Wohin?* building → `in` + Akkusativ · person/activity → `zu` + Dativ · *Wo?* inside → `in` + Dativ · at a person → `bei` + Dativ · *Woher?* out of a building → `aus` + Dativ · from a person → `von` + Dativ
+**Meaning:** into / towards / inside / at someone's / out of / coming from
+**Slot:** a building or room, or a person or activity
+**Register:** neutral — the short forms are what people say (*ins · im · zum · zur · beim · vom*)
+
+**Behind it:** *in* is for a **place you enter or are inside** (a building, a room). *zu*, *bei*, and *von* are for a **person, a name, or an activity** — *zu* on the way there, *bei* while you are there, *von* on the way back. *aus* is the way **out of** a building. *zu* and *in* are sometimes both possible (*in die Schule* = *zur Schule*). For an authority, *im Amt* is the building and *auf dem Amt* is the institution. Names take no article: *zu Anna · bei Frau Stock · von Maria*. Colloquial *zur Paula · zum Bobbi* puts an article on a first name. *bei* for “at a person's place” is already in [`bei + Dativ`](#bei--dativ); *von* for possession is in [`von + Dativ`](#von--dativ).
+
+**Instances**
+- Sie geht ins Einwohnermeldeamt. · Sie geht in das Wartezimmer. · Ich gehe in den Supermarkt. · Sie geht in die Küche.
+- Er geht zu Katie. · Sie geht zu ihm. · Katie geht zum Pförtner. · Ich gehe heute nicht zur Arbeit.
+- Katie geht zum Einwohnermeldeamt. · Katie geht ins Einwohnermeldeamt.
+- Sie ist im Wartezimmer. · Sie ist in der Küche. · Sie ist im Einwohnermeldeamt. · Sie ist auf dem Einwohnermeldeamt.
+- Er ist bei Katie. · Katie ist beim Pförtner. · Wir sind beim Sport. · Ich bin heute nicht bei der Arbeit.
+- Sie kommt aus dem Einwohnermeldeamt. · Sie kommt aus der Küche. · Er kommt aus dem Keller.
+- Er kommt von Katie. · Katie kommt vom Pförtner. · Ich komme von der Arbeit. · Wir kommen vom Sport.
+- Wir waren zuerst beim Sport und dann sind wir noch ins Restaurant gegangen.
+
+**Ladder**
+1. Sie geht ins Einwohnermeldeamt. (into the building)
+2. Er geht zu Katie. (to a person — no article)
+3. Katie geht zum Pförtner. · Ich gehe nicht zur Arbeit.
+4. Sie ist im Wartezimmer. · Sie ist auf dem Einwohnermeldeamt.
+5. Wir sind beim Sport. · Ich bin bei der Arbeit.
+6. Sie kommt aus der Küche.
+7. Ich komme von der Arbeit. · Katie kommt vom Pförtner.
+8. Wir gehen ins Kino. · Ich war im Kino.
+9. Trap: ~~zu das Einwohnermeldeamt~~ — into the building is *ins*, towards it is *zum*
+10. Trap: ~~bei Anna~~ is right for a first name; *zur Paula* is only colloquial
+
+**Meta:** A2.1 Unit 6 · Dialog 1 · added 2026-10-19
+
+---
+
+## seit + Dativ
+
+**Frame:** `seit + Dativ` · question `Seit wann?` / `Wie lange?`
+**Meaning:** since / for — it started in the past and is **not over**
+**Slot:** a time span (*einem Monat · einer Woche · drei Jahren · zwei Tagen*)
+**Register:** neutral
+
+**Behind it:** Because it is not finished, the verb stays in the **present**: *Ich bin seit 3 Monaten in Deutschland.* The time word after *seit* is **dative**. Masculine and neuter singular take *einem* (*seit einem Monat · seit einem Jahr*); feminine singular takes *einer* (*seit einer Woche · seit einer Stunde*). A plural that does not already end in *-n* adds *-n* (*seit drei Jahren · seit zwei Tagen*); *Wochen* already ends in *-n* (*seit zwei Wochen*).
+
+**Instances**
+- Seit wann sind Sie in Deutschland? — Ich bin seit 3 Monaten in Deutschland.
+- Seit wann lernt sie Deutsch? — Sie lernt seit einem Monat Deutsch.
+- Seit wann hat er einen Papagei? — Er hat seit einem Jahr einen Papagei.
+- Seit einem Jahr. · Seit einem Monat. · Seit einer Woche. · Seit einer Stunde.
+- Seit drei Monaten. · Seit zwei Wochen. · Seit fünf Jahren. · Seit zwei Tagen.
+- Erst seit drei Jahren. · Seit drei Monaten?
+
+**Ladder**
+1. Seit wann sind Sie in Deutschland?
+2. Ich bin seit drei Monaten in Deutschland.
+3. seit einem Monat · seit einem Jahr
+4. seit einer Woche · seit einer Stunde
+5. seit fünf Jahren · seit zwei Tagen
+6. seit zwei Wochen
+7. Sie lernt seit einem Monat Deutsch.
+8. Trap: ~~seit drei Jahre~~ → *seit drei Jahren*
+9. Trap: ~~Ich war seit drei Monaten in Deutschland~~ for a stay that is still going — present: *Ich bin seit drei Monaten …*
+
+**Meta:** A2.1 Unit 6 · Dialog 2 · added 2026-10-19
+
+---
+
+## sollen im Präteritum
+
+**Frame:** `sollte` + infinitive at the end
+**Meaning:** was supposed to
+**Slot:** *sollte · solltest · sollten · solltet*
+**Register:** neutral — *doch* makes it a reproach (*Du solltest doch …*)
+
+**Behind it:** Same shape as the other modal pasts: no auxiliary, infinitive at the end, and only four distinct forms. *ich* = *er/sie/es* (*sollte*), *wir* = *sie/Sie* (*sollten*). *du solltest · ihr solltet*.
+
+| | sollen |
+|---|---|
+| ich | sollte |
+| du | solltest |
+| er/sie/es | sollte |
+| wir | sollten |
+| ihr | solltet |
+| sie/Sie | sollten |
+
+**Instances**
+- Katie sollte das Formular ausfüllen.
+- Der Beamte sollte Katie helfen.
+- Du solltest doch pünktlich nach Hause kommen!
+- Sie sollten die Fahrkarten kaufen. Haben Sie das gemacht?
+- Wir sollten gestern eine Geschichte schreiben.
+- Was sollte Pietro machen?
+- Ihr solltet doch euer Zimmer aufräumen!
+- Gogo sollte einen Tisch im Restaurant reservieren, aber er hat es vergessen.
+- Wen sollte ich gestern anrufen? — Du solltest Frau Meier anrufen.
+- Katie und Pietro sollten ins Wartezimmer gehen.
+
+**Ladder**
+1. ich sollte · du solltest · er sollte
+2. wir sollten · ihr solltet · sie sollten
+3. Katie sollte das Formular ausfüllen.
+4. Du solltest doch pünktlich nach Hause kommen!
+5. Was sollte Pietro machen?
+6. Wen sollte ich gestern anrufen? — Du solltest Frau Meier anrufen.
+7. Trap: ~~Du solltest doch pünktlich nach Hause kommst~~ — infinitive at the end
+8. Trap: ~~Ich habe das Formular ausfüllen gesollt~~ — the past is *sollte*
+
+**Meta:** A2.1 Unit 6 · Dialog 3 · added 2026-10-19
+
+---
+
+## Auf dem Einwohnermeldeamt
+
+**Frame:** `Ich möchte mich anmelden.` · `Bitte nehmen Sie … Platz.` · `Haben Sie das Anmeldeformular ausgefüllt?`
+**Meaning:** register, take a number, hand over the form
+**Slot:** *anmelden · ummelden · abmelden* · the form · the fine
+**Register:** the counter is formal (*Sie*); friends in the waiting room are *du*
+
+**Instances**
+- Ich möchte mich anmelden. · Ich möchte mich gerne in Deutschland anmelden.
+- Bitte nehmen Sie dahinten im Wartezimmer Platz.
+- Ich habe ein Schreiben bekommen, dass ich mich in Deutschland anmelden muss.
+- Meld dich an oder geh zurück nach Italien.
+- Ich muss los. · Viel Glück!
+- Haben Sie das Anmeldeformular ausgefüllt?
+- Gucken wir mal. · Seit wann sind Sie denn in Deutschland?
+- Und dann melden Sie sich jetzt erst an?
+- Muss ich jetzt auch Bußgeld zahlen?
+- Heute machen wir mal eine Ausnahme.
+- Ihr Anmeldeformular ist leider noch nicht vollständig. · Was fehlt?
+- Dann die Anschrift. Wie lautet die?
+- Die Bestätigung vom Vermieter.
+- Und, schmeckt's? · Wie soll ich das bezahlen? · Was ist denn passiert?
+- Alles wird gut. · Ich lade dich auf einen Kaffee ein.
+
+**Ladder**
+1. Ich möchte mich anmelden.
+2. Bitte nehmen Sie dahinten im Wartezimmer Platz.
+3. Haben Sie das Anmeldeformular ausgefüllt?
+4. Seit wann sind Sie denn in Deutschland?
+5. Was fehlt? · Wie lautet die Anschrift?
+6. Heute machen wir mal eine Ausnahme.
+7. Wie soll ich das bezahlen?
+
+**Meta:** A2.1 Unit 6 · Dialogs 1–3 · added 2026-10-19
+
+---
+
+## dabeihaben / dabei sein
+
+**Frame:** `Haben Sie X dabei?` · `Ich möchte dich dabeihaben.` · `Ich bin dabei.`
+**Meaning:** have something with you · have someone along · count me in
+**Slot:** a document (*Ausweis*) or a person
+**Register:** *Haben Sie … dabei?* is the counter; *ich bin dabei* is casual
+
+**Behind it:** *dabeihaben* is separable: the thing or person you are bringing is the object, and *dabei* goes to the end (*Ich möchte dich **dabeihaben***). *dabei sein* means you are taking part: *Na klar, ich bin dabei.*
+
+**Instances**
+- Haben Sie Ihren Ausweis dabei?
+- Ich möchte dich dabeihaben, wenn ich zum Einwohnermeldeamt gehe.
+- Pietro, gehen wir einen Kaffee trinken? — Na klar, ich bin dabei.
+
+**Ladder**
+1. Haben Sie Ihren Ausweis dabei?
+2. Ich möchte dich dabeihaben.
+3. Ich bin dabei.
+4. Trap: ~~Haben Sie Ihren Ausweis dabei haben?~~ — the question is *Haben Sie … dabei?*
+
+**Meta:** A2.1 Unit 6 · Dialog 2 · added 2026-10-19
+
+---
+
 ## Later seeds (not yet fully met)
-
-### Hast du X dabei?
-
-**Frame:** `Hast du X dabei?`
-**Meaning:** Do you have X with you?
-**Slot:** X = accusative thing you carry
-**Register:** casual
-**Meta:** seed · not yet met in A1.1 U1–5
 
 ### Wohin + Verb der Bewegung
 

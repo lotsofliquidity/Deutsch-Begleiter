@@ -819,3 +819,108 @@ Bereits gelistet und hier nur wieder verwendet: *aufgestanden · geschlafen · v
 - *Meins!* = Mine! · *Du Lügner!* = You liar! · *Nun warte doch mal.* = Now wait a minute.
 - *zum Essen* vs *zum Kühlen*: *Eis **zum Essen*** — ice cream to eat; *Eis **zum Kühlen** von Getränken* — ice to cool drinks
 - *Die Komplimente waren genauso echt wie Violas Haare.* — a joke: they were as real as her hair (= a wig)
+
+## Nomen mit -ung (U6)
+
+A verb becomes a **feminine** noun in *-ung*. Plural *-en*.
+
+| Verb | Nomen |
+|---|---|
+| *anmelden* | *die Anmeldung* (Anmeldungen) |
+| *bearbeiten* | *die Bearbeitung* |
+| *beschreiben* | *die Beschreibung* |
+| *bedeuten* | *die Bedeutung* |
+| *bestellen* | *die Bestellung* |
+| *bezahlen* | *die Bezahlung* |
+| *einladen* | *die Einladung* |
+| *erklären* | *die Erklärung* |
+| *entschuldigen* | *die Entschuldigung* |
+| *üben* | *die Übung* |
+| *wohnen* | *die Wohnung* (Wohnungen) |
+| *entscheiden* | *die Entscheidung* |
+| *meinen* | *die Meinung* |
+| *empfehlen* | *die Empfehlung* |
+| *sammeln* | *die Sammlung* — stem changes |
+| *wandern* | *die Wanderung* — stem changes |
+| *liefern* | *die Lieferung* — stem changes |
+
+## Lokale Präpositionen — in, zu, bei, aus, von (U6)
+
+| Frage | Gebäude / Raum | Person / Aktivität |
+|---|---|---|
+| *Wohin?* | *in* + Akkusativ | *zu* + Dativ |
+| *Wo?* | *in* + Dativ | *bei* + Dativ |
+| *Woher?* | *aus* + Dativ | *von* + Dativ |
+
+| Kurz | |
+|---|---|
+| *in + das = ins* · *in + dem = im* | *zu + dem = zum* · *zu + der = zur* |
+| *bei + dem = beim* | *von + dem = vom* |
+
+*Sie geht ins Einwohnermeldeamt.* (hinein) · *Katie geht zum Einwohnermeldeamt.* (Richtung)
+*Sie ist im Einwohnermeldeamt.* (Gebäude) · *Sie ist auf dem Einwohnermeldeamt.* (Institution)
+*Er geht zu Katie.* · *Katie ist beim Pförtner.* · *Ich komme von der Arbeit.* · *Sie kommt aus der Küche.*
+Names take no article. *zur Paula* / *zum Bobbi* is colloquial.
+Rules: [§5 grammatik](../grammatik.md) · [`Lokale Präpositionen`](../../patterns/patterns.md#lokale-präpositionen-in-zu-bei-aus-von).
+
+## *seit* + Dativ (U6)
+
+Still going on → **present**. The time word is **dative**.
+
+| | |
+|---|---|
+| m/n sg | *seit einem Monat* · *seit einem Jahr* |
+| f sg | *seit einer Woche* · *seit einer Stunde* |
+| pl | *seit drei Jahren* · *seit zwei Tagen* · *seit fünf Jahren* |
+| pl already *-n* | *seit zwei Wochen* · *seit drei Monaten* |
+
+*Seit wann sind Sie in Deutschland? — Ich bin seit 3 Monaten in Deutschland.*
+*Seit wann lernt sie Deutsch? — Sie lernt seit einem Monat Deutsch.*
+
+## *sollen* — Funktionen und Präteritum (U6)
+
+| Job | Beispiel |
+|---|---|
+| report an order | *Ich soll mein Geschlecht ankreuzen.* |
+| offer | *Soll ich Ihnen helfen?* |
+| ask for advice | *Was soll ich machen?* · *Soll ich das Bußgeld zahlen?* |
+
+| | sollen |
+|---|---|
+| ich / er | sollte |
+| du | solltest |
+| wir / sie / Sie | sollten |
+| ihr | solltet |
+
+*Katie sollte das Formular ausfüllen.* · *Du solltest doch pünktlich nach Hause kommen!*
+No Perfekt: ~~ausfüllen gesollt~~.
+
+## Wortfeld: Amt und Formular (U6)
+
+- **der** — *Pförtner* (Pförtner) · *Empfang* (Empfänge) · *Ausweis* (Ausweise) · *Personalausweis* · *Reisepass* (Reisepässe) · *Pass* · *Führerschein* (Führerscheine) · *Familienname* · *Geburtsname* · *Vorname* · *Familienstand* · *Vermieter* (Vermieter) · *Angehörige* (Angehörigen)
+- **die** — *Behörde* (Behörden) · *Nummer* (Nummern) · *Anzeigetafel* (Anzeigetafeln) · *Anmeldung* (Anmeldungen) · *Fahrerlaubnis* (Fahrerlaubnisse) · *Hauptwohnung* · *Nebenwohnung* · *Staatsangehörigkeit* · *Bestätigung* · *Anschrift* · *Kopie* (Kopien)
+- **das** — *Amt* (Ämter) · *Wartezimmer* (Wartezimmer) · *Formular* (Formulare) · *Schreiben* (Schreiben) · *Bußgeld* (Bußgelder) · *Dokument* (Dokumente) · *Einzugsdatum* · *Geschlecht*
+
+*sich anmelden* = register · *sich melden* = be registered, report to an authority, get in touch, or raise your hand.
+*dabeihaben* = have with you · *dabei sein* = take part.
+*berufstätig* = in employment. *ggf.* = *gegebenenfalls*.
+
+## Partizip II — neue Formen (U6)
+
+| Infinitiv | Partizip II |
+|---|---|
+| *bekommen* | bekommen |
+| *unterschreiben* | unterschrieben |
+| *abgeben* | abgegeben |
+
+Vollständige Liste in [`../a1.2/partizip-ii.md`](../a1.2/partizip-ii.md).
+
+## Footnotes (U6)
+
+- *Bußgeld* is a fine, not a bus: *Ich bin doch gar keinen Bus gefahren.* · *Ein Bußgeld ist aber etwas anderes.*
+- *'ne Ausnahme* = *eine Ausnahme*
+- *schmeckt's* = *schmeckt es*
+- *jetzt erst* = only now
+- *Kuckuck!* = peekaboo
+- Reinhard Mey, *Einen Antrag auf Erteilung eines Antragsformulars* — a joke about German officials
+- *fleißig* = diligent · *ungeduldig* = impatient · *die Anschrift* = the address · *koffeinfrei* = decaf

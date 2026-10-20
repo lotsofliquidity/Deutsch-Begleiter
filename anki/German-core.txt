@@ -608,3 +608,33 @@ to prepare — Partizip II?	vorbereitet	a2.1 unit_05 verb
 to sweat — Partizip II?	geschwitzt	a2.1 unit_05 verb
 to barbecue — Partizip II?	gegrillt	a2.1 unit_05 verb
 to sunbathe (sich) — Partizip II?	gesonnt	a2.1 unit_05 verb
+
+# ── A2.1 Unit 6 — Ämter und Behörden ──
+Nouns in -ung: which gender, which plural?	die · plural -en	a2.1 unit_06 pattern
+Which -ung nouns change the stem?	Sammlung · Wanderung · Lieferung	a2.1 unit_06 pattern
+Where to, into a building?	in + accusative (ins / in den / in die)	a2.1 unit_06 pattern
+Where to, towards a person or an activity?	zu + dative (zu + name, zum, zur)	a2.1 unit_06 pattern
+Where, inside a building?	in + dative (im / in der)	a2.1 unit_06 pattern
+Where, at a person or an activity?	bei + dative (bei / beim)	a2.1 unit_06 pattern
+Where from, out of a building?	aus + dative	a2.1 unit_06 pattern
+Where from, a person or an activity?	von + dative (von / vom)	a2.1 unit_06 pattern
+im Amt or auf dem Amt?	im = the building · auf dem = the institution	a2.1 unit_06 pattern
+zu + dem / zu + der?	zum / zur	a2.1 unit_06 pattern
+What does seit do to the tense?	The action is still going, so the verb stays in the present.	a2.1 unit_06 pattern
+for one month (still going)	seit einem Monat	a2.1 unit_06 pattern
+for one week (still going)	seit einer Woche	a2.1 unit_06 pattern
+for one year (still going)	seit einem Jahr	a2.1 unit_06 pattern
+for three years (still going)	seit drei Jahren	a2.1 unit_06 pattern
+for two days (still going)	seit zwei Tagen	a2.1 unit_06 pattern
+for two weeks (still going)	seit zwei Wochen	a2.1 unit_06 pattern
+for one hour (still going)	seit einer Stunde	a2.1 unit_06 pattern
+What does sollen do with someone else's order?	You report it: Ich soll + infinitive at the end.	a2.1 unit_06 pattern
+How do you offer with sollen?	Soll ich …?	a2.1 unit_06 pattern
+How do you ask for advice with sollen?	Was soll ich machen? / Soll ich …?	a2.1 unit_06 pattern
+sollen — Präteritum ich / er?	sollte	a2.1 unit_06 verb
+sollen — Präteritum du?	solltest	a2.1 unit_06 verb
+sollen — Präteritum ihr?	solltet	a2.1 unit_06 verb
+sollen — Präteritum wir / sie / Sie?	sollten	a2.1 unit_06 verb
+to receive — Partizip II?	bekommen	a2.1 unit_06 verb
+to sign — Partizip II?	unterschrieben	a2.1 unit_06 verb
+to hand in — Partizip II?	abgegeben	a2.1 unit_06 verb

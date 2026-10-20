@@ -1,0 +1,1274 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:Brainscape-German
+#tags column:3
+
+# ── Brainscape · A1.1 Unit 1 — Hallo, wie geht's? (source wording preserved) ──
+Hi! __________?(What’s up?) (slang)	Hi! <b>Was geht ab</b>? (ugs.)	a1.1 unit_01 chunk brainscape
+Hallo! __________?(How are you/How’s it going?)	Gut, und dir? · Hallo! <b>Wie geht’s?</b> Gut, und dir?	a1.1 unit_01 chunk brainscape
+Hallo! Wie geht’s? Gut, _______(and you)?	Hallo! Wie geht’s? Gut, <b>und dir</b>?	a1.1 unit_01 chunk brainscape
+Mir geht’s gut, und dir?_______(Also good), danke!	Mir geht’s gut, und dir? <b>Auch gut</b>, danke!	a1.1 unit_01 chunk brainscape
+Woher kommst du?____________(I come from) Australien.	Woher kommst du? <b>Ich komme aus</b> Australien.	a1.1 unit_01 chunk brainscape
+__________!(How cool)!	<b>Wie cool</b>!	a1.1 unit_01 chunk brainscape
+______________(Where are you from)?Ich komme aus Australien.	<b>Woher kommst du</b>? Ich komme aus Australien.	a1.1 unit_01 chunk brainscape
+_______(And you)? Woher kommst du?	<b>Und du</b>? Woher kommst du?	a1.1 unit_01 chunk brainscape
+Und du? Woher kommst du? Na aus Berlin. _____________?(Can’t you see that)?	Und du? Woher kommst du? Na aus Berlin. <b>Sieht man das nicht</b>?	a1.1 unit_01 chunk brainscape
+Ick bin ein Berliner. Das bist ja du!________(Of course).	Ick bin ein Berliner. Das bist ja du! <b>Na klar</b>.	a1.1 unit_01 chunk brainscape
+______________(What is your name by the way)?	<b>Wie heißt du eigentlich</b>?	a1.1 unit_01 chunk brainscape
+_____________(Please fasten (your) seat belts)! Wir erwarten Turbulenzen.	<b>Bitte anschnallen</b>! Wir erwarten Turbulenzen.	a1.1 unit_01 chunk brainscape
+Hä? Verdammt, ______________(where’s) mein Anschnallgurt?	Hä? Verdammt, <b>wo ist denn</b> mein Anschnallgurt?	a1.1 unit_01 chunk brainscape
+Halt dich doch einfach fest. So!______(Help)!!!!	Halt dich doch einfach fest. So! <b>Hilfe</b>!!!!	a1.1 unit_01 chunk brainscape
+Katie schläft und Gogo _______(is hungry) und Langeweile.	Katie schläft und Gogo <b>hat Hunger</b> und Langeweile.	a1.1 unit_01 chunk brainscape
+_______(Thanks for) die Erdnüsse.	<b>Danke für</b> die Erdnüsse.	a1.1 unit_01 chunk brainscape
+__________(You speak German really well)!	<b>Du sprichst aber gut Deutsch</b>!	a1.1 unit_01 chunk brainscape
+__________(Which languages do you speak)?	<b>Welche Sprachen sprichst du</b>?	a1.1 unit_01 chunk brainscape
+Ich __________(speak German fluently), Englisch, Chinesisch, Japanisch und natürlich die Sprache der Liebe.	Ich <b>spreche fließend Deutsch</b>, Englisch, Chinesisch, Japanisch und natürlich die Sprache der Liebe.	a1.1 unit_01 chunk brainscape
+__________________(Nice to meet you), Gogo.	<b>Schön dich kennenzulernen</b>, Gogo.	a1.1 unit_01 chunk brainscape
+Ich spreche fließend Deutsch, Englisch, Chinesisch, Japanisch und ________(of course the language of love).	Ich spreche fließend Deutsch, Englisch, Chinesisch, Japanisch und <b>natürlich die Sprache der Liebe</b>.	a1.1 unit_01 chunk brainscape
+Ja, genau! __________(A little/some French).	Ja, genau! <b>Etwas Französisch</b>.	a1.1 unit_01 chunk brainscape
+Wir wünschen Ihnen ______________(a nice time) in Berlin.	Wir wünschen Ihnen <b>eine schöne Zeit</b> in Berlin.	a1.1 unit_01 chunk brainscape
+_________(There is) das Brandenburger Tor.	<b>Da ist</b> das Brandenburger Tor.	a1.1 unit_01 chunk brainscape
+Ja, und da ist mein Haus. ____________(Right there).	Ja, und da ist mein Haus. <b>Genau da</b>.	a1.1 unit_01 chunk brainscape
+______________(My name is) Katie. Und du?	<b>Ich heiße</b> Katie. Und du?	a1.1 unit_01 chunk brainscape
+__________(I am) Günther.	<b>Ich bin</b> Günther.	a1.1 unit_01 chunk brainscape
+_________(My nickname is) Gogo.	<b>Mein Spitzname ist</b> Gogo.	a1.1 unit_01 chunk brainscape
+Schön dich kennenzulernen, Gogo._________(Yes, likewise).	Schön dich kennenzulernen, Gogo. <b>Ja, ebenso</b>.	a1.1 unit_01 chunk brainscape
+Nein, noch nie. Das ist __________(my first time) hier.	Nein, noch nie. Das ist <b>mein erstes Mal</b> hier.	a1.1 unit_01 chunk brainscape
+_______________(What are you doing here)?	<b>Was machst du hier</b>?	a1.1 unit_01 chunk brainscape
+_________(I want to) reisen und mein Deutsch verbessern.	<b>Ich will</b> reisen und mein Deutsch verbessern.	a1.1 unit_01 chunk brainscape
+__________(Welcome to) Deutschland!	<b>Willkommen in</b> Deutschland!	a1.1 unit_01 chunk brainscape
+Danke. Weißt du, wo die ___________(airport information) ist?	Danke. Weißt du, wo die <b>Flughafeninformation</b> ist?	a1.1 unit_01 chunk brainscape
+__________(Have fun) in Berlin, Katie Känguru.	<b>Viel Spaß</b> in Berlin, Katie Känguru.	a1.1 unit_01 chunk brainscape
+
+# ── Brainscape · A1.1 Unit 2 — Ich brauche Hilfe! (source wording preserved) ──
+Ach, Susi, _______________(wait a minute).	Ach, Susi, <b>warte mal kurz</b>.	a1.1 unit_02 chunk brainscape
+___________(Good morning)! Wie kann ich helfen?	<b>Guten Morgen</b>! Wie kann ich helfen?	a1.1 unit_02 chunk brainscape
+_________________(I have a question). Wie komme ich zur Feierabendstraße?	<b>Ich habe eine Frage</b>. Wie komme ich zur Feierabendstraße?	a1.1 unit_02 chunk brainscape
+Ich habe eine Frage. _________________(How do I get to) Feierabendstraße?	Ich habe eine Frage. <b>Wie komme ich zur</b> Feierabendstraße?	a1.1 unit_02 chunk brainscape
+____________(Pardon me)?	<b>Wie bitte</b>?	a1.1 unit_02 chunk brainscape
+Da müssen Sie __________(go by train) oder _____________(by bus).	Da müssen Sie <b>mit dem Zug</b> oder <b>mit dem Bus fahren</b>.	a1.1 unit_02 chunk brainscape
+Okay, alles klar. Aber ich habe ______________(so much luggage).	Okay, alles klar. Aber ich habe <b>so viel Gepäck</b>.	a1.1 unit_02 chunk brainscape
+___________ (Where are) die Taxis?	<b>Wo sind</b> die Taxis?	a1.1 unit_02 chunk brainscape
+Ausgang fünf, _______(over there).	Ausgang fünf, <b>dort drüben</b>.	a1.1 unit_02 chunk brainscape
+Okay. ____________(Thank you very much). Auf Wiedersehen.	Okay. <b>Danke schön</b>. Auf Wiedersehen.	a1.1 unit_02 chunk brainscape
+Okay. Danke schön. __________(Goodbye (formal)).	Okay. Danke schön. <b>Auf Wiedersehen</b>.	a1.1 unit_02 chunk brainscape
+________(Excuse me (formal))!	<b>Entschuldigen Sie</b>!	a1.1 unit_02 chunk brainscape
+__________(Yes, please)?	<b>Ja, bitte</b>?	a1.1 unit_02 chunk brainscape
+_______________(I have another question).	<b>Ich habe noch eine Frage</b>.	a1.1 unit_02 chunk brainscape
+Kann ich das Taxi ___________(pay by credit card)?	Kann ich das Taxi <b>mit Kreditkarte bezahlen</b>?	a1.1 unit_02 chunk brainscape
+Also ja, __________(I need) Geld.	Also ja, <b>ich brauche</b> Geld.	a1.1 unit_02 chunk brainscape
+________(What’s it called)? Ähm. Die Bankmaschine?	<b>Wie heißt das</b>? Ähm. Die Bankmaschine?	a1.1 unit_02 chunk brainscape
+_________(That is called) “der Geldautomat”.	<b>Das heißt</b> “der Geldautomat”.	a1.1 unit_02 chunk brainscape
+Du Susi, heute Abend kann ich ________(unfortunately) nicht.	Du Susi, heute Abend kann ich <b>leider</b> nicht.	a1.1 unit_02 chunk brainscape
+_________(Tonight) seh’ ich endlich Romeo.	<b>Heute Abend</b> seh’ ich endlich Romeo.	a1.1 unit_02 chunk brainscape
+Hallo! Oh, ______________(excuse me)!	Hallo! Oh, <b>Verzeihung</b>!	a1.1 unit_02 chunk brainscape
+_________(No problem). Heute ist so ein schöner Tag.	<b>Kein Problem</b>. Heute ist so ein schöner Tag.	a1.1 unit_02 chunk brainscape
+Ah, schön. ___________(I also need) eine Karte.	Ah, schön. <b>Ich brauche noch</b> eine Karte.	a1.1 unit_02 chunk brainscape
+_____, _____(Here you go). Aber ich brauch’ sie wieder.	<b><b>Hier, bi</b>tte</b>. Aber ich brauch’ sie wieder.	a1.1 unit_02 chunk brainscape
+___________(How do you say that) auf Deutsch?	<b>Wie sagt man das</b> auf Deutsch?	a1.1 unit_02 chunk brainscape
+_________(That’s very nice) von Ihnen.	<b>Das ist sehr nett</b> von Ihnen.	a1.1 unit_02 chunk brainscape
+Vielen Dank. _______(Bye)!	Vielen Dank. <b>Tschüss</b>!	a1.1 unit_02 chunk brainscape
+_____, ________(Yes, of course) ist Romeo kastriert.	<b><b>Ja, natürl</b>ich</b> ist Romeo kastriert.	a1.1 unit_02 chunk brainscape
+Wow! Sind _____________(all Germans) so verrückt?	Wow! Sind <b>alle Deutschen</b> so verrückt?	a1.1 unit_02 chunk brainscape
+
+# ── Brainscape · A1.1 Unit 3 — Wie bitte? (source wording preserved) ──
+_________________(Good day! Are you (form.) still free)?	<b>Guten Tag! Sind Sie noch frei</b>?	a1.1 unit_03 chunk brainscape
+Ja, __________________(where do you (form.) want to go)?	Ja, <b>wohin wollen Sie fahren</b>?	a1.1 unit_03 chunk brainscape
+______________(Is there) ein Hotel?	<b>Ist dort</b> ein Hotel?	a1.1 unit_03 chunk brainscape
+___________(Pardon me)? Ich verstehe nicht.	<b>Wie bitte</b>? Ich verstehe nicht.	a1.1 unit_03 chunk brainscape
+Wie bitte? _____________(I don’t understand).	Wie bitte? <b>Ich verstehe nicht</b>.	a1.1 unit_03 chunk brainscape
+_________________(Can you (form.) repeat that)?	<b>Können Sie das noch mal wiederholen</b>?	a1.1 unit_03 chunk brainscape
+_____________(Do you (form.) want to) da wirklich übernachten?	<b>Wollen Sie</b> da wirklich übernachten?	a1.1 unit_03 chunk brainscape
+Wollen Sie da wirklich _____________(spend the night)?	Wollen Sie da wirklich <b>übernachten</b>?	a1.1 unit_03 chunk brainscape
+Und _______________(where are you (form.) from)?	Und <b>woher kommen Sie</b>?	a1.1 unit_03 chunk brainscape
+______________(I come from Australia).	<b>Ich komme aus Australien</b>.	a1.1 unit_03 chunk brainscape
+Oh, haben Sie Spinnen _________(with you)?	Oh, haben Sie Spinnen <b>dabei</b>?	a1.1 unit_03 chunk brainscape
+Was? ________________(Get out of the car right now).	Was? <b>Steigen Sie sofort aus</b>.	a1.1 unit_03 chunk brainscape
+Nein, ______________(just kidding).	Nein, <b>war nur Spaß</b>.	a1.1 unit_03 chunk brainscape
+Ach, ___________(where exactly do you (form.) live) in Australien?	Ach, <b>wo genau wohnen Sie</b> in Australien?	a1.1 unit_03 chunk brainscape
+________(I live in) Sydney.	<b>Ich wohne in</b> Sydney.	a1.1 unit_03 chunk brainscape
+__________(Are you (form.) from) Berlin?	<b>Sind Sie aus</b> Berlin?	a1.1 unit_03 chunk brainscape
+Nein, ich komme __________(from Turkey).	Nein, ich komme <b>aus der Türkei</b>.	a1.1 unit_03 chunk brainscape
+__________________(Why do you (form.) speak) so gut Deutsch?	<b>Warum sprechen Sie</b> so gut Deutsch?	a1.1 unit_03 chunk brainscape
+___________(We are here).	<b>Wir sind da</b>.	a1.1 unit_03 chunk brainscape
+Danke! _________(How much) kostet das?	Danke! <b>Wie viel</b> kostet das?	a1.1 unit_03 chunk brainscape
+Danke! Wie viel __________(does it cost)?	Danke! Wie viel <b>kostet das</b>?	a1.1 unit_03 chunk brainscape
+________(Cash or by card)?	<b>Bar oder mit Karte</b>?	a1.1 unit_03 chunk brainscape
+Was? _____________(Are you (form.) leaving me) hier alleine?	Was? <b>Lassen Sie mich</b> hier alleine?	a1.1 unit_03 chunk brainscape
+_________(Here are) 20 Euro.	<b>Hier sind</b> 20 Euro.	a1.1 unit_03 chunk brainscape
+Aber ____________(you’ll stay with me), Bärchen, oder?	Aber <b>du bleibst bei mir</b>, Bärchen, oder?	a1.1 unit_03 chunk brainscape
+
+# ── Brainscape · A1.1 Unit 4 — Willkommen Frau Koch! (source wording preserved) ──
+Hallo? ____________(Is anyone there)?	Hallo? <b>Ist da jemand</b>?	a1.1 unit_04 chunk brainscape
+___________(I’m coming).	<b>Ich komme</b>.	a1.1 unit_04 chunk brainscape
+__________(Good day)!	<b>Guten Tag</b>!	a1.1 unit_04 chunk brainscape
+Hallo! Willkommen! ____________(How are you (form.))?	Hallo! Willkommen! <b>Wie geht es Ihnen</b>?	a1.1 unit_04 chunk brainscape
+Ähm, ich habe ___________(a reservation).	Ähm, ich habe <b>eine Reservierung</b>.	a1.1 unit_04 chunk brainscape
+Ähm, ________________(can I check in please)?	Ähm, <b>kann ich bitte einchecken</b>?	a1.1 unit_04 chunk brainscape
+____________(Here’s) Ihre Reservierung.	<b>Hier ist</b> Ihre Reservierung.	a1.1 unit_04 chunk brainscape
+Kann ich bitte ______________(your (form.) passport) sehen?	Kann ich bitte <b>Ihren Reisepass</b> sehen?	a1.1 unit_04 chunk brainscape
+Sie bleiben drei Nächte bei uns, ____________(is that right)?	Sie bleiben drei Nächte bei uns, <b>ist das richtig</b>?	a1.1 unit_04 chunk brainscape
+______________(Speaking of food), Frühstück ist bei uns von 7 bis 10 Uhr.	<b>Apropos Essen</b>, Frühstück ist bei uns von 7 bis 10 Uhr.	a1.1 unit_04 chunk brainscape
+___________(Would you (form.) like) auch eine Wurst?	<b>Möchten Sie</b> auch eine Wurst?	a1.1 unit_04 chunk brainscape
+So, hier ist ______________(your (form.) room card).	So, hier ist <b>Ihre Zimmerkarte</b>.	a1.1 unit_04 chunk brainscape
+__________(Where is my room)?	<b>Wo ist mein Zimmer</b>?	a1.1 unit_04 chunk brainscape
+Ihr Zimmer ist ___________(right over there).	Ihr Zimmer ist <b>gleich da drüben</b>.	a1.1 unit_04 chunk brainscape
+__________(My suitcase) ist sehr schwer.	<b>Mein Koffer</b> ist sehr schwer.	a1.1 unit_04 chunk brainscape
+__________________(Can you (form.) help me please)?	<b>Können Sie mir bitte helfen</b>?	a1.1 unit_04 chunk brainscape
+______________(Come (form.)), ich zeig’s Ihnen.	<b>Kommen Sie</b>, ich zeig’s Ihnen.	a1.1 unit_04 chunk brainscape
+So, _______________(this is your (form.) room).	So, <b>das ist Ihr Zimmer</b>.	a1.1 unit_04 chunk brainscape
+_____________(Some people) mögen mein Hotel ja nicht, weil es von außen nicht so schön ist.	<b>Manche Leute</b> mögen mein Hotel ja nicht, weil es von außen nicht so schön ist.	a1.1 unit_04 chunk brainscape
+______________(You’re (form.) right about that).	<b>Da haben Sie recht</b>.	a1.1 unit_04 chunk brainscape
+__________(Do you (form.) have) Wi-Fi?	<b>Haben Sie</b> Wi-Fi?	a1.1 unit_04 chunk brainscape
+Natürlich! ____________(In German) sagen wir aber “WLAN”.	Natürlich! <b>Auf Deutsch</b> sagen wir aber “WLAN”.	a1.1 unit_04 chunk brainscape
+___________(See you later).	<b>Bis später</b>.	a1.1 unit_04 chunk brainscape
+___________(I have a headache).	<b>Ich habe Kopfschmerzen</b>.	a1.1 unit_04 chunk brainscape
+Ist hier __________(a pharmacy) in der Nähe?	Ist hier <b>eine Apotheke</b> in der Nähe?	a1.1 unit_04 chunk brainscape
+Ist hier eine Apotheke _________(nearby (lit. in the proximity))?	Ist hier eine Apotheke <b>in der Nähe</b>?	a1.1 unit_04 chunk brainscape
+Ja, die Apotheke ist _____________(just around the corner).	Ja, die Apotheke ist <b>gleich um die Ecke</b>.	a1.1 unit_04 chunk brainscape
+Oh, _______(cute)! Hallo, Mimi!	Oh, <b>süß</b>! Hallo, Mimi!	a1.1 unit_04 chunk brainscape
+Die Apotheke _____________(is closed).	Die Apotheke <b>ist geschlossen</b>.	a1.1 unit_04 chunk brainscape
+Ach ja, ____________(today is Sunday).	Ach ja, <b>heute ist Sonntag</b>.	a1.1 unit_04 chunk brainscape
+Ach, keine Sorge, da hab’ ich ___________(something better).	Ach, keine Sorge, da hab’ ich <b>was Besseres</b>.	a1.1 unit_04 chunk brainscape
+Der Schnaps hier, der __________(helps against) Kopfschmerz.	Der Schnaps hier, der <b>hilft gegen</b> Kopfschmerz.	a1.1 unit_04 chunk brainscape
+Danke schön. Ja, super. ___________(Good night).	Danke schön. Ja, super. <b>Gute Nacht</b>.	a1.1 unit_04 chunk brainscape
+
+# ── Brainscape · A1.1 Unit 5 — Sonst noch etwas? (source wording preserved) ──
+Guten Tag, _____________(what would you (form.) like)?	Guten Tag, <b>was möchten Sie</b>?	a1.1 unit_05 chunk brainscape
+_____________(I’d like to have) Erdbeeren.	<b>Ich hätte gerne</b> Erdbeeren.	a1.1 unit_05 chunk brainscape
+Wir haben _____________(at the moment) keine Erdbeeren.	Wir haben <b>zurzeit</b> keine Erdbeeren.	a1.1 unit_05 chunk brainscape
+____________(I want) Erdbeeren, aber Sie haben ja keine!	<b>Ich will</b> Erdbeeren, aber Sie haben ja keine!	a1.1 unit_05 chunk brainscape
+Hier, ____________(Here, try (form.))!	Hier, <b>probieren Sie mal</b>!	a1.1 unit_05 chunk brainscape
+___________(Delicious)! Für Sie heute umsonst.	<b>Lecker</b>! Für Sie heute umsonst.	a1.1 unit_05 chunk brainscape
+___________(That’s very nice). Vielen Dank.	<b>Das ist aber nett</b>. Vielen Dank.	a1.1 unit_05 chunk brainscape
+___________(Do you (form.) have apples)?	<b>Haben Sie Äpfel</b>?	a1.1 unit_05 chunk brainscape
+___________(Of course) haben wir Äpfel.	<b>Natürlich</b> haben wir Äpfel.	a1.1 unit_05 chunk brainscape
+__________(I’ll take) die zwei Birnen hier.	<b>Ich nehme</b> die zwei Birnen hier.	a1.1 unit_05 chunk brainscape
+Guten Tag, __________(how can I help you (form.))?	Guten Tag, <b>wie kann ich Ihnen helfen</b>?	a1.1 unit_05 chunk brainscape
+__________(That one there), bitte.	<b>Das dort</b>, bitte.	a1.1 unit_05 chunk brainscape
+_________(This one here)?	<b>Das hier</b>?	a1.1 unit_05 chunk brainscape
+Das ist ________(a bread roll).	Das ist <b>ein Brötchen</b>.	a1.1 unit_05 chunk brainscape
+_________(Don’t you (form.) know) Vollkornbrötchen?	<b>Kennen Sie keine</b> Vollkornbrötchen?	a1.1 unit_05 chunk brainscape
+________(How much) (lit. What) kostet das Brötchen?	<b>Was</b> kostet das Brötchen?	a1.1 unit_05 chunk brainscape
+________(It costs) 60 Cent.	<b>Es kostet</b> 60 Cent.	a1.1 unit_05 chunk brainscape
+Und _________(how much are) die Kekse?	Und <b>was kosten</b> die Kekse?	a1.1 unit_05 chunk brainscape
+_________(That makes) 7,40 Euro.	<b>Das macht dann</b> 7,40 Euro.	a1.1 unit_05 chunk brainscape
+_________(Keep the change), danke. Tschüss.	<b>Stimmt so</b>, danke. Tschüss.	a1.1 unit_05 chunk brainscape
+_________(I need) eine Brust, bitte.	<b>Ich brauche</b> eine Brust, bitte.	a1.1 unit_05 chunk brainscape
+_________(You (form.) mean) Hähnchenbrust?	<b>Sie meinen</b> Hähnchenbrust?	a1.1 unit_05 chunk brainscape
+Nein, _________((the) Germans) essen doch viel Brust.	Nein, <b>die Deutschen</b> essen doch viel Brust.	a1.1 unit_05 chunk brainscape
+Tut mir leid, ________(I don’t speak German that well yet).	Tut mir leid, <b>ich spreche noch nicht so gut Deutsch</b>.	a1.1 unit_05 chunk brainscape
+________(Even I) habe manchmal Probleme mit Deutsch.	<b>Selbst ich</b> habe manchmal Probleme mit Deutsch.	a1.1 unit_05 chunk brainscape
+Ich nehme ________(those there).	Ich nehme <b>die da</b>.	a1.1 unit_05 chunk brainscape
+Bezahlen ________(at the cash register), ne? Auf Wiedersehen.	Bezahlen <b>an der Kasse</b>, ne? Auf Wiedersehen.	a1.1 unit_05 chunk brainscape
+Moment mal,________(wait a minute (form.))!	Moment mal, <b>warten Sie mal</b>!	a1.1 unit_05 chunk brainscape
+Äpfel, Birnen, Bananen. ________(What do you (form.) want now)?	Äpfel, Birnen, Bananen. <b>Was wollen Sie jetzt</b>?	a1.1 unit_05 chunk brainscape
+
+# ── Brainscape · A1.1 Unit 6 — Bist du Programmierer? (source wording preserved) ──
+Pamela, ________(my darling).	Pamela, <b>mein Schatz</b>.	a1.1 unit_06 chunk brainscape
+________(Is this spot here still free)?	<b>Ist der Platz hier noch frei</b>?	a1.1 unit_06 chunk brainscape
+Für _________(beautiful women) doch immer!	Für <b>schöne Frauen</b> doch immer!	a1.1 unit_06 chunk brainscape
+Woher kommt ________(such a pretty woman)?	Woher kommt <b>eine so hübsche Frau?</b> Alternative: Woher kommt so eine hübsche Frau?	a1.1 unit_06 chunk brainscape
+_________(Are you a programmer)?	<b>Bist du Programmierer</b>?	a1.1 unit_06 chunk brainscape
+_________________(I work as an engineer).	<b>Ich arbeite als Ingenieur</b>.	a1.1 unit_06 chunk brainscape
+________(That’s interesting)!	<b>Das ist ja interessant</b>!	a1.1 unit_06 chunk brainscape
+________(My beauty), komm mal her!	<b>Meine Hübsche</b>, komm mal her!	a1.1 unit_06 chunk brainscape
+Und ________(what do you do for a living)?	Und <b>was machst du beruflich</b>?	a1.1 unit_06 chunk brainscape
+In Australien _________(I am) Friseurin.	In Australien <b>bin ich</b> Friseurin.	a1.1 unit_06 chunk brainscape
+________(You make people pretty)?	<b>Du machst Leute schön</b>?	a1.1 unit_06 chunk brainscape
+_________(Why) die Hunde?	<b>Wieso</b> die Hunde?	a1.1 unit_06 chunk brainscape
+_______(My specialties (My specialty) are) Pudel und Dackel.	<b>Meine Spezialität sind</b> Pudel und Dackel.	a1.1 unit_06 chunk brainscape
+Dackel? ________(I love) Dackel.	Dackel? <b>Ich liebe</b> Dackel.	a1.1 unit_06 chunk brainscape
+_________(Wait a second).	<b>Warte kurz</b>.	a1.1 unit_06 chunk brainscape
+________(What are you already doing here)?	<b>Was machst du schon hier</b>?	a1.1 unit_06 chunk brainscape
+________(Who’s that)?	<b>Wer ist das</b>?	a1.1 unit_06 chunk brainscape
+_________(That is) meine Freundin Natalia.	<b>Das ist</b> meine Freundin Natalia.	a1.1 unit_06 chunk brainscape
+________(Pleased to meet you), Joana.	<b>Freut mich</b>, Joana.	a1.1 unit_06 chunk brainscape
+Joana ________(hardly speaks German).	Joana <b>spricht kaum Deutsch</b>.	a1.1 unit_06 chunk brainscape
+Woher kommt ________ (you two) eigentlich?	Woher kommt <b>ihr zwei</b> eigentlich?	a1.1 unit_06 chunk brainscape
+Na, ________(we’re from Italy).	Na, <b>wir kommen aus Italien</b>.	a1.1 unit_06 chunk brainscape
+Meine Mutter _______(is calling right now).	Meine Mutter <b>ruft grad (=gerade) an</b>.	a1.1 unit_06 chunk brainscape
+So Pietro, ______(now) gibt’s Prügel.	So Pietro, <b>jetzt</b> gibt’s Prügel.	a1.1 unit_06 chunk brainscape
+
+# ── Brainscape · A1.1 Unit 7 — Wo ist die S-Bahn? (source wording preserved) ──
+Ich ______________________(want to visit the Brandenburg Gate).	Ich <b>will das Brandenburger Tor besuchen</b>.	a1.1 unit_07 chunk brainscape
+________________________(How do I get there)?	<b>Wie komme ich dorthin</b>?	a1.1 unit_07 chunk brainscape
+Sie _______(can take the S-train) zum Alexanderplatz nehmen.	Sie <b>können die S-Bahn</b> zum Alexanderplatz nehmen.	a1.1 unit_07 chunk brainscape
+_____________(That sounds good). Wo ist die S-Bahn?	<b>Das klingt gut</b>. Wo ist die S-Bahn?	a1.1 unit_07 chunk brainscape
+Und wo kann ich _________(buy the ticket)?	Und wo kann ich <b>das Ticket kaufen</b>?	a1.1 unit_07 chunk brainscape
+________(Back there) ist ein Fahrkartenautomat.	<b>Dahinten</b> ist ein Fahrkartenautomat.	a1.1 unit_07 chunk brainscape
+Der Automat _________(is broken).	Der Automat <b>ist kaputt</b>.	a1.1 unit_07 chunk brainscape
+____________________(What do I do now)?	<b>Was mach’ ich denn jetzt</b>?	a1.1 unit_07 chunk brainscape
+___________(Over there) ist ein Fahrkartenschalter.	<b>Dort drüben</b> ist ein Fahrkartenschalter.	a1.1 unit_07 chunk brainscape
+___________________(I get it).	<b>Ich verstehe schon</b>.	a1.1 unit_07 chunk brainscape
+Guten Tag, __________(I would like) eine Fahrkarte.	Guten Tag, <b>ich hätte gern</b> eine Fahrkarte.	a1.1 unit_07 chunk brainscape
+Wollen Sie __________(a sip) von meinem Kaffee?	Wollen Sie <b>einen Schluck</b> von meinem Kaffee?	a1.1 unit_07 chunk brainscape
+Der ist wirklich __________(very hot).	Der ist wirklich <b>sehr heiß</b>.	a1.1 unit_07 chunk brainscape
+_______(Where would you (form.) like to) fahren?	<b>Wohin möchten Sie</b> fahren?	a1.1 unit_07 chunk brainscape
+Ich ___________________(would like to go to Alexanderplatz).	Ich <b>möchte zum Alexanderplatz fahren</b>.	a1.1 unit_07 chunk brainscape
+_______________(Roundtrip, lit. there and back)?	<b>Hin und zurück</b>?	a1.1 unit_07 chunk brainscape
+__________(That makes) eigentlich 3,40 Euro.	<b>Das macht</b> eigentlich 3,40 Euro.	a1.1 unit_07 chunk brainscape
+_____________________(When does the next S-Bahn leave)?	<b>Wann fährt die nächste S-Bahn</b>?	a1.1 unit_07 chunk brainscape
+Gerade heute gibt es _________________(many delays).	Gerade heute gibt es <b>viele Verspätungen</b>.	a1.1 unit_07 chunk brainscape
+Die nächste S-Bahn kommt ________________(in about 20 minutes).	Die nächste S-Bahn kommt <b>in circa 20 Minuten</b>.	a1.1 unit_07 chunk brainscape
+Hallo, _____________(is this seat still free)?	Hallo, <b>ist hier noch frei</b>?	a1.1 unit_07 chunk brainscape
+Nächste Station: Westkreuz. __________(End of the line)!	Nächste Station: Westkreuz. <b>Endstation</b>!	a1.1 unit_07 chunk brainscape
+Entschuldigen Sie, ___________________(can you (form.) please help me)?	Entschuldigen Sie, <b>können Sie mir bitte helfen</b>?	a1.1 unit_07 chunk brainscape
+Na klar, ___________(with pleasure).	Na klar, <b>sehr gerne</b>.	a1.1 unit_07 chunk brainscape
+Ich glaub’, ___________________(that’s the wrong direction).	Ich glaub’, <b>das ist die falsche Richtung</b>.	a1.1 unit_07 chunk brainscape
+__________________(I’m just unlucky today).	<b>Ich hab heute nur Pech</b>.	a1.1 unit_07 chunk brainscape
+Nein, ____________(don’t worry).	Nein, <b>keine Sorge</b>.	a1.1 unit_07 chunk brainscape
+Ah, okay! ___________(And then)?	Ah, okay! <b>Und dann</b>?	a1.1 unit_07 chunk brainscape
+Und ________________(then get off (form.)).	Und <b>dann steigen Sie aus</b>.	a1.1 unit_07 chunk brainscape
+Wollen Sie __________(a piece) von meiner Brezel?	Wollen Sie <b>ein Stück</b> von meiner Brezel?	a1.1 unit_07 chunk brainscape
+
+# ── Brainscape · A1.1 Unit 8 — Was ist ein Rathaus? (source wording preserved) ──
+Hallo! ________________(Are you from here)?	Hallo! <b>Bist du von hier</b>?	a1.1 unit_08 chunk brainscape
+Ich wohn’ _________(back there) unter der Brücke.	Ich wohn’ <b>dahinten</b> unter der Brücke.	a1.1 unit_08 chunk brainscape
+_______________(Under the bridge)? Wow!	<b>Unter der Brücke</b>? Wow!	a1.1 unit_08 chunk brainscape
+_________(He hates) seine reichen Eltern und versteckt sich in Berlin.	<b>Er hasst</b> seine reichen Eltern und versteckt sich in Berlin.	a1.1 unit_08 chunk brainscape
+___________________(What do you want to know)?	<b>Was möchtest du wissen</b>?	a1.1 unit_08 chunk brainscape
+__________(I’m looking for) das Brandenburger Tor.	<b>Ich suche</b> das Brandenburger Tor.	a1.1 unit_08 chunk brainscape
+Das ist ___________(not far).	Das ist <b>nicht weit</b>.	a1.1 unit_08 chunk brainscape
+Ich habe ____________(all day) Zeit.	Ich habe <b>den ganzen Tag</b> Zeit.	a1.1 unit_08 chunk brainscape
+Ah, _______________(that would be nice).	Ah, <b>das wäre nett</b>.	a1.1 unit_08 chunk brainscape
+Ich bin jetzt __________________(your city guide).	Ich bin jetzt <b>dein Stadtführer</b>.	a1.1 unit_08 chunk brainscape
+Also ___________________(then, I’ll get started).	Also <b>dann fange ich mal an</b>.	a1.1 unit_08 chunk brainscape
+Hier ist der Fernsehturm. Er ist ______________(368 meters high).	Hier ist der Fernsehturm. Er ist <b>368 Meter hoch</b>.	a1.1 unit_08 chunk brainscape
+Von oben kannst du ________________(almost the entire city) sehen.	Von oben kannst du <b>fast die ganze Stadt</b> sehen.	a1.1 unit_08 chunk brainscape
+Und ____________(the red building) dort?	Und <b>das rote Gebäude</b> dort?	a1.1 unit_08 chunk brainscape
+Rathaus? _____________(So what is that)? Ein Haus voller Ratten?	Rathaus? <b>Was ist denn das</b>? Ein Haus voller Ratten?	a1.1 unit_08 chunk brainscape
+Ach Quatsch, _______________(you’re funny).	Ach Quatsch, <b>du bist ja lustig</b>.	a1.1 unit_08 chunk brainscape
+Im Deutschen gibt es ___________________(so many funny words).	Im Deutschen gibt es <b>so viele lustige Wörter</b>.	a1.1 unit_08 chunk brainscape
+Ja, komm. _____________(We continue (lit. On it goes)).	Ja, komm. <b>Weiter geht’s</b>.	a1.1 unit_08 chunk brainscape
+Hier gibt’s eigentlich viele Museen __________(all around).	Hier gibt’s eigentlich viele Museen <b>rundherum</b>.	a1.1 unit_08 chunk brainscape
+Ah, dahinten gibt’s _______((for) free) Kaffee.	Ah, dahinten gibt’s <b>umsonst</b> Kaffee.	a1.1 unit_08 chunk brainscape
+Wollen wir _______________(go for a coffee)?	Wollen wir <b>ein’ Kaffee trinken gehen</b>?	a1.1 unit_08 chunk brainscape
+Na dann, _________(come with me), ich zeig’s dir.	Na dann, <b>komm mit</b>, ich zeig’s dir.	a1.1 unit_08 chunk brainscape
+Und ____________(here we are).	Und <b>hier sind wir</b>.	a1.1 unit_08 chunk brainscape
+Und was sind die vier Pferde ____________(up there)?	Und was sind die vier Pferde <b>dort oben</b>?	a1.1 unit_08 chunk brainscape
+Und manchmal penn ich __________(down there).	Und manchmal penn’ ich <b>da unten</b>.	a1.1 unit_08 chunk brainscape
+____________(Out of the way), das ist ein Fahrradweg!	<b>Aus dem Weg</b>, das ist ein Fahrradweg!	a1.1 unit_08 chunk brainscape
+__________(You have to) aber vorsichtig sein hier.	<b>Man muss</b> aber vorsichtig sein hier.	a1.1 unit_08 chunk brainscape
+Berlin ________________(is dangerous)!	Berlin <b>ist aber gefährlich</b>!	a1.1 unit_08 chunk brainscape
+_________(Only for) Touristen.	<b>Nur für</b> Touristen.	a1.1 unit_08 chunk brainscape
+__________________(Are you hungry)?	<b>Hast du Hunger</b>?	a1.1 unit_08 chunk brainscape
+_____________(I’m inviting you).	<b>Ich lad’ dich ein</b>.	a1.1 unit_08 chunk brainscape
+Ehrlich? ________(Really)?	Ehrlich? <b>Wirklich</b>?	a1.1 unit_08 chunk brainscape
+
+# ── Brainscape · A1.1 Unit 9 — Was möchten Sie bestellen? (source wording preserved) ──
+_______________(Do you (form.) have a table) für zwei Personen, bitte?	<b>Haben Sie einen Platz</b> für zwei Personen, bitte?	a1.1 unit_09 chunk brainscape
+Ja, natürlich. ________________(Right over here).	Ja, natürlich. <b>Gleich hier drüben</b>.	a1.1 unit_09 chunk brainscape
+Und _______________________(here is the menu).	Und <b>hier ist die Speisekarte</b>.	a1.1 unit_09 chunk brainscape
+Ich möchte ________________________(something typically German) probieren.	Ich möchte <b>etwas typisch Deutsches</b> probieren.	a1.1 unit_09 chunk brainscape
+Können Sie _________________(recommend something)?	Können Sie <b>etwas empfehlen</b>?	a1.1 unit_09 chunk brainscape
+Also ________(I’ll have the) den Schweinebraten, bitte.	Also <b>ich nehme</b> den Schweinebraten, bitte.	a1.1 unit_09 chunk brainscape
+Haben Sie _______________(something vegetarian)?	Haben Sie <b>was Vegetarisches</b>?	a1.1 unit_09 chunk brainscape
+Die Käsespätzle __________________(I can recommend).	Die Käsespätzle <b>kann ich empfehlen</b>.	a1.1 unit_09 chunk brainscape
+Die sind __________(so delicious).	Die sind <b>so lecker</b>.	a1.1 unit_09 chunk brainscape
+_____________________(Then I’ll take those).	<b>Dann nehm’ ich die</b>.	a1.1 unit_09 chunk brainscape
+_____________________(Would you (form.) like something to drink too)?	<b>Möchten Sie auch etwas trinken</b>?	a1.1 unit_09 chunk brainscape
+Ich nehme _____________(a white wine), bitte.	Ich nehme <b>einen Weißwein</b>, bitte.	a1.1 unit_09 chunk brainscape
+__________________(What kind of beer) haben Sie?	<b>Was für Bier</b> haben Sie?	a1.1 unit_09 chunk brainscape
+Okay, _____________________(I’d like to try that).	Okay, <b>das möchte ich mal probieren</b>.	a1.1 unit_09 chunk brainscape
+Ich nehme ____________________(a non-alcoholic beer).	Ich nehme <b>ein alkoholfreies Bier</b>.	a1.1 unit_09 chunk brainscape
+_________________(For you always).	<b>Für dich immer</b>.	a1.1 unit_09 chunk brainscape
+________________________________(You didn’t have to do that (lit. That wouldn’t have been necessary.)).	<b>Das wär’ doch nicht nötig gewesen</b>.	a1.1 unit_09 chunk brainscape
+Prost! ________(To us)!	Prost! <b>Auf uns</b>!	a1.1 unit_09 chunk brainscape
+___________________________(Thank you very much for the invitation).	<b>Vielen Dank für die Einladung</b>.	a1.1 unit_09 chunk brainscape
+_________________(Bon appétit)!	<b>Guten Appetit</b>!	a1.1 unit_09 chunk brainscape
+Magst du mir _____________(the cutlery) rüberreichen?	Magst du mir <b>das Besteck</b> rüberreichen?	a1.1 unit_09 chunk brainscape
+Danke ________(likewise).	Danke <b>gleichfalls</b>.	a1.1 unit_09 chunk brainscape
+Katie und Jonas ________________(are enjoying the meal).	Katie und Jonas <b>genießen das Essen</b>.	a1.1 unit_09 chunk brainscape
+Na, ___________(are you full)?	Na, <b>bist du satt</b>?	a1.1 unit_09 chunk brainscape
+____________________(Did you (form.) like it)?	<b>Hat es Ihnen geschmeckt</b>?	a1.1 unit_09 chunk brainscape
+______________________(Very good choice).	<b>Sehr gute Wahl</b>.	a1.1 unit_09 chunk brainscape
+________________(Should I already take the plates)?	<b>Soll ich die Teller schon mitnehmen</b>?	a1.1 unit_09 chunk brainscape
+______________________(That looks good)!	<b>Das sieht gut aus</b>!	a1.1 unit_09 chunk brainscape
+________________________(Was everything alright (lit. Did everything fit?))?	<b>Hat alles gepasst</b>?	a1.1 unit_09 chunk brainscape
+
+# ── Brainscape · A1.1 Unit 10 — Ich suche eine WG (source wording preserved) ──
+So, ___________________(now I’m here for you (form.)).	So, <b>jetzt bin ich für Sie da</b>.	a1.1 unit_10 chunk brainscape
+Warum sind Sie denn schon _____________(awake so early)?	Warum sind Sie denn schon <b>so früh wach</b>?	a1.1 unit_10 chunk brainscape
+Frühstück ist doch ___________(not until) sieben.	Frühstück ist doch <b>erst um</b> sieben.	a1.1 unit_10 chunk brainscape
+___________________(What time is it)?	<b>Wie spät ist es</b>?	a1.1 unit_10 chunk brainscape
+____________(I’m looking for) ein Zimmer.	<b>Ich suche</b> ein Zimmer.	a1.1 unit_10 chunk brainscape
+_________________________(Do you (form.) need help)?	<b>Brauchen Sie Hilfe</b>?	a1.1 unit_10 chunk brainscape
+Ich verstehe ________________(the ad here) nicht.	Ich verstehe <b>die Anzeige hier</b> nicht.	a1.1 unit_10 chunk brainscape
+Zwei oder mehrere Personen _________________(live together).	Zwei oder mehrere Personen <b>wohnen zusammen</b>.	a1.1 unit_10 chunk brainscape
+____________________(That sounds good).	<b>Das klingt gut</b>.	a1.1 unit_10 chunk brainscape
+_____________________(Is the room still available)?	<b>Ist das Zimmer noch frei</b>?	a1.1 unit_10 chunk brainscape
+_______________(Can you cook), Katie Koch?	<b>Kannst du kochen</b>, Katie Koch?	a1.1 unit_10 chunk brainscape
+___________________(You (form.) are renting out a room)?	<b>Sie vermieten ein Zimmer</b>?	a1.1 unit_10 chunk brainscape
+_______(When) kann ich es sehen?	<b>Wann</b> kann ich es sehen?	a1.1 unit_10 chunk brainscape
+Vielleicht ______________(on Tuesday)?	Vielleicht <b>am Dienstag</b>?	a1.1 unit_10 chunk brainscape
+____________________(At what time)?	<b>Um wie viel Uhr</b>?	a1.1 unit_10 chunk brainscape
+Vielleicht ___________(at seven)?	Vielleicht <b>um sieben</b>?	a1.1 unit_10 chunk brainscape
+Wie viele Leute _________(are you (pl.))?	Wie viele Leute <b>seid ihr</b>?	a1.1 unit_10 chunk brainscape
+Also Klamotten _______________(are forbidden).	Also Klamotten <b>sind verboten</b>.	a1.1 unit_10 chunk brainscape
+Hallo, ich rufe ______________(about your (form.) ad) an.	Hallo, ich rufe <b>wegen Ihrer Anzeige</b> an.	a1.1 unit_10 chunk brainscape
+Wann ist _________________(the viewing)?	Wann ist <b>die Besichtigung</b>?	a1.1 unit_10 chunk brainscape
+Hast du ______________(this (lit. today) afternoon) Zeit?	Hast du <b>heute Nachmittag</b> Zeit?	a1.1 unit_10 chunk brainscape
+____________________(Is it also possible) morgen?	<b>Geht es auch</b> morgen?	a1.1 unit_10 chunk brainscape
+________________(Tomorrow we have time).	<b>Morgen haben wir Zeit</b>.	a1.1 unit_10 chunk brainscape
+________________(Are you free) morgen Abend?	<b>Kannst du</b> morgen Abend?	a1.1 unit_10 chunk brainscape
+___________________________(Where do you (pl.) live)?	<b>Wo wohnt ihr denn</b>?	a1.1 unit_10 chunk brainscape
+_________________________(That’s very central).	<b>Das ist ja sehr zentral</b>.	a1.1 unit_10 chunk brainscape
+Wo muss ich __________(ring the bell)?	Wo muss ich <b>klingeln</b>?	a1.1 unit_10 chunk brainscape
+_____(At) Müller.	<b>Bei</b> Müller.	a1.1 unit_10 chunk brainscape
+_____________(Your voice) kommt mir irgendwie bekannt vor.	<b>Deine Stimme</b> kommt mir irgendwie bekannt vor.	a1.1 unit_10 chunk brainscape
+Na klar, die __________________(from the plane).	Na klar, die <b>aus dem Flugzeug</b>.	a1.1 unit_10 chunk brainscape
+_______________________(No way)! Der verrückte Typ aus dem Flugzeug!	<b>Das gibt’s ja nicht</b>! Der verrückte Typ aus dem Flugzeug!	a1.1 unit_10 chunk brainscape
+
+# ── Brainscape · A1.2 Unit 1 — Unsere WG (source wording preserved) ──
+Hallihallo, _________(it’s me), Katie!	Hallihallo, <b>ich bin’s</b>, Katie!	a1.2 unit_01 brainscape
+Hi, Katie Känguru! ______________(Come in)!	Hi, Katie Känguru! <b>Komm rein</b>!	a1.2 unit_01 brainscape
+_______________________(It’s good to see you again)!	<b>Schön dich wiederzusehen</b>!	a1.2 unit_01 brainscape
+Mein Mitbewohner Bobbi _________________(will also be here soon).	Mein Mitbewohner Bobbi <b>kommt auch gleich</b>.	a1.2 unit_01 brainscape
+Soll ich die Schuhe hier im Flur ___________(take off)?	Soll ich die Schuhe hier im Flur <b>ausziehen</b>?	a1.2 unit_01 brainscape
+Du kannst entweder __________________(take off your shoes) oder später den Boden wischen.	Du kannst entweder <b>die Schuhe ausziehen</b> oder später den Boden wischen.	a1.2 unit_01 brainscape
+Die Wohnung ist ___________(really big)!	Die Wohnung ist <b>echt groß</b>!	a1.2 unit_01 brainscape
+________________________(How can you afford that)?	<b>Wie kannst du dir das leisten</b>?	a1.2 unit_01 brainscape
+_______________(How many rooms) habt ihr?	<b>Wie viele Zimmer</b> habt ihr?	a1.2 unit_01 brainscape
+Und, _____________(do you like it)?	Und, <b>gefällt’s dir</b>?	a1.2 unit_01 brainscape
+________________(Just like you).	<b>So wie du</b>.	a1.2 unit_01 brainscape
+Es ist ‘n bisschen dunkel hier, aber ______________(very cozy).	Es ist ‘n bisschen dunkel hier, aber <b>sehr gemütlich</b>.	a1.2 unit_01 brainscape
+Ich finde es ___________________(not dark at all)!	Ich finde es <b>überhaupt nicht dunkel</b>!	a1.2 unit_01 brainscape
+Ich finde es _____________(quite bright).	Ich finde es <b>ziemlich hell</b>.	a1.2 unit_01 brainscape
+Das hier ist __________(by the way) mein Platz.	Das hier ist <b>übrigens</b> mein Platz.	a1.2 unit_01 brainscape
+Ach ja, _____________(I can see that (lit. one can see that)).	Ach ja, <b>das sieht man</b>.	a1.2 unit_01 brainscape
+____________(I’ll show you) dein Zimmer.	<b>Ich zeig’ dir</b> dein Zimmer.	a1.2 unit_01 brainscape
+______________________(You don’t like it)?	<b>Gefällt’s dir nicht</b>?	a1.2 unit_01 brainscape
+Das Zimmer hat _________(even) Möbel.	Das Zimmer hat <b>sogar</b> Möbel.	a1.2 unit_01 brainscape
+______________________________(Do you need anything else)?	<b>Brauchst du noch irgendwas</b>?	a1.2 unit_01 brainscape
+Ist zwar gebraucht, aber noch _________________(in top condition).	Ist zwar gebraucht, aber noch <b>im Topzustand</b>.	a1.2 unit_01 brainscape
+Der ist __________________(a bit broken).	Der ist <b>ein bisschen kaputt</b>.	a1.2 unit_01 brainscape
+Ein bisschen Kleber und __________________(it’ll be fine).	Ein bisschen Kleber und <b>das wird schon</b>.	a1.2 unit_01 brainscape
+______________________(The exact opposite of) von Gogo.	<b>Das genaue Gegenteil</b> von Gogo.	a1.2 unit_01 brainscape
+___________________(Nice to meet you)!	<b>Freut mich</b>!	a1.2 unit_01 brainscape
+Du willst also mit _______________(us two chaotic people) zusammenwohnen?	Du willst also mit <b>uns zwei Chaoten</b> zusammenwohnen?	a1.2 unit_01 brainscape
+___________________(Why not)?	<b>Warum nicht</b>?	a1.2 unit_01 brainscape
+Gogo ist _________(a lazy bum (lit. lazy sock)).	Gogo ist <b>eine faule Socke</b>.	a1.2 unit_01 brainscape
+Guck mal, ____________________________(all the dirty dishes here).	Guck mal, <b>das ganze dreckige Geschirr hier</b>.	a1.2 unit_01 brainscape
+____________________________(I’ll do that later).	<b>Das mach’ ich später weg</b>.	a1.2 unit_01 brainscape
+Wir haben ______________(a few rules).	Wir haben <b>ein paar Regeln</b>.	a1.2 unit_01 brainscape
+Man ___________________________ (must always wash your own dishes).	Man <b>muss sein Geschirr immer selber spülen</b>.	a1.2 unit_01 brainscape
+
+# ── Brainscape · A1.2 Unit 2 — Meine neue Familie (source wording preserved) ──
+_____________(Look), Bobbi!	<b>Guck mal</b>, Bobbi!	a1.2 unit_02 brainscape
+________________(My family) hat mir Bilder geschickt.	<b>Meine Familie</b> hat mir Bilder geschickt.	a1.2 unit_02 brainscape
+Ist das __________(your father)?	Ist das <b>dein Vater</b>?	a1.2 unit_02 brainscape
+Er ________________(is a policeman).	Er <b>ist Polizist</b>.	a1.2 unit_02 brainscape
+Mein Vater ist ___________(very nice).	Mein Vater ist <b>sehr nett</b>.	a1.2 unit_02 brainscape
+______________(Just not) zu meinen Ex-Freunden.	<b>Nur nicht</b> zu meinen Ex-Freunden.	a1.2 unit_02 brainscape
+Und _____________(he likes) die Deutschen.	Und <b>er mag</b> die Deutschen.	a1.2 unit_02 brainscape
+Seine Eltern, also meine Großeltern, ___________(are originally from) Deutschland.	Seine Eltern, also meine Großeltern, <b>kommen ursprünglich aus</b> Deutschland.	a1.2 unit_02 brainscape
+___________________(That’s why we’re called) Koch.	<b>Deswegen heißen wir</b> Koch.	a1.2 unit_02 brainscape
+Sie geht auch ___________(every day) joggen.	Sie geht auch <b>jeden Tag</b> joggen.	a1.2 unit_02 brainscape
+Und __________________(next week) läuft sie sogar einen Marathon.	Und <b>nächste Woche</b> läuft sie sogar einen Marathon.	a1.2 unit_02 brainscape
+Und das hier ist _____________(your (pl.) house)?	Und das hier ist <b>euer Haus</b>?	a1.2 unit_02 brainscape
+_______________________(She’s very pretty).	<b>Sie ist ja hübsch</b>.	a1.2 unit_02 brainscape
+______________________(Just as pretty as) ihre Tochter.	<b>Genauso hübsch wie</b> ihre Tochter.	a1.2 unit_02 brainscape
+Und das bist ________________(you as a baby), oder?	Und das bist <b>du als Baby</b>, oder?	a1.2 unit_02 brainscape
+Sie ist ___________________(a little younger than me).	Sie ist <b>etwas jünger als ich</b>.	a1.2 unit_02 brainscape
+___________(About) zwei Minuten.	<b>Ungefähr</b> zwei Minuten.	a1.2 unit_02 brainscape
+Hast du _____________________(any more siblings)?	Hast du <b>noch mehr Geschwister</b>?	a1.2 unit_02 brainscape
+___________________(Here he is).	<b>Hier ist er</b>.	a1.2 unit_02 brainscape
+Er ist drei Jahre _______________(older than me).	Er ist drei Jahre <b>älter als ich</b>.	a1.2 unit_02 brainscape
+Das ______________________(I can imagine).	Das <b>kann ich mir vorstellen</b>.	a1.2 unit_02 brainscape
+_______________________________(Just boys, pure chaos).	<b>Nur Jungs, pures Chaos</b>.	a1.2 unit_02 brainscape
+Magst du auch _________________________(a piece of chocolate)?	Magst du auch <b>ein Stück Schokolade</b>?	a1.2 unit_02 brainscape
+_______________(Don’t tell Gogo).	<b>Nicht Gogo verraten</b>.	a1.2 unit_02 brainscape
+Hast du eigentlich auch _____________(siblings)?	Hast du eigentlich auch <b>Geschwister</b>?	a1.2 unit_02 brainscape
+Meine Eltern __________________(are divorced) und mein Vater ist jetzt wieder verheiratet.	Meine Eltern <b>sind geschieden</b> und mein Vater ist jetzt wieder verheiratet.	a1.2 unit_02 brainscape
+Deswegen habe ich jetzt ____________________(a half-brother).	Deswegen habe ich jetzt <b>einen Halbbruder</b>.	a1.2 unit_02 brainscape
+Meinen Halbbruder ___________________(you even already know).	Meinen Halbbruder <b>kennst du sogar schon</b>.	a1.2 unit_02 brainscape
+___________________________(Whom do I know)?	<b>Wen kenne ich</b>?	a1.2 unit_02 brainscape
+______________________________(I miss my family).	<b>Ich vermisse meine Familie</b>.	a1.2 unit_02 brainscape
+Du gehörst jetzt _______________(because) zu uns.	Du gehörst jetzt <b>nämlich</b> zu uns. (Alternative: Weil du jetzt du uns gehörst.)	a1.2 unit_02 brainscape
+Eigentlich ______________________(I’m an only child).	Eigentlich <b>bin ich Einzelkind</b>.	a1.2 unit_02 brainscape
+
+# ── Brainscape · A1.2 Unit 3 — Quark macht stark! (source wording preserved) ──
+___________________(I know her) von Instagram.	<b>Die kenne ich</b> von Instagram.	a1.2 unit_03 brainscape
+____________________________(What are you doing here)?	<b>Was machst du denn hier</b>?	a1.2 unit_03 brainscape
+Das ist Maria, __________________(my cousin).	Das ist Maria, <b>meine Cousine</b>.	a1.2 unit_03 brainscape
+Ich glaub’, ____________________(I’m still dreaming).	Ich glaub’, <b>ich träume noch</b>.	a1.2 unit_03 brainscape
+________________________(Dream on).	<b>Träum weiter</b>.	a1.2 unit_03 brainscape
+________________(I’ll stay) ein paar Tage hier.	<b>Ich bleibe</b> ein paar Tage hier.	a1.2 unit_03 brainscape
+______________________(Follow me (form.)), schöne Frau.	<b>Folgen Sie mir</b>, schöne Frau.	a1.2 unit_03 brainscape
+_____________________________________(I’ll go shopping then).	<b>Ich geh’ dann mal einkaufen</b>.	a1.2 unit_03 brainscape
+___________________(I’ll come with you)!	<b>Ich komm’ mit</b>!	a1.2 unit_03 brainscape
+Ich glaube, Maria hat __________________(something else) unter “EINKAUFEN” verstanden.	Ich glaube, Maria hat <b>etwas anderes</b> unter “EINKAUFEN” verstanden.	a1.2 unit_03 brainscape
+________________(I thought), wir gehen einkaufen.	<b>Ich dachte</b>, wir gehen einkaufen.	a1.2 unit_03 brainscape
+______________(I don’t want to go in there).	<b>Ich will da nicht rein</b>.	a1.2 unit_03 brainscape
+Katie, ich will hier nicht ______________(spend the night).	Katie, ich will hier nicht <b>übernachten</b>.	a1.2 unit_03 brainscape
+__________________(Go get) Karotten.	<b>Hol mal</b> Karotten.	a1.2 unit_03 brainscape
+Es gibt keine Karotten, es gibt nur ____________(these strange) “Möhren”.	Es gibt keine Karotten, es gibt nur <b>so komische</b> “Möhren”.	a1.2 unit_03 brainscape
+__________________(I’m … right now) im Supermarkt.	<b>Ich bin gerade</b> im Supermarkt.	a1.2 unit_03 brainscape
+Quark ist __________________(like yogurt), nur viel dicker.	Quark ist <b>wie Joghurt</b>, nur viel dicker.	a1.2 unit_03 brainscape
+Kennt mich mein Vater ________(even)?	Kennt mich mein Vater <b>überhaupt</b>?	a1.2 unit_03 brainscape
+Ach, Maria, komm, ________________________(we don’t have all day).	Ach, Maria, komm, <b>wir haben nicht den ganzen Tag Zeit</b>.	a1.2 unit_03 brainscape
+______________________________(Please stop queuing​).	<b>Bitte nicht mehr anstellen</b>.	a1.2 unit_03 brainscape
+___________________________(Do you need anything else)?	<b>Brauchst du noch etwas</b>?	a1.2 unit_03 brainscape
+Ja, ___________________(we still need) Radler.	Ja, <b>wir brauchen noch</b> Radler.	a1.2 unit_03 brainscape
+Wir müssen ______________(absolutely) Radler mitbringen.	Wir müssen <b>unbedingt</b> Radler mitbringen.	a1.2 unit_03 brainscape
+Radler ist Bier _____________________(mixed with lemonade).	Radler ist Bier <b>mit Limo gemischt</b>.	a1.2 unit_03 brainscape
+__________________(How about) dem Wein hier?	<b>Wie wäre es mit</b> dem Wein hier?	a1.2 unit_03 brainscape
+Das ist _________________(way too expensive).	Das ist <b>viel zu teuer</b>.	a1.2 unit_03 brainscape
+___________________________(I don’t care).	<b>Ist mir doch egal</b>.	a1.2 unit_03 brainscape
+Ich habe _____________________(a few bottles of wine) runtergeschmissen.	Ich habe <b>ein paar Flaschen Wein</b> runtergeschmissen.	a1.2 unit_03 brainscape
+
+# ── Brainscape · A1.2 Unit 4 — Prost! (source wording preserved) ──
+Warum trägst du denn ______________(everything by yourself)?	Warum trägst du denn <b>alles allein</b>?	a1.2 unit_04 brainscape
+_____________________(Don’t ask).	<b>Frag nicht</b>.	a1.2 unit_04 brainscape
+_____________________(I was just shopping).	<b>Ich war gerade einkaufen</b>.	a1.2 unit_04 brainscape
+_____________________(What’s the matter), Bobbi?	<b>Was ist los</b>, Bobbi?	a1.2 unit_04 brainscape
+________________________(I’m thirsty).	<b>Ich habe Durst</b>.	a1.2 unit_04 brainscape
+So, ________________________(I’ll get started).	So, <b>dann fange ich mal an</b>.	a1.2 unit_04 brainscape
+__________________________(I’m hungry).	<b>Ich hab’ Hunger</b>.	a1.2 unit_04 brainscape
+______________________(How long do you need) denn jetzt?	<b>Wie lange brauchst du</b> denn jetzt?	a1.2 unit_04 brainscape
+________________(I’ll turn on some music)!	<b>Ich mach’ Musik an</b>!	a1.2 unit_04 brainscape
+Katie, mach bitte das Radio ____________________(turn down a little bit).	Katie, mach bitte das Radio <b>ein bisschen leiser</b>.	a1.2 unit_04 brainscape
+Oder __________________________(I’ll close the door).	Oder <b>ich mach’ die Tür zu</b>.	a1.2 unit_04 brainscape
+________________________(At this time)?	<b>Um diese Zeit</b>?	a1.2 unit_04 brainscape
+Er ist __________________________(a real sleepyhead).	Er ist <b>eine richtige Schlafmütze</b>.	a1.2 unit_04 brainscape
+__________________(This means)…	<b>Das bedeutet</b>…	a1.2 unit_04 brainscape
+___________________(I’m explaining) hier Schlafmütze.	<b>Ich erkläre</b> hier Schlafmütze.	a1.2 unit_04 brainscape
+Katie, _______________________(do you cook often)?	Katie, <b>kochst du oft</b>?	a1.2 unit_04 brainscape
+____________________(How strange).	<b>Wie komisch</b>.	a1.2 unit_04 brainscape
+Soll ich schon mal ___________________________(set the table)?	Soll ich schon mal <b>den Tisch decken</b>?	a1.2 unit_04 brainscape
+Maria, ________________________________(can you help me, please)?	Maria, <b>kannst du mir bitte helfen</b>?	a1.2 unit_04 brainscape
+______________________________(The food is ready).	<b>Das Essen ist fertig</b>.	a1.2 unit_04 brainscape
+Jetzt bin ich gespannt, ob ________________(this tastes good), Frau Koch.	Jetzt bin ich gespannt, ob <b>das schmeckt</b>, Frau Koch.	a1.2 unit_04 brainscape
+_______________________(It smells good).	<b>Es riecht gut</b>.	a1.2 unit_04 brainscape
+______________________(My stomach growls) und ist so leer.	<b>Mein Magen knurrt</b> und ist so leer.	a1.2 unit_04 brainscape
+Darum wollen wir jetzt essen und das Danken _____________(not forget).	Darum wollen wir jetzt essen und das Danken <b>nicht vergessen</b>.	a1.2 unit_04 brainscape
+________________(Likewise).	<b>Gleichfalls</b>.	a1.2 unit_04 brainscape
+Das Fleisch ist _________________(too salty)!	Das Fleisch ist <b>zu salzig</b>!	a1.2 unit_04 brainscape
+Meins ____________________(is all right).	Meins <b>ist in Ordnung</b>.	a1.2 unit_04 brainscape
+Der sieht jetzt aus ________(like) ein Schokoladenkuchen.	Der sieht jetzt aus <b>wie</b> ein Schokoladenkuchen.	a1.2 unit_04 brainscape
+Katie, jetzt kann ich das nicht ___________________(post on Instagram).	Katie, jetzt kann ich das nicht <b>auf Instagram posten</b>.	a1.2 unit_04 brainscape
+
+# ── Brainscape · A1.2 Unit 5 — Viel Spaß beim Deutschlernen! (source wording preserved) ──
+Guten Tag und ___________(welcome)!	Guten Tag und <b>herzlich willkommen</b>!	a1.2 unit_05 brainscape
+Ich habe _____________(a few questions first).	Ich habe <b>erstmal ein paar Fragen</b>.	a1.2 unit_05 brainscape
+______________(What’s your (form.) name)?	<b>Wie ist Ihr Name</b>?	a1.2 unit_05 brainscape
+______________(Just Katie)?	<b>Nur Katie</b>?	a1.2 unit_05 brainscape
+______________(My family name is Koch).	<b>Mein Familienname ist Koch</b>.	a1.2 unit_05 brainscape
+Koch ist ______________(a German name).	Koch ist <b>ein deutscher Name</b>.	a1.2 unit_05 brainscape
+Meine Oma ______________(is German).	Meine Oma <b>ist Deutsche</b>.	a1.2 unit_05 brainscape
+Mein Opa ______________(was also German).	Mein Opa <b>war auch Deutscher</b>.	a1.2 unit_05 brainscape
+______________(That’s enough now), Katie Koch.	<b>Das reicht jetzt</b>, Katie Koch.	a1.2 unit_05 brainscape
+Jetzt brauche ich noch ______________(some data).	Jetzt brauche ich noch <b>ein paar Daten</b>.	a1.2 unit_05 brainscape
+______________(The zip code is) 10555.	<b>Die Postleitzahl ist</b> 10555.	a1.2 unit_05 brainscape
+______________(Please repeat (form.)) noch mal die Postleitzahl.	<b>Bitte wiederholen Sie</b> noch mal die Postleitzahl.	a1.2 unit_05 brainscape
+______________(What’s your (form.) date of birth)?	<b>Wie lautet Ihr Geburtsdatum</b>?	a1.2 unit_05 brainscape
+Soll ich jetzt rechnen ______________(or what)?	Soll ich jetzt rechnen <b>oder was</b>?	a1.2 unit_05 brainscape
+Oh, ______________(I’m sorry).	Oh, <b>Entschuldigung</b>.	a1.2 unit_05 brainscape
+Dann ______________(it’s your (form.) birthday soon)!	Dann <b>haben Sie ja bald Geburtstag</b>!	a1.2 unit_05 brainscape
+Ja, ______________(that’s right)!	Ja, <b>das stimmt</b>!	a1.2 unit_05 brainscape
+Und ______________(the last question): Wo sind Sie geboren?	Und <b>die letzte Frage</b>: Wo sind Sie geboren?	a1.2 unit_05 brainscape
+______________(I live in) Sydney.	<b>Ich lebe in</b> Sydney.	a1.2 unit_05 brainscape
+______________(What happened now)?	<b>Was ist denn jetzt passiert</b>?	a1.2 unit_05 brainscape
+Bitte ____________________(fill out (form.)) dieses Anmeldeformular aus.	Bitte <b>füllen Sie</b> dieses Anmeldeformular aus.	a1.2 unit_05 brainscape
+_______________(You (form.) are supposed to) Ihre Daten dort eintragen.	<b>Sie sollen</b> Ihre Daten dort eintragen.	a1.2 unit_05 brainscape
+____________________(All right).	<b>Alles klar</b>.	a1.2 unit_05 brainscape
+Ach, Frau Koch. ___________________(You’re (form.) killing me) (coll.)!	Ach, Frau Koch. <b>Sie machen mich fertig</b>!	a1.2 unit_05 brainscape
+Hier! ____________________(Take (form.)) meinen Kuli.	Hier! <b>Nehmen Sie</b> meinen Kuli.	a1.2 unit_05 brainscape
+Das ist ____________________(short for) “Kugelschreiber”.	Das ist <b>kurz für</b> “Kugelschreiber”.	a1.2 unit_05 brainscape
+Okay. ____________________(Done)! Hier, bitte!	Okay. <b>Fertig</b>! Hier, bitte!	a1.2 unit_05 brainscape
+____________________(Today we are going to talk about) das Perfekt.	<b>Heute sprechen wir über</b> das Perfekt.	a1.2 unit_05 brainscape
+Der Dackel ____________________(is running away)!	Der Dackel <b>rennt weg</b>!	a1.2 unit_05 brainscape
+Was für’n Dackel?! Sie sind ___________________(in my class), Katie Koch!	Was für’n Dackel?! Sie sind <b>in meinem Unterricht</b>, Katie Koch!	a1.2 unit_05 brainscape
+
+# ── Brainscape · A1.2 Unit 6 — Wie war dein Tag? (source wording preserved) ──
+____________________(Finally I’m home).	<b>Endlich bin ich zu Hause</b>.	a1.2 unit_06 brainscape
+____________________(How was your day) heute?	<b>Wie war dein Tag</b> heute?	a1.2 unit_06 brainscape
+____________________(Totally relaxed).	<b>Total entspannt</b>.	a1.2 unit_06 brainscape
+Erst habe ich ____________________(all night) durchtrainiert.	Erst habe ich <b>die ganze Nacht</b> durchtrainiert.	a1.2 unit_06 brainscape
+Ich ____________________(went shopping, too).	Ich <b>habe auch eingekauft</b>.	a1.2 unit_06 brainscape
+____________________(That feels good)!	<b>Das tut gut</b>!	a1.2 unit_06 brainscape
+____________________(Do you have another bottle)?	<b>Hast du noch eine Flasche</b>?	a1.2 unit_06 brainscape
+____________________(To us)!	<b>Auf uns</b>!	a1.2 unit_06 brainscape
+______________(Earlier) habe ich meine Exfrau vom Flughafen abgeholt.	<b>Vorhin</b> habe ich meine Exfrau vom Flughafen abgeholt.	a1.2 unit_06 brainscape
+Wir sind trotzdem noch ____________________(good friends).	Wir sind trotzdem noch <b>gute Freunde</b>.	a1.2 unit_06 brainscape
+____________________(Does she still live) in Berlin?	<b>Wohnt sie noch</b> in Berlin?	a1.2 unit_06 brainscape
+Sie ____________________(studied here).	Sie <b>hat hier studiert</b>.	a1.2 unit_06 brainscape
+____________________(She still supports me financially).	<b>Sie unterstützt mich noch finanziell</b>.	a1.2 unit_06 brainscape
+____________________(That´s why) haben wir geheiratet.	<b>Deswegen</b> haben wir geheiratet.	a1.2 unit_06 brainscape
+Sie wollte sich dann wieder ____________________(get divorced).	Sie wollte sich dann wieder <b>scheiden lassen</b>.	a1.2 unit_06 brainscape
+Ist das ____________________(just for you)?	Ist das <b>nur für dich</b>?	a1.2 unit_06 brainscape
+Oh, ____________________(that looks disgusting).	Oh, <b>das sieht eklig aus</b>.	a1.2 unit_06 brainscape
+Ich habe noch nie so viel ________________(meat for one person) gesehen.	Ich habe noch nie so viel <b>Fleisch für eine Person</b> gesehen.	a1.2 unit_06 brainscape
+Hast du auch __________________(vegetables for me)?	Hast du auch <b>Gemüse für mich</b>?	a1.2 unit_06 brainscape
+Na klar. ____________________(With salt and pepper)?	Na klar. <b>Mit Salz und Pfeffer</b>?	a1.2 unit_06 brainscape
+____________________(Salt only), bitte.	<b>Nur Salz</b>, bitte.	a1.2 unit_06 brainscape
+____________________(Don’t worry).	<b>Keine Sorge</b>.	a1.2 unit_06 brainscape
+Ich habe dir auch _________________(something vegetarian) mitgebracht.	Ich habe dir auch <b>was Vegetarisches</b> mitgebracht.	a1.2 unit_06 brainscape
+Oh, ___________________(that’s so nice of you).	Oh, <b>das ist aber lieb von dir</b>.	a1.2 unit_06 brainscape
+________________________(I had the day off today).	<b>Ich hatte heute frei</b>.	a1.2 unit_06 brainscape
+Eigentlich ________________________(as always).	Eigentlich <b>wie immer</b>.	a1.2 unit_06 brainscape
+________________________(You have no idea).	<b>Du hast doch keine Ahnung</b>.	a1.2 unit_06 brainscape
+
+# ── Brainscape · A1.2 Unit 7 — Was ist passiert? (source wording preserved) ──
+______________________________(What are you guys doing)?	<b>Was macht ihr denn da</b>?	a1.2 unit_07 brainscape
+Und ______________________(I won).	Und <b>ich hab’ gewonnen</b>.	a1.2 unit_07 brainscape
+Und _____________________(how was your day) heute?	Und <b>wie war dein Tag</b> heute?	a1.2 unit_07 brainscape
+__________________(Pretty exhausting) und chaotisch.	<b>Ziemlich anstrengend</b> und chaotisch.	a1.2 unit_07 brainscape
+Ich bin ____________(totally exhausted (lit. broken)).	Ich bin <b>total kaputt</b>.	a1.2 unit_07 brainscape
+________________________(What happened)?	<b>Was ist passiert</b>?	a1.2 unit_07 brainscape
+Zuerst _____________________________(I got up too late).	Zuerst <b>bin ich zu spät aufgestanden</b>.	a1.2 unit_07 brainscape
+Mein Wecker __________________(didn’t ring).	Mein Wecker <b>hat nicht geklingelt</b>.	a1.2 unit_07 brainscape
+Mein Fahrrad _____________(was gone)!	Mein Fahrrad <b>war weg</b>!	a1.2 unit_07 brainscape
+Die ________________________(stole your bike)?	Die <b>haben dein Fahrrad geklaut</b>?	a1.2 unit_07 brainscape
+_________________(What color) hatte dein Fahrrad?	<b>Welche Farbe</b> hatte dein Fahrrad?	a1.2 unit_07 brainscape
+Und hast du es noch ___________(on time) zum Unterricht geschafft?	Und hast du es noch <b>pünktlich</b> zum Unterricht geschafft?	a1.2 unit_07 brainscape
+Nein, aber ich war _________________________(only five minutes late).	Nein, aber ich war <b>nur fünf Minuten zu spät</b>.	a1.2 unit_07 brainscape
+_________________(But that’s okay).	<b>Das ist doch okay</b>.	a1.2 unit_07 brainscape
+Ich habe _______________(in class) nur “Blablablablabla” gehört.	Ich habe <b>im Unterricht</b> nur “Blablablablabla” gehört.	a1.2 unit_07 brainscape
+Über ______________________(what topic) habt ihr denn geredet?	Über <b>welches Thema</b> habt ihr denn geredet?	a1.2 unit_07 brainscape
+_____________________(About something) mit Perfekt oder so?	<b>Über irgendwas</b> mit Perfekt oder so?	a1.2 unit_07 brainscape
+________________(Fortunately) ist Deutsch meine Muttersprache.	<b>Zum Glück</b> ist Deutsch meine Muttersprache.	a1.2 unit_07 brainscape
+Die deutsche Grammatik ist ein Albtraum ___________(for us foreigners).	Die deutsche Grammatik ist ein Albtraum <b>für uns Ausländer</b>.	a1.2 unit_07 brainscape
+___________________(The most important thing is): Üben, üben, üben.	<b>Das Wichtigste ist</b>: Üben, üben, üben.	a1.2 unit_07 brainscape
+______________________(You’re starting to sound like) meine Lehrerin.	<b>Du klingst schon wie</b> meine Lehrerin.	a1.2 unit_07 brainscape
+Ich habe Angst, ____________________(again and again) einzuschlafen.	Ich habe Angst, <b>immer wieder</b> einzuschlafen.	a1.2 unit_07 brainscape
+________________(Why not)?	<b>Wieso nicht</b>?	a1.2 unit_07 brainscape
+__________________(I’ve got it)!	<b>Ich hab’s</b>!	a1.2 unit_07 brainscape
+Natürlich ______________(innocent).	Natürlich <b>unschuldig</b>.	a1.2 unit_07 brainscape
+_________________________(This afternoon) haben Sie mich verhaftet.	<b>Heute Nachmittag</b> haben Sie mich verhaftet.	a1.2 unit_07 brainscape
+Sie haben gesagt, _______________________(I was fare-dodging).	Sie haben gesagt, <b>ich bin schwarzgefahren</b>.	a1.2 unit_07 brainscape
+Aber der Richter ___________________________(didn’t believe me).	Aber der Richter <b>hat mir nicht geglaubt</b>.	a1.2 unit_07 brainscape
+Im Ausreden erfinden war ich immer ______________(the best).	Im Ausreden erfinden war ich immer <b>der Beste</b>.	a1.2 unit_07 brainscape
+Ich lerne jetzt nur noch _____________(with you guys) und Anjas Videos.	Ich lerne jetzt nur noch <b>mit euch</b> und Anjas Videos.	a1.2 unit_07 brainscape
+
+# ── Brainscape · A1.2 Unit 8 — Ich liebe Fußball! (source wording preserved) ──
+Hast du Gogo heute ________(already) gesehen?	Hast du Gogo heute <b>schon</b> gesehen?	a1.2 unit_08 brainscape
+Vielleicht _________________________(he’s still asleep)?	Vielleicht <b>schläft er noch</b>?	a1.2 unit_08 brainscape
+Er hat gesagt, er ____________________________(coming to soccer).	Er hat gesagt, er <b>kommt mit zum Fußball</b>.	a1.2 unit_08 brainscape
+Habt ihr nicht _________________(enough people)?	Habt ihr nicht <b>genug Leute</b>?	a1.2 unit_08 brainscape
+_____________________(We are still missing) ein Mann.	<b>Uns fehlt noch</b> ein Mann.	a1.2 unit_08 brainscape
+________________________(Are you up for it)?	<b>Hast du Lust</b>?	a1.2 unit_08 brainscape
+___________________(I love) Fußball!	<b>Ich liebe</b> Fußball!	a1.2 unit_08 brainscape
+Du kannst gerne ________________(play along).	Du kannst gerne <b>mitspielen</b>.	a1.2 unit_08 brainscape
+Wir spielen __________________(every Friday) von 17 bis 19 Uhr.	Wir spielen <b>jeden Freitag</b> von 17 bis 19 Uhr.	a1.2 unit_08 brainscape
+____________________(In summer) spielen wir immer im Park.	<b>Im Sommer</b> spielen wir immer im Park.	a1.2 unit_08 brainscape
+Ich spiele gerne ___________(outside).	Ich spiele gerne <b>draußen</b>.	a1.2 unit_08 brainscape
+Ja, ________________(I’m in).	Ja, <b>ich bin dabei</b>.	a1.2 unit_08 brainscape
+Und ______________________(what are your) Hobbys außer Fußball?	Und <b>was hast du noch für</b> Hobbys außer Fußball?	a1.2 unit_08 brainscape
+______________________(I like to read) und ich male gern.	<b>Ich lese gern</b> und ich male gern.	a1.2 unit_08 brainscape
+Kann ich _________________(some pictures) sehen?	Kann ich <b>ein paar Bilder</b> sehen?	a1.2 unit_08 brainscape
+Aber ____________________(I’m warning you): Ich experimentiere gern mit Farben.	Aber <b>ich warne dich</b>: Ich experimentiere gern mit Farben.	a1.2 unit_08 brainscape
+____________________(Show me).	<b>Zeig mal her</b>.	a1.2 unit_08 brainscape
+_______________________(That’s awesome (lit. That’s the hammer))!	<b>Das ist ja der Hammer</b>!	a1.2 unit_08 brainscape
+Katie van Gogh, du bist _____________________(a true artist).	Katie van Gogh, du bist <b>eine wahre Künstlerin</b>.	a1.2 unit_08 brainscape
+____________(Look), die haben sogar ein Klettergerüst und eine Rutsche.	<b>Guck mal</b>, die haben sogar ein Klettergerüst und eine Rutsche.	a1.2 unit_08 brainscape
+Ich komme ______________(not after all) mit zum Fußball.	Ich komme <b>doch nicht</b> mit zum Fußball.	a1.2 unit_08 brainscape
+_____________(Seriously)?	<b>Im Ernst</b>?	a1.2 unit_08 brainscape
+Dann ___________(we’ll have (do)) auf jeden Fall eine Party.	Dann <b>machen wir</b> auf jeden Fall eine Party.	a1.2 unit_08 brainscape
+Wir können bei uns __________________(on our balcony) feiern.	Wir können bei uns <b>auf dem Balkon</b> feiern.	a1.2 unit_08 brainscape
+Da ____________________(is a lot of space).	Da <b>ist viel Platz</b>.	a1.2 unit_08 brainscape
+Ich ________________(will text…right away) meinem neuen Freund Pietro.	Ich <b>schreibe gleich</b> meinem neuen Freund Pietro.	a1.2 unit_08 brainscape
+Ja, nicht das, ___________________(what you think).	Ja, nicht das, <b>was du denkst</b>.	a1.2 unit_08 brainscape
+Er ist __________________(just a buddy (coll.)).	Er ist <b>nur ein Kumpel</b>.	a1.2 unit_08 brainscape
+_________________________(I look like) 18.	<b>Ich sehe aus wie</b> 18.	a1.2 unit_08 brainscape
+Ist das okay __________(for you)?	Ist das okay <b>für dich</b>?	a1.2 unit_08 brainscape
+
+# ── Brainscape · A1.2 Unit 9 — Kleider machen Leute (source wording preserved) ──
+_______________________(What’s the matter)?	<b>Was ist los</b>?	a1.2 unit_09 brainscape
+_______________________(Me and fashion).	<b>Ich und Mode</b>.	a1.2 unit_09 brainscape
+_______________________(Does it go together)?	<b>Passt das</b>?	a1.2 unit_09 brainscape
+Warte,________________________(I’ll get) Gogo.	Warte, <b>ich hol</b>’ Gogo.	a1.2 unit_09 brainscape
+________________________(What’s up)?	<b>Was gibt’s</b>?	a1.2 unit_09 brainscape
+________________________(Look), Gogo.	<b>Schau mal</b>, Gogo.	a1.2 unit_09 brainscape
+Ich finde, _______________________(you can wear anything).	Ich finde, <b>du kannst alles tragen</b>.	a1.2 unit_09 brainscape
+Bobbi, _____________________(you just don’t know anything) von Mode.	Bobbi, <b>du hast einfach keine Ahnung</b> von Mode.	a1.2 unit_09 brainscape
+_______________________(Let’s go).	<b>Auf geht’s</b>.	a1.2 unit_09 brainscape
+_______________________(Do I really want that)?	<b>Will ich das wirklich</b>?	a1.2 unit_09 brainscape
+Das ist ________________(the best store) in Berlin zum Klamotten kaufen.	Das ist <b>der beste Laden</b> in Berlin zum Klamotten kaufen.	a1.2 unit_09 brainscape
+Da gibt’s ________________________(the hottest shit (vulg.)).	Da gibt’s <b>den geilsten Scheiß</b> (vulg.).	a1.2 unit_09 brainscape
+________________________(You really don’t know), was gut ist.	<b>Du weißt echt nicht</b>, was gut ist.	a1.2 unit_09 brainscape
+________________________(Tell me about it).	<b>Erzähl mal</b>.	a1.2 unit_09 brainscape
+________________________(What size) hast du denn?	<b>Welche Größe</b> hast du denn?	a1.2 unit_09 brainscape
+________________________(Which top)?	<b>Welches Top</b>?	a1.2 unit_09 brainscape
+Meine Oma hat ________________________(the same one).	Meine Oma hat <b>den gleichen</b>.	a1.2 unit_09 brainscape
+Aber ________________________(blue is not my color).	Aber <b>Blau ist nicht meine Farbe</b>.	a1.2 unit_09 brainscape
+________________________(I’ll ask)!	<b>Ich frag’ mal</b>!	a1.2 unit_09 brainscape
+Das ist ________________________(a bit revealing).	Das ist <b>ein bisschen freizügig</b>.	a1.2 unit_09 brainscape
+Nein, die Hose ________________________(don’t fit me).	Nein, die Hose <b>passt mir nicht</b>.	a1.2 unit_09 brainscape
+Sie ist ________________________(too small).	Sie ist <b>zu klein</b>.	a1.2 unit_09 brainscape
+________________________(Pity).	<b>Schade</b>.	a1.2 unit_09 brainscape
+Vielleicht haben sie die noch ________________________(in size) 40.	Vielleicht haben sie die noch <b>in Größe</b> 40.	a1.2 unit_09 brainscape
+________________________(I don’t wear a) 40.	<b>Ich trage keine</b> 40.	a1.2 unit_09 brainscape
+Das Etikett ________________________(must be wrong).	Das Etikett <b>muss falsch sein</b>.	a1.2 unit_09 brainscape
+Ich habe ______________________(the perfect dress for you) gefunden.	Ich habe <b>das perfekte Kleid für dich</b> gefunden.	a1.2 unit_09 brainscape
+________________________(I’ll put it on).	<b>Das zieh’ ich mal an</b>!	a1.2 unit_09 brainscape
+______________________(Where did my dress go)?	<b>Wo ist denn mein Kleid hin</b>?	a1.2 unit_09 brainscape
+Ja, ________________________(it fits)!	Ja, <b>es passt</b>!	a1.2 unit_09 brainscape
+
+# ── Brainscape · A1.2 Unit 10 — Alles Gute! (source wording preserved) ──
+________________________(Happy Birthday!)	<b>Alles Gute zum Geburtstag</b>!	a1.2 unit_10 brainscape
+Die Blumen ________________________(are so beautiful).	Die Blumen <b>sind so schön</b>!	a1.2 unit_10 brainscape
+________________________(How sweet) von euch.	<b>Wie süß</b> von euch.	a1.2 unit_10 brainscape
+_______________(I like to eat) Salami, und Nutella esse ich noch viel lieber.	<b>Ich esse gern</b> Salami, und Nutella esse ich noch viel lieber.	a1.2 unit_10 brainscape
+Und zusammen esse ich es ________________________((I like it) the most).	Und zusammen esse ich es <b>am liebsten</b>.	a1.2 unit_10 brainscape
+_______________________(Are you already excited)?	<b>Bist du schon aufgeregt</b>?	a1.2 unit_10 brainscape
+Ja, ________________________(a little).	Ja, <b>ein bisschen</b>.	a1.2 unit_10 brainscape
+Aber ich hoffe, ________________________(the weather will be good).	Aber ich hoffe, <b>das Wetter wird gut</b>.	a1.2 unit_10 brainscape
+Es ist ________________________(so cloudy).	Es ist <b>so bewölkt</b>.	a1.2 unit_10 brainscape
+Gogo, ________________________(are you serious)?	Gogo, <b>ist das dein Ernst</b>?	a1.2 unit_10 brainscape
+Da kommen Gäste ________________________(out of the elevator).	Da kommen Gäste <b>aus dem Aufzug</b>.	a1.2 unit_10 brainscape
+Katie, ________________________(who (all) did you invite)?	Katie, <b>wen hast du denn alles eingeladen</b>?	a1.2 unit_10 brainscape
+Denkst du, ________________________(they’re all Pietro’s girlfriends)?	Denkst du, <b>das sind alles Pietros Freundinnen</b>?	a1.2 unit_10 brainscape
+________________________(Yes, I think so).	<b>Ja, ich denke schon</b>.	a1.2 unit_10 brainscape
+________________________(I like him).	<b>Der ist mir sympathisch.</b> Alternative: Ich mag ihn.	a1.2 unit_10 brainscape
+Denkst du, ________________________(he’ll give me one)?	Denkst du, <b>der gibt mir eine ab</b>?	a1.2 unit_10 brainscape
+________________________(Ask him)!	<b>Frag ihn mal</b>!	a1.2 unit_10 brainscape
+________________________(All the best), liebe Katie!	<b>Alles Gute</b>, liebe Katie!	a1.2 unit_10 brainscape
+________________________(You guys are the best)!	<b>Ihr seid die Besten</b>!	a1.2 unit_10 brainscape
+________________________(Here’s to an unforgettable evening)!	<b>Auf einen unvergesslichen Abend</b>!	a1.2 unit_10 brainscape
+_______________________(What’s the noise here)?	<b>Was ist das hier für ein Krach</b>?	a1.2 unit_10 brainscape
+Wir ________________________(are having a party).	Wir <b>feiern eine Party</b>.	a1.2 unit_10 brainscape
+____________________(It’s a pain in the ass (lit. That goes on my balls))!	<b>Das geht mir auf’n Sack</b>!	a1.2 unit_10 brainscape
+Machen Sie mal die Musik aus oder ____________________(I’ll call the police).	Machen Sie mal die Musik aus oder <b>ich rufe die Polizei</b>.	a1.2 unit_10 brainscape
+________________________(Please excuse the volume (form.)).	<b>Entschuldigen Sie bitte die Lautstärke</b>.	a1.2 unit_10 brainscape
+________________________(Is that you (form.))?	<b>Sind Sie das</b>?	a1.2 unit_10 brainscape
+________________________(We are celebrating) meinen Geburtstag.	<b>Wir feiern gerade</b> meinen Geburtstag.	a1.2 unit_10 brainscape
+________________________(Just celebrate with us (form.)).	<b>Feiern Sie doch einfach mit</b>.	a1.2 unit_10 brainscape
+________________________(See you in a minute)!	<b>Bis gleich</b>!	a1.2 unit_10 brainscape
+________________________(Somehow) klappt das nicht so gut.	<b>Irgendwie</b> klappt das nicht so gut.	a1.2 unit_10 brainscape
+
+# ── Brainscape · A2.1 Unit 1 — Haus & Nachbarn ──
+Wir Deutschen sind ________(true masters) im Mülltrennen.	Wir Deutschen sind <b>wahre Meister</b> im Mülltrennen.	a2.1 unit_01 brainscape
+_________(Where) kommt der Müll hier?	<b>Wohin</b> kommt der Müll hier?	a2.1 unit_01 brainscape
+________(Throw it in the) Container da.	<b>Wirf ihn in den</b> Container da.	a2.1 unit_01 brainscape
+Dann stell ihn _________(next to it).	Dann stell ihn <b>daneben</b>.	a2.1 unit_01 brainscape
+________(There’s) doch noch Platz.	<b>Hier ist</b> doch noch Platz.	a2.1 unit_01 brainscape
+In Deutschland _____________(we separate the garbage).	In Deutschland <b>trennen wir den Müll</b>.	a2.1 unit_01 brainscape
+Wollen _________(you two (form.)) einen Kaffee?	Wollen <b>Sie beide</b> einen Kaffee?	a2.1 unit_01 brainscape
+_________(I am) müde.	<b>Ich bin</b> müde.	a2.1 unit_01 brainscape
+_________(Come up (form.)).	<b>Kommen Sie hoch</b>.	a2.1 unit_01 brainscape
+_________(My darling)!	<b>Meine Süße</b>!	a2.1 unit_01 brainscape
+_________(Come in (form.)).	<b>Kommen Sie rein</b>.	a2.1 unit_01 brainscape
+Sollen wir die _________(shoes) hier im Flur ausziehen?	Sollen wir die <b>Schuhe</b> hier im Flur ausziehen?	a2.1 unit_01 brainscape
+_________(Come here).	<b>Komm mal her</b>.	a2.1 unit_01 brainscape
+Meine Freundin _________(likes to clean).	Meine Freundin <b>putzt gerne</b>.	a2.1 unit_01 brainscape
+_________(Have a seat (form.)).	<b>Nehmen Sie Platz</b>.	a2.1 unit_01 brainscape
+_________(Do you (form.) want) Zucker?	<b>Möchten Sie</b> Zucker?	a2.1 unit_01 brainscape
+_________(Milk) ist leider aus.	<b>Milch</b> ist leider aus.	a2.1 unit_01 brainscape
+_________(I’m on a diet).	<b>Ich mache eine Diät</b>.	a2.1 unit_01 brainscape
+Hier hängen viele Wurst-Bilder _________(on the wall).	Hier hängen viele Wurst-Bilder <b>an der Wand</b>.	a2.1 unit_01 brainscape
+_________(What a surprise)!	<b>Was für eine Überraschung</b>!	a2.1 unit_01 brainscape
+_________(What a pleasure), Sie wiederzusehen.	<b>Was für eine Freude</b>, Sie wiederzusehen.	a2.1 unit_01 brainscape
+_________(You know each other)?	<b>Ihr kennt euch</b>?	a2.1 unit_01 brainscape
+Sie waren ja _________(supposedly) im Gefängnis.	Sie waren ja <b>angeblich</b> im Gefängnis.	a2.1 unit_01 brainscape
+Sie wohnt leider nicht mehr _________(with me).	Sie wohnt leider nicht mehr <b>bei mir</b>.	a2.1 unit_01 brainscape
+_________(You wanted), dass ich ausziehe, Klaus!	<b>Du wolltest doch</b>, dass ich ausziehe, Klaus!	a2.1 unit_01 brainscape
+_________(Are we doing this again)?	<b>Geht das schon wieder los</b>?	a2.1 unit_01 brainscape
+Immer _________(this back and forth) mit dir!	Immer <b>dieses Hin und Her</b> mit dir!	a2.1 unit_01 brainscape
+_________(You never know), was du willst!	<b>Nie weißt du</b>, was du willst!	a2.1 unit_01 brainscape
+Es war sehr nett _________(at your place (form.)).	Es war sehr nett <b>bei Ihnen</b>.	a2.1 unit_01 brainscape
+Ich bin noch _________(tired).	Ich bin noch <b>müde</b>.	a2.1 unit_01 brainscape
+
+# ── Brainscape · A2.1 Unit 2 — Kinder und Enkelkinder ──
+_________(I’m ironing).	<b>Ich bügle</b>.	a2.1 unit_02 brainscape
+Warum denn _________(out here)?	Warum denn <b>hier draußen</b>?	a2.1 unit_02 brainscape
+Weil Brigitte _________(inside) putzt.	Weil Brigitte <b>drinnen</b> putzt.	a2.1 unit_02 brainscape
+Da darf ich nicht _________(stand in the way).	Da darf ich nicht <b>im Weg stehen</b>.	a2.1 unit_02 brainscape
+_________(Cleaning calms her down).	<b>Putzen beruhigt sie</b>.	a2.1 unit_02 brainscape
+Da kann sie gern mal _________(come over to our place).	Da kann sie gern mal <b>bei uns vorbeikommen</b>.	a2.1 unit_02 brainscape
+Ich _________(was just kidding).	Ich <b>habe nur einen Spaß gemacht</b>.	a2.1 unit_02 brainscape
+Sie _________(forgot to plug it in) (form.).	Sie <b>haben vergessen, den Stecker reinzustecken</b>.	a2.1 unit_02 brainscape
+_________(Don’t tell (form.)) meiner Freundin!	<b>Sagen Sie nichts</b> meiner Freundin!	a2.1 unit_02 brainscape
+_________(Will you finish soon), Klaus?	<b>Bist du bald mal fertig</b>, Klaus?	a2.1 unit_02 brainscape
+Ich bin _________(the best grandpa in the world).	Ich bin <b>der beste Opa der Welt</b>.	a2.1 unit_02 brainscape
+_________(I believe that)!	<b>Das glaube ich</b>!	a2.1 unit_02 brainscape
+_________(Wait (form.)).	<b>Warten Sie</b>.	a2.1 unit_02 brainscape
+Sie wohnen_________(for four years) in Kanada.	Sie wohnen <b>seit vier Jahren</b> in Kanada.	a2.1 unit_02 brainscape
+_________(That’s a long way away).	<b>Das ist aber weit weg</b>.	a2.1 unit_02 brainscape
+Ich habe sie bislang auch _________(only once) besucht.	Ich habe sie bislang auch <b>nur einmal</b> besucht.	a2.1 unit_02 brainscape
+_________(By video telephony).	<b>Per Videotelefonie</b>.	a2.1 unit_02 brainscape
+_________(How old) sind Ihre Enkelkinder?	<b>Wie alt</b> sind Ihre Enkelkinder?	a2.1 unit_02 brainscape
+Die sind alle _________(in elementary school).	Die sind alle <b>in der Grundschule</b>.	a2.1 unit_02 brainscape
+Glaube ich _________(at least).	Glaube ich <b>zumindest</b>.	a2.1 unit_02 brainscape
+_________(Why is that)?	<b>Warum das denn</b>?	a2.1 unit_02 brainscape
+Er ist mittlerweile 40 und _________(still studying).	Er ist mittlerweile 40 und <b>studiert immer noch</b>.	a2.1 unit_02 brainscape
+Und ________(constantly asks me for money).	Und <b>fragt mich ständig nach Geld</b>.	a2.1 unit_02 brainscape
+Ich weiß gar nicht, _________(what will become of him).	Ich weiß gar nicht, <b>was aus dem mal werden soll</b>.	a2.1 unit_02 brainscape
+Er war super in der Schule, hatte nur Einsen _________(on his report).	Er war super in der Schule, hatte nur Einsen <b>auf dem Zeugnis</b>.	a2.1 unit_02 brainscape
+_________(Then what happened)?	<b>Was ist dann passiert</b>?	a2.1 unit_02 brainscape
+Aber vielleicht ist es _________(the right thing for him).	Aber vielleicht ist es <b>das Richtige für ihn</b>.	a2.1 unit_02 brainscape
+_________(It was nice), mit Ihnen zu plaudern.	<b>Es war nett</b>, mit Ihnen zu plaudern.	a2.1 unit_02 brainscape
+_________(You’re supposed to) bügeln.	<b>Du sollst doch</b> bügeln.	a2.1 unit_02 brainscape
+Ich_________(will be done in a minute).	Ich <b>bin gleich fertig</b>.	a2.1 unit_02 brainscape
+
+# ── Brainscape · A2.1 Unit 3 — Technologie & Internet ──
+Was machst du ________(with my laptop)?	Was machst du <b>mit meinem Laptop</b>?	a2.1 unit_03 brainscape
+________(Is anyone else sitting at my laptop)?	<b>Sitzt noch jemand an meinem Laptop</b>?	a2.1 unit_03 brainscape
+Mein Rechner ________(is broken).	Mein Rechner <b>ist kaputt</b>.	a2.1 unit_03 brainscape
+Ich ________(just took yours).	Ich <b>hab’ mir mal deinen genommen</b>.	a2.1 unit_03 brainscape
+Aber du kannst doch _______(ask first).	Aber du kannst doch <b>vorher fragen</b>.	a2.1 unit_03 brainscape
+________(Sorry).	<b>Tut mir leid</b>.	a2.1 unit_03 brainscape
+________(By the way) du solltest dir mal ein Passwort einrichten.	<b>Übrigens</b>, du solltest dir mal ein Passwort einrichten.	a2.1 unit_03 brainscape
+________(Tell me), hast du keine Maus?	<b>Sag mal</b>, hast du keine Maus?	a2.1 unit_03 brainscape
+Brauchst du ________(anything else)?	Brauchst du <b>sonst noch etwas</b>?	a2.1 unit_03 brainscape
+Ein USB-Stick _______(would be great).	Ein USB-Stick <b>wäre toll</b>.	a2.1 unit_03 brainscape
+Brauchst du ________(much longer)?	Brauchst du <b>noch lange</b>?	a2.1 unit_03 brainscape
+________(I’m almost done).	<b>Ich bin gleich fertig</b>.	a2.1 unit_03 brainscape
+________(Nothing at all).	<b>Gar nichts</b>.	a2.1 unit_03 brainscape
+________(Checking the weather forecast).	<b>Den Wetterbericht checken</b>.	a2.1 unit_03 brainscape
+Ich suche ________(on the Internet) nach einer Freundin.	Ich suche <b>im Internet</b> nach einer Freundin.	a2.1 unit_03 brainscape
+________(Look).	<b>Schau mal</b>.	a2.1 unit_03 brainscape
+________(Take it easy).	<b>Bleib mal locker</b>.	a2.1 unit_03 brainscape
+________(Don’t worry).	<b>Keine Angst</b>.	a2.1 unit_03 brainscape
+Das erste Date wird ________(free of charge) vermittelt.	Das erste Date wird <b>kostenlos</b> vermittelt.	a2.1 unit_03 brainscape
+________(More attempts) brauche ich gar nicht.	<b>Mehr Versuche</b> brauche ich gar nicht.	a2.1 unit_03 brainscape
+Ich schreibe ________(right now) mein Profil.	Ich schreibe <b>gerade</b> mein Profil.	a2.1 unit_03 brainscape
+Willst du ________(see it)?	Willst du <b>mal sehen</b>?	a2.1 unit_03 brainscape
+________(Let me see)!	<b>Zeig mal</b>!	a2.1 unit_03 brainscape
+________(Nonsense)!	<b>Quatsch</b>!	a2.1 unit_03 brainscape
+________(That’s me).	<b>Das bin ich</b>.	a2.1 unit_03 brainscape
+________(That hurts).	<b>Das tut weh</b>.	a2.1 unit_03 brainscape
+Und du bist ________(athletic)?	Und du bist <b>sportlich</b>?	a2.1 unit_03 brainscape
+________(Come on).	<b>Komm schon</b>.	a2.1 unit_03 brainscape
+Und du liest viel? ________(When)?	Und du liest viel? <b>Wann denn</b>?	a2.1 unit_03 brainscape
+________(I didn’t know), dass du Pilot bist.	<b>Ich wusste gar nicht</b>, dass du Pilot bist.	a2.1 unit_03 brainscape
+
+# ── Brainscape · A2.1 Unit 4 — Kennenlernen ──
+________(Everyone calls me) Gogo.	<b>Alle nennen mich</b> Gogo.	a2.1 unit_04 brainscape
+________(That’s right).	<b>Das stimmt</b>.	a2.1 unit_04 brainscape
+________(You must earn) viel Geld, oder?	<b>Da verdient man doch bestimmt</b> viel Geld, oder?	a2.1 unit_04 brainscape
+Ich ________(can’t complain at all).	Ich <b>kann mich überhaupt nicht beklagen</b>.	a2.1 unit_04 brainscape
+Ich glaube, diesmal hast du ________(found the right one).	Ich glaube, diesmal hast du <b>den Richtigen gefunden</b>.	a2.1 unit_04 brainscape
+________(Isn’t your profession) gefährlich?	<b>Ist dein Beruf nicht</b> gefährlich?	a2.1 unit_04 brainscape
+Denk dir schnell ________(something impressive) aus!	Denk dir schnell <b>etwas Beeindruckendes</b> aus!	a2.1 unit_04 brainscape
+Gestern ist ______(an engine failed).	Gestern ist <b>ein Triebwerk ausgefallen</b>.	a2.1 unit_04 brainscape
+Deshalb musste ich auf dem Wannsee ________(make an emergency landing).	Deshalb musste ich auf dem Wannsee <b>notlanden</b>.	a2.1 unit_04 brainscape
+Ich finde ________(men in uniform) sexy.	Ich finde <b>Männer in Uniform</b> sexy.	a2.1 unit_04 brainscape
+________(Here again at last)!	<b>Endlich wieder hier</b>!	a2.1 unit_04 brainscape
+________(Disgusting)!	<b>Widerlich</b>!	a2.1 unit_04 brainscape
+Schön, ________(that you’re finally here)!	Schön, <b>dass du endlich da bist</b>!	a2.1 unit_04 brainscape
+________(Sorry for the delay).	<b>Entschuldige die Verspätung</b>.	a2.1 unit_04 brainscape
+________(It doesn’t matter).	<b>Das macht nichts</b>.	a2.1 unit_04 brainscape
+Sie ist ________(almost as beautiful as you).	Sie ist <b>fast so schön wie du</b>.	a2.1 unit_04 brainscape
+Das ist ________(sweet of you).	Das ist <b>lieb von dir</b>.	a2.1 unit_04 brainscape
+________(Gorgeous)!	<b>Umwerfend</b>!	a2.1 unit_04 brainscape
+________(Like a starry sky).	<b>Wie ein Sternenhimmel</b>.	a2.1 unit_04 brainscape
+________(So many compliments).	<b>So viele Komplimente</b>.	a2.1 unit_04 brainscape
+________(I love) zu segeln.	<b>Ich liebe es</b> zu segeln.	a2.1 unit_04 brainscape
+________(My ex-boyfriend)	<b>Mein Exfreund</b>	a2.1 unit_04 brainscape
+Ich bin gestern gerade erst ________(from Hamburg) zurückgekommen.	Ich bin gestern gerade erst <b>aus Hamburg</b> zurückgekommen.	a2.1 unit_04 brainscape
+________(Unbelievable)!	<b>Unglaublich</b>!	a2.1 unit_04 brainscape
+________(Next week), da fliege ich nach Venedig.	<b>Nächste Woche</b>, da fliege ich nach Venedig.	a2.1 unit_04 brainscape
+________(What are you doing) morgen?	<b>Was machst du</b> morgen?	a2.1 unit_04 brainscape
+________(Shall we) morgen zu deiner Jacht fahren?	<b>Wollen wir</b> morgen zu deiner Jacht fahren?	a2.1 unit_04 brainscape
+________(I have a) viel bessere Idee.	<b>Ich habe eine</b> viel bessere Idee.	a2.1 unit_04 brainscape
+Wir gehen morgen ________(to the park).	Wir gehen morgen <b>in den Park</b>.	a2.1 unit_04 brainscape
+
+# ── Brainscape · A2.1 Unit 5 — Sommer und Picknick ──
+_______________(I’m hot)!	<b>Mir ist heiß</b>!	a2.1 unit_05 brainscape
+Haben wir noch Eis __________________(in the freezer)?	Haben wir noch Eis <b>in der Tiefkühltruhe</b>?	a2.1 unit_05 brainscape
+Nein, ___________(I mean) Eis zum Essen.	Nein, <b>ich meine</b> Eis zum Essen.	a2.1 unit_05 brainscape
+Das hier ist ______________(ice for cooling) von Getränken.	Das hier ist <b>Eis zum Kühlen</b> von Getränken.	a2.1 unit_05 brainscape
+Aber wir könnten ________________(go to the park).	Aber wir könnten <b>in den Park gehen</b>.	a2.1 unit_05 brainscape
+_____________(I’m ready, lit. done).	<b>Ich bin fertig</b>.	a2.1 unit_05 brainscape
+Ich will ________________________(protect myself from the sun).	Ich will <b>mich vor der Sonne schützen</b>.	a2.1 unit_05 brainscape
+____________________(Are you also coming) in den Park?	<b>Kommst du auch mit</b> in den Park?	a2.1 unit_05 brainscape
+Ich wollte __________(anyway) mit Viola dahin gehen.	Ich wollte <b>sowieso</b> mit Viola dahin gehen.	a2.1 unit_05 brainscape
+Na dann gehen wir __________(the four of us).	Na dann gehen wir <b>zu viert</b>.	a2.1 unit_05 brainscape
+Die Sonne _____________(is gone anyway).	Die Sonne <b>ist eh weg</b>.	a2.1 unit_05 brainscape
+_______________(I’m cold)!	<b>Mir ist kalt</b>!	a2.1 unit_05 brainscape
+___________(Somehow) ist auf einmal Herbst.	<b>Irgendwie</b> ist auf einmal Herbst.	a2.1 unit_05 brainscape
+Da ist ______(even) ein Teich mit Enten.	Da ist <b>sogar</b> ein Teich mit Enten.	a2.1 unit_05 brainscape
+______________(Come here (pl.))!	<b>Kommt her</b>!	a2.1 unit_05 brainscape
+_____________________________(Nice to meet you)!	<b>Schön, dich kennenzulernen</b>!	a2.1 unit_05 brainscape
+Gogo hat schon _______________________(told us a lot about you).	Gogo hat schon <b>viel von dir erzählt</b>.	a2.1 unit_05 brainscape
+________________________(That looks delicious).	<b>Das sieht ja lecker aus</b>.	a2.1 unit_05 brainscape
+Lass Bobbi doch ________(first) auspacken.	Lass Bobbi doch <b>erst mal</b> auspacken.	a2.1 unit_05 brainscape
+________(Mine)!	<b>Meins</b>!	a2.1 unit_05 brainscape
+_________________(Something sweet) für meine Süße.	<b>Etwas Süßes</b> für meine Süße.	a2.1 unit_05 brainscape
+Haben wir ______________(miss something)?	Haben wir <b>was verpasst</b>?	a2.1 unit_05 brainscape
+_______________________________(What’s going on here (coll.))?	<b>Was geht denn hier ab</b>?	a2.1 unit_05 brainscape
+_____________________(Does that mean), dass du auch kein Pilot bist?	<b>Heißt das</b>, dass du auch kein Pilot bist?	a2.1 unit_05 brainscape
+_____________________(Not exactly).	<b>Nicht direkt</b>.	a2.1 unit_05 brainscape
+Ich will dich ___________(never again) sehen!	Ich will dich <b>nie wieder</b> sehen!	a2.1 unit_05 brainscape
+______________________(Now wait a minute), Viola.	<b>Nun warte doch mal</b>, Viola.	a2.1 unit_05 brainscape
+Nicht alles ____________(was a lie).	Nicht alles <b>war gelogen</b>.	a2.1 unit_05 brainscape
+Die Komplimente ______________(were honest).	Die Komplimente <b>waren ehrlich</b>.	a2.1 unit_05 brainscape
+Die Komplimente waren _______________(as real as) Violas Haare.	Die Komplimente waren <b>genauso echt wie</b> Violas Haare.	a2.1 unit_05 brainscape
+______________________(Wait for me)!	<b>Warte doch auf mich</b>!	a2.1 unit_05 brainscape
+
+# ── Brainscape · A2.1 Unit 6 — Ämter und Behörden ──
+Katie ___________________________(at the registration office).	Katie <b>im Einwohnermeldeamt</b>.	a2.1 unit_06 brainscape
+Ich möchte ____________(register).	Ich möchte <b>mich anmelden</b>.	a2.1 unit_06 brainscape
+Heute ____________________(alone on the road)?	Heute <b>alleine unterwegs</b>?	a2.1 unit_06 brainscape
+___________________________________((It’s) good to see you again)!	<b>Schön, dich wiederzusehen</b>!	a2.1 unit_06 brainscape
+____________________________________(What are you doing here)?	<b>Was machst du denn hier</b>?	a2.1 unit_06 brainscape
+Ich habe ______________________(received a letter).	Ich habe <b>ein Schreiben bekommen</b>.	a2.1 unit_06 brainscape
+Deutsche wollen _______________(always everything right away).	Deutsche wollen <b>immer alles sofort</b>.	a2.1 unit_06 brainscape
+__________(How long) bist du denn schon in Deutschland?	<b>Wie lange</b> bist du denn schon in Deutschland?	a2.1 unit_06 brainscape
+____________(Only for) drei Jahren.	<b>Erst seit</b> drei Jahren	a2.1 unit_06 brainscape
+Und dann muss ich ____________(a fine) von 500 Euro zahlen.	Und dann muss ich <b>ein Bußgeld</b> von 500 Euro zahlen.	a2.1 unit_06 brainscape
+Heute ist sie besonders _________(diligent).	Heute ist sie besonders <b>fleißig</b>.	a2.1 unit_06 brainscape
+Katie, __________________(don’t be so impatient).	Katie, <b>nicht so ungeduldig</b>.	a2.1 unit_06 brainscape
+Ich möchte mich gerne _______________________(register in Germany).	Ich möchte mich gerne <b>in Deutschland anmelden</b>.	a2.1 unit_06 brainscape
+Haben Sie _______________________(filled out the registration form)?	Haben Sie <b>das Anmeldeformular ausgefüllt</b>?	a2.1 unit_06 brainscape
+______________________(Let’s have a look).	<b>Gucken wir mal</b>.	a2.1 unit_06 brainscape
+_____________(Since when) sind Sie denn in Deutschland?	<b>Seit wann</b> sind Sie denn in Deutschland?	a2.1 unit_06 brainscape
+___________________(For three months)?	<b>Seit drei Monaten</b>?	a2.1 unit_06 brainscape
+Und dann melden Sie sich ______(just now) an?	Und dann melden Sie sich <b>jetzt erst</b> an?	a2.1 unit_06 brainscape
+Muss ich jetzt auch _______________(pay a fine)?	Muss ich jetzt auch <b>Bußgeld zahlen</b>?	a2.1 unit_06 brainscape
+Heute ___________________________(we’ll make an exception).	Heute <b>machen wir mal ‘ne Ausnahme</b>.	a2.1 unit_06 brainscape
+Ihr Anmeldeformular ist leider noch _________________(not complete).	Ihr Anmeldeformular ist leider noch <b>nicht vollständig</b>.	a2.1 unit_06 brainscape
+_______________(What is missing)?	<b>Was fehlt</b>?	a2.1 unit_06 brainscape
+__________________(Isn’t he cute)?	<b>Ist er nicht süß</b>?	a2.1 unit_06 brainscape
+____________(The address).	<b>Die Anschrift</b>.	a2.1 unit_06 brainscape
+Und da leben Sie ________________________(with your (form.) relatives)?	Und da leben Sie <b>mit Ihren Angehörigen</b>?	a2.1 unit_06 brainscape
+__________________________(A copy of your passport).	<b>Eine Kopie Ihres Reisepasses</b>.	a2.1 unit_06 brainscape
+____________________________(How am I supposed to pay for this)?	<b>Wie soll ich das bezahlen</b>?	a2.1 unit_06 brainscape
+_____________________(What happened)?	<b>Was ist denn passiert</b>?	a2.1 unit_06 brainscape
+___________________(Everything will be fine).	<b>Alles wird gut</b>.	a2.1 unit_06 brainscape
+_____________________________(I’ll invite you for a coffee)!	<b>Ich lad dich auf einen Kaffee ein</b>!	a2.1 unit_06 brainscape
+
+# ── Brainscape · A2.1 Unit 7 — Online bestellen ──
+Ich habe noch nie eine Frau ______________(seen), die so schnell rennen kann.	Ich habe noch nie eine Frau <b>gesehen</b>, die so schnell rennen kann.	a2.1 unit_07 brainscape
+Was kochst du ______________(tonight) eigentlich für uns?	Was kochst du <b>heute Abend</b> eigentlich für uns?	a2.1 unit_07 brainscape
+_________(Why) muss ich immer kochen?	<b>Wieso</b> muss ich immer kochen?	a2.1 unit_07 brainscape
+______________________________(Why don’t you cook for a change)?	<b>Warum kochst du nicht mal</b>?	a2.1 unit_07 brainscape
+_____________(Of course) kann ich kochen.	<b>Na klar</b> kann ich kochen.	a2.1 unit_07 brainscape
+_______________(As good as) du ein Flugzeug fliegen kannst?	<b>So gut wie</b> du ein Flugzeug fliegen kannst?	a2.1 unit_07 brainscape
+_________________(Let’s see how that goes).	<b>Das kann was werden</b>.	a2.1 unit_07 brainscape
+___________________(I’ll prove to you (pl.)), dass ich kochen kann.	<b>Ich beweise euch</b>, dass ich kochen kann.	a2.1 unit_07 brainscape
+________________(Where is) das Kochbuch?	<b>Wo ist denn</b> das Kochbuch?	a2.1 unit_07 brainscape
+In der Küche ist ____(one).	In der Küche ist <b>eins</b>.	a2.1 unit_07 brainscape
+Ich habe _____________(don’t (not) enough money).	Ich habe <b>nicht genug Geld</b>.	a2.1 unit_07 brainscape
+Das ist _____________(cheap).	Das ist <b>billig</b>.	a2.1 unit_07 brainscape
+_________________(What are you cooking) für uns?	<b>Was kochst du</b> für uns?	a2.1 unit_07 brainscape
+Oh, _______________(delicious)!	Oh, <b>lecker</b>!	a2.1 unit_07 brainscape
+__________(Three times) hätte ich gerne Spaghetti mit Tomatensoße.	<b>Dreimal</b> hätte ich gerne Spaghetti mit Tomatensoße.	a2.1 unit_07 brainscape
+______________________________(How long does it take)?	<b>Wie lange dauert das</b>?	a2.1 unit_07 brainscape
+___________________(I knew it)!	<b>Ich wusste es</b>!	a2.1 unit_07 brainscape
+____________________(It was so obvious).	<b>Das war so klar</b>.	a2.1 unit_07 brainscape
+Und _____________________________(who is going (lit. supposed to) to pay for that)?	Und <b>wer soll das bezahlen</b>?	a2.1 unit_07 brainscape
+Aber ___________________(I have an idea).	Aber <b>ich hab’ eine Idee</b>.	a2.1 unit_07 brainscape
+___________________________(That smells delicious)!	<b>Riecht das lecker</b>!	a2.1 unit_07 brainscape
+___________(That’s) 19,50, bitte!	<b>Das macht</b> 19,50, bitte!	a2.1 unit_07 brainscape
+__________________(Keep the change).	<b>Stimmt so</b>.	a2.1 unit_07 brainscape
+____________________(You’re kidding).	<b>Ist nicht dein Ernst</b>.	a2.1 unit_07 brainscape
+Dann ____________________________(count again).	Dann <b>zähl noch mal nach</b>.	a2.1 unit_07 brainscape
+_____________(Too little), Kleiner.	<b>Zu wenig</b>, Kleiner.	a2.1 unit_07 brainscape
+Aber ich hab’ schon __________________(smelled it).	Aber ich hab’ schon <b>dran gerochen</b>.	a2.1 unit_07 brainscape
+Bobbi, ___________________________(can you lend me some money)?	Bobbi, <b>kannst du mir mal Geld leihen</b>?	a2.1 unit_07 brainscape
+________________(How much)?	<b>Wie viel denn</b>?	a2.1 unit_07 brainscape
+Aber du kriegst dein Sparschwein __________(back).	Aber du kriegst dein Sparschwein <b>zurück</b>.	a2.1 unit_07 brainscape
+
+# ── Brainscape · A2.1 Unit 8 — Wollen wir einen Film gucken? ──
+______________(Shall we) einen Film schauen?	<b>Wollen wir</b> einen Film schauen?	a2.1 unit_08 brainscape
+Ich hab’ _________(the other day) von einem interessanten Dokumentarfilm gehört.	Ich hab’ <b>neulich</b> von einem interessanten Dokumentarfilm gehört.	a2.1 unit_08 brainscape
+_______________________(A bit of entertainment) brauche ich schon.	<b>Ein bisschen Unterhaltung</b> brauche ich schon.	a2.1 unit_08 brainscape
+Eine Doku kann auch unterhaltsam sein und _______________(you learn something).	Eine Doku kann auch unterhaltsam sein und <b>man lernt etwas</b>.	a2.1 unit_08 brainscape
+Horror __________________(to relax)?	Horror <b>zum Entspannen</b>?	a2.1 unit_08 brainscape
+______________________________(That’s too scary for me).	<b>Das ist mir zu gruselig</b>.	a2.1 unit_08 brainscape
+Liebe und Drama _____________________(I just had enough) mit Viola.	Liebe und Drama <b>hatte ich eben genug</b> mit Viola.	a2.1 unit_08 brainscape
+An dem Drama ___________________(is all your fault).	An dem Drama <b>bist du doch schuld</b>.	a2.1 unit_08 brainscape
+___________________(How about) Titanic?	<b>Wie wär’s mit</b> Titanic?	a2.1 unit_08 brainscape
+Und Leo ist _________________________(such a great actor).	Und Leo ist <b>so ein toller Schauspieler</b>.	a2.1 unit_08 brainscape
+__________________(Of course not), meine liebe Rose.	<b>Natürlich nicht</b>, meine liebe Rose.	a2.1 unit_08 brainscape
+____________(Maybe) “Der Schuh des Manitu”?	<b>Vielleicht</b> “Der Schuh des Manitu”?	a2.1 unit_08 brainscape
+Die sind ______(stupid).	Die sind <b>doof</b>.	a2.1 unit_08 brainscape
+Der Humor ist ___________________(totally exaggerated).	Der Humor ist <b>total übertrieben</b>.	a2.1 unit_08 brainscape
+________________(A mixture) zwischen Komödie und Drama.	<b>Eine Mischung</b> zwischen Komödie und Drama.	a2.1 unit_08 brainscape
+Da ist _____________(for everyone) was dabei.	Da ist <b>für jeden</b> was dabei.	a2.1 unit_08 brainscape
+____________________________(What’s going on now)?	<b>Was ist denn jetzt los</b>?	a2.1 unit_08 brainscape
+Ich glaube, ____________________________(we have an internet outage)!	Ich glaube, <b>wir haben eine Internetstörung</b>!	a2.1 unit_08 brainscape
+______________________(You can figure it out (pl.)).	<b>Ihr macht das schon</b>.	a2.1 unit_08 brainscape
+_______________(It’s already) 10!	<b>Es ist schon</b> 10!	a2.1 unit_08 brainscape
+_____________________(Do you already have plans) fürs Wochenende?	<b>Hast du schon Pläne</b> fürs Wochenende?	a2.1 unit_08 brainscape
+Ich ___________________(live in the day).	Ich <b>lebe in den Tag hinein</b>.	a2.1 unit_08 brainscape
+Aber wir könnten doch mal _____________________(do something).	Aber wir könnten doch mal <b>was unternehmen</b>.	a2.1 unit_08 brainscape
+__________(Let’s (pl.)) feiern gehen.	<b>Lass uns</b> feiern gehen.	a2.1 unit_08 brainscape
+Aber wollen wir nicht lieber _____________________(go for a bike ride)?	Aber wollen wir nicht lieber <b>eine Radtour machen</b>?	a2.1 unit_08 brainscape
+Ich habe auch _________(right now) kein Fahrrad.	Ich habe auch <b>gerade</b> kein Fahrrad.	a2.1 unit_08 brainscape
+Aber Filme können wir auch _________________(watch at home).	Aber Filme können wir auch <b>zu Hause schauen</b>.	a2.1 unit_08 brainscape
+Lass uns ___________________(go to a concert).	Lass uns <b>auf ein Konzert gehen</b>.	a2.1 unit_08 brainscape
+Im Mauerpark __________________(there’s always something going on).	Im Mauerpark <b>ist immer was los</b>.	a2.1 unit_08 brainscape
+Lass uns ___________(go there).	Lass uns <b>dort hingehen</b>.	a2.1 unit_08 brainscape
+
+# ── Brainscape · A2.1 Unit 9 — Kundenservice ──
+_________________(What’s up)?	<b>Was ist los</b>?	a2.1 unit_09 brainscape
+Ich will E-Mails verschicken, aber ______________(nothing is happening).	Ich will E-Mails verschicken, aber <b>es passiert nichts</b>.	a2.1 unit_09 brainscape
+Und _________________(a month ago) gab es auch schon mal Probleme.	Und <b>vor einem Monat</b> gab es auch schon mal Probleme.	a2.1 unit_09 brainscape
+_______________(How long (lit. Since when)) habt ihr den Router denn?	<b>Seit wann</b> habt ihr den Router denn?	a2.1 unit_09 brainscape
+Genau, Katie, __________________________(that’s how you do it).	Genau, Katie, <b>so macht man das</b>.	a2.1 unit_09 brainscape
+Das Internet _____________________(is still not working).	Das Internet <b>funktioniert immer noch nicht</b>.	a2.1 unit_09 brainscape
+Der Router muss erst _____________(reboot), das dauert ein paar Minuten.	Der Router muss erst <b>neu starten</b>, das dauert ein paar Minuten.	a2.1 unit_09 brainscape
+________________________________(Violence is not the solution).	<b>Gewalt ist doch keine Lösung</b>.	a2.1 unit_09 brainscape
+______________________________(I’ll call the technician)!	<b>Ich ruf’ den Techniker an</b>!	a2.1 unit_09 brainscape
+Bitte _____________________________(be patient (form.)).	Bitte <b>haben Sie etwas Geduld</b>.	a2.1 unit_09 brainscape
+Was für _____________________(an annoying voice)!	Was für <b>eine nervige Stimme</b>!	a2.1 unit_09 brainscape
+_____________(For quality assurance) zeichnen wir einige Gespräche auf.	<b>Zur Qualitätssicherung</b> zeichnen wir einige Gespräche auf.	a2.1 unit_09 brainscape
+_________________(Goodbye).	<b>Auf Wiederhören</b>.	a2.1 unit_09 brainscape
+Er ist ____________(looks like (lit. apparently)) wieder mal auf “Geschäftsreise”.	Er ist <b>anscheinend</b> wieder mal auf “Geschäftsreise”.	a2.1 unit_09 brainscape
+___________________________(What can I do for you (form.))?	<b>Was kann ich für Sie tun</b>?	a2.1 unit_09 brainscape
+Mein Internet __________________(is not working).	Mein Internet <b>funktioniert nicht</b>.	a2.1 unit_09 brainscape
+___________________(I repeat).	<b>Ich wiederhole</b>.	a2.1 unit_09 brainscape
+________________(Quiet now).	<b>Ruhe jetzt</b>.	a2.1 unit_09 brainscape
+__________________________(There is no malfunction).	<b>Eine Störung gibt es nicht</b>.	a2.1 unit_09 brainscape
+_______________(Does (it) suit you (form.)) um 12 Uhr?	<b>Passt es Ihnen</b> um 12 Uhr?	a2.1 unit_09 brainscape
+_____________________________(Sorry, I can’t make it).	<b>Da kann ich leider nicht</b>.	a2.1 unit_09 brainscape
+Haben Sie auch ____________________(a later appointment)?	Haben Sie auch <b>einen späteren Termin</b>?	a2.1 unit_09 brainscape
+Das ist _______________________(the only free appointment) morgen.	Das ist <b>der einzige freie Termin</b> morgen.	a2.1 unit_09 brainscape
+Ich hab’ um 10 einen Friseurtermin und ich weiß nicht, ______________________(how long it will take).	Ich hab’ um 10 einen Friseurtermin und ich weiß nicht, <b>wie lange es dauert</b>.	a2.1 unit_09 brainscape
+_______________________(For how long) bist du denn beim Friseur?	<b>Für wie lange</b> bist du denn beim Friseur?	a2.1 unit_09 brainscape
+Vielleicht ___________________(for two or three hours).	Vielleicht <b>für zwei oder drei Stunden</b>.	a2.1 unit_09 brainscape
+__________________________(What’s more important to you)?	<b>Was ist dir wichtiger</b>?	a2.1 unit_09 brainscape
+____________________(Correct answer).	<b>Richtige Antwort</b>.	a2.1 unit_09 brainscape
+Vielleicht kannst du _________________(reschedulde your appointment)?	Vielleicht kannst du <b>deinen Termin verschieben</b>?	a2.1 unit_09 brainscape
+__________________(Are you still there (form.))?	<b>Sind Sie noch da</b>?	a2.1 unit_09 brainscape
+
+# ── Brainscape · A2.1 Unit 10 — Ausgehen am Wochenende ──
+_________________________(It looks great on you) übrigens!	<b>Es steht dir super</b> übrigens!	a2.1 unit_10 brainscape
+Das hab’ ich _______________(last night) mit meinen Freunden gemalt.	Das hab’ ich <b>gestern Abend</b> mit meinen Freunden gemalt.	a2.1 unit_10 brainscape
+_______________________(Don’t talk nonsense)!	<b>Erzähl doch nicht</b>!	a2.1 unit_10 brainscape
+__________________(You nutcase)!	<b>Du Spinner</b>!	a2.1 unit_10 brainscape
+________________(That’s what you call) Berliner Kunst.	<b>Das nennt man</b> Berliner Kunst.	a2.1 unit_10 brainscape
+Ich kenn’ _______________(for example) Udo Jürgens.	Ich kenn’ <b>zum Beispiel</b> Udo Jürgens.	a2.1 unit_10 brainscape
+____________(By him) mag ich nur ein Lied.	<b>Von dem</b> mag ich nur ein Lied.	a2.1 unit_10 brainscape
+______________________(I have never been) auf Hawaii.	<b>Ich war noch niemals</b> auf Hawaii.	a2.1 unit_10 brainscape
+__________________________(Do you know anything by) Rammstein?	<b>Kennst du auch was von</b> Rammstein?	a2.1 unit_10 brainscape
+________________(We are afraid) und sind allein.	<b>Wir haben Angst</b> und sind allein.	a2.1 unit_10 brainscape
+________________________(I have to go to the toilet).	<b>Ich muss aufs Klo</b>.	a2.1 unit_10 brainscape
+_______________(You look like) könntest du ‘ne Tüte Spaß gebrauchen.	<b>Du siehst aus, als</b> könntest du ‘ne Tüte Spaß gebrauchen.	a2.1 unit_10 brainscape
+Hast du nicht mal _____________(fancy some) Schokokekse?	Hast du nicht mal <b>Lust auf</b> Schokokekse?	a2.1 unit_10 brainscape
+______________________(Keep your hands off it)!	<b>Lass die Finger davon</b>!	a2.1 unit_10 brainscape
+Die ___________________(look delicious).	Die <b>sehen lecker aus</b>.	a2.1 unit_10 brainscape
+__________(Careful), das Teil ist scharf.	<b>Vorsicht</b>, das Teil ist scharf.	a2.1 unit_10 brainscape
+Ja, _____________________(but not all at once).	Ja, <b>aber nicht auf einmal</b>.	a2.1 unit_10 brainscape
+Kannst du nicht einmal _________________(listen to me)?	Kannst du nicht einmal <b>auf mich hören</b>?	a2.1 unit_10 brainscape
+________________(Where are you)?	<b>Wo bleibst du</b>?	a2.1 unit_10 brainscape
+Katie __________________(is about to take off).	Katie <b>hebt gleich ab</b>.	a2.1 unit_10 brainscape
+Komm, ___________________(let’s dance)!	Komm, <b>lass uns tanzen</b>!	a2.1 unit_10 brainscape
+Okay, aber lass uns doch ___________________(go in first)!	Okay, aber lass uns doch <b>erst mal reingehen</b>!	a2.1 unit_10 brainscape
+______________________________(I want to let off steam)!	<b>Ich will die Sau rauslassen</b>!	a2.1 unit_10 brainscape
+_____________________(Did you take anything) als ich auf’m Klo war?	<b>Hast du irgendwas genommen</b> als ich auf’m Klo war?	a2.1 unit_10 brainscape
+Die ganze Welt ___________________(revolves around me).	Die ganze Welt <b>dreht sich um mich</b>.	a2.1 unit_10 brainscape
+_____________(Watch out), da ist die Straße.	<b>Pass auf</b>, da ist die Straße.	a2.1 unit_10 brainscape
+Ich glaub’, ________________________(something is wrong).	Ich glaub’, <b>irgendwas stimmt nicht</b>.	a2.1 unit_10 brainscape
+Warte mal, _____________________(I’m gonna call us a cab), ja?	Warte mal, <b>ich ruf’ uns ein Taxi</b>, ja?	a2.1 unit_10 brainscape
+______________________(What happened)?	<b>Was ist passiert</b>?	a2.1 unit_10 brainscape
+Erfahre es ________________________(in the next episode)!	Erfahre es <b>in der nächsten Folge</b>!	a2.1 unit_10 brainscape
+
+# ── Brainscape · A2.2 Unit 1 — Nach dem Unfall ──
+_______________(Unfortunately) machte sie im Mauerpark einen großen Fehler.	<b>Leider</b> machte sie im Mauerpark einen großen Fehler.	a2.2 unit_01 brainscape
+____________________(Something’s wrong).	<b>Irgendwas stimmt nicht</b>.	a2.2 unit_01 brainscape
+____________________(Are you awake)?	<b>Bist du wach</b>?	a2.2 unit_01 brainscape
+___________________(It’s me), Bobbi.	<b>Ich bin’s</b>, Bobbi.	a2.2 unit_01 brainscape
+Gogo, ____________________(come quickly).	Gogo, <b>komm schnell</b>.	a2.2 unit_01 brainscape
+____________________(What’s wrong) (coll.)?	<b>Was’n los</b>?	a2.2 unit_01 brainscape
+____________________(She doesn’t recognize me at all).	<b>Sie erkennt mich gar nicht</b>.	a2.2 unit_01 brainscape
+____________________(What shall we do)?	<b>Was sollen wir tun</b>?	a2.2 unit_01 brainscape
+____________________(Go get) bitte Frau Dr. Weiß.	<b>Hol du</b> bitte Frau Dr. Weiß.	a2.2 unit_01 brainscape
+____________________(I’ll stay here with her).	<b>Ich bleib’ hier bei ihr</b>.	a2.2 unit_01 brainscape
+____________________(What’s wrong with her)?	<b>Was ist los mit ihr</b>?	a2.2 unit_01 brainscape
+____________________(Don’t worry).	<b>Keine Sorge</b>.	a2.2 unit_01 brainscape
+____________________(She doesn’t remember).	<b>Sie erinnert sich nicht</b>.	a2.2 unit_01 brainscape
+____________________(Give her time (form.)).	<b>Geben Sie ihr Zeit</b>.	a2.2 unit_01 brainscape
+Könnten Sie beide bitte ____________________(wait outside)?	Könnten Sie beide bitte <b>draußen warten</b>?	a2.2 unit_01 brainscape
+Frau Koch, könnten Sie bitte ____________________(speak in German)?	Frau Koch, könnten Sie bitte <b>auf Deutsch sprechen</b>?	a2.2 unit_01 brainscape
+____________________(My head hurts).	<b>Mein Kopf tut weh</b>.	a2.2 unit_01 brainscape
+____________________(I feel sick).	<b>Mir ist schlecht</b>.	a2.2 unit_01 brainscape
+____________________(This will soon pass).	<b>Das geht bald vorüber</b>.	a2.2 unit_01 brainscape
+Ja, ____________________(of course).	Ja, <b>selbstverständlich</b>.	a2.2 unit_01 brainscape
+____________________(You (form.) will feel better), Frau Koch.	<b>Es wird Ihnen besser gehen</b>, Frau Koch.	a2.2 unit_01 brainscape
+____________________(My arm tingles).	<b>Mein Arm kribbelt</b>.	a2.2 unit_01 brainscape
+____________________(We x-rayed your (form.) bones).	<b>Wir haben Ihre Knochen geröntgt</b>.	a2.2 unit_01 brainscape
+Das ______________________(all looks good).	Das <b>sieht alles gut aus</b>.	a2.2 unit_01 brainscape
+______________________(Everything is fine).	<b>Es ist alles in Ordnung</b>.	a2.2 unit_01 brainscape
+______________________(You (form.) will be released soon).	<b>Sie werden bald entlassen</b>.	a2.2 unit_01 brainscape
+______________________(Take care (form.))!	<b>Machen Sie es gut</b>!	a2.2 unit_01 brainscape
+______________________(To freedom), Katie!	<b>Auf in die Freiheit</b>, Katie!	a2.2 unit_01 brainscape
+Also erst mal ______________________(no more dancing), bitte.	Also erst mal <b>nicht mehr tanzen</b>, bitte.	a2.2 unit_01 brainscape
+______________________(I won’t do that).	<b>Das werde ich nicht tun</b>.	a2.2 unit_01 brainscape
+
+# ── Brainscape · A2.2 Unit 2 — Der Krankenbesuch ──
+_______________________(Are we lost)?	<b>Haben wir uns verlaufen</b>?	a2.2 unit_02 brainscape
+_______________________(We moved).	<b>Wir sind umgezogen</b>.	a2.2 unit_02 brainscape
+_______________________(Did you (pl.) win the lottery)?	<b>Habt ihr im Lotto gewonnen</b>?	a2.2 unit_02 brainscape
+Wir dürfen hier _______________________(live for cheap).	Wir dürfen hier <b>günstig wohnen</b>.	a2.2 unit_02 brainscape
+Gogo,_______________________(don’t be so wild)!	Gogo, <b>nicht so stürmisch</b>!	a2.2 unit_02 brainscape
+_______________________(I was worried).	<b>Ich hab’ mir Sorgen gemacht</b>.	a2.2 unit_02 brainscape
+________________________(Drinking a lot is important).	<b>Viel trinken ist wichtig</b>.	a2.2 unit_02 brainscape
+Von wem ist die denn ________________________(anyway)?	Von wem ist die denn <b>überhaupt</b>?	a2.2 unit_02 brainscape
+So ________________________(many reminders)?	So <b>viele Mahnungen</b>?	a2.2 unit_02 brainscape
+________________________(Your visitors (lit. your visit)) ist da, Katie!	<b>Dein Besuch</b> ist da, Katie!	a2.2 unit_02 brainscape
+Ich gehe ________________________(real quick)einkaufen mit Bobbi.	Ich gehe <b>noch kurz</b> einkaufen mit Bobbi.	a2.2 unit_02 brainscape
+________________________(What kind of things do you (form.) do)?	<b>Was machen Sie denn für Sachen</b>?	a2.2 unit_02 brainscape
+________________________(Good choice).	<b>Gute Wahl</b>.	a2.2 unit_02 brainscape
+Eine leckere ________________________(bar of chocolate) für Sie.	Eine leckere <b>Tafel Schokolade</b> für Sie.	a2.2 unit_02 brainscape
+_____________________(Finding the man of your dreams) - für Dummies (coll.).	<b>Den Traummann finden</b> - für Dummies (ugs.).	a2.2 unit_02 brainscape
+Damit Sie einen jungen Mann finden, ____________________(who is right for you (form.))	Damit Sie einen jungen Mann finden, <b>der zu Ihnen passt</b>.	a2.2 unit_02 brainscape
+________________________(It worked for me too).	<b>Bei mir hat es auch geklappt</b>.	a2.2 unit_02 brainscape
+Ich hab’ _______________(a consolation gift for you (form.)).	Ich hab’ <b>ein Trostpflaster für Sie</b>.	a2.2 unit_02 brainscape
+________________________(A) leckere Tafel Schokolade.	<b>Eine</b> leckere Tafel Schokolade.	a2.2 unit_02 brainscape
+Ich bin ________________________(a real bookworm, lit. ‘reading rat’) (coll.)	Ich bin <b>eine richtige Leseratte</b> (ugs.).	a2.2 unit_02 brainscape
+Eine Leseratte ist _____________________(the same as) ein Bücherwurm (coll.).	Eine Leseratte ist <b>das Gleiche wie</b> ein Bücherwurm (ugs).	a2.2 unit_02 brainscape
+Kommen Sie ________________________(from the earth)?	Kommen Sie <b>aus der Erde</b>?	a2.2 unit_02 brainscape
+________________________(Now I understand you (form.)).	<b>Jetzt verstehe ich Sie</b>.	a2.2 unit_02 brainscape
+_______________(I especially enjoy reading) Gedichte und Geschichten.	<b>Ich lese besonders gerne</b> Gedichte und Geschichten.	a2.2 unit_02 brainscape
+Deutschland ist __________________(the land of the poets and thinkers).	Deutschland ist <b>das Land der Dichter und Denker</b>.	a2.2 unit_02 brainscape
+________________________(I prefer writing myself).	<b>Ich schreibe lieber selbst</b>.	a2.2 unit_02 brainscape
+Grimms Märchen ________________________(are entertaining).	Grimms Märchen <b>sind unterhaltsam</b>.	a2.2 unit_02 brainscape
+Meine Oma hat uns immer ________(before bed)ein Märchen vorgelesen.	Meine Oma hat uns immer <b>vor dem Schlafengehen</b> ein Märchen vorgelesen.	a2.2 unit_02 brainscape
+________________________(Well, if that’s the case), dann bringe ich Ihnen das nächste Mal eines meiner Märchenbücher mit.	<b>Na, wenn das so ist</b>, dann bringe ich Ihnen das nächste Mal eines meiner Märchenbücher mit.	a2.2 unit_02 brainscape
+
+# ── Brainscape · A2.2 Unit 3 — Die Überraschung ──
+______________________(Turn around)!	<b>Dreh dich um</b>!	a2.2 unit_03 brainscape
+______________________((It’s) so nice you’re here)!	<b>Schön, dass du da bist</b>!	a2.2 unit_03 brainscape
+Was machst du denn hier?__________________(Surprise you)!	Was machst du denn hier? <b>Dich überraschen</b>!	a2.2 unit_03 brainscape
+______________________(I thought), du musst studieren.	<b>Ich dachte</b>, du musst studieren.	a2.2 unit_03 brainscape
+______________________(It’s so nice), dich zu sehen.	<b>Es ist so schön</b>, dich zu sehen.	a2.2 unit_03 brainscape
+Ich habe direkt ______________________(packed my suitcase).	Ich habe direkt <b>meinen Koffer gepackt</b>.	a2.2 unit_03 brainscape
+Ihnen geht’s gut, ___________(as long as) ihre Tochter nicht im Koma liegt.	Ihnen geht’s gut, <b>solange</b> ihre Tochter nicht im Koma liegt.	a2.2 unit_03 brainscape
+Oma ______________________(broke her arm).	Oma <b>hat sich den Arm gebrochen</b>.	a2.2 unit_03 brainscape
+______________________(Come on in).	<b>Komm erst mal rein</b>.	a2.2 unit_03 brainscape
+______________________(Sit down).	<b>Setz dich</b>.	a2.2 unit_03 brainscape
+______________________(Show me) deinen neuen Freund.	<b>Zeig mir mal</b> deinen neuen Freund.	a2.2 unit_03 brainscape
+______________________(Look)!	<b>Guck mal</b>!	a2.2 unit_03 brainscape
+Es ist ______________________(not yet) offiziell.	Es ist <b>noch nicht</b> offiziell.	a2.2 unit_03 brainscape
+______________________(Are you serious)?	<b>Meinst du das ernst</b>?	a2.2 unit_03 brainscape
+Das ist Gogo, ______________________(my roommate).	Das ist Gogo, <b>mein Mitbewohner</b>.	a2.2 unit_03 brainscape
+_________________(Seriously now), was hat dir Katie über mich erzählt?	<b>Jetzt mal im Ernst</b>, was hat dir Katie über mich erzählt?	a2.2 unit_03 brainscape
+___________________(You’re lying through your teeth (lit. ‘so much that the beams are bending’).	<b>Du lügst, dass sich die Balken biegen</b>.	a2.2 unit_03 brainscape
+____________________(That’s not true at all)!	<b>Das stimmt doch überhaupt nicht</b>!	a2.2 unit_03 brainscape
+Gogo, wo warst du denn ______________________(all of a sudden)?	Gogo, wo warst du denn <b>auf einmal</b>?	a2.2 unit_03 brainscape
+_____________________(Incredibly lazy)!	<b>Unfassbar faul</b>!	a2.2 unit_03 brainscape
+______________________(Next time) nur die guten Sachen erzählen, ja?	<b>Das nächste Mal</b> nur die guten Sachen erzählen, ja?	a2.2 unit_03 brainscape
+Ich bin ______________________(a little haphazard).	Ich bin <b>etwas planlos</b>.	a2.2 unit_03 brainscape
+______________________(Come on), Bobbi.	<b>Komm schon</b>, Bobbi.	a2.2 unit_03 brainscape
+______________________(I’ll make it up to you).	<b>Ich mach’s wieder gut</b>.	a2.2 unit_03 brainscape
+Na, ______________________(I’m curious about that).	Na, <b>da bin ich mal gespannt</b>.	a2.2 unit_03 brainscape
+______________________(To us)!	<b>Auf uns</b>!	a2.2 unit_03 brainscape
+____________(By the way), Leute, ich muss noch eine Unterkunft suchen.	<b>Übrigens</b>, Leute, ich muss noch eine Unterkunft suchen.	a2.2 unit_03 brainscape
+Nein, ______________________(you’ll stay with us).	Nein, <b>du bleibst bei uns</b>.	a2.2 unit_03 brainscape
+Ich schlaf’ einfach ______________________(on the couch).	Ich schlaf’ einfach <b>auf der Couch</b>.	a2.2 unit_03 brainscape
+
+# ── Brainscape · A2.2 Unit 4 — Gesund leben ──
+Ich hab’ ______________________(my period (lit. my days)) (coll.).	Ich hab’ <b>meine Tage</b> (ugs.).	a2.2 unit_04 brainscape
+______________________(Love you) (coll.).	<b>Hab’ dich lieb</b> (ugs.).	a2.2 unit_04 brainscape
+______________________(Have fun)!	<b>Viel Spaß</b>!	a2.2 unit_04 brainscape
+______________________(See you later).	<b>Bis nachher</b>.	a2.2 unit_04 brainscape
+Du bist ______________________(definitely) sehr haarig.	Du bist <b>auf jeden Fall</b> sehr haarig.	a2.2 unit_04 brainscape
+Fußball ______________________(for example).	Fußball <b>zum Beispiel</b>.	a2.2 unit_04 brainscape
+Das spiel’ ich doch schon ___________________(from time to time) mal.	Das spiel’ ich doch schon <b>ab und zu</b> mal.	a2.2 unit_04 brainscape
+Komm, ______________________(I got it)!	Komm, <b>ich hab’s</b>!	a2.2 unit_04 brainscape
+_______________________(Promise)!	<b>Versprich es</b>!	a2.2 unit_04 brainscape
+Und jetzt ______________________(get out of here).	Und jetzt <b>raus hier</b>.	a2.2 unit_04 brainscape
+_______________________(What happened to you)?	<b>Was ist denn mit dir passiert</b>?	a2.2 unit_04 brainscape
+Los______________________(move)!	Los, <b>beweg dich</b>!	a2.2 unit_04 brainscape
+______________________(Up you go)!	<b>Hoch mit dir</b>!	a2.2 unit_04 brainscape
+Natalia ______________________(is also joining in).	Natalia <b>macht auch mit</b>.	a2.2 unit_04 brainscape
+______________________(Let’s go)!	<b>Los geht’s</b>!	a2.2 unit_04 brainscape
+______________________(First) dehnen.	<b>Erstmal</b> dehnen.	a2.2 unit_04 brainscape
+______________________(We were stretching).	<b>Wir haben uns gedehnt</b>.	a2.2 unit_04 brainscape
+______________________(What else)?	<b>Was noch</b>?	a2.2 unit_04 brainscape
+_____________________(Try harder)!	<b>Streng dich an</b>!	a2.2 unit_04 brainscape
+_____________________(Stay here)!	<b>Bleib hier</b>!	a2.2 unit_04 brainscape
+Ich hab’ schon _____________________(prepared breakfast)!	Ich hab’ schon <b>Frühstück vorbereitet</b>!	a2.2 unit_04 brainscape
+_____________________(Looks delicious)!	<b>Sieht lecker aus</b>!	a2.2 unit_04 brainscape
+_____________________(Sit down)!	<b>Setz dich</b>!	a2.2 unit_04 brainscape
+Du solltest dich ___________________(eat healthier).	Du solltest dich <b>gesünder ernähren</b>.	a2.2 unit_04 brainscape
+_______________________(Are you (form.) not feeling well)?	<b>Geht es Ihnen nicht gut</b>?	a2.2 unit_04 brainscape
+Herr Kraut, rauchen Sie etwa _______________________(in secret)?	Herr Kraut, rauchen Sie etwa <b>heimlich</b>?	a2.2 unit_04 brainscape
+Sie _______________________(should smoke less).	Sie <b>sollten weniger rauchen</b>.	a2.2 unit_04 brainscape
+_______________________(You (form.) are right).	<b>Sie haben ja recht</b>.	a2.2 unit_04 brainscape
+_______________________(I’m exhausted) (coll.).	<b>Ich bin fix und fertig</b>.	a2.2 unit_04 brainscape
+_______________________(See you around)!	<b>Wir sehen uns</b>!	a2.2 unit_04 brainscape
+
+# ── Brainscape · A2.2 Unit 5 — Körperpflege ──
+_________(Really delicious) diese Apfeltaschen.	<b>Echt lecker</b> diese Apfeltaschen.	a2.2 unit_05 brainscape
+__________(Is anyone there)?	<b>Ist da jemand</b>?	a2.2 unit_05 brainscape
+Ich wollte mir eben nur __________(wash my hands).	Ich wollte mir eben nur <b>die Hände waschen</b>.	a2.2 unit_05 brainscape
+__________(I’ll be gone in a minute).	<b>Ich bin gleich wieder weg</b>.	a2.2 unit_05 brainscape
+__________(There it (lit. he) is)!	<b>Da ist er ja</b>!	a2.2 unit_05 brainscape
+__________(Tell me), wie findest du mich denn eigentlich so als Mann?	<b>Sag mal</b>, wie findest du mich denn eigentlich so als Mann?	a2.2 unit_05 brainscape
+__________(It broke).	<b>Der ist kaputtgegangen</b>.	a2.2 unit_05 brainscape
+Der ist __________(just) kaputtgegangen.	Der ist <b>eben</b> kaputtgegangen.	a2.2 unit_05 brainscape
+__________(Are you crazy) oder was? (coll.)	<b>Spinnst du</b> oder was? (ugs).	a2.2 unit_05 brainscape
+__________(Out)!	<b>Raus</b>!	a2.2 unit_05 brainscape
+Ich bin __________(up here).	Ich bin <b>hier oben</b>.	a2.2 unit_05 brainscape
+Du musst __________(help me)!	Du musst <b>mir helfen</b>!	a2.2 unit_05 brainscape
+__________(What do you mean by) “weiter”?	<b>Was meinst du denn mit</b> “weiter”?	a2.2 unit_05 brainscape
+__________(Don’t stress about) der Frauensuche!	<b>Nur kein Stress bei</b> der Frauensuche!	a2.2 unit_05 brainscape
+__________(Just forget about her)!	<b>Vergiss sie einfach</b>!	a2.2 unit_05 brainscape
+Meine Schwester ist bald wieder tausende Kilometer __________(away).	Meine Schwester ist bald wieder tausende Kilometer <b>weit weg</b>.	a2.2 unit_05 brainscape
+Ich geh’ jetzt erstmal _________(to the hairdresser’s).	Ich geh’ jetzt erstmal <b>zum Friseur</b>.	a2.2 unit_05 brainscape
+__________(Let’s see)!	<b>Gucken wir mal</b>!	a2.2 unit_05 brainscape
+Ich kann __________(cut your hair).	Ich kann <b>dir die Haare schneiden</b>.	a2.2 unit_05 brainscape
+__________(There are plenty of other fish in the sea (lit. Other mothers have beautiful daughters, too)).	<b>Andere Mütter haben auch schöne Töchter</b>.	a2.2 unit_05 brainscape
+Nur __________(a little bit of trimming)!	Nur <b>ein bisschen kürzen</b>!	a2.2 unit_05 brainscape
+__________(Have you thought this through)?	<b>Hast du dir das gut überlegt</b>?	a2.2 unit_05 brainscape
+__________(Don’t worry about it).	<b>Mach dir mal keinen Kopf</b>.	a2.2 unit_05 brainscape
+Ich weiß nicht, ob ich __________(trust you) kann.	Ich weiß nicht, ob ich <b>dir trauen</b> kann.	a2.2 unit_05 brainscape
+Ha! Gogo,__________(what do you look like)?	Ha! Gogo, <b>wie siehst du denn aus</b>?	a2.2 unit_05 brainscape
+__________(What do you expect)?	<b>Was erwartest du</b>?	a2.2 unit_05 brainscape
+__________(It does look good)!	<b>Das sieht doch gut aus</b>!	a2.2 unit_05 brainscape
+Natalia wird __________(hate me).	Natalia wird <b>mich hassen</b>.	a2.2 unit_05 brainscape
+__________(I told you so)!	<b>Sag’ ich doch</b>!	a2.2 unit_05 brainscape
+Ich habe morgen __________(a date).	Ich habe morgen <b>eine Verabredung</b>.	a2.2 unit_05 brainscape
+
+# ── Brainscape · A2.2 Unit 6 — Auf Schnäppchenjagd ──
+Hier gibt’s __________(just everything).	Hier gibt’s <b>einfach alles</b>.	a2.2 unit_06 brainscape
+__________(Whatever you want).	<b>Was du auch immer willst</b>.	a2.2 unit_06 brainscape
+Guck mal, die Lampe __________(with the red glasses).	Guck mal, die Lampe <b>mit den roten Gläsern</b>.	a2.2 unit_06 brainscape
+__________(Fits well) in mein Schlafzimmer.	<b>Passt gut</b> in mein Schlafzimmer.	a2.2 unit_06 brainscape
+__________(No one there).	<b>Niemand da</b>.	a2.2 unit_06 brainscape
+__________(It fits) perfekt!	<b>Das passt</b> perfekt!	a2.2 unit_06 brainscape
+__________(You still needed) Bilderrahmen, oder?	<b>Du brauchtest doch noch</b> Bilderrahmen, oder?	a2.2 unit_06 brainscape
+__________(Let’s see), wo’s die gibt.	<b>Lass mal schauen</b>, wo’s die gibt.	a2.2 unit_06 brainscape
+__________(One of those) wollte ich schon immer haben!	<b>So eins</b> wollte ich schon immer haben!	a2.2 unit_06 brainscape
+__________(Looks like) so ‘ne Biene.	<b>Sieht aus wie</b> so ‘ne Biene.	a2.2 unit_06 brainscape
+Guck mal,__________(this one here (masculine))hat Bilderrahmen.	Guck mal, <b>der hier</b> hat Bilderrahmen.	a2.2 unit_06 brainscape
+Hallo, __________(you beauties).	Hallo, <b>ihr Hübschen</b>.	a2.2 unit_06 brainscape
+__________(What can I do for you (lit. What good can I do for you))?	<b>Was kann ich euch Gutes tun</b>?	a2.2 unit_06 brainscape
+__________(Do I know you from somewhere)?	<b>Kenn’ ich dich irgendwoher</b>?	a2.2 unit_06 brainscape
+__________(No one knows me).	<b>Mich kennt niemand</b>.	a2.2 unit_06 brainscape
+__________(Is it (masculine) stolen) oder was? (coll.)	<b>Ist der geklaut</b> oder was? (ugs.)	a2.2 unit_06 brainscape
+Die eckigen Bilderrahmen __________(I like better).	Die eckigen Bilderrahmen <b>gefallen mir besser</b>.	a2.2 unit_06 brainscape
+Der hier mit dem roten Holz ist doch __________(quite chic).	Der hier mit dem roten Holz ist doch <b>ganz schick</b>.	a2.2 unit_06 brainscape
+Also __________(only the frame)?	Also <b>nur der Rahmen</b>?	a2.2 unit_06 brainscape
+17 Euro __________(is too much for me anyway).	17 Euro <b>ist mir eh zu viel</b>.	a2.2 unit_06 brainscape
+__________(What kind of bike) suchen Sie denn?	<b>Was für ein Fahrrad</b> suchen Sie denn?	a2.2 unit_06 brainscape
+Wir verkaufen __________(a used ladies bike).	Wir verkaufen <b>ein gebrauchtes Damenrad</b>.	a2.2 unit_06 brainscape
+Sie ist __________(a real danger to other people).	Sie ist <b>eine echte Gefahr für andere Menschen</b>.	a2.2 unit_06 brainscape
+__________(Don’t exaggerate)!	<b>Übertreib mal nicht</b>!	a2.2 unit_06 brainscape
+__________(It’s true (coll.))!	<b>Ist doch wahr</b>!	a2.2 unit_06 brainscape
+__________(That’s exactly the kind) habe ich gesucht!	<b>Genau so eins</b> habe ich gesucht!	a2.2 unit_06 brainscape
+__________(Even with a basket)!	<b>Sogar mit Korb</b>!	a2.2 unit_06 brainscape
+__________(What a bargain)!	<b>Was für ein Schnäppchen</b>!	a2.2 unit_06 brainscape
+__________(I’ll take it (coll.)).	<b>Nehm’ ich</b>.	a2.2 unit_06 brainscape
+
+# ── Brainscape · A2.2 Unit 7 — Arbeitsleben ──
+_______________(Long time no see).	<b>Lange nicht gesehen</b>.	a2.2 unit_07 brainscape
+_______________(What do you do for a living)?	<b>Was machst du beruflich</b>?	a2.2 unit_07 brainscape
+Hast du _______________(at least) nette Kollegen?	Hast du <b>wenigstens</b> nette Kollegen?	a2.2 unit_07 brainscape
+Warum machst du dich dann nicht ______________(self-employed)?	Warum machst du dich dann nicht <b>selbstständig</b>?	a2.2 unit_07 brainscape
+Das ______________(is too risky for me).	Das <b>ist mir zu riskant</b>.	a2.2 unit_07 brainscape
+______________(Besides) ist mein Gehalt echt gut.	<b>Außerdem</b> ist mein Gehalt echt gut.	a2.2 unit_07 brainscape
+Aber ______________(making money) ist doch nicht alles!	Aber <b>Geld verdienen</b> ist doch nicht alles!	a2.2 unit_07 brainscape
+Das erste Radler ______________(is on me)!	Das erste Radler <b>geht auf mich</b>!	a2.2 unit_07 brainscape
+______________(Where is the waitress)?	<b>Wo ist denn die Bedienung?</b> Alternative: Wo ist denn die Kellnerin?	a2.2 unit_07 brainscape
+______________(We’d like to order).	<b>Wir würden gerne bestellen</b>.	a2.2 unit_07 brainscape
+_______________(Self-service).	<b>Selbstbedienung</b>.	a2.2 unit_07 brainscape
+Gogo _______________(created a dating profile for himself).	Gogo <b>hat sich ein Dating-Profil erstellt</b>.	a2.2 unit_07 brainscape
+_______________(I’d better (lit. I rather want to) get out).	<b>Ich will lieber raus</b>.	a2.2 unit_07 brainscape
+_______________(Let’s go out (pl.)).	<b>Lass uns rausgehen</b>.	a2.2 unit_07 brainscape
+Das ist _______________(a funny story).	Das ist <b>eine lustige Geschichte</b>.	a2.2 unit_07 brainscape
+Was hast du _______________(do to her)?	Was hast du <b>mit der angestellt</b>?	a2.2 unit_07 brainscape
+Ich würde gern nicht ständig von solchen Versagern wie dir _______________(be harassed).	Ich würde gern nicht ständig von solchen Versagern wie dir <b>belästigt werden</b>.	a2.2 unit_07 brainscape
+_______________(We’d like to) drei Radler bestellen.	<b>Wir würden gerne</b> drei Radler bestellen.	a2.2 unit_07 brainscape
+_______________(The loser) muss da in den See springen.	<b>Der Verlierer</b> muss da in den See springen.	a2.2 unit_07 brainscape
+_______________(I’m in).	<b>Da bin ich dabei</b>.	a2.2 unit_07 brainscape
+_______________(You lost)!	<b>Du hast verloren</b>!	a2.2 unit_07 brainscape
+_______________(That was just a joke).	<b>Das war doch nur ein Spaß</b>.	a2.2 unit_07 brainscape
+_______________((Get) in there now)!	<b>Rein da jetzt</b>!	a2.2 unit_07 brainscape
+_______________(A few seconds) musst du noch!	<b>Ein paar Sekunden</b> musst du noch!	a2.2 unit_07 brainscape
+_______________(Come on in (pl.)), Jungs!	<b>Kommt rein</b>, Jungs!	a2.2 unit_07 brainscape
+Ich sag’s euch, nächstes Mal _______________(it’s your turn (pl.)).	Ich sag’s euch, nächstes Mal <b>seid ihr dran</b>.	a2.2 unit_07 brainscape
+_______________(Nonsense), Gogo!	<b>Quatsch</b>, Gogo!	a2.2 unit_07 brainscape
+Der Verlierer muss da _______________(jump into the lake there).	Der Verlierer muss da <b>in den See springen</b>.	a2.2 unit_07 brainscape
+______________(An old school friend).	<b>Ein alter Schulfreund</b>.	a2.2 unit_07 brainscape
+
+# ── Brainscape · A2.2 Unit 8 — Eine Reise planen ──
+_______________(I have to think).	<b>Ich muss überlegen</b>.	a2.2 unit_08 brainscape
+_______________(It’s your turn).	<b>Du bist dran</b>.	a2.2 unit_08 brainscape
+Aber im März und April hab’ ich dann _________(five weeks off at a stretch)	Aber im März und April hab’ ich dann <b>fünf Wochen am Stück frei</b>.	a2.2 unit_08 brainscape
+Dann lass uns doch _______________(all together)irgendwohin fahren!	Dann lass uns doch <b>alle zusammen</b> irgendwohin fahren!	a2.2 unit_08 brainscape
+Das ist _______________(better for the environment).	Das ist <b>besser für die Umwelt</b>.	a2.2 unit_08 brainscape
+Ich will _______________(to a warm place).	Ich will <b>ins Warme</b>!	a2.2 unit_08 brainscape
+_______________(What do you suggest), Gogo?	<b>Was schlägst du vor</b>, Gogo?	a2.2 unit_08 brainscape
+Wie wär’s mit Sachsen _______________(instead)?	Wie wär’s mit Sachsen <b>stattdessen</b>?	a2.2 unit_08 brainscape
+Da _______________(I used to go a lot).	Da <b>war ich früher oft</b>.	a2.2 unit_08 brainscape
+Da kann man _______________(go hiking).	Da kann man <b>wandern gehen</b>.	a2.2 unit_08 brainscape
+Ich hab’ _______________(found something (coll.)).	Ich hab’ <b>was gefunden</b>!	a2.2 unit_08 brainscape
+Wir könnten doch eigentlich auch ___________(cook for ourselves), oder?	Wir könnten doch eigentlich auch <b>selbst kochen</b>, oder?	a2.2 unit_08 brainscape
+_______________(That’s true).	<b>Das stimmt</b>.	a2.2 unit_08 brainscape
+In einer Ferienwohnung wären wir __________(much more independent).	In einer Ferienwohnung wären wir <b>viel unabhängiger</b>.	a2.2 unit_08 brainscape
+_______________(Persuaded).	<b>Überredet</b>.	a2.2 unit_08 brainscape
+Gemütliche Apartments für zwei bis vier Personen _______________(with gorgeous views (lit. gorgeous view)).	Gemütliche Apartments für zwei bis vier Personen <b>mit herrlichem Blick</b>.	a2.2 unit_08 brainscape
+Sehr viele Outdooraktivitäten für Abenteuer-Junkies ________(in the area).	Sehr viele Outdooraktivitäten für Abenteuer-Junkies <b>in der Umgebung</b>.	a2.2 unit_08 brainscape
+_______________(That sounds great)!	<b>Das klingt doch super</b>!	a2.2 unit_08 brainscape
+Was kostet _______________(the overnight stay)?	Was kostet <b>die Übernachtung</b>?	a2.2 unit_08 brainscape
+Wir müssen doch erst mal _______________(read the reviews).	Wir müssen doch erst mal <b>die Bewertungen lesen</b>.	a2.2 unit_08 brainscape
+Kann ich _______________(cancel this)?	Kann ich <b>das stornieren</b>?	a2.2 unit_08 brainscape
+_______________(You must mean) mit meinem.	<b>Du meinst wohl</b> mit meinem.	a2.2 unit_08 brainscape
+Das Auto _______________(can’t make the long distance).	Das Auto <b>schafft die lange Strecke nicht</b>.	a2.2 unit_08 brainscape
+Dann _______________(better not).	Dann <b>lieber nicht</b>.	a2.2 unit_08 brainscape
+_______________(What are you doing (lit. What nice thing are you doing) (pl.))?	<b>Was macht ihr Schönes</b>?	a2.2 unit_08 brainscape
+_______________(Are you coming/joining)?	<b>Kommst du mit</b>?	a2.2 unit_08 brainscape
+_______________(But I’m leaving tomorrow)!	<b>Aber ich reise morgen doch schon wieder ab</b>!	a2.2 unit_08 brainscape
+Also, _______________(let’s keep this between us), Leute!	Also, <b>das bleibt unter uns</b>, Leute!	a2.2 unit_08 brainscape
+Ist der nicht _______________(much older than you)?	Ist der nicht <b>viel älter als du</b>?	a2.2 unit_08 brainscape
+_______________(That’s disgusting).	<b>Das ist ja ekelhaft</b>.	a2.2 unit_08 brainscape
+
+# ── Brainscape · A2.2 Unit 9 — Liebeskummer & Autokauf ──
+_______________(I am excited / I am glad.).	<b>Ich freue mich</b>.	a2.2 unit_09 brainscape
+Gogo _______________(is heartbroken).	Gogo <b>hat Liebeskummer</b>.	a2.2 unit_09 brainscape
+Ist es _______________(because of Natalia)?	Ist es <b>wegen Natalia</b>?	a2.2 unit_09 brainscape
+Ich dachte, ich habe _______________(a chance with her).	Ich dachte, ich habe <b>eine Chance bei ihr</b>.	a2.2 unit_09 brainscape
+_______________(It’s not your fault).	<b>Es ist nicht deine Schuld</b>.	a2.2 unit_09 brainscape
+Na ja, aber jedenfalls hab’ ich _______________(popsicles).	Na ja, aber jedenfalls hab’ ich <b>Eis am Stiel</b>.	a2.2 unit_09 brainscape
+_______________(It will take your mind off things)!	<b>Das bringt dich auf andere Gedanken</b>!	a2.2 unit_09 brainscape
+Wir können _______________(take a test drive).	Wir können <b>eine Probefahrt machen</b>.	a2.2 unit_09 brainscape
+Ich bin einfach _______________(a failure (lit. a loser))!	Ich bin einfach <b>ein Versager</b>!	a2.2 unit_09 brainscape
+_______________(Leave me alone)!	<b>Lass mich in Ruhe</b>!	a2.2 unit_09 brainscape
+_______________(Welcome)!	<b>Herzlich willkommen</b>!	a2.2 unit_09 brainscape
+_______________(New or used)?	<b>Neu oder gebraucht</b>?	a2.2 unit_09 brainscape
+Hier hätten wir _______________(for example a white) Opel.	Hier hätten wir <b>zum Beispiel einen weißen</b> Opel.	a2.2 unit_09 brainscape
+_______________(Very popular).	<b>Sehr beliebt</b>.	a2.2 unit_09 brainscape
+_______________(Very special)!	<b>Sehr besonders</b>!	a2.2 unit_09 brainscape
+Ich dachte an _______________(something sporty).	Ich dachte an <b>etwas Sportliches</b>.	a2.2 unit_09 brainscape
+_______________(Just arrived).	<b>Gerade erst eingetroffen</b>.	a2.2 unit_09 brainscape
+_______________(Highly recommended)!	<b>Sehr empfehlenswert</b>!	a2.2 unit_09 brainscape
+_______________(Let me think (form.)).	<b>Lassen Sie mich überlegen</b>.	a2.2 unit_09 brainscape
+Ein gebrauchter Porsche _______________(in full equipment).	Ein gebrauchter Porsche <b>in Vollausstattung</b>.	a2.2 unit_09 brainscape
+Wollen wir ein bisschen _______________(drive around)?	Wollen wir ein bisschen <b>durch die Gegend fahren</b>?	a2.2 unit_09 brainscape
+_______________(A barrier)!	<b>Eine Absperrung</b>!	a2.2 unit_09 brainscape
+_______________(I can still do it)!	<b>Das schaff’ ich noch</b>!	a2.2 unit_09 brainscape
+_______________(Watch out / Attention)!	<b>Achtung</b>!	a2.2 unit_09 brainscape
+Da ist ‘ne Frau _______________(on the crosswalk).	Da ist ‘ne Frau <b>auf dem Zebrastreifen</b>!	a2.2 unit_09 brainscape
+Ich hatte _______________(everything under control).	Ich hatte <b>alles unter Kontrolle</b>.	a2.2 unit_09 brainscape
+Wir können _______________(along the river)fahren.	Wir können <b>am Fluss entlang</b> fahren.	a2.2 unit_09 brainscape
+“Umfahren” und “umfahren” sind ____________(two very different things).	“Umfahren” und “umfahren” sind <b>zwei sehr verschiedene Dinge</b>.	a2.2 unit_09 brainscape
+Ich glaube, _______________(you mean) “umfahr sie doch”.	Ich glaube, <b>du meinst</b> “umfahr sie doch”.	a2.2 unit_09 brainscape
+
+# ── Brainscape · A2.2 Unit 10 — Ein Bankkonto eröffnen ──
+Am besten du gehst zur Bank und _______________(get some advice).	Am besten du gehst zur Bank und <b>lässt dich beraten</b>.	a2.2 unit_10 brainscape
+Wenn du zur Bank gehst, dann _______________(I’ll come with you).	Wenn du zur Bank gehst, dann <b>komme ich mit</b>.	a2.2 unit_10 brainscape
+Ich wollte _______________(find out about loans).	Ich wollte <b>mich über Kredite informieren</b>.	a2.2 unit_10 brainscape
+_______________(Absolutely)!	<b>Auf jeden Fall</b>!	a2.2 unit_10 brainscape
+_______________(You can’t afford it (masculine)).	<b>Den kannst du dir nicht leisten</b>.	a2.2 unit_10 brainscape
+Ja, _______________(that’s why) brauch’ ich doch einen Kredit.	Ja, <b>deswegen</b> brauch’ ich doch einen Kredit.	a2.2 unit_10 brainscape
+Er _______________(volunteers to work) am Tresen.	Er <b>arbeitet freiwillig</b> am Tresen.	a2.2 unit_10 brainscape
+Könnten Sie mir sagen, _______________(who is responsible for granting loans)?	Könnten Sie mir sagen, <b>wer für die Kreditvergabe zuständig ist</b>?	a2.2 unit_10 brainscape
+_______________(I will pass you (form.) on).	<b>Ich leite Sie weiter</b>.	a2.2 unit_10 brainscape
+Gabi Geizig _______________(on the phone).	Gabi Geizig <b>am Telefon</b>.	a2.2 unit_10 brainscape
+_______________(What can I do for you (form.))?	<b>Was kann ich für Sie tun</b>?	a2.2 unit_10 brainscape
+Ich würde gern _______________(open an account).	Ich würde gern <b>ein Konto eröffnen</b>.	a2.2 unit_10 brainscape
+_______________(How much are the fees)?	<b>Wie hoch sind die Gebühren</b>?	a2.2 unit_10 brainscape
+_______________(The fees are) 10 Euro im Monat.	<b>Die Gebühren belaufen sich auf</b> 10 Euro im Monat.	a2.2 unit_10 brainscape
+Wir _______________(do not give discounts)!	Wir <b>geben keine Rabatte</b>!	a2.2 unit_10 brainscape
+_______________(That is not possible).	<b>Das geht nicht</b>.	a2.2 unit_10 brainscape
+Überweisungen, Einzahlungen und Abhebungen __________(are included).	Überweisungen, Einzahlungen und Abhebungen <b>sind inbegriffen</b>.	a2.2 unit_10 brainscape
+Unsere Bank _______________(very well positioned digitally).	Unsere Bank <b>ist sehr gut digital aufgestellt</b>.	a2.2 unit_10 brainscape
+_______________(That sounds) ja sehr digital!	<b>Das klingt</b> ja sehr digital!	a2.2 unit_10 brainscape
+_______________(Just hung up)!	<b>Einfach aufgelegt</b>!	a2.2 unit_10 brainscape
+Sie müssten nur noch _______________(sign here).	Sie müssten nur noch <b>hier unterschreiben</b>.	a2.2 unit_10 brainscape
+_______________(Of course)!	<b>Selbstverständlich</b>!	a2.2 unit_10 brainscape
+Da ist die Abhebung _______________(free of charge).	Da ist die Abhebung <b>gebührenfrei</b>.	a2.2 unit_10 brainscape
+Ich _______________(‘ll be right back).	Ich <b>bin gleich wieder da</b>.	a2.2 unit_10 brainscape
+_______________(All done)?	<b>Fertig</b>?	a2.2 unit_10 brainscape
+Frau Geizig ist auch nicht hier, weil sie _______________(only in the mornings) arbeitet.	Frau Geizig ist auch nicht hier, weil sie <b>nur vormittags</b> arbeitet.	a2.2 unit_10 brainscape
+_______________(Hands up)!	<b>Hände hoch</b>!	a2.2 unit_10 brainscape
+Der _______________(looks) ja witzig aus!	Der <b>sieht</b> ja witzig aus!	a2.2 unit_10 brainscape
+Es wird _______________(definitely) spannend.	Es wird <b>auf jeden Fall</b> spannend.	a2.2 unit_10 brainscape

@@ -65,7 +65,11 @@ def validate(path: str) -> list[str]:
     if not any(h.startswith("#tags column:3") for h in headers):
         problems.append("missing header #tags column:3")
 
-    fronts = Counter(normalise(f) for _, f, _, _ in cards)
+    fronts = Counter(
+        normalise(front)
+        for _, front, _, tags in cards
+        if "brainscape" not in tags
+    )
     for key, n in fronts.items():
         if n > 1 and key:
             problems.append(f"duplicate front (~{n}×): {key!r}")
@@ -73,7 +77,7 @@ def validate(path: str) -> list[str]:
     # Chunk fronts must not leak the answer inside parentheses.
     # Disambiguators = English sense/register only (pointing, farther, informal…).
     for line_no, front, back, tags in cards:
-        if "chunk" not in tags:
+        if "chunk" not in tags or "brainscape" in tags:
             continue
         back_toks = {
             t

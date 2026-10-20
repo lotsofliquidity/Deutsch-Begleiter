@@ -2460,3 +2460,131 @@ to prepare — Partizip II?	vorbereitet	a2.1 unit_05 verb
 to sweat — Partizip II?	geschwitzt	a2.1 unit_05 verb
 to barbecue — Partizip II?	gegrillt	a2.1 unit_05 verb
 to sunbathe (sich) — Partizip II?	gesonnt	a2.1 unit_05 verb
+# ── A2.1 Unit 6 — Ämter und Behörden ──
+I would like to register.	Ich möchte mich anmelden.	a2.1 unit_06 chunk
+Please take a seat back there in the waiting room.	Bitte nehmen Sie dahinten im Wartezimmer Platz.	a2.1 unit_06 chunk
+I received a letter that I have to register in Germany.	Ich habe ein Schreiben bekommen, dass ich mich in Deutschland anmelden muss.	a2.1 unit_06 chunk
+How long have you been in Germany? (informal, softened)	Wie lange bist du denn schon in Deutschland?	a2.1 unit_06 chunk
+Register. (informal command)	Meld dich an.	a2.1 unit_06 chunk
+Go back to X.	Geh zurück nach X.	a2.1 unit_06 chunk
+I have to go.	Ich muss los.	a2.1 unit_06 chunk
+I have to negotiate my fine.	Ich muss mein Bußgeld verhandeln.	a2.1 unit_06 chunk
+I'm registering.	Ich melde mich an.	a2.1 unit_06 chunk
+I'm signing up for X.	Ich melde mich für X an.	a2.1 unit_06 chunk
+I'm registering my residence.	Ich melde meinen Wohnsitz an.	a2.1 unit_06 chunk
+Are you registering for the language course?	Meldest du dich für den Sprachkurs an?	a2.1 unit_06 chunk
+We reported the accident to the police.	Wir haben den Unfall bei der Polizei gemeldet.	a2.1 unit_06 chunk
+When will you get in touch with me?	Wann meldest du dich bei mir?	a2.1 unit_06 chunk
+The students are all raising their hands.	Die Schüler melden sich alle.	a2.1 unit_06 chunk
+I'm registered. (on the official record)	Ich bin gemeldet.	a2.1 unit_06 chunk
+Don't be so impatient.	Nicht so ungeduldig.	a2.1 unit_06 chunk
+I would like to register in Germany.	Ich möchte mich gerne in Deutschland anmelden.	a2.1 unit_06 chunk
+Have you filled out the registration form? (formal)	Haben Sie das Anmeldeformular ausgefüllt?	a2.1 unit_06 chunk
+Let's have a look.	Gucken wir mal.	a2.1 unit_06 chunk
+Since when have you been in Germany? (formal, softened)	Seit wann sind Sie denn in Deutschland?	a2.1 unit_06 chunk
+And you're only registering now? (formal)	Und dann melden Sie sich jetzt erst an?	a2.1 unit_06 chunk
+Do I have to pay a fine now too?	Muss ich jetzt auch Bußgeld zahlen?	a2.1 unit_06 chunk
+Today we'll make an exception.	Heute machen wir mal eine Ausnahme.	a2.1 unit_06 chunk
+Do you have your ID with you? (formal)	Haben Sie Ihren Ausweis dabei?	a2.1 unit_06 chunk
+I want you with me.	Ich möchte dich dabeihaben.	a2.1 unit_06 chunk
+Sure, I'm in.	Na klar, ich bin dabei.	a2.1 unit_06 chunk
+Your registration form is not yet complete. (formal)	Ihr Anmeldeformular ist leider noch nicht vollständig.	a2.1 unit_06 chunk
+What is missing?	Was fehlt?	a2.1 unit_06 chunk
+What is the address?	Wie lautet die Anschrift?	a2.1 unit_06 chunk
+Do you live there with your relatives? (formal)	Und da leben Sie mit Ihren Angehörigen?	a2.1 unit_06 chunk
+The confirmation from the landlord.	Die Bestätigung vom Vermieter.	a2.1 unit_06 chunk
+So, does it taste good?	Und, schmeckt's?	a2.1 unit_06 chunk
+How am I supposed to pay for this?	Wie soll ich das bezahlen?	a2.1 unit_06 chunk
+What happened? (softened)	Was ist denn passiert?	a2.1 unit_06 chunk
+That can't be true.	Das kann nicht wahr sein.	a2.1 unit_06 chunk
+They doubled my fine.	Die haben mein Bußgeld verdoppelt.	a2.1 unit_06 chunk
+Everything will be fine.	Alles wird gut.	a2.1 unit_06 chunk
+Come on, I'll invite you for a coffee.	Komm, ich lade dich auf einen Kaffee ein.	a2.1 unit_06 chunk
+But decaf.	Aber koffeinfrei.	a2.1 unit_06 chunk
+fill out a form	ein Formular ausfüllen	a2.1 unit_06 chunk
+tick something on a form	etwas ankreuzen	a2.1 unit_06 chunk
+sign a form	ein Formular unterschreiben	a2.1 unit_06 chunk
+hand in the form	das Formular abgeben	a2.1 unit_06 chunk
+state your age	das Alter angeben	a2.1 unit_06 chunk
+in employment	berufstätig	a2.1 unit_06 chunk
+if applicable	gegebenenfalls	a2.1 unit_06 chunk
+Should I help you? (formal)	Soll ich Ihnen helfen?	a2.1 unit_06 chunk
+Should I come with you to the registration office?	Soll ich zum Einwohnermeldeamt mitkommen?	a2.1 unit_06 chunk
+I'm supposed to tick my gender.	Ich soll mein Geschlecht ankreuzen.	a2.1 unit_06 chunk
+I'm supposed to pay 1000 euros now.	Ich soll jetzt 1000 Euro zahlen.	a2.1 unit_06 chunk
+Should I pay the fine?	Soll ich das Bußgeld zahlen?	a2.1 unit_06 chunk
+You were supposed to come home on time.	Du solltest doch pünktlich nach Hause kommen!	a2.1 unit_06 chunk
+Katie was supposed to fill out the form.	Katie sollte das Formular ausfüllen.	a2.1 unit_06 chunk
+office (an authority)	das Amt · die Ämter	a2.1 unit_06 noun
+authority	die Behörde · die Behörden	a2.1 unit_06 noun
+doorman	der Pförtner · die Pförtner	a2.1 unit_06 noun
+reception desk	der Empfang · die Empfänge	a2.1 unit_06 noun
+waiting room	das Wartezimmer · die Wartezimmer	a2.1 unit_06 noun
+queue number	die Nummer · die Nummern	a2.1 unit_06 noun
+display board	die Anzeigetafel · die Anzeigetafeln	a2.1 unit_06 noun
+form	das Formular · die Formulare	a2.1 unit_06 noun
+registration form	das Anmeldeformular · die Anmeldeformulare	a2.1 unit_06 noun
+official letter	das Schreiben · die Schreiben	a2.1 unit_06 noun
+registration (the noun)	die Anmeldung · die Anmeldungen	a2.1 unit_06 noun
+fine (a penalty)	das Bußgeld · die Bußgelder	a2.1 unit_06 noun
+processing	die Bearbeitung · die Bearbeitungen	a2.1 unit_06 noun
+description	die Beschreibung · die Beschreibungen	a2.1 unit_06 noun
+meaning (the noun)	die Bedeutung · die Bedeutungen	a2.1 unit_06 noun
+order (a purchase)	die Bestellung · die Bestellungen	a2.1 unit_06 noun
+payment	die Bezahlung · die Bezahlungen	a2.1 unit_06 noun
+invitation	die Einladung · die Einladungen	a2.1 unit_06 noun
+explanation	die Erklärung · die Erklärungen	a2.1 unit_06 noun
+apology	die Entschuldigung · die Entschuldigungen	a2.1 unit_06 noun
+collection	die Sammlung · die Sammlungen	a2.1 unit_06 noun
+exercise (the noun)	die Übung · die Übungen	a2.1 unit_06 noun
+hike	die Wanderung · die Wanderungen	a2.1 unit_06 noun
+apartment	die Wohnung · die Wohnungen	a2.1 unit_06 noun
+delivery	die Lieferung · die Lieferungen	a2.1 unit_06 noun
+decision	die Entscheidung · die Entscheidungen	a2.1 unit_06 noun
+opinion	die Meinung · die Meinungen	a2.1 unit_06 noun
+recommendation	die Empfehlung · die Empfehlungen	a2.1 unit_06 noun
+ID card	der Ausweis · die Ausweise	a2.1 unit_06 noun
+German identity card	der Personalausweis · die Personalausweise	a2.1 unit_06 noun
+driving licence	der Führerschein · die Führerscheine	a2.1 unit_06 noun
+driving permit	die Fahrerlaubnis · die Fahrerlaubnisse	a2.1 unit_06 noun
+move-in date	das Einzugsdatum · no plural	a2.1 unit_06 noun
+main residence	die Hauptwohnung · die Hauptwohnungen	a2.1 unit_06 noun
+secondary residence	die Nebenwohnung · die Nebenwohnungen	a2.1 unit_06 noun
+last name	der Familienname · die Familiennamen	a2.1 unit_06 noun
+birth name	der Geburtsname · die Geburtsnamen	a2.1 unit_06 noun
+first name	der Vorname · die Vornamen	a2.1 unit_06 noun
+gender	das Geschlecht · die Geschlechter	a2.1 unit_06 noun
+marital status	der Familienstand · no plural	a2.1 unit_06 noun
+citizenship	die Staatsangehörigkeit · die Staatsangehörigkeiten	a2.1 unit_06 noun
+confirmation	die Bestätigung · die Bestätigungen	a2.1 unit_06 noun
+address on a form	die Anschrift · die Anschriften	a2.1 unit_06 noun
+copy (of a document)	die Kopie · die Kopien	a2.1 unit_06 noun
+relative	der Angehörige · die Angehörigen	a2.1 unit_06 noun
+Nouns in -ung: which gender, which plural?	die · plural -en	a2.1 unit_06 pattern
+Which -ung nouns change the stem?	Sammlung · Wanderung · Lieferung	a2.1 unit_06 pattern
+Where to, into a building?	in + accusative (ins / in den / in die)	a2.1 unit_06 pattern
+Where to, towards a person or an activity?	zu + dative (zu + name, zum, zur)	a2.1 unit_06 pattern
+Where, inside a building?	in + dative (im / in der)	a2.1 unit_06 pattern
+Where, at a person or an activity?	bei + dative (bei / beim)	a2.1 unit_06 pattern
+Where from, out of a building?	aus + dative	a2.1 unit_06 pattern
+Where from, a person or an activity?	von + dative (von / vom)	a2.1 unit_06 pattern
+im Amt or auf dem Amt?	im = the building · auf dem = the institution	a2.1 unit_06 pattern
+zu + dem / zu + der?	zum / zur	a2.1 unit_06 pattern
+What does seit do to the tense?	The action is still going, so the verb stays in the present.	a2.1 unit_06 pattern
+for one month (still going)	seit einem Monat	a2.1 unit_06 pattern
+for one week (still going)	seit einer Woche	a2.1 unit_06 pattern
+for one year (still going)	seit einem Jahr	a2.1 unit_06 pattern
+for three years (still going)	seit drei Jahren	a2.1 unit_06 pattern
+for two days (still going)	seit zwei Tagen	a2.1 unit_06 pattern
+for two weeks (still going)	seit zwei Wochen	a2.1 unit_06 pattern
+for one hour (still going)	seit einer Stunde	a2.1 unit_06 pattern
+What does sollen do with someone else's order?	You report it: Ich soll + infinitive at the end.	a2.1 unit_06 pattern
+How do you offer with sollen?	Soll ich …?	a2.1 unit_06 pattern
+How do you ask for advice with sollen?	Was soll ich machen? / Soll ich …?	a2.1 unit_06 pattern
+sollen — Präteritum ich / er?	sollte	a2.1 unit_06 verb
+sollen — Präteritum du?	solltest	a2.1 unit_06 verb
+sollen — Präteritum ihr?	solltet	a2.1 unit_06 verb
+sollen — Präteritum wir / sie / Sie?	sollten	a2.1 unit_06 verb
+to receive — Partizip II?	bekommen	a2.1 unit_06 verb
+to sign — Partizip II?	unterschrieben	a2.1 unit_06 verb
+to hand in — Partizip II?	abgegeben	a2.1 unit_06 verb

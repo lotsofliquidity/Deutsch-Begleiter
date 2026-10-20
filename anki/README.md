@@ -6,6 +6,7 @@ Two files, two jobs:
 |---|---|---|
 | [`German.txt`](German.txt) | **no** | **Glossary.** Every card from every ingested unit (`chunk` / `noun` / `pattern` / `verb` / `teach`). Reference — search it, don't schedule it. |
 | [`German-core.txt`](German-core.txt) | **yes** | **Deck.** Only `pattern` / `verb` / `teach` — the grammar skeleton (~15/unit). This is the one you review. |
+| [`Brainscape-German.txt`](Brainscape-German.txt) | **optional** | Separate deck of Brainscape cards. Source wording is preserved; the memorized German phrase is bolded on the back. Cards carry `a1.1` / `a1.2`, `unit_NN`, and `brainscape` tags. |
 
 `German-core.txt` is **generated** from `German.txt` — never hand-edit it.
 
@@ -24,6 +25,14 @@ Deck name in Anki: **German-core**. Set **New cards/day = 10** in the deck optio
 > Re-importing rebuilds the deck from the file. To keep review history, set the import
 > option *Update existing notes when first field matches* = on — a card whose **front**
 > is unchanged keeps its scheduling. Renaming a front breaks the match (see below).
+
+## Import Brainscape German
+
+Import [`Brainscape-German.txt`](Brainscape-German.txt) separately only if you want
+these source cards in Anki. Its deck name is **Brainscape-German**; it is independent
+of both the glossary and the generated German-core deck. Keep the source wording and
+repeated prompts intact. The unit tags allow filtering, for example
+`deck:Brainscape-German tag:a1.1 tag:unit_01`.
 
 Import options that matter:
 
