@@ -2776,3 +2776,176 @@ to explain something to someone	jemandem etwas erklären	a2.1 unit_07 chunk
 to tell someone something	jemandem etwas erzählen	a2.1 unit_07 chunk
 to wish someone something	jemandem etwas wünschen	a2.1 unit_07 chunk
 to read something aloud to someone	jemandem etwas vorlesen	a2.1 unit_07 chunk
+
+Shall we watch a movie?	Wollen wir einen Film schauen?	a2.1 unit_08 chunk
+I heard about an interesting documentary the other day.	Ich hab' neulich von einem interessanten Dokumentarfilm gehört.	a2.1 unit_08 chunk
+I do need a bit of entertainment.	Ein bisschen Unterhaltung brauche ich schon.	a2.1 unit_08 chunk
+A documentary can be entertaining, too, and you learn something.	Eine Doku kann auch unterhaltsam sein und man lernt etwas.	a2.1 unit_08 chunk
+Horror to relax?	Horror zum Entspannen?	a2.1 unit_08 chunk
+That's too scary for me.	Das ist mir zu gruselig.	a2.1 unit_08 chunk
+Whenever I see a horror movie, I can't sleep.	Immer wenn ich einen Horrorfilm sehe, dann kann ich nicht schlafen.	a2.1 unit_08 chunk
+The drama is all your fault.	An dem Drama bist du doch schuld.	a2.1 unit_08 chunk
+Take it easy. (stay calm)	Ruhig bleiben.	a2.1 unit_08 chunk
+Are you making fun of me? (informal plural)	Macht ihr euch über mich lustig?	a2.1 unit_08 chunk
+At least I survive.	Zumindest überlebe ich.	a2.1 unit_08 chunk
+How about X? (short form)	Wie wär's mit X?	a2.1 unit_08 chunk
+They're stupid.	Die sind doof.	a2.1 unit_08 chunk
+The humor is totally exaggerated.	Der Humor ist total übertrieben.	a2.1 unit_08 chunk
+Come on. (encouraging)	Komm schon.	a2.1 unit_08 chunk
+Everybody thinks they're funny.	Alle finden die lustig.	a2.1 unit_08 chunk
+A mixture between comedy and drama.	Eine Mischung zwischen Komödie und Drama.	a2.1 unit_08 chunk
+There's something for everyone.	Da ist für jeden was dabei.	a2.1 unit_08 chunk
+What's going on now?	Was ist denn jetzt los?	a2.1 unit_08 chunk
+Why is the movie not working?	Warum geht der Film nicht?	a2.1 unit_08 chunk
+We have an internet outage.	Wir haben eine Internetstörung.	a2.1 unit_08 chunk
+You can figure it out. (informal plural)	Ihr macht das schon.	a2.1 unit_08 chunk
+It's already 10 (p.m.)!	Es ist schon 10!	a2.1 unit_08 chunk
+Do you already have plans for the weekend?	Hast du schon Pläne fürs Wochenende?	a2.1 unit_08 chunk
+I live for the moment. (I don't plan)	Ich lebe in den Tag hinein.	a2.1 unit_08 chunk
+We could do something.	Wir könnten doch mal was unternehmen.	a2.1 unit_08 chunk
+Let's go partying.	Lass uns feiern gehen.	a2.1 unit_08 chunk
+Why don't we go for a bike ride?	Wollen wir nicht lieber eine Radtour machen?	a2.1 unit_08 chunk
+I don't have a bike right now either.	Ich habe auch gerade kein Fahrrad.	a2.1 unit_08 chunk
+They also stole my bike.	Mein Fahrrad haben sie ja auch geklaut.	a2.1 unit_08 chunk
+Let's go to a concert.	Lass uns auf ein Konzert gehen.	a2.1 unit_08 chunk
+There's always something going on in Mauerpark.	Im Mauerpark ist immer was los.	a2.1 unit_08 chunk
+Let's go there.	Lass uns dort hingehen.	a2.1 unit_08 chunk
+Shall we go out on the weekend?	Wollen wir am Wochenende ausgehen?	a2.1 unit_08 chunk
+Shall we do something on the weekend?	Wollen wir am Wochenende etwas unternehmen?	a2.1 unit_08 chunk
+We could go to a club.	Wir könnten in einen Club gehen.	a2.1 unit_08 chunk
+That's not a good idea.	Das ist keine gute Idee.	a2.1 unit_08 chunk
+How do you feel about the movies?	Was hältst du von Kino?	a2.1 unit_08 chunk
+Do you feel like going to the movies?	Hast du Lust auf Kino?	a2.1 unit_08 chunk
+Good suggestion!	Guter Vorschlag!	a2.1 unit_08 chunk
+The movie is about history.	In dem Film geht es um Geschichte.	a2.1 unit_08 chunk
+The movie deals with the former GDR.	Der Film handelt von der ehemaligen DDR.	a2.1 unit_08 chunk
+The leading role is played by Daniel Brühl.	Die Hauptrolle spielt Daniel Brühl.	a2.1 unit_08 chunk
+Who is directing?	Wer führt Regie?	a2.1 unit_08 chunk
+Is the movie dubbed into German?	Ist der Film auf Deutsch synchronisiert?	a2.1 unit_08 chunk
+I like the movie because it is funny.	Der Film gefällt mir, weil er lustig ist.	a2.1 unit_08 chunk
+Where does the concert take place?	Wo findet das Konzert statt?	a2.1 unit_08 chunk
+Where is the movie playing?	Wo läuft der Film?	a2.1 unit_08 chunk
+When does the event take place?	Wann findet die Veranstaltung statt?	a2.1 unit_08 chunk
+When does the movie start?	Wann beginnt der Film?	a2.1 unit_08 chunk
+How much is the admission?	Was kostet der Eintritt?	a2.1 unit_08 chunk
+Admission is free.	Der Eintritt ist frei.	a2.1 unit_08 chunk
+If you jump, then I jump too.	Wenn du springst, dann spring' ich auch.	a2.1 unit_08 chunk
+I go to the cinema when I have time.	Ich gehe ins Kino, wenn ich Zeit habe.	a2.1 unit_08 chunk
+If it rains, we stay at home.	Wenn es regnet, bleiben wir zu Hause.	a2.1 unit_08 chunk
+Documentaries are too boring for him.	Dokus sind ihm zu langweilig.	a2.1 unit_08 chunk
+Dramas are too serious for her.	Dramen sind ihr zu ernst.	a2.1 unit_08 chunk
+Germany is too cold for us.	Deutschland ist uns zu kalt.	a2.1 unit_08 chunk
+The film is too sad for me.	Der Film ist mir zu traurig.	a2.1 unit_08 chunk
+The book is too complicated for them.	Das Buch ist ihnen zu kompliziert.	a2.1 unit_08 chunk
+We could visit an exhibition.	Wir könnten eine Ausstellung besuchen.	a2.1 unit_08 chunk
+You could do more sport. (informal singular)	Du könntest mehr Sport machen.	a2.1 unit_08 chunk
+You could go to the theater on the weekend. (informal plural)	Ihr könntet am Wochenende ins Theater gehen.	a2.1 unit_08 chunk
+You could go to the opera. (formal)	Sie könnten in die Oper gehen.	a2.1 unit_08 chunk
+I could buy the tickets already now.	Ich könnte schon jetzt die Tickets kaufen.	a2.1 unit_08 chunk
+movie	der Film · die Filme	a2.1 unit_08 noun
+genre	das Genre · die Genres	a2.1 unit_08 noun
+action movie	der Actionfilm · die Actionfilme	a2.1 unit_08 noun
+documentary	der Dokumentarfilm · die Dokumentarfilme	a2.1 unit_08 noun
+documentary (short)	die Doku · die Dokus	a2.1 unit_08 noun
+drama (film)	das Drama · die Dramen	a2.1 unit_08 noun
+horror movie	der Horrorfilm · die Horrorfilme	a2.1 unit_08 noun
+comedy	die Komödie · die Komödien	a2.1 unit_08 noun
+crime movie	der Kriminalfilm · die Kriminalfilme	a2.1 unit_08 noun
+crime movie (short)	der Krimi · die Krimis	a2.1 unit_08 noun
+love movie / romance	der Liebesfilm · die Liebesfilme	a2.1 unit_08 noun
+science fiction movie	der Science-Fiction-Film · die Science-Fiction-Filme	a2.1 unit_08 noun
+thriller	der Thriller · die Thriller	a2.1 unit_08 noun
+Western (movie)	der Western · die Western	a2.1 unit_08 noun
+cartoon (movie)	der Zeichentrickfilm · die Zeichentrickfilme	a2.1 unit_08 noun
+movie production	die Filmproduktion · die Filmproduktionen	a2.1 unit_08 noun
+shooting / filming	die Dreharbeit · die Dreharbeiten	a2.1 unit_08 noun
+direction (film)	die Regie · no plural	a2.1 unit_08 noun
+screenplay	das Drehbuch · die Drehbücher	a2.1 unit_08 noun
+plot	die Handlung · die Handlungen	a2.1 unit_08 noun
+scene	die Szene · die Szenen	a2.1 unit_08 noun
+leading role	die Hauptrolle · die Hauptrollen	a2.1 unit_08 noun
+supporting role	die Nebenrolle · die Nebenrollen	a2.1 unit_08 noun
+original version (with subtitles)	die Originalfassung · die Originalfassungen	a2.1 unit_08 noun
+dubbing	die Synchronisation · die Synchronisationen	a2.1 unit_08 noun
+producer	der Produzent · die Produzenten	a2.1 unit_08 noun
+director (film)	der Regisseur · die Regisseure	a2.1 unit_08 noun
+screenwriter	der Drehbuchautor · die Drehbuchautoren	a2.1 unit_08 noun
+actor	der Schauspieler · die Schauspieler	a2.1 unit_08 noun
+actor / performer	der Darsteller · die Darsteller	a2.1 unit_08 noun
+cameraman	der Kameramann · die Kameramänner	a2.1 unit_08 noun
+spectator / audience member	der Zuschauer · die Zuschauer	a2.1 unit_08 noun
+club (nightlife)	der Club · die Clubs	a2.1 unit_08 noun
+disco	die Disco · die Discos	a2.1 unit_08 noun
+concert	das Konzert · die Konzerte	a2.1 unit_08 noun
+cinema / movie theater	das Kino · die Kinos	a2.1 unit_08 noun
+opera	die Oper · die Opern	a2.1 unit_08 noun
+theater	das Theater · die Theater	a2.1 unit_08 noun
+exhibition	die Ausstellung · die Ausstellungen	a2.1 unit_08 noun
+reading (literary event)	die Lesung · die Lesungen	a2.1 unit_08 noun
+event	die Veranstaltung · die Veranstaltungen	a2.1 unit_08 noun
+admission / entrance fee	der Eintritt · die Eintritte	a2.1 unit_08 noun
+bike ride	die Radtour · die Radtouren	a2.1 unit_08 noun
+entertainment	die Unterhaltung · no plural	a2.1 unit_08 noun
+Subjective "too X for me" — which case is the person?	dative	a2.1 unit_08 pattern
+Horror is too scary for me. — frame?	Das ist mir zu gruselig.	a2.1 unit_08 pattern
+finden vs dative + zu — same meaning?	Er findet Dokus langweilig. = Dokus sind ihm zu langweilig.	a2.1 unit_08 pattern
+wenn-clause — where does the conjugated verb go?	at the end	a2.1 unit_08 pattern
+wenn first — what starts the main clause?	the finite verb (or dann + verb)	a2.1 unit_08 pattern
+Main clause first with wenn — use dann?	no	a2.1 unit_08 pattern
+jeder vs alle — which is singular?	jede-	a2.1 unit_08 pattern
+jeder vs alle — which is plural?	alle	a2.1 unit_08 pattern
+every movie (Nominativ)	jeder Film	a2.1 unit_08 pattern
+every scene (Nominativ)	jede Szene	a2.1 unit_08 pattern
+every screenplay (Nominativ)	jedes Drehbuch	a2.1 unit_08 pattern
+every movie (Akkusativ)	jeden Film	a2.1 unit_08 pattern
+with every movie (Dativ)	mit jedem Film	a2.1 unit_08 pattern
+with all the actors (Dativ)	mit allen Darstellern	a2.1 unit_08 pattern
+können Konjunktiv II — ich / er?	könnte	a2.1 unit_08 verb
+können Konjunktiv II — du?	könntest	a2.1 unit_08 verb
+können Konjunktiv II — wir / Sie?	könnten	a2.1 unit_08 verb
+können Konjunktiv II — ihr?	könntet	a2.1 unit_08 verb
+to win — Partizip II?	gewonnen	a2.1 unit_08 verb
+The movie is about X. — frame?	In dem Film geht es um X.	a2.1 unit_08 pattern
+The movie deals with X. — frame?	Der Film handelt von X.	a2.1 unit_08 pattern
+The movie is about X. (everyday “about”) — frame?	Der Film ist über X.	a2.1 unit_08 pattern
+geht es um takes which case?	accusative	a2.1 unit_08 pattern
+handelt von takes which case?	dative	a2.1 unit_08 pattern
+everyday “about” (topic preposition) takes which case?	accusative	a2.1 unit_08 pattern
+The movie is about Germany. (everyday “about”)	Der Film ist über Deutschland.	a2.1 unit_08 chunk
+How about a concert? (suggestion)	Wie wär's mit einem Konzert?	a2.1 unit_08 chunk
+We go to a concert.	Wir gehen auf ein Konzert.	a2.1 unit_08 chunk
+We go to the cinema.	Wir gehen ins Kino.	a2.1 unit_08 chunk
+We go to an exhibition.	Wir gehen in eine Ausstellung.	a2.1 unit_08 chunk
+serious (tone)	ernst	a2.1 unit_08 chunk
+creepy / scary	gruselig	a2.1 unit_08 chunk
+informative	informativ	a2.1 unit_08 chunk
+boring	langweilig	a2.1 unit_08 chunk
+funny	lustig	a2.1 unit_08 chunk
+romantic	romantisch	a2.1 unit_08 chunk
+suspenseful / thrilling	spannend	a2.1 unit_08 chunk
+sad	traurig	a2.1 unit_08 chunk
+entertaining	unterhaltsam	a2.1 unit_08 chunk
+When are we going to the club?	Wann gehen wir in den Club?	a2.1 unit_08 chunk
+What are the museum's opening times?	Welche Öffnungszeiten hat das Museum?	a2.1 unit_08 chunk
+When is the museum open?	Wann ist das Museum geöffnet?	a2.1 unit_08 chunk
+The admission costs 20 euros.	Der Eintritt kostet 20 Euro.	a2.1 unit_08 chunk
+Admission is free of charge.	Der Eintritt ist kostenlos.	a2.1 unit_08 chunk
+I think that's good. / Good idea. (reacting to a plan)	Das finde ich gut.	a2.1 unit_08 chunk
+Oh no, I don't want that.	Oh nein, das will ich nicht.	a2.1 unit_08 chunk
+I don't feel like it.	Ich habe keine Lust.	a2.1 unit_08 chunk
+Oh yes, I feel like it.	Oh ja, ich habe Lust.	a2.1 unit_08 chunk
+We're going dancing.	Wir gehen tanzen.	a2.1 unit_08 chunk
+We're going to the opera.	Wir gehen in die Oper.	a2.1 unit_08 chunk
+We're going to the theater.	Wir gehen ins Theater.	a2.1 unit_08 chunk
+We're going to the museum.	Wir gehen ins Museum.	a2.1 unit_08 chunk
+We're going to an exhibition. (towards, not into)	Wir gehen zu einer Ausstellung.	a2.1 unit_08 chunk
+We're going to X's reading.	Wir gehen zu der Lesung von X.	a2.1 unit_08 chunk
+Thank you, that's very kind of you. (informal)	Vielen Dank, das ist sehr nett von dir.	a2.1 unit_01 chunk
+Thank you, that's very kind of you. (formal)	Vielen Dank, das ist sehr nett von Ihnen.	a2.1 unit_01 chunk
+How does the registration work? (curious)	Wie funktioniert denn die Anmeldung?	a2.1 unit_06 chunk
+She takes a number. (at the office)	Sie zieht eine Nummer.	a2.1 unit_06 chunk
+We have to wait in the waiting room.	Wir müssen im Wartezimmer warten.	a2.1 unit_06 chunk
+Do you have the pants in size 36 as well? (formal)	Haben Sie die Hose auch in Größe 36?	a1.2 unit_09 chunk
+desire / feeling like doing something	die Lust · no plural	a2.1 unit_08 noun
+suggestion (proposal)	der Vorschlag · die Vorschläge	a2.1 unit_08 noun
+to feel like X / be up for X	Lust haben auf X	a2.1 unit_08 chunk

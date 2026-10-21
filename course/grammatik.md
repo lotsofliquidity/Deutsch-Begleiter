@@ -305,6 +305,14 @@ noun tells them apart (*der → den*), which is exactly why that change matters.
   - *Geld hab' ich **keins** mehr.*
   - Trap: ~~Ich habe kein.~~ → *Ich habe **keinen** / **keins** / **keine**.*
 
+- ***jeder* vs *alle*** — each / every (singular) vs all (plural) *(A2.1 U8)*
+  - *jede-* = the **individual** members; stays singular: *Jeder Film · Jede Szene · Jedes Drehbuch*
+  - Akkusativ: *jeden Film · jede Szene · jedes Drehbuch* · Dativ: *jedem Film · jeder Szene · jedem Drehbuch*
+  - stand-in: *Da ist für **jeden** was dabei.* · *Jeder will die Hauptrolle spielen.*
+  - *alle* = the **whole** group; stays plural: *Alle finden die lustig.* · *Alle Zuschauer · alle Filme*
+  - Dativ plural: *mit **allen** Darstellern* · *von **allen** Schauspielern*
+  - Trap: ~~Alle Film~~ → *alle Filme* · ~~Jeder Filme~~ → *jeder Film*
+
 - **Return question — dative, not *du***
   - *Gut, und **dir**?* — Fine, and you?
   - *Mir geht's gut, und **Ihnen**?* — I'm well, and you?
@@ -399,6 +407,7 @@ noun tells them apart (*der → den*), which is exactly why that change matters.
 - [`Das ist … / Er / Sie / Sie`](../patterns/patterns.md#das-ist----er--sie--sie)
 - [`Indefinitpronomen ein- / welch-`](../patterns/patterns.md#indefinitpronomen-ein---welch-)
 - [`Indefinitpronomen kein-`](../patterns/patterns.md#indefinitpronomen-kein-)
+- [`jeder vs alle`](../patterns/patterns.md#jeder-vs-alle)
 
 ---
 
@@ -907,6 +916,14 @@ either one away and the verb stays whole — it is the conjugated form that sepa
   - blunt present: *Ich **will** dich sprechen.* — I want to talk to you.
   - Trap: ~~Ich möchtete dich sprechen~~ — there is no such form
 
+- ***können* im Konjunktiv II — soft suggestion** *(A2.1 U8)*
+  - *ich **könnte** · du **könntest** · er **könnte** · wir **könnten** · ihr **könntet** · sie/Sie **könnten***
+  - *ich* = *er/sie/es* · *wir* = *sie/Sie*, as with every modal
+  - *Wir **könnten** in einen Club gehen.* — We could go to a club.
+  - *Du **könntest** mehr Sport machen.* · *Ihr **könntet** ins Theater gehen.*
+  - *Frau Müller, Sie **könnten** in die Oper gehen.* · *Ich **könnte** schon jetzt die Tickets kaufen.*
+  - Trap: ~~Wir können…~~ when you mean a soft *could* — present *können* is ability / blunt plan
+
 *Deeper:*
 - [`Modalverb + Infinitiv am Ende`](../patterns/patterns.md#modalverb--infinitiv-am-ende)
 - [`Modalverben im Präteritum — müssen, können, dürfen`](../patterns/patterns.md#modalverben-im-präteritum--müssen-können-dürfen)
@@ -914,6 +931,7 @@ either one away and the verb stays whole — it is the conjugated form that sepa
 - [`wollen vs möchten`](../patterns/patterns.md#wollen-vs-möchten)
 - [`müssen plus Infinitiv`](../patterns/patterns.md#müssen-plus-infinitiv)
 - [`sollen`](../patterns/patterns.md#sollen)
+- [`können im Konjunktiv II`](../patterns/patterns.md#können-im-konjunktiv-ii)
 - [`sollen im Präteritum`](../patterns/patterns.md#sollen-im-präteritum)
 - [`dürfen`](../patterns/patterns.md#dürfen)
 
@@ -1097,6 +1115,15 @@ Full page: [vergangenheit.md](a1.2/vergangenheit.md) · all forms: [partizip-ii.
   - *Der Kuchen ist **zu süß**.* — The cake is too sweet.
   - *Das ist **viel zu teuer**.* — That's much too expensive.
 
+- **Subjektive Bewertungen — person in the dative + *zu* + Adjektiv** *(A2.1 U8)*
+  - *Das ist **mir** zu gruselig.* — That's too scary for me.
+  - *Er findet Dokus langweilig. = Dokus sind **ihm** zu langweilig.*
+  - *Dramen sind **ihr** zu ernst.* · *Deutschland ist **uns** zu kalt.*
+  - *Der Film ist **mir** zu traurig.* · *Das Buch ist **ihnen** zu kompliziert.*
+  - same idea as *finden*, but the person who feels it is **dative**
+  - not the same as *Mir ist langweilig* (feeling bored — Adjektive mit Dativergänzung above)
+  - Trap: ~~Das ist mich zu gruselig~~ → *Das ist **mir** zu gruselig.*
+
 - ***gern − lieber − am liebsten*** modifies a **verb**; *mögen* takes a **noun** *(A1.2 U3)*
   - *Ich esse **gern** Kartoffeln.* — I like eating potatoes.
   - *Katie isst **lieber** Nudeln.* — Katie prefers eating pasta.
@@ -1121,6 +1148,7 @@ Full page: [vergangenheit.md](a1.2/vergangenheit.md) · all forms: [partizip-ii.
 - [`so wie / -er als`](../patterns/patterns.md#so-wie---er-als)
 - [`Adjektiv verstärken`](../patterns/patterns.md#adjektiv-verstärken)
 - [`zu plus Adjektiv`](../patterns/patterns.md#zu-plus-adjektiv)
+- [`Subjektive Bewertungen mit zu + Adjektiv`](../patterns/patterns.md#subjektive-bewertungen-mit-zu-adjektiv)
 - [`gern, lieber, am liebsten`](../patterns/patterns.md#gern-lieber-am-liebsten)
 - [`Adjektive mit Dativergänzung`](../patterns/patterns.md#adjektive-mit-dativergänzung)
 
@@ -1222,6 +1250,16 @@ Full page: [vergangenheit.md](a1.2/vergangenheit.md) · all forms: [partizip-ii.
   - the same inversion with *deshalb* on position 1: *…, deshalb **gehen wir** in den Park.*
   - Trap: ~~Heute wir gehen in den Park~~ — the time is position 1, so the verb is position 2
 
+- ***wenn*-Sätze** — if / when / whenever; the conjugated verb goes to the **end** *(A2.1 U8)*
+  - condition: *Wenn du springst, dann spring' ich auch.*
+  - temporal / habitual: *Wenn ich Horrorfilme sehe, dann kann ich nicht schlafen.* · *(Immer) wenn …*
+  - *dann* is optional: *Wenn du springst, spring' ich auch.*
+  - *wenn* first → main clause starts with the finite verb (or *dann* + verb)
+  - main clause first → no *dann*: *Ich spring' auch, wenn du springst.*
+  - *Ich gehe ins Kino, wenn ich Zeit habe.* · *Wenn es regnet, bleiben wir zu Hause.*
+  - Trap: ~~Wenn ich sehe Horrorfilme, …~~ → *Wenn ich Horrorfilme **sehe**, …*
+  - Trap: ~~Ich gehe ins Kino, dann wenn ich Zeit habe~~ — no *dann* after a leading main clause
+
 - **Sequence words** — when *dann / danach* starts the sentence, the verb still holds position 2
   - ***Zuerst hat** Gogo gefrühstückt.* — First Gogo had breakfast.
   - ***Dann hat** er seine Ex-Frau abgeholt.* — Then he picked up his ex-wife.
@@ -1249,6 +1287,7 @@ Full page: [vergangenheit.md](a1.2/vergangenheit.md) · all forms: [partizip-ii.
 - [`das vs dass`](../patterns/patterns.md#das-vs-dass)
 - [`Kausalsätze mit weil`](../patterns/patterns.md#kausalsätze-mit-weil)
 - [`Inversion`](../patterns/patterns.md#inversion)
+- [`wenn-Sätze`](../patterns/patterns.md#wenn-sätze)
 
 ---
 
@@ -1483,7 +1522,9 @@ pointers rather than rules — the sentences themselves are in the unit files an
 [Hast du Lust? / Ich bin dabei.](../patterns/patterns.md#hast-du-lust--ich-bin-dabei) ·
 [Hast du Zeit?](../patterns/patterns.md#hast-du-zeit) ·
 [Wie findest du X?](../patterns/patterns.md#wie-findest-du-x) ·
-[gefallen · passen · stehen](../patterns/patterns.md#gefallen--passen--stehen)
+[gefallen · passen · stehen](../patterns/patterns.md#gefallen--passen--stehen) ·
+[Vorschläge machen](../patterns/patterns.md#vorschläge-machen) ·
+[Über einen Film sprechen](../patterns/patterns.md#über-einen-film-sprechen)
 
 **Invitations and thanks**
 
@@ -1516,7 +1557,7 @@ pointers rather than rules — the sentences themselves are in the unit files an
 
 ## What this page does **not** cover
 
-Every rule in the ingested units (A1.1 U1–U10 · A1.2 U1–U10 · A2.1 U1–U7) is above.
+Every rule in the ingested units (A1.1 U1–U10 · A1.2 U1–U10 · A2.1 U1–U8) is above.
 §1–§14 hold the rules; §15 holds the formulas. Beyond the ingested units: full genitive articles,
 adjective endings (*des neuen Hauses*), relative clauses, the A2.1 past perfect (not in A2.1 U1–U3),
 reflexive verbs (*sich verbessern* — it turns up inside a proverb gloss, but the *sich* system

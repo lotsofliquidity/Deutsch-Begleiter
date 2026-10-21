@@ -142,6 +142,12 @@ Taught by `/ingest`. Drilled by `/drill`. Source PDFs: `courses/`.
 | [Verben mit Dativ und Akkusativ](#verben-mit-dativ-und-akkusativ) | *geben / leihen* — person then thing | A2.1 U7 |
 | [Verben rund ums Geld](#verben-rund-ums-geld) | pay · lend · withdraw · spend | A2.1 U7 |
 | [Essen bestellen und bezahlen](#essen-bestellen-und-bezahlen) | order delivery · keep the change | A2.1 U7 |
+| [Subjektive Bewertungen mit zu + Adjektiv](#subjektive-bewertungen-mit-zu-adjektiv) | dative person + *zu* + adjective | A2.1 U8 |
+| [wenn-Sätze](#wenn-sätze) | *wenn* condition / time · verb at the end | A2.1 U8 |
+| [jeder vs alle](#jeder-vs-alle) | each / every (sg) vs all (pl) | A2.1 U8 |
+| [können im Konjunktiv II](#können-im-konjunktiv-ii) | *könnte / könnten* — soft suggestion | A2.1 U8 |
+| [Über einen Film sprechen](#über-einen-film-sprechen) | genres · plot · roles | A2.1 U8 |
+| [Vorschläge machen](#vorschläge-machen) | *Wie wär's · Lass uns · Wir könnten* | A2.1 U8 |
 
 Seed patterns not yet drilled from early units: [Wohin + Verb](#wohin--verb-der-bewegung)
 
@@ -5075,6 +5081,200 @@ Countries with an article: **maskulin** *der Irak · der Iran · der Jemen* — 
 
 ---
 
+## Subjektive Bewertungen mit zu + Adjektiv
+
+**Frame:** `<Person im Dativ> + zu + Adjektiv` · `Das ist mir zu <Adj>.`
+**Meaning:** too X for someone — a subjective “too much”
+**Slot:** *mir · dir · ihm · ihr · uns · euch · ihnen · Ihnen* + *gruselig · langweilig · ernst · kalt · traurig*
+**Register:** either
+
+**Behind it:** Same *zu* as [zu plus Adjektiv](#zu-plus-adjektiv), but the **person who feels it** is dative. Equals *finden*: *Er findet Dokus langweilig. = Dokus sind ihm zu langweilig.* Not the same as *Mir ist langweilig* (feeling bored — [Adjektive mit Dativergänzung](#adjektive-mit-dativergänzung)).
+
+**Instances**
+- Das ist mir zu gruselig.
+- Dokus sind ihm zu langweilig.
+- Dramen sind ihr zu ernst.
+- Deutschland ist uns zu kalt.
+- Der Film ist mir zu traurig.
+- Der Kaffee ist uns zu schwach.
+- Das Buch ist ihnen zu kompliziert.
+- Dramen sind ihm zu langweilig.
+
+**Ladder**
+1. Das ist mir zu gruselig.
+2. Dokus sind ihm zu langweilig.
+3. Dramen sind ihr zu ernst.
+4. Deutschland ist uns zu kalt.
+5. Der Film ist mir zu traurig.
+6. Das Buch ist ihnen zu kompliziert.
+7. Trap: ~~Das ist mich zu gruselig~~ — the person is **dative**
+
+**Meta:** A2.1 Unit 8 · Dialog 1 · added 2026-10-21
+
+---
+
+## wenn-Sätze
+
+**Frame:** `Wenn …, (dann) …` · `…, wenn …`
+**Meaning:** if / when / whenever — condition or time
+**Slot:** the condition clause · the consequence clause
+**Register:** either
+
+**Behind it:** *wenn* opens a **Nebensatz** — conjugated verb at the **end**. *wenn* first → main clause starts with the finite verb (or *dann* + verb). Main clause first → no *dann*. Conditional and temporal are hard to tell apart; *(Immer) wenn* marks “whenever”.
+
+**Instances**
+- Wenn du springst, dann spring' ich auch.
+- Wenn du springst, spring' ich auch.
+- Ich spring' auch, wenn du springst.
+- Wenn ich Horrorfilme sehe, dann kann ich nicht schlafen.
+- Immer wenn ich Horrorfilme sehe, kann ich nicht schlafen.
+- Ich gehe ins Kino, wenn ich Zeit habe.
+- Wenn es regnet, bleiben wir zu Hause.
+- Wenn er zu einem Date geht, kauft er Blumen.
+
+**Ladder**
+1. Wenn du springst, spring' ich auch.
+2. Ich gehe ins Kino, wenn ich Zeit habe.
+3. Wenn es regnet, bleiben wir zu Hause.
+4. Immer wenn ich Horrorfilme sehe, kann ich nicht schlafen.
+5. Wenn sie einen Dokumentarfilm schaut, schläft sie ein.
+6. Trap: ~~Wenn ich sehe Horrorfilme, …~~ — verb of the *wenn*-clause goes to the end
+7. Trap: ~~Ich gehe ins Kino, dann wenn ich Zeit habe~~ — no *dann* after a leading main clause
+
+**Meta:** A2.1 Unit 8 · Dialog 1 · added 2026-10-21
+
+---
+
+## jeder vs alle
+
+**Frame:** `jede- + Nomen` (sg) · `alle + Nomen` (pl) · `für jeden` · `alle finden …`
+**Meaning:** each / every vs all / everybody
+**Slot:** gender and case endings on *jede-* · plural *alle / allen / aller*
+**Register:** either
+
+**Behind it:** *jede-* picks the **individual** members of a group and stays **singular** (*jeder Film · jede Szene · jedes Drehbuch*). *alle* means the **whole** group and stays **plural**. Both work as article words or as stand-ins. Declension of *jede-* matches the definite article in the singular.
+
+**Instances**
+- Da ist für jeden was dabei.
+- Alle finden die lustig.
+- Jeder Film ist wichtig. · Jede Szene ist spannend. · Jedes Drehbuch ist interessant.
+- Ich finde jeden Film wichtig.
+- Mit jedem Film habe ich etwas gelernt.
+- Alle Zuschauer haben applaudiert.
+- Katie hat jeden Film mit Leonardo DiCaprio gesehen.
+- Der Regisseur spricht mit allen Darstellern.
+- In jedem Kino gibt es Popcorn.
+
+**Ladder**
+1. Da ist für jeden was dabei.
+2. Alle finden die lustig.
+3. Jeder Film · jede Szene · jedes Drehbuch
+4. jeden Film (Akk) · mit jedem Film (Dat)
+5. Alle Filme · mit allen Darstellern
+6. Trap: ~~Alle Film~~ — *alle* needs plural
+7. Trap: ~~Jeder Filme~~ — *jede-* is singular
+
+**Meta:** A2.1 Unit 8 · Dialog 2 · added 2026-10-21
+
+---
+
+## können im Konjunktiv II
+
+**Frame:** `<Pronomen> könnte(st/t/n) + Infinitiv`
+**Meaning:** could — a polite / soft suggestion
+**Slot:** *ich könnte · du könntest · er könnte · wir könnten · ihr könntet · sie/Sie könnten*
+**Register:** suggestions with *wir / du / ihr / Sie*
+
+**Behind it:** Konjunktiv II of *können*. Same person pairs as other modals: *ich* = *er/sie/es*, *wir* = *sie/Sie*. Softer than *Wollen wir …?* — *Wir könnten eine Ausstellung besuchen.*
+
+**Instances**
+- Wir könnten in einen Club gehen.
+- Wir könnten eine Ausstellung besuchen.
+- Du könntest mehr Sport machen.
+- Ihr könntet am Wochenende ins Theater gehen.
+- Frau Müller, Sie könnten in die Oper gehen.
+- Ich könnte schon jetzt die Tickets kaufen.
+- Wir könnten uns direkt vor dem Kino treffen.
+
+**Ladder**
+1. Wir könnten eine Ausstellung besuchen.
+2. Du könntest mehr Sport machen.
+3. Ihr könntet ins Theater gehen.
+4. Sie könnten in die Oper gehen. (formal)
+5. Ich könnte die Tickets kaufen.
+6. Trap: ~~Wir können…~~ when you mean a soft *could* — present *können* is ability / blunt plan
+
+**Meta:** A2.1 Unit 8 · Dialog 3 · added 2026-10-21
+
+---
+
+## Über einen Film sprechen
+
+**Frame:** `In dem Film geht es um X.` · `Der Film handelt von X.` · `Der Film ist über X.` · `Die Hauptrolle spielt X.`
+**Meaning:** talk about plot, people, and reaction
+**Slot:** topic (Akk after *um* / *über* · Dat after *von*) · actor · adjective
+**Register:** booklet: *geht es um* / *handelt von* · everyday: *über*
+
+**Behind it:** *geht es um* + Akkusativ · *handelt von* + Dativ · *über* + Akkusativ (topic “about” — common spoken form, not the U8 teaching heading). People: *Produzent · Regisseur · Drehbuchautor · Schauspieler · Kameramann · Zuschauer*. Reaction: *Der Film gefällt mir, weil …* · *Ich finde den Film gut, weil …*
+
+**Instances**
+- In dem Film geht es um Geschichte.
+- Der Film handelt von der ehemaligen DDR.
+- Der Film handelt von Deutschland.
+- Der Film ist über Deutschland.
+- Die Hauptrolle spielt Daniel Brühl.
+- Wer führt Regie?
+- Wann drehen Sie den Film?
+- Ist der Film auf Deutsch synchronisiert?
+- Der Film gefällt mir, weil er lustig ist.
+- Der Film hat viele Preise gewonnen.
+
+**Ladder**
+1. In dem Film geht es um X.
+2. Der Film handelt von X.
+3. Der Film ist über X.
+4. Die Hauptrolle spielt X.
+5. Wer führt Regie?
+6. Der Film gefällt mir, weil …
+7. Trap: ~~Der Film handelt um …~~ — *handeln von* + Dativ; *geht es um* / *über* + Akkusativ
+
+**Meta:** A2.1 Unit 8 · Dialog 2 · added 2026-10-21 · *über* everyday frame added 2026-10-21
+
+---
+
+## Vorschläge machen
+
+**Frame:** `Wie wär's mit X?` · `Lass uns X.` · `Wollen wir X?` · `Was hältst du von X?` · `Hast du Lust auf X?`
+**Meaning:** suggest a plan and react
+**Slot:** activity / place · accept or refuse
+**Register:** informal friends (*Lass uns · Wie wär's*); *Wir könnten* is softer
+
+**Behind it:** *Wie wär's?* = *Wie wäre es?* Bundle with [können im Konjunktiv II](#können-im-konjunktiv-ii) and [Hast du Lust? / Ich bin dabei.](#hast-du-lust--ich-bin-dabei). Refuse: *Das ist keine gute Idee.* · *Ich habe keine Lust.* · *Das ist mir zu langweilig.* Accept: *Gute Idee! / Guter Vorschlag! / Super Idee! / Ja, gern!*
+
+**Instances**
+- Wie wär's mit Titanic?
+- Wie wär's mit einer Komödie?
+- Lass uns auf ein Konzert gehen!
+- Lass uns dort hingehen.
+- Wollen wir einen Film schauen?
+- Was hältst du von Kino?
+- Hast du Lust auf Kino?
+- Wir könnten doch mal was unternehmen.
+- Gute Idee! / Guter Vorschlag!
+
+**Ladder**
+1. Wollen wir einen Film schauen?
+2. Wie wär's mit X?
+3. Lass uns auf ein Konzert gehen!
+4. Was hältst du von X?
+5. Hast du Lust auf X?
+6. Wir könnten X.
+7. Trap: ~~Wie wär's mit Kino gehen~~ — *mit* takes a noun: *mit Kino* / *mit einem Konzert*
+
+**Meta:** A2.1 Unit 8 · Dialogs 1–3 · added 2026-10-21
+
+---
+
 ## Later seeds (not yet fully met)
 
 ### Wohin + Verb der Bewegung
@@ -5198,6 +5398,11 @@ Countries with an article: **maskulin** *der Irak · der Iran · der Jemen* — 
 | both pronouns | Er gibt es ihm. | ~~Er gibt ihm es.~~ | Akk before Dat when both are pronouns |
 | *leihen* vs *schulden* | Kannst du mir Geld leihen? | Du schuldest mir 20 Euro. | lend vs owe |
 | *bezahlen* vs *zählen* | die Rechnung bezahlen | das Geld zählen | pay vs count |
+| dative + *zu* + Adj | Das ist mir zu gruselig. | ~~Das ist mich zu gruselig~~ | the person is dative |
+| *wenn* verb-final | Wenn ich Horrorfilme sehe, … | ~~Wenn ich sehe Horrorfilme~~ | Nebensatz → verb at the end |
+| *jeder* vs *alle* | jeder Film (sg) · alle Filme (pl) | ~~Alle Film~~ / ~~Jeder Filme~~ | singular vs plural |
+| *könnte* suggestion | Wir könnten … | ~~Wir können …~~ for soft *could* | Konjunktiv II vs present |
+| *geht es um* vs *handelt von* vs *über* | geht es um / über + Akk · handelt von + Dat | ~~handelt um~~ | three “about” frames, two cases |
 
 ---
 

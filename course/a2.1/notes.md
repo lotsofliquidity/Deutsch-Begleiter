@@ -988,3 +988,77 @@ Vollständige Liste in [`../a1.2/partizip-ii.md`](../a1.2/partizip-ii.md).
 - *Mal sehen!* = let's see
 - *Ist nicht dein Ernst.* = you're kidding
 - *gib her* = give me that
+
+---
+
+## Subjektive Bewertungen — *zu* + Adjektiv (U8)
+
+Opinion with *finden*, or person in the **dative** + *zu* + adjective.
+
+| *finden* | = dative + *zu* |
+|---|---|
+| *Er findet Dokus langweilig.* | *Dokus sind ihm zu langweilig.* |
+| *Sie findet Dramen zu ernst.* | *Dramen sind ihr zu ernst.* |
+| *Deutschland finden wir zu kalt.* | *Deutschland ist uns zu kalt.* |
+
+*Das ist mir zu gruselig.* · *Der Film ist mir zu traurig.* · *Das Buch ist ihnen zu kompliziert.*
+
+## *wenn*-Sätze (U8)
+
+| Shape | Example |
+|---|---|
+| *wenn* first (+ optional *dann*) | *Wenn du springst, (dann) spring' ich auch.* |
+| main clause first (no *dann*) | *Ich spring' auch, wenn du springst.* |
+| temporal / habitual | *(Immer) wenn ich Horrorfilme sehe, kann ich nicht schlafen.* |
+
+The *wenn*-clause is a Nebensatz → conjugated verb at the **end**.
+*wenn* first → main clause starts with the finite verb.
+
+## *jeder* vs *alle* (U8)
+
+| | *jede-* (singular) | *alle* (plural) |
+|---|---|---|
+| idea | each / every | all / everybody |
+| Nom | *jeder · jedes · jede* | *alle* |
+| Akk | *jeden · jedes · jede* | *alle* |
+| Dat | *jedem · jedem · jeder* | *allen* |
+
+*Da ist für jeden was dabei.* · *Alle finden die lustig.* · *mit allen Darstellern*
+
+## *können* im Konjunktiv II (U8)
+
+Soft suggestion: *Wir könnten in einen Club gehen.*
+
+| | könnten |
+|---|---|
+| ich / er | könnte |
+| du | könntest |
+| wir / sie / Sie | könnten |
+| ihr | könntet |
+
+## Wortfeld: Film und Veranstaltungen (U8)
+
+- **Genres** — *der Actionfilm · der Dokumentarfilm / die Doku · das Drama · der Horrorfilm · die Komödie · der Krimi · der Liebesfilm · der Science-Fiction-Film · der Thriller · der Western · der Zeichentrickfilm*
+- **Film** — *die Regie · das Drehbuch · die Handlung · die Szene · die Hauptrolle · der Produzent · der Regisseur · der Drehbuchautor · der Schauspieler · der Kameramann · der Zuschauer*
+- **Ort** — *der Club · die Disco · das Konzert · das Kino · die Oper · das Theater · das Museum · die Ausstellung · die Lesung · die Veranstaltung*
+- **Plans** — *die Lust* (kein Plural in this sense) · *Lust haben (auf + Akk.)* · *der Vorschlag* (Pl: *Vorschläge*)
+- Frames: *In dem Film geht es um + Akk.* · *Der Film handelt von + Dat.* · *Wie wär's mit X?* · *Lass uns X.* · *Hast du Lust auf X?* · *Guter Vorschlag!*
+
+## Partizip II — neue Formen (U8)
+
+| Infinitiv | Partizip II |
+|---|---|
+| *gewinnen* | gewonnen |
+
+*klauen → geklaut* already logged (A1.2). Vollständige Liste in [`../a1.2/partizip-ii.md`](../a1.2/partizip-ii.md).
+
+## Footnotes (U8)
+
+- *Die Doku* = *die Dokumentation*
+- *Wie wär's?* = *Wie wäre es?*
+- *fürs* = *für das*
+- *was unternehmen* = *etwas unternehmen*
+- *Technik, die begeistert* — ironic when tech fails
+- *Weichei* = wimp (lit. soft egg)
+- *Ich lebe in den Tag hinein.* = I live for the moment
+- *Im Mauerpark ist immer was los.* = there's always something going on

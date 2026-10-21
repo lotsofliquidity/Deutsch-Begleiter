@@ -228,6 +228,7 @@ These look regular but aren't — the stem changes, so they're learned individua
 | schaffen | geschafft | to manage, make it | |
 | klingeln | geklingelt | to ring | |
 | klauen | geklaut | to steal | |
+| gewinnen | gewonnen | to win | |
 
 ---
 

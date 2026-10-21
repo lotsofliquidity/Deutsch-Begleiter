@@ -654,3 +654,28 @@ Accusative is a pronoun — order?	the pronoun comes first	a2.1 unit_07 pattern
 Both objects are pronouns — order?	accusative before dative	a2.1 unit_07 pattern
 to smell — Partizip II?	gerochen	a2.1 unit_07 verb
 Which verbs take dative + accusative?	geben · leihen · bringen · empfehlen · erklären · erzählen · holen · kaufen · schenken · schicken · schreiben · vorlesen · wünschen · zeigen	a2.1 unit_07 pattern
+Subjective "too X for me" — which case is the person?	dative	a2.1 unit_08 pattern
+Horror is too scary for me. — frame?	Das ist mir zu gruselig.	a2.1 unit_08 pattern
+finden vs dative + zu — same meaning?	Er findet Dokus langweilig. = Dokus sind ihm zu langweilig.	a2.1 unit_08 pattern
+wenn-clause — where does the conjugated verb go?	at the end	a2.1 unit_08 pattern
+wenn first — what starts the main clause?	the finite verb (or dann + verb)	a2.1 unit_08 pattern
+Main clause first with wenn — use dann?	no	a2.1 unit_08 pattern
+jeder vs alle — which is singular?	jede-	a2.1 unit_08 pattern
+jeder vs alle — which is plural?	alle	a2.1 unit_08 pattern
+every movie (Nominativ)	jeder Film	a2.1 unit_08 pattern
+every scene (Nominativ)	jede Szene	a2.1 unit_08 pattern
+every screenplay (Nominativ)	jedes Drehbuch	a2.1 unit_08 pattern
+every movie (Akkusativ)	jeden Film	a2.1 unit_08 pattern
+with every movie (Dativ)	mit jedem Film	a2.1 unit_08 pattern
+with all the actors (Dativ)	mit allen Darstellern	a2.1 unit_08 pattern
+können Konjunktiv II — ich / er?	könnte	a2.1 unit_08 verb
+können Konjunktiv II — du?	könntest	a2.1 unit_08 verb
+können Konjunktiv II — wir / Sie?	könnten	a2.1 unit_08 verb
+können Konjunktiv II — ihr?	könntet	a2.1 unit_08 verb
+to win — Partizip II?	gewonnen	a2.1 unit_08 verb
+The movie is about X. — frame?	In dem Film geht es um X.	a2.1 unit_08 pattern
+The movie deals with X. — frame?	Der Film handelt von X.	a2.1 unit_08 pattern
+The movie is about X. (everyday über) — frame?	Der Film ist über X.	a2.1 unit_08 pattern
+geht es um takes which case?	accusative	a2.1 unit_08 pattern
+handelt von takes which case?	dative	a2.1 unit_08 pattern
+über (about a topic) takes which case?	accusative	a2.1 unit_08 pattern
