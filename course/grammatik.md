@@ -582,6 +582,16 @@ Read the **last letters** of the noun first, before you reach for the article:
   - *dorthin · dahin* = *(to) there* — the *-hin* is what adds the movement
   - *Wie komme ich **dorthin**?* — How do I get there?
 
+- **Lokaladverbien — *Wo?* vs *Wohin?*** *(A2.1 U10)*
+  - position (*Wo?*): *draußen · drinnen · oben · unten* — no *nach*
+  - direction (*Wohin?*): *nach draußen · nach drinnen · nach oben · nach unten*
+  - spoken direction (= separable prefixes): *raus · rein · rauf · runter*
+  - *Sie sind **draußen**.* — They are outside.
+  - *Sie gehen **nach draußen**.* = *Sie gehen **raus**.* (*rausgehen*)
+  - *lass uns erst mal **reingehen*** · *Er bringt den Müll **raus**.* · *Kommen Sie mal **rauf**!*
+  - Tip: *raus/rein/rauf/runter* are spoken shorts of *hinaus/hinein/hinauf/hinunter*
+  - Trap: ~~Sie gehen draußen~~ → *nach draußen* / *raus*
+
 - **Polite ordering** — *hätte gerne* is a touch more formal than *möchte* *(U5)*
   - *Ich hätte gerne Erdbeeren.* — I'd like strawberries.
   - *Welche Äpfel hätten Sie gern?* — Which apples would you like?
@@ -755,6 +765,7 @@ Read the **last letters** of the noun first, before you reach for the article:
 - [`nach + Dativ (Zeit)`](../patterns/patterns.md#nach--dativ-zeit)
 - [`in + Dativ (Zukunft)`](../patterns/patterns.md#in--dativ-zukunft)
 - [`für + Akkusativ (Zeitraum)`](../patterns/patterns.md#für--akkusativ-zeitraum)
+- [`Lokaladverbien`](../patterns/patterns.md#lokaladverbien)
 
 ---
 
@@ -856,6 +867,14 @@ either one away and the verb stays whole — it is the conjugated form that sepa
   - *herunterladen* splits; *downloaden* does not: *Ich lade Bilder herunter.* / *Ich downloade Bilder.*
   - Trap: ~~Ich habe gechatt~~ → *gechattet* — the German participle ending stays
 
+- ***los-* as a motion prefix** *(A2.1 U10)* — start of movement; separable
+  - *losgehen · losfahren · losfliegen*: *Wir gehen jetzt **los**.* · *Wann fahrt ihr heute **los**?*
+  - with a modal, spoken German often drops the motion verb: *Ich muss **los**.* · *Wollen wir **los**?* · *Gogo ist schon **los**.*
+  - other *los-* verbs: *loswerden · loslassen · loskommen*
+  - adjective ending *-los* = without: *humorlos · arbeitslos*
+  - noun *das Los* = lottery ticket / fate
+  - Trap: one spelling, several jobs — see *Bedeutungen von los*
+
 *Deeper:*
 - [`Trennbare Verben (Bahn)`](../patterns/patterns.md#trennbare-verben-bahn)
 - [`Denglisch — englische Verben`](../patterns/patterns.md#denglisch--englische-verben)
@@ -867,6 +886,7 @@ either one away and the verb stays whole — it is the conjugated form that sepa
 - [`Verben mit -ern`](../patterns/patterns.md#verben-mit--ern)
 - [`gehen + Infinitiv`](../patterns/patterns.md#gehen--infinitiv)
 - [`mögen`](../patterns/patterns.md#mögen)
+- [`Bedeutungen von los`](../patterns/patterns.md#bedeutungen-von-los)
 - [`werden`](../patterns/patterns.md#werden)
 - [`einladen zu + Dativ`](../patterns/patterns.md#einladen-zu--dativ)
 
@@ -1479,6 +1499,11 @@ Full page: [vergangenheit.md](a1.2/vergangenheit.md) · all forms: [partizip-ii.
   - *nämlich* — “after all / you see”, **not** “namely”: it explains and excuses
     - *Putzen beruhigt sie **nämlich** immer.* — After all, cleaning always calms her down.
     - *Mich beruhigt Putzen **nämlich** gar nicht.* — Cleaning doesn't calm *me* down at all.
+  - *mal* — softens a request or question; friendlier, not content *(A2.1 U10)*
+    - *Zeig **mal** die Tickets!* · *Guck **mal**, ob die echt sind!* · *Kommen Sie **mal** rauf!*
+    - *Willst du **mal** sehen?* · *Können Sie mir **mal** helfen?* · *warte **mal** kurz*
+    - without it the same line can sound harder: *Zeig die Tickets!* · *Können Sie mir helfen?*
+    - Trap: ~~Zeig die Tickets mal~~ — keep *mal* mid-sentence
 
 - **Entschuldigung vs Es tut mir leid** — not always interchangeable
   - Interrupt or own a fault: ***Entschuldigung**! Wo ist der Geldautomat?* — Excuse me! Where's the cash machine?
@@ -1513,6 +1538,8 @@ Full page: [vergangenheit.md](a1.2/vergangenheit.md) · all forms: [partizip-ii.
 - [`Eine E-Mail schreiben (formell)`](../patterns/patterns.md#eine-e-mail-schreiben-formell)
 - [`Bar oder mit Karte?`](../patterns/patterns.md#bar-oder-mit-karte)
 - [`ihr vs Sie (plural you)`](../patterns/patterns.md#ihr-vs-sie-plural-you)
+- [`Modalpartikel mal`](../patterns/patterns.md#modalpartikel-mal)
+- [`Bedeutungen von los`](../patterns/patterns.md#bedeutungen-von-los)
 
 ---
 
@@ -1576,7 +1603,9 @@ pointers rather than rules — the sentences themselves are in the unit files an
 [Über einen Film sprechen](../patterns/patterns.md#über-einen-film-sprechen) ·
 [Beim Kundenservice](../patterns/patterns.md#beim-kundenservice) ·
 [Einen Termin vereinbaren](../patterns/patterns.md#einen-termin-vereinbaren) ·
-[Ein Gerät bedienen](../patterns/patterns.md#ein-gerät-bedienen)
+[Ein Gerät bedienen](../patterns/patterns.md#ein-gerät-bedienen) ·
+[Über Musik sprechen](../patterns/patterns.md#über-musik-sprechen) ·
+[Das Konzert](../patterns/patterns.md#das-konzert)
 
 **Invitations and thanks**
 
@@ -1609,7 +1638,7 @@ pointers rather than rules — the sentences themselves are in the unit files an
 
 ## What this page does **not** cover
 
-Every rule in the ingested units (A1.1 U1–U10 · A1.2 U1–U10 · A2.1 U1–U9) is above.
+Every rule in the ingested units (A1.1 U1–U10 · A1.2 U1–U10 · A2.1 U1–U10) is above.
 §1–§14 hold the rules; §15 holds the formulas. Beyond the ingested units: full genitive articles,
 adjective endings (*des neuen Hauses*), relative clauses, the A2.1 past perfect (not in A2.1 U1–U3),
 reflexive verbs (*sich verbessern* — it turns up inside a proverb gloss, but the *sich* system

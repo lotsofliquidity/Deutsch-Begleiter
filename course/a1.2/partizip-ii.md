@@ -215,6 +215,17 @@ These look regular but aren't — the stem changes, so they're learned individua
 | ausfallen | ausgefallen | to fail, be cancelled |
 | angreifen | angegriffen | to attack |
 | anlügen | angelogen | to lie to |
+| losfahren | losgefahren | to set off (by vehicle) |
+| losfliegen | losgeflogen | to take off (plane) |
+| losgehen | losgegangen | to set off (on foot) |
+| loswerden | losgeworden | to get rid of |
+| loslassen | losgelassen | to let go |
+| loskommen | losgekommen | to get away |
+| rausbringen | rausgebracht | to take out |
+| reingehen | reingegangen | to go in |
+| raufgehen | raufgegangen | to go up |
+| runtergehen | runtergegangen | to go down |
+| rausgehen | rausgegangen | to go out |
 
 ## No *ge-*, or otherwise special
 

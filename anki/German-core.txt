@@ -715,3 +715,33 @@ bedienen → noun (with article)?	die Bedienung	a2.1 unit_09 pattern
 die Bedienung → verb?	bedienen	a2.1 unit_09 pattern
 Verb → noun in -ung — which gender?	die	a2.1 unit_09 pattern
 Does every noun have a verb twin?	no	a2.1 unit_09 pattern
+What does the particle mal do in a request?	softens it — friendlier, not content	a2.1 unit_10 pattern
+Zeig die Tickets! — softer with mal?	Zeig mal die Tickets!	a2.1 unit_10 pattern
+Können Sie mir helfen? — softer with mal?	Können Sie mir mal helfen?	a2.1 unit_10 pattern
+Wo? local adverb — outside / inside / up / down	draußen · drinnen · oben · unten	a2.1 unit_10 pattern
+Wohin? — outside (with nach)	nach draußen	a2.1 unit_10 pattern
+Wohin? — inside (with nach)	nach drinnen	a2.1 unit_10 pattern
+Wohin? — upstairs (with nach)	nach oben	a2.1 unit_10 pattern
+Wohin? — downstairs (with nach)	nach unten	a2.1 unit_10 pattern
+Spoken short for nach draußen	raus	a2.1 unit_10 pattern
+Spoken short for nach drinnen	rein	a2.1 unit_10 pattern
+Spoken short for nach oben	rauf	a2.1 unit_10 pattern
+Spoken short for nach unten	runter	a2.1 unit_10 pattern
+Sie sind draußen. — same idea with movement (nach …)	Sie gehen nach draußen.	a2.1 unit_10 pattern
+Sie gehen nach draußen. — spoken short	Sie gehen raus.	a2.1 unit_10 pattern
+Los geht’s! means?	Let's start! / Here we go!	a2.1 unit_10 pattern
+Das Konzert geht gleich los. — what does los mean here?	starts / begins	a2.1 unit_10 pattern
+set off by vehicle (losfahren) — Partizip II?	losgefahren	a2.1 unit_10 verb
+take off / fly off (losfliegen) — Partizip II?	losgeflogen	a2.1 unit_10 verb
+set off on foot (losgehen) — Partizip II?	losgegangen	a2.1 unit_10 verb
+get rid of (loswerden) — Partizip II?	losgeworden	a2.1 unit_10 verb
+let go (loslassen) — Partizip II?	losgelassen	a2.1 unit_10 verb
+get away (loskommen) — Partizip II?	losgekommen	a2.1 unit_10 verb
+take out (rausbringen) — Partizip II?	rausgebracht	a2.1 unit_10 verb
+go in (reingehen) — Partizip II?	reingegangen	a2.1 unit_10 verb
+go up (raufgehen) — Partizip II?	raufgegangen	a2.1 unit_10 verb
+go down (runtergehen) — Partizip II?	runtergegangen	a2.1 unit_10 verb
+go out (rausgehen) — Partizip II?	rausgegangen	a2.1 unit_10 verb
+Was ist los? — core meaning?	What's going on? / What's wrong?	a2.1 unit_10 pattern
+With a modal, spoken short for Ich muss losgehen?	Ich muss los.	a2.1 unit_10 pattern
+Adjective ending -los means?	without / -less (humorlos · arbeitslos)	a2.1 unit_10 pattern

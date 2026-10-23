@@ -1125,3 +1125,68 @@ After an event → *Wann?* · **Dativ**.
 - *Druck machen* = put pressure on
 - *Freilich* = of course (southern/Austrian flavour in the dialog)
 - *seit* ≠ *seid*
+
+---
+
+## Modalpartikel *mal* (U10)
+
+Softens requests and questions — flavour, not content. Dropping it still leaves a correct sentence.
+
+*Zeig mal die Tickets!* · *Guck mal, ob die echt sind!* · *Kommen Sie mal rauf!* · *Willst du mal sehen?* · *Können Sie mir mal helfen?* · *warte mal kurz*
+
+Harder without it: *Zeig die Tickets!* · *Können Sie mir helfen?*
+
+## Bedeutungen von *los* (U10)
+
+| Use | Example |
+|---|---|
+| start | *Los geht’s!* · *Das Konzert geht gleich los.* · *Los, beeil dich!* |
+| *los + sein* | *Was ist denn hier los?* · *viel/wenig los* · *Was ist los mit dir?* · *Ich bin meine Arbeit los.* |
+| motion prefix | *losgehen · losfahren · losfliegen* |
+| modal short | *Ich muss los.* (= *losgehen*) · *Wollen wir los?* · *Gogo ist schon los.* |
+| other verbs | *loswerden · loskommen · loslassen* |
+| adj. *-los* | *humorlos · arbeitslos* |
+| noun | *das Los* (lottery / fate) |
+
+## Lokaladverbien (U10)
+
+| Frage | Form |
+|---|---|
+| *Wo?* | *draußen · drinnen · oben · unten* |
+| *Wohin?* | *nach draußen · nach drinnen · nach oben · nach unten* |
+| spoken (= *Wohin?*) | *raus · rein · rauf · runter* (separable prefixes) |
+
+*Sie sind draußen.* · *Sie gehen nach draußen.* = *Sie gehen raus.* (*rausgehen*)
+*reingehen · raufgehen · runtergehen · rausbringen · reinfahren*
+
+## Wortfeld: Musik und Konzert (U10)
+
+- **Musik** — *das Lied · der Text · der Musikstil · die Stimme · die Band · der Musiker · der Sänger · die Sängerin · singen · tanzen*
+- **Instrumente** — *die Gitarre · das Schlagzeug · das Saxofon · die Trompete · das Klavier · der Kontrabass · die Geige · die Flöte*
+- **Konzert** — *die Konzerthalle · die Eintrittskarte / das Ticket · der Eintritt · der Vorverkauf · die Abendkasse · die Bühne · der Auftritt · das Publikum*
+- Frames: *Magst du X?* · *Was gefällt dir?* · *Ich finde X gut.* · *auf ein / zu einem Konzert gehen* · *Kann ich mitkommen?*
+
+## Partizip II — neue Formen (U10)
+
+| Infinitiv | Partizip II |
+|---|---|
+| *losfahren* | losgefahren |
+| *losfliegen* | losgeflogen |
+| *losgehen* | losgegangen |
+| *loswerden* | losgeworden |
+| *loslassen* | losgelassen |
+| *loskommen* | losgekommen |
+| *rausbringen* | rausgebracht |
+| *reingehen* | reingegangen |
+| *raufgehen* | raufgegangen |
+| *runtergehen* | runtergegangen |
+| *rausgehen* | rausgegangen |
+
+Vollständige Liste in [`../a1.2/partizip-ii.md`](../a1.2/partizip-ii.md).
+
+## Footnotes (U10)
+
+- *dat* = *das* (Northern colloquial)
+- *die Sau rauslassen* = wild partying / letting off steam
+- *aufs Klo* = to the toilet (colloquial)
+- *auf’m* = *auf dem*

@@ -3083,3 +3083,140 @@ to cancel an appointment	einen Termin absagen	a2.1 unit_09 chunk
 hairdresser's appointment	der Friseurtermin · die Friseurtermine	a2.1 unit_09 noun
 How about tomorrow at 12?	Wie wäre es mit morgen um 12 Uhr?	a2.1 unit_09 chunk
 Yes, that suits / works.	Ja, das passt.	a2.1 unit_09 chunk
+What does the particle mal do in a request?	softens it — friendlier, not content	a2.1 unit_10 pattern
+Zeig die Tickets! — softer with mal?	Zeig mal die Tickets!	a2.1 unit_10 pattern
+Können Sie mir helfen? — softer with mal?	Können Sie mir mal helfen?	a2.1 unit_10 pattern
+Wo? local adverb — outside / inside / up / down	draußen · drinnen · oben · unten	a2.1 unit_10 pattern
+Wohin? — outside (with nach)	nach draußen	a2.1 unit_10 pattern
+Wohin? — inside (with nach)	nach drinnen	a2.1 unit_10 pattern
+Wohin? — upstairs (with nach)	nach oben	a2.1 unit_10 pattern
+Wohin? — downstairs (with nach)	nach unten	a2.1 unit_10 pattern
+Spoken short for nach draußen	raus	a2.1 unit_10 pattern
+Spoken short for nach drinnen	rein	a2.1 unit_10 pattern
+Spoken short for nach oben	rauf	a2.1 unit_10 pattern
+Spoken short for nach unten	runter	a2.1 unit_10 pattern
+Sie sind draußen. — same idea with movement (nach …)	Sie gehen nach draußen.	a2.1 unit_10 pattern
+Sie gehen nach draußen. — spoken short	Sie gehen raus.	a2.1 unit_10 pattern
+Los geht’s! means?	Let's start! / Here we go!	a2.1 unit_10 pattern
+Das Konzert geht gleich los. — what does los mean here?	starts / begins	a2.1 unit_10 pattern
+What's wrong with you?	Was ist los mit dir?	a2.1 unit_10 chunk
+There is a lot going on at the concert.	Auf dem Konzert ist viel los.	a2.1 unit_10 chunk
+I have to go. (modal short with los)	Ich muss los.	a2.1 unit_10 chunk
+Shall we go / set off? (modal short with los)	Wollen wir los?	a2.1 unit_10 chunk
+to get rid of the tickets	die Tickets loswerden	a2.1 unit_10 chunk
+Let go of me!	Lass mich los!	a2.1 unit_10 chunk
+humourless / without humour	humorlos	a2.1 unit_10 chunk
+unemployed / jobless	arbeitslos	a2.1 unit_10 chunk
+lottery ticket / fate (with article)	das Los · die Lose	a2.1 unit_10 noun
+It looks great on you.	Es steht dir super.	a2.1 unit_10 chunk
+Don't talk nonsense!	Erzähl doch nicht!	a2.1 unit_10 chunk
+that's what you call X	das nennt man X	a2.1 unit_10 chunk
+for example	zum Beispiel	a2.1 unit_10 chunk
+I only like one song by him.	Von dem mag ich nur ein Lied.	a2.1 unit_10 chunk
+Do you like X? (like a noun)	Magst du X?	a2.1 unit_10 chunk
+What kind of music does he make?	Was macht er denn für Musik?	a2.1 unit_10 chunk
+What do you like then? (gefallen)	Was gefällt dir denn?	a2.1 unit_10 chunk
+I like / find X good.	Ich finde X gut.	a2.1 unit_10 chunk
+Can I come along?	Kann ich mitkommen?	a2.1 unit_10 chunk
+I'm going to their concert tomorrow.	Ich gehe morgen auf ihr Konzert.	a2.1 unit_10 chunk
+Wait a minute. (softened with mal)	Warte mal kurz.	a2.1 unit_10 chunk
+Don't you fancy some X? (with mal)	Hast du nicht mal Lust auf X?	a2.1 unit_10 chunk
+Keep your hands off it!	Lass die Finger davon!	a2.1 unit_10 chunk
+but not all at once	aber nicht auf einmal	a2.1 unit_10 chunk
+I'm back!	Da bin ich wieder!	a2.1 unit_10 chunk
+Dance with me!	Tanz mit mir!	a2.1 unit_10 chunk
+Let's go to the concert.	Lass uns zum Konzert gehen.	a2.1 unit_10 chunk
+Let's dance!	Lass uns tanzen!	a2.1 unit_10 chunk
+Let's go in first. (softened)	Lass uns erst mal reingehen!	a2.1 unit_10 chunk
+to let off steam / party wild	die Sau rauslassen	a2.1 unit_10 chunk
+Something's wrong.	Irgendwas stimmt nicht.	a2.1 unit_10 chunk
+I'll call us a taxi.	Ich ruf' uns ein Taxi.	a2.1 unit_10 chunk
+Here we go! / Let’s start!	Los geht’s!	a2.1 unit_10 chunk
+The concert is about to start.	Das Konzert geht gleich los.	a2.1 unit_10 chunk
+Come on! (hurry / start)	Los!	a2.1 unit_10 chunk
+Come on, hurry up!	Los, beeil dich!	a2.1 unit_10 chunk
+They go to a concert. (auf)	Sie gehen auf ein Konzert.	a2.1 unit_10 chunk
+They go to a concert. (zu)	Sie gehen zu einem Konzert.	a2.1 unit_10 chunk
+The tickets are sold out.	Die Eintrittskarten sind ausverkauft.	a2.1 unit_10 chunk
+Admission costs 70 euros.	Der Eintritt kostet 70 Euro.	a2.1 unit_10 chunk
+at the box office	an der Abendkasse	a2.1 unit_10 chunk
+in the pre-sale / advance sales	im Vorverkauf	a2.1 unit_10 chunk
+The band will soon come on stage.	Die Band kommt bald auf die Bühne.	a2.1 unit_10 chunk
+Can you help me? (formal, softened with mal)	Können Sie mir mal helfen?	a2.1 unit_10 chunk
+Show me the tickets. (softened with mal)	Zeig mal die Tickets!	a2.1 unit_10 chunk
+They are outside.	Sie sind draußen.	a2.1 unit_10 chunk
+They are inside.	Sie sind drinnen.	a2.1 unit_10 chunk
+She lives upstairs.	Sie wohnt oben.	a2.1 unit_10 chunk
+They are downstairs.	Sie sind unten.	a2.1 unit_10 chunk
+They are going outside. (direction)	Sie gehen nach draußen.	a2.1 unit_10 chunk
+They are going inside. (direction)	Sie gehen nach drinnen.	a2.1 unit_10 chunk
+They are going upstairs. (direction)	Sie gehen nach oben.	a2.1 unit_10 chunk
+They are going downstairs. (direction)	Sie gehen nach unten.	a2.1 unit_10 chunk
+They go out. (colloquial short)	Sie gehen raus.	a2.1 unit_10 chunk
+They go in. (colloquial short)	Sie gehen rein.	a2.1 unit_10 chunk
+Come up! (formal, with mal)	Kommen Sie mal rauf!	a2.1 unit_10 chunk
+Do you play an instrument?	Spielst du ein Instrument?	a2.1 unit_10 chunk
+She plays guitar.	Sie spielt Gitarre.	a2.1 unit_10 chunk
+Katie can sing well.	Katie kann gut singen.	a2.1 unit_10 chunk
+What style of music do you like?	Welcher Musikstil gefällt dir?	a2.1 unit_10 chunk
+I like rock music. (gefallen)	Mir gefällt Rockmusik.	a2.1 unit_10 chunk
+Do you like listening to music?	Hörst du gern Musik?	a2.1 unit_10 chunk
+Do you have a favourite song?	Hast du ein Lieblingslied?	a2.1 unit_10 chunk
+In the pre-sale there are no more tickets.	Im Vorverkauf gibt es keine Karten mehr.	a2.1 unit_10 chunk
+The audience is excited / thrilled.	Das Publikum ist begeistert.	a2.1 unit_10 chunk
+music	die Musik · die Musiken	a2.1 unit_10 noun
+song / track	das Lied · die Lieder	a2.1 unit_10 noun
+lyrics / text	der Text · die Texte	a2.1 unit_10 noun
+music style / genre (Stil)	der Musikstil · die Musikstile	a2.1 unit_10 noun
+music genre / direction	die Musikrichtung · die Musikrichtungen	a2.1 unit_10 noun
+heavy metal	das Heavy Metal · (no plural)	a2.1 unit_10 noun
+jazz	der Jazz · (no plural)	a2.1 unit_10 noun
+classical music	die klassische Musik · (no plural)	a2.1 unit_10 noun
+pop (music)	der Pop · (no plural)	a2.1 unit_10 noun
+punk	der Punk · (no plural)	a2.1 unit_10 noun
+rap	der Rap · (no plural)	a2.1 unit_10 noun
+reggae	der Reggae · (no plural)	a2.1 unit_10 noun
+rock (music)	der Rock · (no plural)	a2.1 unit_10 noun
+Schlager (German pop)	der Schlager · (no plural)	a2.1 unit_10 noun
+techno	der Techno · (no plural)	a2.1 unit_10 noun
+guitar	die Gitarre · die Gitarren	a2.1 unit_10 noun
+drums / drum kit	das Schlagzeug · die Schlagzeuge	a2.1 unit_10 noun
+saxophone	das Saxofon · die Saxofone	a2.1 unit_10 noun
+trumpet	die Trompete · die Trompeten	a2.1 unit_10 noun
+piano	das Klavier · die Klaviere	a2.1 unit_10 noun
+double bass	der Kontrabass · die Kontrabässe	a2.1 unit_10 noun
+violin	die Geige · die Geigen	a2.1 unit_10 noun
+flute	die Flöte · die Flöten	a2.1 unit_10 noun
+musical instrument	das Instrument · die Instrumente	a2.1 unit_10 noun
+voice (singing)	die Stimme · die Stimmen	a2.1 unit_10 noun
+musician (male form as lemma)	der Musiker · die Musiker	a2.1 unit_10 noun
+band	die Band · die Bands	a2.1 unit_10 noun
+band member	das Bandmitglied · die Bandmitglieder	a2.1 unit_10 noun
+singer (male)	der Sänger · die Sänger	a2.1 unit_10 noun
+singer (female)	die Sängerin · die Sängerinnen	a2.1 unit_10 noun
+concert hall	die Konzerthalle · die Konzerthallen	a2.1 unit_10 noun
+concert ticket	die Konzertkarte · die Konzertkarten	a2.1 unit_10 noun
+admission ticket	die Eintrittskarte · die Eintrittskarten	a2.1 unit_10 noun
+ticket (event)	das Ticket · die Tickets	a2.1 unit_10 noun
+entrance fee / admission price	der Eintrittspreis · die Eintrittspreise	a2.1 unit_10 noun
+advance sale / pre-sale	der Vorverkauf · die Vorverkäufe	a2.1 unit_10 noun
+box office (evening)	die Abendkasse · die Abendkassen	a2.1 unit_10 noun
+performance / gig	der Auftritt · die Auftritte	a2.1 unit_10 noun
+stage	die Bühne · die Bühnen	a2.1 unit_10 noun
+audience	das Publikum · die Publika	a2.1 unit_10 noun
+set off by vehicle (losfahren) — Partizip II?	losgefahren	a2.1 unit_10 verb
+take off / fly off (losfliegen) — Partizip II?	losgeflogen	a2.1 unit_10 verb
+set off on foot (losgehen) — Partizip II?	losgegangen	a2.1 unit_10 verb
+get rid of (loswerden) — Partizip II?	losgeworden	a2.1 unit_10 verb
+let go (loslassen) — Partizip II?	losgelassen	a2.1 unit_10 verb
+get away (loskommen) — Partizip II?	losgekommen	a2.1 unit_10 verb
+take out (rausbringen) — Partizip II?	rausgebracht	a2.1 unit_10 verb
+go in (reingehen) — Partizip II?	reingegangen	a2.1 unit_10 verb
+go up (raufgehen) — Partizip II?	raufgegangen	a2.1 unit_10 verb
+go down (runtergehen) — Partizip II?	runtergegangen	a2.1 unit_10 verb
+go out (rausgehen) — Partizip II?	rausgegangen	a2.1 unit_10 verb
+Was ist los? — core meaning?	What's going on? / What's wrong?	a2.1 unit_10 pattern
+With a modal, spoken short for Ich muss losgehen?	Ich muss los.	a2.1 unit_10 pattern
+Adjective ending -los means?	without / -less (humorlos · arbeitslos)	a2.1 unit_10 pattern
+What's going on here? (curious / softened)	Was ist denn hier los?	a2.1 unit_10 chunk
+Watch out! (separable verb)	Pass auf!	a2.1 unit_10 chunk

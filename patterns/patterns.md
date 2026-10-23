@@ -157,6 +157,11 @@ Taught by `/ingest`. Drilled by `/drill`. Source PDFs: `courses/`.
 | [Beim Kundenservice](#beim-kundenservice) | phone help · problem · goodbye | A2.1 U9 |
 | [Einen Termin vereinbaren](#einen-termin-vereinbaren) | book · confirm · move · cancel | A2.1 U9 |
 | [Ein Gerät bedienen](#ein-gerät-bedienen) | router · plug · restart · repair | A2.1 U9 |
+| [Modalpartikel mal](#modalpartikel-mal) | softens requests / questions | A2.1 U10 |
+| [Bedeutungen von los](#bedeutungen-von-los) | start · *los sein* · *los-* prefix · *-los* | A2.1 U10 |
+| [Lokaladverbien](#lokaladverbien) | *Wo?* vs *Wohin?* · *raus/rein/rauf/runter* | A2.1 U10 |
+| [Über Musik sprechen](#über-musik-sprechen) | like a style · instruments · band | A2.1 U10 |
+| [Das Konzert](#das-konzert) | tickets · stage · box office | A2.1 U10 |
 
 Seed patterns not yet drilled from early units: [Wohin + Verb](#wohin--verb-der-bewegung)
 
@@ -5549,6 +5554,165 @@ Countries with an article: **maskulin** *der Irak · der Iran · der Jemen* — 
 
 ---
 
+## Modalpartikel mal
+
+**Frame:** `<Imperativ / Frage> mal …` — the particle sits in the middle, not content
+**Meaning:** softens a request or question — friendlier, less harsh
+**Slot:** any booklet request / question (*Zeig mal …* · *Können Sie mir mal …?*)
+**Register:** spoken, casual (and softens formal *Sie* requests too)
+
+**Behind it:** Booklet: *mal* is often used in Aufforderungen and Bitten and makes them friendlier. Dropping it still leaves a correct sentence; adding it takes the edge off.
+
+**Instances**
+- Zeig mal die Tickets!
+- Guck mal, ob die echt sind!
+- Kommen Sie mal rauf!
+- Willst du mal sehen?
+- Können Sie mir mal helfen?
+- Ach, warte mal kurz!
+- Schau mal, das hier…
+- Hast du nicht mal Lust auf Schokokekse?
+
+**Ladder**
+1. Zeig die Tickets! → Zeig mal die Tickets!
+2. Können Sie mir helfen? → Können Sie mir mal helfen?
+3. warte mal kurz
+4. Willst du mal sehen?
+5. Trap: ~~Zeig die Tickets mal~~ — particle stays mid-sentence, not stuck on the end as a tag
+
+**Traps**
+- *mal* ≠ English “once” / “times” here — it is flavour.
+- Without *mal* the same line can sound harder (*Zeig die Tickets!*).
+
+**Meta:** A2.1 Unit 10 · Dialog 2 · added 2026-10-23
+
+---
+
+## Bedeutungen von los
+
+**Frame:** `Los …!` · `… geht los` · `Was ist (denn hier) los?` · `los-` + Bewegungsverb
+**Meaning:** start / what’s going on / get rid of — one short word, several jobs
+**Slot:** situation · motion verb · adjective stem (*humor- · arbeits-*)
+**Register:** spoken
+
+**Behind it:** Booklet lists start (*Los geht’s* · *geht los*), *los + sein*, the motion prefix (*losgehen/fahren/fliegen*), modal short forms that drop the motion verb (*Ich muss los*), other verbs (*loswerden · loslassen · loskommen*), adjective *-los*, and the noun *das Los*.
+
+**Instances**
+- Los geht’s! · Das Konzert geht gleich los. · Los, beeil dich! · Los, erzähl schon!
+- Was ist denn hier los? · Auf dem Konzert ist viel/wenig los.
+- Was ist los mit dir? · Mit dir ist nichts los. · Ich bin meine Arbeit los.
+- Wir gehen jetzt los. · Wann fahrt ihr heute los? · Das Flugzeug fliegt los.
+- Ich muss los. · Wollen wir los? · Gogo ist schon los.
+- Er möchte seine Tickets loswerden. · Lass die Tickets los! · Lass mich los!
+- Er ist humorlos. · Er ist jetzt arbeitslos. · Sein Los hat gewonnen!
+
+**Ladder**
+1. Los geht’s! / Das Konzert geht gleich los.
+2. Was ist denn hier los? / Was ist los mit dir?
+3. Ich muss los. (= *losgehen*)
+4. Tickets loswerden / loslassen
+5. humorlos · arbeitslos
+6. Trap: treating every *los* as “loose” — decide start vs situation vs get-rid-of
+
+**Traps**
+- *Los!* (start / hurry) ≠ *Was ist los?* (what’s going on) ≠ *loswerden* (get rid of).
+- With a modal, spoken German often drops the motion verb: *Ich muss los.* not only *Ich muss losgehen.*
+
+**Meta:** A2.1 Unit 10 · Dialog 2 · added 2026-10-23
+
+---
+
+## Lokaladverbien
+
+**Frame:** `Wo?` → `draußen / drinnen / oben / unten` · `Wohin?` → `nach …` or `raus / rein / rauf / runter`
+**Meaning:** position vs direction — outside / inside / up / down
+**Slot:** place description · motion verb
+**Register:** *nach + adverb* is neutral; *raus/rein/rauf/runter* is spoken
+
+**Behind it:** Booklet: local adverbs answer *Wo?* (position) or *Wohin?* (direction). Direction takes *nach* + adverb, or the spoken separable prefixes *raus · rein · rauf · runter* with motion verbs.
+
+**Instances**
+- Sie sind draußen. · Sie sind drinnen. · Sie wohnt oben. · Sie sind unten.
+- Katie und Gogo gehen nach draußen. · Sie gehen nach drinnen. · nach oben · nach unten
+- Sie gehen raus. (*rausgehen*) · rein (*reingehen*) · rauf (*raufgehen*) · runter (*runtergehen*)
+- Ja, okay, aber lass uns doch erst mal reingehen!
+- Er bringt den Müll raus. · Wir fahren rein. · Du kletterst rauf. · Ich renne runter.
+- Kommen Sie mal rauf!
+
+**Ladder**
+1. Sie sind draußen. / Sie sind oben.
+2. Sie gehen nach draußen. / Sie gehen nach oben.
+3. Sie gehen raus. / Sie gehen rauf.
+4. lass uns erst mal reingehen
+5. den Müll rausbringen
+6. Trap: ~~Sie gehen draußen~~ for direction — need *nach draußen* or *raus*
+
+**Traps**
+- *Wo?* = bare adverb · *Wohin?* = *nach* + adverb (or *raus/rein/rauf/runter*).
+- *raus/rein/rauf/runter* are spoken shorts of *hinaus/hinein/hinauf/hinunter*.
+
+**Meta:** A2.1 Unit 10 · Dialog 3 · added 2026-10-23
+
+---
+
+## Über Musik sprechen
+
+**Frame:** `Magst du X?` · `Was gefällt dir?` · `Ich finde X gut.` · `Spielst du …?`
+**Meaning:** talk about music — like a style, name a band, play an instrument
+**Slot:** style · song · instrument · band
+**Register:** casual
+
+**Behind it:** Booklet wordfield + dialog fill. *mögen / gefallen / finden* for taste; *spielen · singen · tanzen* for making music; *auf ein Konzert gehen · mitkommen*.
+
+**Instances**
+- Magst du Udo Jürgens? · Oh, Schlager mag ich überhaupt nicht.
+- Was gefällt dir denn? · Mir gefällt Rockmusik. · Ich finde Reggae gut.
+- Welcher Musikstil gefällt dir?
+- Spielst du ein Instrument? · Sie spielt Gitarre. · Ich kann gut singen.
+- Seeed ist so eine tolle Band. · Ich gehe morgen auf ihr Konzert. · Kann ich mitkommen?
+- Kennst du die Sängerin? · Gefällt dir der Musiker? · Singst du jetzt das Lied?
+
+**Ladder**
+1. Magst du X?
+2. Was gefällt dir denn? / Ich finde X gut.
+3. Spielst du Gitarre? / Ich kann gut singen.
+4. Ich gehe morgen auf ihr Konzert. · Kann ich mitkommen?
+5. Trap: ~~Ich mag gut singen~~ — *mögen* + noun; *gern / können* + verb
+
+**Meta:** A2.1 Unit 10 · Dialog 1 · added 2026-10-23
+
+---
+
+## Das Konzert
+
+**Frame:** `auf ein / zu einem Konzert gehen` · `an der Abendkasse` · `auf die Bühne`
+**Meaning:** concert survival — tickets, hall, stage, crowd
+**Slot:** venue · ticket channel · price
+**Register:** either
+
+**Behind it:** Booklet *das Konzert* panel. *auf* / *zu* both fine for going to a concert; tickets via *Vorverkauf* or *Abendkasse*.
+
+**Instances**
+- Sie gehen auf ein / zu einem Konzert.
+- Die Band spielt in einer Konzerthalle.
+- Die Eintrittskarten sind ausverkauft.
+- Der Eintritt kostet 70 EUR. · Der Eintrittspreis ist sehr hoch.
+- Im Vorverkauf gibt es keine Karten mehr.
+- Sie wollen die Tickets an der Abendkasse kaufen.
+- Die Band kommt bald auf die Bühne. · Das Publikum ist begeistert.
+- Die Band hat viele Auftritte.
+
+**Ladder**
+1. auf ein Konzert gehen
+2. an der Abendkasse / im Vorverkauf
+3. Die Karten sind ausverkauft.
+4. auf die Bühne kommen
+5. Trap: ~~im Abendkasse~~ — *an der Abendkasse*
+
+**Meta:** A2.1 Unit 10 · Dialog 2 · added 2026-10-23
+
+---
+
 ## Later seeds (not yet fully met)
 
 ### Wohin + Verb der Bewegung
@@ -5681,6 +5845,9 @@ Countries with an article: **maskulin** *der Irak · der Iran · der Jemen* — 
 | *für* duration | für einen Monat (Akk) | ~~für einem Monat~~ | duration takes accusative |
 | *in* future | in einer Woche | ~~in eine Woche~~ | dative after temporal *in* |
 | phone goodbye | Auf Wiederhören! | ~~Auf Wiedersehen!~~ on a call | hear, not see |
+| *mal* mid-sentence | Zeig mal die Tickets! | ~~Zeig die Tickets mal~~ | softener stays mid-clause |
+| *Wo?* vs *Wohin?* adverbs | Sie sind draußen. | Sie gehen nach draußen. / raus | bare = position · *nach*/prefix = direction |
+| *los* jobs | Los geht’s! / Was ist los? / loswerden | one spelling, several meanings | start vs situation vs get rid of |
 
 ---
 

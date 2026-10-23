@@ -2,7 +2,7 @@
 
 Source: [`A2-1-KOMPLETT.pdf`](A2-1-KOMPLETT.pdf) · answers: [`A2-1_LOESUNGEN_KOMPLETT.pdf`](A2-1_LOESUNGEN_KOMPLETT.pdf)
 
-**Ingested:** units 1–9 · **Not yet:** unit 10
+**Ingested:** units 1–10 · **Not yet:** —
 
 Ask: `/ingest` · `/teach` · `/drill`
 
@@ -19,7 +19,7 @@ Ask: `/ingest` · `/teach` · `/drill`
 | 7 | Essen bestellen | Zu Hause | ingested | 209–236 |
 | 8 | Wollen wir einen Film gucken? | Auf der Couch | ingested | 237–266 |
 | 9 | Kundenservice | Am Telefon | ingested | 267–299 |
-| 10 | Ausgehen am Wochenende | Auf dem Konzert | not yet | 300– |
+| 10 | Ausgehen am Wochenende | Auf dem Konzert | ingested | 300–323 |
 
 ---
 
@@ -99,6 +99,6 @@ Ask: `/ingest` · `/teach` · `/drill`
 
 | Dialog | Themen | Grammatik |
 |---|---|---|
-| 1 Lust auf ein Konzert? | Konzert | — |
+| 1 Rammstein ist geil! | über Musik sprechen | — |
 | 2 Lust auf Schokokekse? | das Konzert, Bedeutungen von „los“ | Modalpartikel „mal“ |
 | 3 Lass uns tanzen! | — | Lokaladverbien |
