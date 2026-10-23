@@ -2949,3 +2949,137 @@ Do you have the pants in size 36 as well? (formal)	Haben Sie die Hose auch in Gr
 desire / feeling like doing something	die Lust · no plural	a2.1 unit_08 noun
 suggestion (proposal)	der Vorschlag · die Vorschläge	a2.1 unit_08 noun
 to feel like X / be up for X	Lust haben auf X	a2.1 unit_08 chunk
+Yeah, sure. What's up?	Ja, klar. Was ist los?	a2.1 unit_09 chunk
+I want to send emails, but nothing is happening.	Ich will E-Mails verschicken, aber es passiert nichts.	a2.1 unit_09 chunk
+There were problems a month ago, too.	Vor einem Monat gab es auch schon mal Probleme.	a2.1 unit_09 chunk
+How long have you had the router? (informal plural)	Seit wann habt ihr den Router denn?	a2.1 unit_09 chunk
+Done! (finished)	Erledigt!	a2.1 unit_09 chunk
+That's how you do it.	So macht man das.	a2.1 unit_09 chunk
+The internet is still not working.	Das Internet funktioniert immer noch nicht.	a2.1 unit_09 chunk
+The router has to reboot first.	Der Router muss erst neu starten.	a2.1 unit_09 chunk
+Violence is not the solution.	Gewalt ist doch keine Lösung.	a2.1 unit_09 chunk
+I'll call the technician!	Ich ruf' den Techniker an!	a2.1 unit_09 chunk
+Please be patient. (formal)	Bitte haben Sie etwas Geduld.	a2.1 unit_09 chunk
+What an annoying voice!	Was für eine nervige Stimme!	a2.1 unit_09 chunk
+One of our staff will be at your disposal shortly. (formal)	Einer unserer Mitarbeiter steht Ihnen in Kürze zur Verfügung.	a2.1 unit_09 chunk
+X speaking. (on the phone)	X am Apparat.	a2.1 unit_09 chunk
+What can I do for you? (formal)	Was kann ich für Sie tun?	a2.1 unit_09 chunk
+My internet is not working.	Mein Internet funktioniert nicht.	a2.1 unit_09 chunk
+I repeat: X.	Ich wiederhole: X.	a2.1 unit_09 chunk
+Quiet now.	Ruhe jetzt.	a2.1 unit_09 chunk
+There is no malfunction at the moment.	Eine Störung gibt es momentan nicht.	a2.1 unit_09 chunk
+Is it still possible today?	Geht es heute noch?	a2.1 unit_09 chunk
+Always put pressure on!	Immer Druck machen!	a2.1 unit_09 chunk
+Does 12 o'clock suit you? (formal)	Passt es Ihnen um 12 Uhr?	a2.1 unit_09 chunk
+Sorry, I can't make it.	Da kann ich leider nicht.	a2.1 unit_09 chunk
+Do you also have a later appointment? (formal)	Haben Sie auch einen späteren Termin?	a2.1 unit_09 chunk
+That's the only free appointment tomorrow.	Das ist der einzige freie Termin morgen.	a2.1 unit_09 chunk
+For how long are you at the hairdresser's?	Für wie lange bist du denn beim Friseur?	a2.1 unit_09 chunk
+Maybe for two or three hours.	Vielleicht für zwei oder drei Stunden.	a2.1 unit_09 chunk
+What's more important to you?	Was ist dir wichtiger?	a2.1 unit_09 chunk
+Maybe you can reschedule your appointment?	Vielleicht kannst du einen Termin verschieben?	a2.1 unit_09 chunk
+Goodbye. (on the phone)	Auf Wiederhören.	a2.1 unit_09 chunk
+How may I help you? (formal)	Wie kann ich Ihnen helfen?	a2.1 unit_09 chunk
+Thank you for your help! (formal)	Vielen Dank für Ihre Hilfe!	a2.1 unit_09 chunk
+You're welcome. / My pleasure.	Gern geschehen.	a2.1 unit_09 chunk
+Thank you for your call! (formal)	Vielen Dank für Ihren Anruf!	a2.1 unit_09 chunk
+Have you already restarted the router? (formal)	Haben Sie den Router schon neu gestartet?	a2.1 unit_09 chunk
+Then I'd best send you a technician. (formal)	Dann schicke ich Ihnen am besten einen Techniker.	a2.1 unit_09 chunk
+Can we arrange an appointment with the technician?	Können wir einen Termin mit dem Techniker vereinbaren?	a2.1 unit_09 chunk
+Does tomorrow at 12 suit you? (formal)	Passt es Ihnen morgen um 12 Uhr?	a2.1 unit_09 chunk
+Tomorrow at 12 works.	Morgen um 12 Uhr klappt.	a2.1 unit_09 chunk
+Can we postpone the appointment?	Können wir den Termin verschieben?	a2.1 unit_09 chunk
+I want to cancel my appointment.	Ich möchte meinen Termin absagen.	a2.1 unit_09 chunk
+All lines are busy.	Alle Leitungen sind belegt.	a2.1 unit_09 chunk
+We got it a year ago.	Wir haben ihn vor einem Jahr bekommen.	a2.1 unit_09 chunk
+A month ago.	Vor einem Monat.	a2.1 unit_09 chunk
+Three months ago.	Vor drei Monaten.	a2.1 unit_09 chunk
+Before work.	Vor der Arbeit.	a2.1 unit_09 chunk
+After breakfast.	Nach dem Frühstück.	a2.1 unit_09 chunk
+After work.	Nach der Arbeit.	a2.1 unit_09 chunk
+In a week. (from now)	In einer Woche.	a2.1 unit_09 chunk
+In two hours.	In zwei Stunden.	a2.1 unit_09 chunk
+For two hours.	Für zwei Stunden.	a2.1 unit_09 chunk
+For a month.	Für einen Monat.	a2.1 unit_09 chunk
+For three days.	Für drei Tage.	a2.1 unit_09 chunk
+We've had the router for a year.	Wir haben den Router seit einem Jahr.	a2.1 unit_09 chunk
+Restart the router.	Den Router neu starten.	a2.1 unit_09 chunk
+Plug the plug into the socket.	Den Stecker in die Steckdose stecken.	a2.1 unit_09 chunk
+Pull the plug out.	Den Stecker rausziehen.	a2.1 unit_09 chunk
+Press the button.	Den Knopf drücken.	a2.1 unit_09 chunk
+router	der Router · die Router	a2.1 unit_09 noun
+device	das Gerät · die Geräte	a2.1 unit_09 noun
+plug (electrical)	der Stecker · die Stecker	a2.1 unit_09 noun
+socket (electrical)	die Steckdose · die Steckdosen	a2.1 unit_09 noun
+button	der Knopf · die Knöpfe	a2.1 unit_09 noun
+switch	der Schalter · die Schalter	a2.1 unit_09 noun
+malfunction / disruption	die Störung · die Störungen	a2.1 unit_09 noun
+repair	die Reparatur · die Reparaturen	a2.1 unit_09 noun
+technician	der Techniker · die Techniker	a2.1 unit_09 noun
+WiFi	das WLAN · die WLANs	a2.1 unit_09 noun
+customer service	der Kundenservice · no plural	a2.1 unit_09 noun
+customer / client	der Kunde · die Kunden	a2.1 unit_09 noun
+appointment	der Termin · die Termine	a2.1 unit_09 noun
+patience	die Geduld · no plural	a2.1 unit_09 noun
+conversation (phone/talk)	das Gespräch · die Gespräche	a2.1 unit_09 noun
+call (noun)	der Anruf · die Anrufe	a2.1 unit_09 noun
+remote control	die Fernbedienung · die Fernbedienungen	a2.1 unit_09 noun
+washing machine	die Waschmaschine · die Waschmaschinen	a2.1 unit_09 noun
+stove / cooker	der Herd · die Herde	a2.1 unit_09 noun
+television	der Fernseher · die Fernseher	a2.1 unit_09 noun
+vor + time — which case?	dative	a2.1 unit_09 pattern
+nach + time — which case?	dative	a2.1 unit_09 pattern
+in + future span — which case?	dative	a2.1 unit_09 pattern
+für + duration — which case?	accusative	a2.1 unit_09 pattern
+Finished ago — vor or seit?	vor (+ past tense)	a2.1 unit_09 pattern
+Still going — vor or seit?	seit (+ present)	a2.1 unit_09 pattern
+Wann got the router? — answer with ago	Vor einem Jahr.	a2.1 unit_09 pattern
+Seit wann have the router? — answer with for	Seit einem Jahr.	a2.1 unit_09 pattern
+After breakfast — frame?	Nach dem Frühstück.	a2.1 unit_09 pattern
+In a week from now — frame?	In einer Woche.	a2.1 unit_09 pattern
+For two hours — frame?	Für zwei Stunden.	a2.1 unit_09 pattern
+Phone goodbye — which farewell?	Auf Wiederhören!	a2.1 unit_09 pattern
+to postpone — Partizip II?	verschoben	a2.1 unit_09 verb
+to restart / reboot — Partizip II?	neu gestartet	a2.1 unit_09 verb
+telefonieren → noun (with article)?	das Telefonat	a2.1 unit_09 pattern
+das Telefonat → verb?	telefonieren	a2.1 unit_09 pattern
+reparieren → noun (with article)?	die Reparatur	a2.1 unit_09 pattern
+die Reparatur → verb?	reparieren	a2.1 unit_09 pattern
+anrufen → noun (with article)?	der Anruf	a2.1 unit_09 pattern
+der Anruf → verb?	anrufen	a2.1 unit_09 pattern
+stören → noun (with article)?	die Störung	a2.1 unit_09 pattern
+die Störung → verb?	stören	a2.1 unit_09 pattern
+funktionieren → noun (with article)?	die Funktion	a2.1 unit_09 pattern
+die Funktion → verb?	funktionieren	a2.1 unit_09 pattern
+sprechen → noun for a conversation (with article)?	das Gespräch	a2.1 unit_09 pattern
+das Gespräch → verb?	sprechen	a2.1 unit_09 pattern
+helfen → noun (with article)?	die Hilfe	a2.1 unit_09 pattern
+die Hilfe → verb?	helfen	a2.1 unit_09 pattern
+lösen → noun (with article)?	die Lösung	a2.1 unit_09 pattern
+die Lösung → verb?	lösen	a2.1 unit_09 pattern
+verbinden → noun in -ung (with article)?	die Verbindung	a2.1 unit_09 pattern
+die Verbindung → verb?	verbinden	a2.1 unit_09 pattern
+bedienen → noun (with article)?	die Bedienung	a2.1 unit_09 pattern
+die Bedienung → verb?	bedienen	a2.1 unit_09 pattern
+Verb → noun in -ung — which gender?	die	a2.1 unit_09 pattern
+Does every noun have a verb twin?	no	a2.1 unit_09 pattern
+Is tomorrow at 12 possible?	Geht es morgen um 12 Uhr?	a2.1 unit_09 chunk
+Can you make tomorrow at 12? (formal)	Können Sie morgen um 12 Uhr?	a2.1 unit_09 chunk
+We have time tomorrow at 12.	Morgen um 12 Uhr haben wir Zeit.	a2.1 unit_09 chunk
+Tomorrow at 12 suits us.	Morgen um 12 Uhr passt es uns.	a2.1 unit_09 chunk
+Tomorrow at 12 is possible. (short “works”)	Morgen um 12 Uhr geht.	a2.1 unit_09 chunk
+We can do tomorrow at 12.	Morgen um 12 Uhr können wir.	a2.1 unit_09 chunk
+We'll be there tomorrow at 12.	Morgen um 12 Uhr sind wir da.	a2.1 unit_09 chunk
+I can't make tomorrow at 12.	Morgen um 12 Uhr kann ich nicht.	a2.1 unit_09 chunk
+Do you have an appointment free on Friday? (informal plural)	Habt ihr einen Termin am Freitag frei?	a2.1 unit_09 chunk
+Does that suit you? (informal)	Passt dir das?	a2.1 unit_09 chunk
+Agreed. / Deal.	Einverstanden.	a2.1 unit_09 chunk
+Is later also possible?	Geht es auch später?	a2.1 unit_09 chunk
+to make / arrange an appointment	einen Termin vereinbaren	a2.1 unit_09 chunk
+to make an appointment (colloquial “make”)	einen Termin machen	a2.1 unit_09 chunk
+to confirm an appointment	einen Termin bestätigen	a2.1 unit_09 chunk
+to postpone an appointment	einen Termin verschieben	a2.1 unit_09 chunk
+to cancel an appointment	einen Termin absagen	a2.1 unit_09 chunk
+hairdresser's appointment	der Friseurtermin · die Friseurtermine	a2.1 unit_09 noun
+How about tomorrow at 12?	Wie wäre es mit morgen um 12 Uhr?	a2.1 unit_09 chunk
+Yes, that suits / works.	Ja, das passt.	a2.1 unit_09 chunk

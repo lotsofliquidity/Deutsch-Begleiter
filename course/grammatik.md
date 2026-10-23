@@ -492,6 +492,14 @@ Read the **last letters** of the noun first, before you reach for the article:
   - Stem changes: *sammeln → die Sammlung* · *wandern → die Wanderung* · *liefern → die Lieferung*
   - Trap: ~~der Anmeldung~~ → *die Anmeldung* · ~~die Wohnungs~~ → *die Wohnungen*
 
+- **Verb ↔ Nomen** — learn pairs both ways; not every word has a twin *(A2.1 U9)*
+  - U9 set: *telefonieren ↔ das Telefonat* · *reparieren ↔ die Reparatur* · *anrufen ↔ der Anruf*
+  - *stören ↔ die Störung* · *funktionieren ↔ die Funktion* · *helfen ↔ die Hilfe*
+  - *lösen ↔ die Lösung* · *verbinden ↔ die Verbindung* · *bedienen ↔ die Bedienung*
+  - *sprechen ↔ das Gespräch* (also *die Sprache / das Sprechen*)
+  - *-ung* nouns are the automatic branch; the rest are memorised pairs
+  - Trap: ~~der Telefon~~ for the call → *das Telefonat* / *der Anruf* · no twin required for *Router / Steckdose*
+
 - **das Haar — die Haare** — everyday German says the **plural** *(A2.1 U3)*
   - *Das Haar ist kurz // lang.* — The hair is short // long.
   - *Die Haare sind glatt // lockig. = Sie hat Locken.* — Her hair is straight // curly. = She has curls.
@@ -509,6 +517,7 @@ Read the **last letters** of the noun first, before you reach for the article:
 - [`Was kostet / Was kosten …?`](../patterns/patterns.md#was-kostet--was-kosten-)
 - [`Sie sieht aus`](../patterns/patterns.md#sie-sieht-aus)
 - [`Nomen mit -ung`](../patterns/patterns.md#nomen-mit--ung)
+- [`Verb ↔ Nomen`](../patterns/patterns.md#verb--nomen)
 
 ---
 
@@ -686,6 +695,41 @@ Read the **last letters** of the noun first, before you reach for the article:
   - Plural: *seit drei Jahren* · *seit zwei Tagen* · *seit zwei Wochen* (already ends in *-n*)
   - Trap: ~~seit drei Jahre~~ → *seit drei Jahren* · ~~Ich war seit drei Monaten …~~ while you are still there → *Ich bin seit drei Monaten …*
 
+- ***vor* + Dativ — ago / before** *(A2.1 U9)*
+  - finished past point → *Wann?* · Perfekt or Präteritum
+  - *Vor einem Monat gab es Probleme.* · *Vor einem Jahr haben wir den Router bekommen.*
+  - before another action: *Vor der Arbeit frühstücke ich.* · *Vor dem Abendessen.*
+  - dative: *vor einem Monat · vor einer Woche · vor drei Jahren · vor einer Stunde*
+  - Trap: ~~vor ein Jahr~~ → *vor **einem** Jahr*
+
+- ***vor* vs *seit*** *(A2.1 U9)*
+  - *vor* = finished ago → past tense · *seit* = still going → present
+  - *Wann habt ihr den Router bekommen? — **Vor** einem Jahr.*
+  - *Seit wann habt ihr den Router? — **Seit** einem Jahr.*
+  - Tip: *seit* (preposition) ≠ *seid* (*ihr seid*)
+  - Trap: ~~Seit einem Jahr bekommen~~ → *Vor einem Jahr **bekommen***
+
+- ***nach* + Dativ — after** *(A2.1 U9)*
+  - *Wann?* after an event: *Nach dem Frühstück gehe ich zur Arbeit.*
+  - *Nach einer Viertelstunde …* · *Nach der Arbeit.* · *Nach den Hausaufgaben.* · *Nach einer Woche.*
+  - Trap: ~~nach das Frühstück~~ → *nach **dem** Frühstück*
+
+- ***in* + Dativ — in X time / months & seasons** *(A2.1 U9)*
+  - future from now: *Der Techniker kommt **in** einer Woche.* · *in zwei Stunden · in drei Monaten*
+  - months/seasons (already known as *im*): *im Juli · im Sommer · im Frühling*
+  - Trap: ~~in eine Woche~~ → *in **einer** Woche*
+
+- ***für* + Akkusativ — for how long** *(A2.1 U9)*
+  - duration: *Für wie lange?* · *Für zwei Stunden bin ich beim Friseur.*
+  - *für einen Monat · für einen Tag · für drei Tage* — often drop *für*: *Zwei Stunden bin ich …*
+  - same case as *für* + person; the question is different
+  - Trap: ~~für einem Monat~~ → *für **einen** Monat*
+
+- **Temporale Präpositionen — quick map** *(A2.1 U9)*
+  - *Wann?* point: *am* (weekday/weekend/daytime) · *in der Nacht* · *im* (month/season) · *um* (clock) · *vor* (ago) · *nach* (after) · *in* (in X time) · *ab* (from … on)
+  - *Wie lange?* span: *für* (+ Akk) · *seit* (+ Dat, still true) · *von … bis*
+  - bare accusative: years · *jeden / diesen / nächsten Monat*
+
 - **Worked example — one noun, three prepositions** *(A1.2 U7)* — the **verb** picks the
   preposition; the noun only takes whatever case that preposition gives it
   - *Und hast du es noch pünktlich **zum** Unterricht geschafft?* — And did you still make it to class on time? · *schaffen* — motion towards
@@ -706,6 +750,11 @@ Read the **last letters** of the noun first, before you reach for the article:
 - [`bei + Dativ`](../patterns/patterns.md#bei--dativ)
 - [`Lokale Präpositionen: in, zu, bei, aus, von`](../patterns/patterns.md#lokale-präpositionen-in-zu-bei-aus-von)
 - [`seit + Dativ`](../patterns/patterns.md#seit--dativ)
+- [`vor + Dativ (Zeit)`](../patterns/patterns.md#vor--dativ-zeit)
+- [`vor vs seit`](../patterns/patterns.md#vor-vs-seit)
+- [`nach + Dativ (Zeit)`](../patterns/patterns.md#nach--dativ-zeit)
+- [`in + Dativ (Zukunft)`](../patterns/patterns.md#in--dativ-zukunft)
+- [`für + Akkusativ (Zeitraum)`](../patterns/patterns.md#für--akkusativ-zeitraum)
 
 ---
 
@@ -1524,7 +1573,10 @@ pointers rather than rules — the sentences themselves are in the unit files an
 [Wie findest du X?](../patterns/patterns.md#wie-findest-du-x) ·
 [gefallen · passen · stehen](../patterns/patterns.md#gefallen--passen--stehen) ·
 [Vorschläge machen](../patterns/patterns.md#vorschläge-machen) ·
-[Über einen Film sprechen](../patterns/patterns.md#über-einen-film-sprechen)
+[Über einen Film sprechen](../patterns/patterns.md#über-einen-film-sprechen) ·
+[Beim Kundenservice](../patterns/patterns.md#beim-kundenservice) ·
+[Einen Termin vereinbaren](../patterns/patterns.md#einen-termin-vereinbaren) ·
+[Ein Gerät bedienen](../patterns/patterns.md#ein-gerät-bedienen)
 
 **Invitations and thanks**
 
@@ -1557,7 +1609,7 @@ pointers rather than rules — the sentences themselves are in the unit files an
 
 ## What this page does **not** cover
 
-Every rule in the ingested units (A1.1 U1–U10 · A1.2 U1–U10 · A2.1 U1–U8) is above.
+Every rule in the ingested units (A1.1 U1–U10 · A1.2 U1–U10 · A2.1 U1–U9) is above.
 §1–§14 hold the rules; §15 holds the formulas. Beyond the ingested units: full genitive articles,
 adjective endings (*des neuen Hauses*), relative clauses, the A2.1 past perfect (not in A2.1 U1–U3),
 reflexive verbs (*sich verbessern* — it turns up inside a proverb gloss, but the *sich* system

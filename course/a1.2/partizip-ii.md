@@ -229,6 +229,8 @@ These look regular but aren't — the stem changes, so they're learned individua
 | klingeln | geklingelt | to ring | |
 | klauen | geklaut | to steal | |
 | gewinnen | gewonnen | to win | |
+| verschieben | verschoben | to postpone / move | |
+| neu starten | neu gestartet | to restart / reboot | |
 
 ---
 

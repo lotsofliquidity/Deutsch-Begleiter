@@ -675,7 +675,43 @@ können Konjunktiv II — ihr?	könntet	a2.1 unit_08 verb
 to win — Partizip II?	gewonnen	a2.1 unit_08 verb
 The movie is about X. — frame?	In dem Film geht es um X.	a2.1 unit_08 pattern
 The movie deals with X. — frame?	Der Film handelt von X.	a2.1 unit_08 pattern
-The movie is about X. (everyday über) — frame?	Der Film ist über X.	a2.1 unit_08 pattern
+The movie is about X. (everyday “about”) — frame?	Der Film ist über X.	a2.1 unit_08 pattern
 geht es um takes which case?	accusative	a2.1 unit_08 pattern
 handelt von takes which case?	dative	a2.1 unit_08 pattern
-über (about a topic) takes which case?	accusative	a2.1 unit_08 pattern
+everyday “about” (topic preposition) takes which case?	accusative	a2.1 unit_08 pattern
+vor + time — which case?	dative	a2.1 unit_09 pattern
+nach + time — which case?	dative	a2.1 unit_09 pattern
+in + future span — which case?	dative	a2.1 unit_09 pattern
+für + duration — which case?	accusative	a2.1 unit_09 pattern
+Finished ago — vor or seit?	vor (+ past tense)	a2.1 unit_09 pattern
+Still going — vor or seit?	seit (+ present)	a2.1 unit_09 pattern
+Wann got the router? — answer with ago	Vor einem Jahr.	a2.1 unit_09 pattern
+Seit wann have the router? — answer with for	Seit einem Jahr.	a2.1 unit_09 pattern
+After breakfast — frame?	Nach dem Frühstück.	a2.1 unit_09 pattern
+In a week from now — frame?	In einer Woche.	a2.1 unit_09 pattern
+For two hours — frame?	Für zwei Stunden.	a2.1 unit_09 pattern
+Phone goodbye — which farewell?	Auf Wiederhören!	a2.1 unit_09 pattern
+to postpone — Partizip II?	verschoben	a2.1 unit_09 verb
+to restart / reboot — Partizip II?	neu gestartet	a2.1 unit_09 verb
+telefonieren → noun (with article)?	das Telefonat	a2.1 unit_09 pattern
+das Telefonat → verb?	telefonieren	a2.1 unit_09 pattern
+reparieren → noun (with article)?	die Reparatur	a2.1 unit_09 pattern
+die Reparatur → verb?	reparieren	a2.1 unit_09 pattern
+anrufen → noun (with article)?	der Anruf	a2.1 unit_09 pattern
+der Anruf → verb?	anrufen	a2.1 unit_09 pattern
+stören → noun (with article)?	die Störung	a2.1 unit_09 pattern
+die Störung → verb?	stören	a2.1 unit_09 pattern
+funktionieren → noun (with article)?	die Funktion	a2.1 unit_09 pattern
+die Funktion → verb?	funktionieren	a2.1 unit_09 pattern
+sprechen → noun for a conversation (with article)?	das Gespräch	a2.1 unit_09 pattern
+das Gespräch → verb?	sprechen	a2.1 unit_09 pattern
+helfen → noun (with article)?	die Hilfe	a2.1 unit_09 pattern
+die Hilfe → verb?	helfen	a2.1 unit_09 pattern
+lösen → noun (with article)?	die Lösung	a2.1 unit_09 pattern
+die Lösung → verb?	lösen	a2.1 unit_09 pattern
+verbinden → noun in -ung (with article)?	die Verbindung	a2.1 unit_09 pattern
+die Verbindung → verb?	verbinden	a2.1 unit_09 pattern
+bedienen → noun (with article)?	die Bedienung	a2.1 unit_09 pattern
+die Bedienung → verb?	bedienen	a2.1 unit_09 pattern
+Verb → noun in -ung — which gender?	die	a2.1 unit_09 pattern
+Does every noun have a verb twin?	no	a2.1 unit_09 pattern

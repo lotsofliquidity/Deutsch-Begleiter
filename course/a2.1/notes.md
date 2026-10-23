@@ -1062,3 +1062,66 @@ Soft suggestion: *Wir könnten in einen Club gehen.*
 - *Weichei* = wimp (lit. soft egg)
 - *Ich lebe in den Tag hinein.* = I live for the moment
 - *Im Mauerpark ist immer was los.* = there's always something going on
+
+---
+
+## *vor* + Dativ — Zeit (U9)
+
+Finished past → *Wann?* · Perfekt/Präteritum · **Dativ** after *vor*.
+
+*Vor einem Jahr haben wir den Router bekommen.* · *Vor drei Monaten.* · *Vor der Arbeit frühstücke ich.*
+
+## *vor* vs *seit* (U9)
+
+| | *vor* | *seit* |
+|---|---|---|
+| meaning | ago / finished | since / still true |
+| tense | Perfekt / Präteritum | **Präsens** |
+| question | *Wann?* | *Seit wann?* |
+
+*Wann bekommen? — Vor einem Jahr.* · *Seit wann habt ihr …? — Seit einem Jahr.*
+*seit* ≠ *seid*.
+
+## *nach* + Dativ — Zeit (U9)
+
+After an event → *Wann?* · **Dativ**.
+
+*Nach dem Frühstück.* · *Nach der Arbeit.* · *Nach einer Woche.*
+
+## *in* + Dativ — Zukunft / Monat (U9)
+
+*In einer Woche kommt der Techniker.* · *in zwei Stunden* · *im Juli · im Sommer* (*im* = *in + dem*).
+
+## *für* + Akkusativ — Zeitraum (U9)
+
+*Für wie lange?* · *Für zwei Stunden.* · *für einen Monat* · often drop *für*.
+
+## Temporale Präpositionen — Karte (U9)
+
+| Frage | Präpositionen |
+|---|---|
+| *Wann?* | *am · um · im · in · vor · nach · ab · in der Nacht* |
+| *Wie lange?* | *für · seit · von … bis* |
+
+## Wortfeld: Gerät und Telefon (U9)
+
+- **Gerät** — *der Router · das Gerät · der Stecker · die Steckdose · der Knopf · der Schalter · die Störung · die Reparatur · der Techniker · das WLAN*
+- **Telefon** — *der Kundenservice · der Kunde · das Gespräch · die Geduld · der Termin · der Anruf*
+- Frames: *neu starten · reinstecken · Auf Wiederhören!* · *Passt es Ihnen um X?* · *Termin verschieben*
+
+## Partizip II — neue Formen (U9)
+
+| Infinitiv | Partizip II |
+|---|---|
+| *verschieben* | verschoben |
+| *neu starten* | neu gestartet |
+
+*anrufen → angerufen* already logged. Vollständige Liste in [`../a1.2/partizip-ii.md`](../a1.2/partizip-ii.md).
+
+## Footnotes (U9)
+
+- *Auf Wiederhören!* — goodbye on the phone
+- *am Apparat* — speaking / on the line
+- *Druck machen* = put pressure on
+- *Freilich* = of course (southern/Austrian flavour in the dialog)
+- *seit* ≠ *seid*

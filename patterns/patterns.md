@@ -132,6 +132,7 @@ Taught by `/ingest`. Drilled by `/drill`. Source PDFs: `courses/`.
 | [Untrennbare Verben](#untrennbare-verben) | prefix never splits · participle without *ge-* | A2.1 U2 |
 | [Partizip II ohne ge-](#partizip-ii-ohne-ge-) | *-ieren* and inseparable prefixes skip *ge-* | A2.1 U2 |
 | [Nomen mit -ung](#nomen-mit--ung) | verb → *die* noun, plural *-en* | A2.1 U6 |
+| [Verb ↔ Nomen](#verb--nomen) | U9 pairs both ways · not every word has a twin | A2.1 U9 |
 | [Lokale Präpositionen: in, zu, bei, aus, von](#lokale-präpositionen-in-zu-bei-aus-von) | building vs person · into / towards / out of | A2.1 U6 |
 | [seit + Dativ](#seit--dativ) | since / for — still going on | A2.1 U6 |
 | [sollen im Präteritum](#sollen-im-präteritum) | *sollte* — was supposed to | A2.1 U6 |
@@ -148,6 +149,14 @@ Taught by `/ingest`. Drilled by `/drill`. Source PDFs: `courses/`.
 | [können im Konjunktiv II](#können-im-konjunktiv-ii) | *könnte / könnten* — soft suggestion | A2.1 U8 |
 | [Über einen Film sprechen](#über-einen-film-sprechen) | genres · plot · roles | A2.1 U8 |
 | [Vorschläge machen](#vorschläge-machen) | *Wie wär's · Lass uns · Wir könnten* | A2.1 U8 |
+| [vor + Dativ (Zeit)](#vor--dativ-zeit) | *vor einem Jahr* — ago / before | A2.1 U9 |
+| [vor vs seit](#vor-vs-seit) | finished ago vs still going | A2.1 U9 |
+| [nach + Dativ (Zeit)](#nach--dativ-zeit) | *nach dem Frühstück* — after | A2.1 U9 |
+| [in + Dativ (Zukunft)](#in--dativ-zukunft) | *in einer Woche* — in X time | A2.1 U9 |
+| [für + Akkusativ (Zeitraum)](#für--akkusativ-zeitraum) | *für zwei Stunden* — for how long | A2.1 U9 |
+| [Beim Kundenservice](#beim-kundenservice) | phone help · problem · goodbye | A2.1 U9 |
+| [Einen Termin vereinbaren](#einen-termin-vereinbaren) | book · confirm · move · cancel | A2.1 U9 |
+| [Ein Gerät bedienen](#ein-gerät-bedienen) | router · plug · restart · repair | A2.1 U9 |
 
 Seed patterns not yet drilled from early units: [Wohin + Verb](#wohin--verb-der-bewegung)
 
@@ -4764,6 +4773,41 @@ Countries with an article: **maskulin** *der Irak · der Iran · der Jemen* — 
 
 ---
 
+## Verb ↔ Nomen
+
+**Frame:** `telefonieren ↔ das Telefonat` · `anrufen ↔ der Anruf` · `reparieren ↔ die Reparatur`
+**Meaning:** action verb ↔ related noun (article included)
+**Slot:** the U9 pair list below · plus *-ung* nouns from [Nomen mit -ung](#nomen-mit--ung)
+**Register:** neutral
+
+**Behind it:** Not every noun has a verb twin (and not every verb has a noun). When the booklet gives a pair, learn **both directions**. Reliable pattern: many action nouns in *-ung* are *die* + verb stem. U9 also mixes *-at · -ur · -ruf · -ung · -tion · -hilfe · -spräch*.
+
+**Instances**
+- telefonieren ↔ das Telefonat
+- reparieren ↔ die Reparatur
+- anrufen ↔ der Anruf
+- stören ↔ die Störung
+- funktionieren ↔ die Funktion
+- sprechen ↔ das Gespräch (also *die Sprache / das Sprechen*)
+- helfen ↔ die Hilfe
+- lösen ↔ die Lösung
+- verbinden ↔ die Verbindung / das Verbinden
+- bedienen ↔ die Bedienung
+
+**Ladder**
+1. anrufen → der Anruf · der Anruf → anrufen
+2. reparieren → die Reparatur · die Reparatur → reparieren
+3. stören → die Störung · lösen → die Lösung
+4. telefonieren → das Telefonat · helfen → die Hilfe
+5. funktionieren → die Funktion · bedienen → die Bedienung
+6. sprechen → das Gespräch
+7. Trap: ~~der Telefon~~ for the call-noun → *das Telefonat* / *der Anruf*
+8. Trap: guessing a twin for *Router / Steckdose* — no verb pair required
+
+**Meta:** A2.1 Unit 9 · Dialog 2 · added 2026-10-22
+
+---
+
 ## Lokale Präpositionen: in, zu, bei, aus, von
 
 **Frame:** *Wohin?* building → `in` + Akkusativ · person/activity → `zu` + Dativ · *Wo?* inside → `in` + Dativ · at a person → `bei` + Dativ · *Woher?* out of a building → `aus` + Dativ · from a person → `von` + Dativ
@@ -5275,6 +5319,236 @@ Countries with an article: **maskulin** *der Irak · der Iran · der Jemen* — 
 
 ---
 
+## vor + Dativ (Zeit)
+
+**Frame:** `vor + Dativ` · question `Wann?`
+**Meaning:** ago (finished past) · or before another action
+**Slot:** *vor einem Jahr · vor drei Monaten · vor einer Stunde · vor der Arbeit*
+**Register:** neutral — past uses Perfekt/Präteritum
+
+**Behind it:** Time after *vor* is **dative**. Finished past: *Vor einem Jahr haben wir den Router bekommen.* Sequence: *Vor der Arbeit frühstücke ich.* Not the same as [seit + Dativ](#seit--dativ) (still going) — see [vor vs seit](#vor-vs-seit).
+
+**Instances**
+- Vor einem Monat gab es Probleme mit dem Internet.
+- Vor einem Jahr haben wir den Router bekommen.
+- Vor drei Monaten ist Katie nach Berlin gekommen.
+- Vor drei Tagen. · Vor zwei Jahren. · Vor drei Wochen. · Vor einer Stunde.
+- Vor der Arbeit frühstücke ich.
+- Vor dem Abendessen. / Vorm Abendessen.
+- Vor einer Stunde hat Katie den Router ausgeschaltet.
+
+**Ladder**
+1. Vor einem Jahr.
+2. Vor drei Monaten.
+3. Vor einer Stunde.
+4. Vor der Arbeit.
+5. Vor einem Jahr haben wir den Router bekommen.
+6. Trap: ~~vor ein Jahr~~ — dative *einem*
+
+**Meta:** A2.1 Unit 9 · Dialog 1 · added 2026-10-22
+
+---
+
+## vor vs seit
+
+**Frame:** `Wann? → vor …` (past) · `Seit wann? → seit …` (present, still true)
+**Meaning:** ago and finished vs since / for and still going
+**Slot:** same time words, different tense and question
+**Register:** neutral
+
+**Behind it:** *vor* + finished event → Perfekt/Präteritum. *seit* + ongoing → **Präsens**. Tip: *seit* ≠ *seid*.
+
+**Instances**
+- Wann habt ihr den Router bekommen? — Vor einem Jahr.
+- Seit wann habt ihr den Router? — Seit einem Jahr. / Wir haben den Router seit einem Jahr.
+- Wann ist Katie nach Berlin gekommen? — Vor drei Monaten.
+- Seit wann ist Katie in Berlin? — Seit drei Monaten.
+- Miriam arbeitet seit zwei Monaten in Köln.
+- Seit einer Woche ist das Internet langsam.
+
+**Ladder**
+1. Wann … bekommen? → Vor einem Jahr.
+2. Seit wann …? → Seit einem Jahr.
+3. Vor drei Monaten gekommen vs Seit drei Monaten in Berlin.
+4. Trap: ~~Seit einem Jahr bekommen~~ — getting it was finished → *vor*
+5. Trap: ~~Vor einem Jahr haben wir den Router~~ for still owning it → *seit* + present
+
+**Meta:** A2.1 Unit 9 · Dialog 1 · added 2026-10-22
+
+---
+
+## nach + Dativ (Zeit)
+
+**Frame:** `nach + Dativ` · question `Wann?`
+**Meaning:** after an event / after another action
+**Slot:** *nach dem Frühstück · nach der Arbeit · nach einer Woche*
+**Register:** neutral
+
+**Behind it:** Time after *nach* is **dative**. Not the same *nach* as *nach Hause* / *nach Berlin* (direction).
+
+**Instances**
+- Nach einer Viertelstunde kann Bobbi mit dem Kundenservice sprechen.
+- Nach dem Gespräch geht er einkaufen.
+- Nach dem Frühstück. · Nach der Arbeit. · Nach den Hausaufgaben.
+- Nach dem Abendessen. · Nach meinem Studium. · Nach unserem Picknick.
+- Nach einer Woche war der Router wieder kaputt.
+
+**Ladder**
+1. Nach dem Frühstück.
+2. Nach der Arbeit.
+3. Nach einer Woche.
+4. Nach dem Gespräch geht er einkaufen.
+5. Trap: ~~nach das Frühstück~~ — dative *dem*
+
+**Meta:** A2.1 Unit 9 · Dialog 2 · added 2026-10-22
+
+---
+
+## in + Dativ (Zukunft)
+
+**Frame:** `in + Dativ` · question `Wann?`
+**Meaning:** in X time from now · also months/seasons (*im*)
+**Slot:** *in einer Woche · in zwei Stunden · im Juli · im Sommer*
+**Register:** neutral
+
+**Behind it:** Future span from now: *Der Techniker kommt in einer Woche.* Months/seasons keep [im + Monat / Jahreszeit](#im--monat--jahreszeit). Dative after *in*.
+
+**Instances**
+- Der Techniker kommt in einer Woche.
+- Er kommt in zwei Stunden.
+- In drei Monaten. · In zwei Wochen. · In vier Tagen. · In einem Jahr. · In einer Stunde.
+- Im Frühling. · Im Juni.
+- Aber nicht erst in einer Woche. Geht es heute noch?
+
+**Ladder**
+1. In einer Woche.
+2. In zwei Stunden.
+3. Im Juni. / Im Frühling.
+4. In einem Jahr.
+5. Trap: ~~in eine Woche~~ — dative *einer*
+
+**Meta:** A2.1 Unit 9 · Dialog 2 · added 2026-10-22
+
+---
+
+## für + Akkusativ (Zeitraum)
+
+**Frame:** `für + Akkusativ` · question `Für wie lange?` / `Wie lange?`
+**Meaning:** for a limited stretch of time
+**Slot:** *für zwei Stunden · für einen Monat · für drei Tage*
+**Register:** neutral — *für* often dropped: *Zwei Stunden bin ich beim Friseur.*
+
+**Behind it:** Same *für* + accusative as [für + Akkusativ](#für--akkusativ) (for a person), but the question is duration. Masculine: *für einen Monat · für einen Tag*.
+
+**Instances**
+- Für wie lange bist du beim Friseur? — Für zwei oder drei Stunden.
+- Für einen Monat. · Für einen Tag. · Für drei Tage. · Für vier Monate.
+- Ich brauche das Auto nur für einen Tag.
+- Ich fahre für drei Tage nach Leipzig.
+- Am Wochenende fahre ich für drei Tage nach Stuttgart.
+
+**Ladder**
+1. Für zwei Stunden.
+2. Für einen Monat.
+3. Für wie lange?
+4. Für drei Tage.
+5. Trap: ~~für einem Monat~~ — accusative *einen*
+
+**Meta:** A2.1 Unit 9 · Dialog 3 · added 2026-10-22
+
+---
+
+## Beim Kundenservice
+
+**Frame:** `Maier am Apparat.` · `Was kann ich für Sie tun?` · `Mein Internet funktioniert nicht.` · `Auf Wiederhören!`
+**Meaning:** call customer service · state a problem · hang up
+**Slot:** name · problem · data
+**Register:** phone formal (*Sie*) · *Auf Wiederhören* on the phone (not *Auf Wiedersehen*)
+
+**Behind it:** Open: *Guten Tag, Müller hier.* / *… am Apparat.* Offer help. Restart check. Send a technician. Close with *Auf Wiederhören!*
+
+**Instances**
+- Bitte haben Sie etwas Geduld.
+- Was kann ich für Sie tun? / Wie kann ich Ihnen helfen?
+- Mein Internet funktioniert nicht.
+- Eine Störung gibt es momentan nicht.
+- Haben Sie den Router schon neu gestartet?
+- Dann schicke ich Ihnen am besten einen Techniker.
+- Vielen Dank für Ihre Hilfe! — Gern geschehen.
+- Auf Wiederhören!
+
+**Ladder**
+1. Was kann ich für Sie tun?
+2. Mein Internet funktioniert nicht.
+3. Bitte haben Sie etwas Geduld.
+4. Haben Sie den Router schon neu gestartet?
+5. Auf Wiederhören!
+6. Trap: ~~Auf Wiedersehen~~ on a phone call — prefer *Auf Wiederhören*
+
+**Meta:** A2.1 Unit 9 · Dialog 2 · added 2026-10-22
+
+---
+
+## Einen Termin vereinbaren
+
+**Frame:** `Passt es Ihnen um X?` · `Da kann ich leider nicht.` · `Können wir den Termin verschieben?`
+**Meaning:** book · confirm · postpone · cancel an appointment
+**Slot:** day / clock time · *Termin*
+**Register:** formal *Sie* on the hotline · informal with friends
+
+**Behind it:** *der Termin* · *vereinbaren / machen · bestätigen · verschieben · absagen*. Confirm: *passt · geht · klappt · wir sind da.*
+
+**Instances**
+- Passt es Ihnen um 12 Uhr? · Geht es morgen um 12 Uhr? · Können Sie morgen um 12 Uhr?
+- Wie wäre es mit morgen um 12 Uhr?
+- Da kann ich leider nicht. · Morgen um 12 Uhr kann ich nicht.
+- Haben Sie auch einen späteren Termin? · Habt ihr einen Termin am Freitag frei?
+- Morgen um 12 Uhr klappt. / … passt. / … geht. / … haben wir Zeit. / … können wir. / … sind wir da.
+- Können wir den Termin verschieben? · Ich möchte meinen Termin absagen.
+- Geht es auch später? · Passt dir das? · Einverstanden. · Ja, das passt.
+
+**Ladder**
+1. Passt es Ihnen um 12 Uhr?
+2. Da kann ich leider nicht.
+3. Morgen um 12 Uhr klappt.
+4. Können wir den Termin verschieben?
+5. Ich möchte meinen Termin absagen.
+6. Trap: ~~Auf Wiedersehen~~ at end of call — *Auf Wiederhören*
+
+**Meta:** A2.1 Unit 9 · Dialog 3 · added 2026-10-22
+
+---
+
+## Ein Gerät bedienen
+
+**Frame:** `den Router neu starten` · `den Stecker reinstecken / rausziehen` · `den Knopf drücken`
+**Meaning:** operate a device · fix a simple tech problem
+**Slot:** device · action
+**Register:** either
+
+**Behind it:** Accusative objects on the device parts. *kaputt · reparieren · den Techniker anrufen.*
+
+**Instances**
+- Er schaltet den Router ein-/aus. · Er startet den Router neu.
+- Er steckt den Stecker in die Steckdose. / … rein. · Er zieht den Stecker raus.
+- Er drückt den Knopf. · Die Lampe leuchtet / blinkt.
+- Das Internet funktioniert nicht. / Das Internet geht nicht.
+- Wie können wir das Problem lösen?
+- Wir rufen den Techniker an.
+- Der Router ist kaputt. · Der Techniker muss das Gerät reparieren.
+
+**Ladder**
+1. den Router neu starten
+2. den Stecker reinstecken / rausziehen
+3. den Knopf drücken
+4. Das Internet funktioniert nicht.
+5. den Techniker anrufen
+6. Trap: ~~den Router anrufen~~ — you call the *Techniker*, you restart the *Router*
+
+**Meta:** A2.1 Unit 9 · Dialog 1 · added 2026-10-22
+
+---
+
 ## Later seeds (not yet fully met)
 
 ### Wohin + Verb der Bewegung
@@ -5403,6 +5677,10 @@ Countries with an article: **maskulin** *der Irak · der Iran · der Jemen* — 
 | *jeder* vs *alle* | jeder Film (sg) · alle Filme (pl) | ~~Alle Film~~ / ~~Jeder Filme~~ | singular vs plural |
 | *könnte* suggestion | Wir könnten … | ~~Wir können …~~ for soft *could* | Konjunktiv II vs present |
 | *geht es um* vs *handelt von* vs *über* | geht es um / über + Akk · handelt von + Dat | ~~handelt um~~ | three “about” frames, two cases |
+| *vor* vs *seit* | Vor einem Jahr bekommen (past) | Seit einem Jahr haben (present) | finished ago vs still true |
+| *für* duration | für einen Monat (Akk) | ~~für einem Monat~~ | duration takes accusative |
+| *in* future | in einer Woche | ~~in eine Woche~~ | dative after temporal *in* |
+| phone goodbye | Auf Wiederhören! | ~~Auf Wiedersehen!~~ on a call | hear, not see |
 
 ---
 
