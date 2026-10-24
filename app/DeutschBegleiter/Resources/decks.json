@@ -1,0 +1,5969 @@
+{
+ "source": "anki/Brainscape-German.txt",
+ "generated": "2026-10-24",
+ "decks": [
+  {
+   "id": "a1-chunks",
+   "name": "A1 Chunks",
+   "level": "A1",
+   "subtitle": "Brainscape · A1.1 + A1.2 · Units 1–10",
+   "origin": "predefined",
+   "cards": [
+    {
+     "id": "a1-33ed790359",
+     "front": "Hi! __________?(What’s up?) (slang)",
+     "back": "Hi! **Was geht ab**? (ugs.)"
+    },
+    {
+     "id": "a1-2ca7c56086",
+     "front": "Hallo! __________?(How are you/How’s it going?)",
+     "back": "Gut, und dir? · Hallo! **Wie geht’s?** Gut, und dir?"
+    },
+    {
+     "id": "a1-767230d015",
+     "front": "Hallo! Wie geht’s? Gut, _______(and you)?",
+     "back": "Hallo! Wie geht’s? Gut, **und dir**?"
+    },
+    {
+     "id": "a1-282b780d74",
+     "front": "Mir geht’s gut, und dir?_______(Also good), danke!",
+     "back": "Mir geht’s gut, und dir? **Auch gut**, danke!"
+    },
+    {
+     "id": "a1-7560e8478e",
+     "front": "Woher kommst du?____________(I come from) Australien.",
+     "back": "Woher kommst du? **Ich komme aus** Australien."
+    },
+    {
+     "id": "a1-f9e2a81053",
+     "front": "__________!(How cool)!",
+     "back": "**Wie cool**!"
+    },
+    {
+     "id": "a1-144fc2dc0f",
+     "front": "______________(Where are you from)?Ich komme aus Australien.",
+     "back": "**Woher kommst du**? Ich komme aus Australien."
+    },
+    {
+     "id": "a1-6c53d4e952",
+     "front": "_______(And you)? Woher kommst du?",
+     "back": "**Und du**? Woher kommst du?"
+    },
+    {
+     "id": "a1-130670fd19",
+     "front": "Und du? Woher kommst du? Na aus Berlin. _____________?(Can’t you see that)?",
+     "back": "Und du? Woher kommst du? Na aus Berlin. **Sieht man das nicht**?"
+    },
+    {
+     "id": "a1-0b08b7c406",
+     "front": "Ick bin ein Berliner. Das bist ja du!________(Of course).",
+     "back": "Ick bin ein Berliner. Das bist ja du! **Na klar**."
+    },
+    {
+     "id": "a1-2e775d71d7",
+     "front": "______________(What is your name by the way)?",
+     "back": "**Wie heißt du eigentlich**?"
+    },
+    {
+     "id": "a1-592638417c",
+     "front": "_____________(Please fasten (your) seat belts)! Wir erwarten Turbulenzen.",
+     "back": "**Bitte anschnallen**! Wir erwarten Turbulenzen."
+    },
+    {
+     "id": "a1-9e094b7693",
+     "front": "Hä? Verdammt, ______________(where’s) mein Anschnallgurt?",
+     "back": "Hä? Verdammt, **wo ist denn** mein Anschnallgurt?"
+    },
+    {
+     "id": "a1-05a96dc387",
+     "front": "Halt dich doch einfach fest. So!______(Help)!!!!",
+     "back": "Halt dich doch einfach fest. So! **Hilfe**!!!!"
+    },
+    {
+     "id": "a1-f5d4d55458",
+     "front": "Katie schläft und Gogo _______(is hungry) und Langeweile.",
+     "back": "Katie schläft und Gogo **hat Hunger** und Langeweile."
+    },
+    {
+     "id": "a1-8e7172ee1d",
+     "front": "_______(Thanks for) die Erdnüsse.",
+     "back": "**Danke für** die Erdnüsse."
+    },
+    {
+     "id": "a1-6bbc5ee6dc",
+     "front": "__________(You speak German really well)!",
+     "back": "**Du sprichst aber gut Deutsch**!"
+    },
+    {
+     "id": "a1-8152de0ce2",
+     "front": "__________(Which languages do you speak)?",
+     "back": "**Welche Sprachen sprichst du**?"
+    },
+    {
+     "id": "a1-3d62844415",
+     "front": "Ich __________(speak German fluently), Englisch, Chinesisch, Japanisch und natürlich die Sprache der Liebe.",
+     "back": "Ich **spreche fließend Deutsch**, Englisch, Chinesisch, Japanisch und natürlich die Sprache der Liebe."
+    },
+    {
+     "id": "a1-663ac131b0",
+     "front": "__________________(Nice to meet you), Gogo.",
+     "back": "**Schön dich kennenzulernen**, Gogo."
+    },
+    {
+     "id": "a1-be3151b831",
+     "front": "Ich spreche fließend Deutsch, Englisch, Chinesisch, Japanisch und ________(of course the language of love).",
+     "back": "Ich spreche fließend Deutsch, Englisch, Chinesisch, Japanisch und **natürlich die Sprache der Liebe**."
+    },
+    {
+     "id": "a1-eb0a631342",
+     "front": "Ja, genau! __________(A little/some French).",
+     "back": "Ja, genau! **Etwas Französisch**."
+    },
+    {
+     "id": "a1-ccc2adf8fe",
+     "front": "Wir wünschen Ihnen ______________(a nice time) in Berlin.",
+     "back": "Wir wünschen Ihnen **eine schöne Zeit** in Berlin."
+    },
+    {
+     "id": "a1-fa5673fa8f",
+     "front": "_________(There is) das Brandenburger Tor.",
+     "back": "**Da ist** das Brandenburger Tor."
+    },
+    {
+     "id": "a1-cb2e3c38c6",
+     "front": "Ja, und da ist mein Haus. ____________(Right there).",
+     "back": "Ja, und da ist mein Haus. **Genau da**."
+    },
+    {
+     "id": "a1-04d01aec10",
+     "front": "______________(My name is) Katie. Und du?",
+     "back": "**Ich heiße** Katie. Und du?"
+    },
+    {
+     "id": "a1-644088d74d",
+     "front": "__________(I am) Günther.",
+     "back": "**Ich bin** Günther."
+    },
+    {
+     "id": "a1-4f04592fb7",
+     "front": "_________(My nickname is) Gogo.",
+     "back": "**Mein Spitzname ist** Gogo."
+    },
+    {
+     "id": "a1-87f5ca1c31",
+     "front": "Schön dich kennenzulernen, Gogo._________(Yes, likewise).",
+     "back": "Schön dich kennenzulernen, Gogo. **Ja, ebenso**."
+    },
+    {
+     "id": "a1-c55d42793c",
+     "front": "Nein, noch nie. Das ist __________(my first time) hier.",
+     "back": "Nein, noch nie. Das ist **mein erstes Mal** hier."
+    },
+    {
+     "id": "a1-ba881dfac4",
+     "front": "_______________(What are you doing here)?",
+     "back": "**Was machst du hier**?"
+    },
+    {
+     "id": "a1-2534570dbc",
+     "front": "_________(I want to) reisen und mein Deutsch verbessern.",
+     "back": "**Ich will** reisen und mein Deutsch verbessern."
+    },
+    {
+     "id": "a1-74cadf6b83",
+     "front": "__________(Welcome to) Deutschland!",
+     "back": "**Willkommen in** Deutschland!"
+    },
+    {
+     "id": "a1-9c323eb54c",
+     "front": "Danke. Weißt du, wo die ___________(airport information) ist?",
+     "back": "Danke. Weißt du, wo die **Flughafeninformation** ist?"
+    },
+    {
+     "id": "a1-0d1479afea",
+     "front": "__________(Have fun) in Berlin, Katie Känguru.",
+     "back": "**Viel Spaß** in Berlin, Katie Känguru."
+    },
+    {
+     "id": "a1-0519855a8a",
+     "front": "Ach, Susi, _______________(wait a minute).",
+     "back": "Ach, Susi, **warte mal kurz**."
+    },
+    {
+     "id": "a1-b4f06b0d0f",
+     "front": "___________(Good morning)! Wie kann ich helfen?",
+     "back": "**Guten Morgen**! Wie kann ich helfen?"
+    },
+    {
+     "id": "a1-3b1e916408",
+     "front": "_________________(I have a question). Wie komme ich zur Feierabendstraße?",
+     "back": "**Ich habe eine Frage**. Wie komme ich zur Feierabendstraße?"
+    },
+    {
+     "id": "a1-90b4b9f0ec",
+     "front": "Ich habe eine Frage. _________________(How do I get to) Feierabendstraße?",
+     "back": "Ich habe eine Frage. **Wie komme ich zur** Feierabendstraße?"
+    },
+    {
+     "id": "a1-fb9c39a3a4",
+     "front": "____________(Pardon me)?",
+     "back": "**Wie bitte**?"
+    },
+    {
+     "id": "a1-7df9385168",
+     "front": "Da müssen Sie __________(go by train) oder _____________(by bus).",
+     "back": "Da müssen Sie **mit dem Zug** oder **mit dem Bus fahren**."
+    },
+    {
+     "id": "a1-021efa4a40",
+     "front": "Okay, alles klar. Aber ich habe ______________(so much luggage).",
+     "back": "Okay, alles klar. Aber ich habe **so viel Gepäck**."
+    },
+    {
+     "id": "a1-1b615f4f09",
+     "front": "___________ (Where are) die Taxis?",
+     "back": "**Wo sind** die Taxis?"
+    },
+    {
+     "id": "a1-496e841581",
+     "front": "Ausgang fünf, _______(over there).",
+     "back": "Ausgang fünf, **dort drüben**."
+    },
+    {
+     "id": "a1-5f0af7040e",
+     "front": "Okay. ____________(Thank you very much). Auf Wiedersehen.",
+     "back": "Okay. **Danke schön**. Auf Wiedersehen."
+    },
+    {
+     "id": "a1-4aee8dacc8",
+     "front": "Okay. Danke schön. __________(Goodbye (formal)).",
+     "back": "Okay. Danke schön. **Auf Wiedersehen**."
+    },
+    {
+     "id": "a1-eb96d20a23",
+     "front": "________(Excuse me (formal))!",
+     "back": "**Entschuldigen Sie**!"
+    },
+    {
+     "id": "a1-376c366eef",
+     "front": "__________(Yes, please)?",
+     "back": "**Ja, bitte**?"
+    },
+    {
+     "id": "a1-66c72c8768",
+     "front": "_______________(I have another question).",
+     "back": "**Ich habe noch eine Frage**."
+    },
+    {
+     "id": "a1-338384b4dc",
+     "front": "Kann ich das Taxi ___________(pay by credit card)?",
+     "back": "Kann ich das Taxi **mit Kreditkarte bezahlen**?"
+    },
+    {
+     "id": "a1-fbb5bce6a0",
+     "front": "Also ja, __________(I need) Geld.",
+     "back": "Also ja, **ich brauche** Geld."
+    },
+    {
+     "id": "a1-7b1b6e360f",
+     "front": "________(What’s it called)? Ähm. Die Bankmaschine?",
+     "back": "**Wie heißt das**? Ähm. Die Bankmaschine?"
+    },
+    {
+     "id": "a1-5ea81600d9",
+     "front": "_________(That is called) “der Geldautomat”.",
+     "back": "**Das heißt** “der Geldautomat”."
+    },
+    {
+     "id": "a1-669739262c",
+     "front": "Du Susi, heute Abend kann ich ________(unfortunately) nicht.",
+     "back": "Du Susi, heute Abend kann ich **leider** nicht."
+    },
+    {
+     "id": "a1-c567cf4886",
+     "front": "_________(Tonight) seh’ ich endlich Romeo.",
+     "back": "**Heute Abend** seh’ ich endlich Romeo."
+    },
+    {
+     "id": "a1-c46d485537",
+     "front": "Hallo! Oh, ______________(excuse me)!",
+     "back": "Hallo! Oh, **Verzeihung**!"
+    },
+    {
+     "id": "a1-6fb537d307",
+     "front": "_________(No problem). Heute ist so ein schöner Tag.",
+     "back": "**Kein Problem**. Heute ist so ein schöner Tag."
+    },
+    {
+     "id": "a1-57627b0c67",
+     "front": "Ah, schön. ___________(I also need) eine Karte.",
+     "back": "Ah, schön. **Ich brauche noch** eine Karte."
+    },
+    {
+     "id": "a1-56ee7b0c3a",
+     "front": "_____, _____(Here you go). Aber ich brauch’ sie wieder.",
+     "back": "****Hier, bi**tte**. Aber ich brauch’ sie wieder."
+    },
+    {
+     "id": "a1-7044147b15",
+     "front": "___________(How do you say that) auf Deutsch?",
+     "back": "**Wie sagt man das** auf Deutsch?"
+    },
+    {
+     "id": "a1-86fce42462",
+     "front": "_________(That’s very nice) von Ihnen.",
+     "back": "**Das ist sehr nett** von Ihnen."
+    },
+    {
+     "id": "a1-65dc8da9ca",
+     "front": "Vielen Dank. _______(Bye)!",
+     "back": "Vielen Dank. **Tschüss**!"
+    },
+    {
+     "id": "a1-e9447910d2",
+     "front": "_____, ________(Yes, of course) ist Romeo kastriert.",
+     "back": "****Ja, natürl**ich** ist Romeo kastriert."
+    },
+    {
+     "id": "a1-db25622d3e",
+     "front": "Wow! Sind _____________(all Germans) so verrückt?",
+     "back": "Wow! Sind **alle Deutschen** so verrückt?"
+    },
+    {
+     "id": "a1-b28ce81e01",
+     "front": "_________________(Good day! Are you (form.) still free)?",
+     "back": "**Guten Tag! Sind Sie noch frei**?"
+    },
+    {
+     "id": "a1-bdaa03cc9c",
+     "front": "Ja, __________________(where do you (form.) want to go)?",
+     "back": "Ja, **wohin wollen Sie fahren**?"
+    },
+    {
+     "id": "a1-ee0c8e6f9a",
+     "front": "______________(Is there) ein Hotel?",
+     "back": "**Ist dort** ein Hotel?"
+    },
+    {
+     "id": "a1-4ec9b3898d",
+     "front": "___________(Pardon me)? Ich verstehe nicht.",
+     "back": "**Wie bitte**? Ich verstehe nicht."
+    },
+    {
+     "id": "a1-6b940a59c6",
+     "front": "Wie bitte? _____________(I don’t understand).",
+     "back": "Wie bitte? **Ich verstehe nicht**."
+    },
+    {
+     "id": "a1-00adc02ebb",
+     "front": "_________________(Can you (form.) repeat that)?",
+     "back": "**Können Sie das noch mal wiederholen**?"
+    },
+    {
+     "id": "a1-f99f6f6cfe",
+     "front": "_____________(Do you (form.) want to) da wirklich übernachten?",
+     "back": "**Wollen Sie** da wirklich übernachten?"
+    },
+    {
+     "id": "a1-1f05da80f8",
+     "front": "Wollen Sie da wirklich _____________(spend the night)?",
+     "back": "Wollen Sie da wirklich **übernachten**?"
+    },
+    {
+     "id": "a1-fb6116a8d0",
+     "front": "Und _______________(where are you (form.) from)?",
+     "back": "Und **woher kommen Sie**?"
+    },
+    {
+     "id": "a1-7ed729c367",
+     "front": "______________(I come from Australia).",
+     "back": "**Ich komme aus Australien**."
+    },
+    {
+     "id": "a1-3210c9d615",
+     "front": "Oh, haben Sie Spinnen _________(with you)?",
+     "back": "Oh, haben Sie Spinnen **dabei**?"
+    },
+    {
+     "id": "a1-2935f2f4f7",
+     "front": "Was? ________________(Get out of the car right now).",
+     "back": "Was? **Steigen Sie sofort aus**."
+    },
+    {
+     "id": "a1-f7144e07a7",
+     "front": "Nein, ______________(just kidding).",
+     "back": "Nein, **war nur Spaß**."
+    },
+    {
+     "id": "a1-c5df826001",
+     "front": "Ach, ___________(where exactly do you (form.) live) in Australien?",
+     "back": "Ach, **wo genau wohnen Sie** in Australien?"
+    },
+    {
+     "id": "a1-55b3951787",
+     "front": "________(I live in) Sydney.",
+     "back": "**Ich wohne in** Sydney."
+    },
+    {
+     "id": "a1-854f6ff60c",
+     "front": "__________(Are you (form.) from) Berlin?",
+     "back": "**Sind Sie aus** Berlin?"
+    },
+    {
+     "id": "a1-68bd5481e5",
+     "front": "Nein, ich komme __________(from Turkey).",
+     "back": "Nein, ich komme **aus der Türkei**."
+    },
+    {
+     "id": "a1-91bede1e74",
+     "front": "__________________(Why do you (form.) speak) so gut Deutsch?",
+     "back": "**Warum sprechen Sie** so gut Deutsch?"
+    },
+    {
+     "id": "a1-39ace51bd2",
+     "front": "___________(We are here).",
+     "back": "**Wir sind da**."
+    },
+    {
+     "id": "a1-168414e4f2",
+     "front": "Danke! _________(How much) kostet das?",
+     "back": "Danke! **Wie viel** kostet das?"
+    },
+    {
+     "id": "a1-6274965225",
+     "front": "Danke! Wie viel __________(does it cost)?",
+     "back": "Danke! Wie viel **kostet das**?"
+    },
+    {
+     "id": "a1-398a3b6224",
+     "front": "________(Cash or by card)?",
+     "back": "**Bar oder mit Karte**?"
+    },
+    {
+     "id": "a1-0f0af99ace",
+     "front": "Was? _____________(Are you (form.) leaving me) hier alleine?",
+     "back": "Was? **Lassen Sie mich** hier alleine?"
+    },
+    {
+     "id": "a1-6fd3b433b2",
+     "front": "_________(Here are) 20 Euro.",
+     "back": "**Hier sind** 20 Euro."
+    },
+    {
+     "id": "a1-170fc97076",
+     "front": "Aber ____________(you’ll stay with me), Bärchen, oder?",
+     "back": "Aber **du bleibst bei mir**, Bärchen, oder?"
+    },
+    {
+     "id": "a1-60994b7000",
+     "front": "Hallo? ____________(Is anyone there)?",
+     "back": "Hallo? **Ist da jemand**?"
+    },
+    {
+     "id": "a1-bd3df89128",
+     "front": "___________(I’m coming).",
+     "back": "**Ich komme**."
+    },
+    {
+     "id": "a1-c7ae290d54",
+     "front": "__________(Good day)!",
+     "back": "**Guten Tag**!"
+    },
+    {
+     "id": "a1-6e06a0cc5c",
+     "front": "Hallo! Willkommen! ____________(How are you (form.))?",
+     "back": "Hallo! Willkommen! **Wie geht es Ihnen**?"
+    },
+    {
+     "id": "a1-d0a1eef481",
+     "front": "Ähm, ich habe ___________(a reservation).",
+     "back": "Ähm, ich habe **eine Reservierung**."
+    },
+    {
+     "id": "a1-c8aeb7d5d2",
+     "front": "Ähm, ________________(can I check in please)?",
+     "back": "Ähm, **kann ich bitte einchecken**?"
+    },
+    {
+     "id": "a1-356fc87c0d",
+     "front": "____________(Here’s) Ihre Reservierung.",
+     "back": "**Hier ist** Ihre Reservierung."
+    },
+    {
+     "id": "a1-4f86a4467b",
+     "front": "Kann ich bitte ______________(your (form.) passport) sehen?",
+     "back": "Kann ich bitte **Ihren Reisepass** sehen?"
+    },
+    {
+     "id": "a1-2758c8637f",
+     "front": "Sie bleiben drei Nächte bei uns, ____________(is that right)?",
+     "back": "Sie bleiben drei Nächte bei uns, **ist das richtig**?"
+    },
+    {
+     "id": "a1-f4cd459123",
+     "front": "______________(Speaking of food), Frühstück ist bei uns von 7 bis 10 Uhr.",
+     "back": "**Apropos Essen**, Frühstück ist bei uns von 7 bis 10 Uhr."
+    },
+    {
+     "id": "a1-0d4382d8ad",
+     "front": "___________(Would you (form.) like) auch eine Wurst?",
+     "back": "**Möchten Sie** auch eine Wurst?"
+    },
+    {
+     "id": "a1-fde4f4278f",
+     "front": "So, hier ist ______________(your (form.) room card).",
+     "back": "So, hier ist **Ihre Zimmerkarte**."
+    },
+    {
+     "id": "a1-789bffceab",
+     "front": "__________(Where is my room)?",
+     "back": "**Wo ist mein Zimmer**?"
+    },
+    {
+     "id": "a1-6db19d0623",
+     "front": "Ihr Zimmer ist ___________(right over there).",
+     "back": "Ihr Zimmer ist **gleich da drüben**."
+    },
+    {
+     "id": "a1-cc0136d222",
+     "front": "__________(My suitcase) ist sehr schwer.",
+     "back": "**Mein Koffer** ist sehr schwer."
+    },
+    {
+     "id": "a1-ed8debcf88",
+     "front": "__________________(Can you (form.) help me please)?",
+     "back": "**Können Sie mir bitte helfen**?"
+    },
+    {
+     "id": "a1-180cb827cc",
+     "front": "______________(Come (form.)), ich zeig’s Ihnen.",
+     "back": "**Kommen Sie**, ich zeig’s Ihnen."
+    },
+    {
+     "id": "a1-0101116912",
+     "front": "So, _______________(this is your (form.) room).",
+     "back": "So, **das ist Ihr Zimmer**."
+    },
+    {
+     "id": "a1-1801a4c3a9",
+     "front": "_____________(Some people) mögen mein Hotel ja nicht, weil es von außen nicht so schön ist.",
+     "back": "**Manche Leute** mögen mein Hotel ja nicht, weil es von außen nicht so schön ist."
+    },
+    {
+     "id": "a1-4b705ef856",
+     "front": "______________(You’re (form.) right about that).",
+     "back": "**Da haben Sie recht**."
+    },
+    {
+     "id": "a1-14b1feb5c9",
+     "front": "__________(Do you (form.) have) Wi-Fi?",
+     "back": "**Haben Sie** Wi-Fi?"
+    },
+    {
+     "id": "a1-bff2a1488d",
+     "front": "Natürlich! ____________(In German) sagen wir aber “WLAN”.",
+     "back": "Natürlich! **Auf Deutsch** sagen wir aber “WLAN”."
+    },
+    {
+     "id": "a1-1ef84dab15",
+     "front": "___________(See you later).",
+     "back": "**Bis später**."
+    },
+    {
+     "id": "a1-ecfe4905c0",
+     "front": "___________(I have a headache).",
+     "back": "**Ich habe Kopfschmerzen**."
+    },
+    {
+     "id": "a1-19d0252eb2",
+     "front": "Ist hier __________(a pharmacy) in der Nähe?",
+     "back": "Ist hier **eine Apotheke** in der Nähe?"
+    },
+    {
+     "id": "a1-e06e21a921",
+     "front": "Ist hier eine Apotheke _________(nearby (lit. in the proximity))?",
+     "back": "Ist hier eine Apotheke **in der Nähe**?"
+    },
+    {
+     "id": "a1-627ac92d49",
+     "front": "Ja, die Apotheke ist _____________(just around the corner).",
+     "back": "Ja, die Apotheke ist **gleich um die Ecke**."
+    },
+    {
+     "id": "a1-bef846c931",
+     "front": "Oh, _______(cute)! Hallo, Mimi!",
+     "back": "Oh, **süß**! Hallo, Mimi!"
+    },
+    {
+     "id": "a1-47fac1a718",
+     "front": "Die Apotheke _____________(is closed).",
+     "back": "Die Apotheke **ist geschlossen**."
+    },
+    {
+     "id": "a1-1687140271",
+     "front": "Ach ja, ____________(today is Sunday).",
+     "back": "Ach ja, **heute ist Sonntag**."
+    },
+    {
+     "id": "a1-915101fbbe",
+     "front": "Ach, keine Sorge, da hab’ ich ___________(something better).",
+     "back": "Ach, keine Sorge, da hab’ ich **was Besseres**."
+    },
+    {
+     "id": "a1-97f17302bd",
+     "front": "Der Schnaps hier, der __________(helps against) Kopfschmerz.",
+     "back": "Der Schnaps hier, der **hilft gegen** Kopfschmerz."
+    },
+    {
+     "id": "a1-f2d4079d8b",
+     "front": "Danke schön. Ja, super. ___________(Good night).",
+     "back": "Danke schön. Ja, super. **Gute Nacht**."
+    },
+    {
+     "id": "a1-4ec7babfbd",
+     "front": "Guten Tag, _____________(what would you (form.) like)?",
+     "back": "Guten Tag, **was möchten Sie**?"
+    },
+    {
+     "id": "a1-a34b755c56",
+     "front": "_____________(I’d like to have) Erdbeeren.",
+     "back": "**Ich hätte gerne** Erdbeeren."
+    },
+    {
+     "id": "a1-65eb28cd8b",
+     "front": "Wir haben _____________(at the moment) keine Erdbeeren.",
+     "back": "Wir haben **zurzeit** keine Erdbeeren."
+    },
+    {
+     "id": "a1-053a8b84c8",
+     "front": "____________(I want) Erdbeeren, aber Sie haben ja keine!",
+     "back": "**Ich will** Erdbeeren, aber Sie haben ja keine!"
+    },
+    {
+     "id": "a1-0507bf1d10",
+     "front": "Hier, ____________(Here, try (form.))!",
+     "back": "Hier, **probieren Sie mal**!"
+    },
+    {
+     "id": "a1-2e5e4db90f",
+     "front": "___________(Delicious)! Für Sie heute umsonst.",
+     "back": "**Lecker**! Für Sie heute umsonst."
+    },
+    {
+     "id": "a1-af82eb173b",
+     "front": "___________(That’s very nice). Vielen Dank.",
+     "back": "**Das ist aber nett**. Vielen Dank."
+    },
+    {
+     "id": "a1-8ca446c096",
+     "front": "___________(Do you (form.) have apples)?",
+     "back": "**Haben Sie Äpfel**?"
+    },
+    {
+     "id": "a1-4c3e379dcd",
+     "front": "___________(Of course) haben wir Äpfel.",
+     "back": "**Natürlich** haben wir Äpfel."
+    },
+    {
+     "id": "a1-1e6eeef75d",
+     "front": "__________(I’ll take) die zwei Birnen hier.",
+     "back": "**Ich nehme** die zwei Birnen hier."
+    },
+    {
+     "id": "a1-244860a422",
+     "front": "Guten Tag, __________(how can I help you (form.))?",
+     "back": "Guten Tag, **wie kann ich Ihnen helfen**?"
+    },
+    {
+     "id": "a1-07fecd2403",
+     "front": "__________(That one there), bitte.",
+     "back": "**Das dort**, bitte."
+    },
+    {
+     "id": "a1-c9d2ea1536",
+     "front": "_________(This one here)?",
+     "back": "**Das hier**?"
+    },
+    {
+     "id": "a1-477f3b6584",
+     "front": "Das ist ________(a bread roll).",
+     "back": "Das ist **ein Brötchen**."
+    },
+    {
+     "id": "a1-d3cf80ee3d",
+     "front": "_________(Don’t you (form.) know) Vollkornbrötchen?",
+     "back": "**Kennen Sie keine** Vollkornbrötchen?"
+    },
+    {
+     "id": "a1-b3528edf56",
+     "front": "________(How much) (lit. What) kostet das Brötchen?",
+     "back": "**Was** kostet das Brötchen?"
+    },
+    {
+     "id": "a1-5cf06472ba",
+     "front": "________(It costs) 60 Cent.",
+     "back": "**Es kostet** 60 Cent."
+    },
+    {
+     "id": "a1-97e36fc7f9",
+     "front": "Und _________(how much are) die Kekse?",
+     "back": "Und **was kosten** die Kekse?"
+    },
+    {
+     "id": "a1-6f11a5100b",
+     "front": "_________(That makes) 7,40 Euro.",
+     "back": "**Das macht dann** 7,40 Euro."
+    },
+    {
+     "id": "a1-3ba1be7537",
+     "front": "_________(Keep the change), danke. Tschüss.",
+     "back": "**Stimmt so**, danke. Tschüss."
+    },
+    {
+     "id": "a1-69d302a583",
+     "front": "_________(I need) eine Brust, bitte.",
+     "back": "**Ich brauche** eine Brust, bitte."
+    },
+    {
+     "id": "a1-63008bba2c",
+     "front": "_________(You (form.) mean) Hähnchenbrust?",
+     "back": "**Sie meinen** Hähnchenbrust?"
+    },
+    {
+     "id": "a1-83597f03d6",
+     "front": "Nein, _________((the) Germans) essen doch viel Brust.",
+     "back": "Nein, **die Deutschen** essen doch viel Brust."
+    },
+    {
+     "id": "a1-eba6ed2db8",
+     "front": "Tut mir leid, ________(I don’t speak German that well yet).",
+     "back": "Tut mir leid, **ich spreche noch nicht so gut Deutsch**."
+    },
+    {
+     "id": "a1-dbb1f7c864",
+     "front": "________(Even I) habe manchmal Probleme mit Deutsch.",
+     "back": "**Selbst ich** habe manchmal Probleme mit Deutsch."
+    },
+    {
+     "id": "a1-55b666c950",
+     "front": "Ich nehme ________(those there).",
+     "back": "Ich nehme **die da**."
+    },
+    {
+     "id": "a1-9feb26b2d0",
+     "front": "Bezahlen ________(at the cash register), ne? Auf Wiedersehen.",
+     "back": "Bezahlen **an der Kasse**, ne? Auf Wiedersehen."
+    },
+    {
+     "id": "a1-64d7605c4d",
+     "front": "Moment mal,________(wait a minute (form.))!",
+     "back": "Moment mal, **warten Sie mal**!"
+    },
+    {
+     "id": "a1-716416de77",
+     "front": "Äpfel, Birnen, Bananen. ________(What do you (form.) want now)?",
+     "back": "Äpfel, Birnen, Bananen. **Was wollen Sie jetzt**?"
+    },
+    {
+     "id": "a1-9e9ea5d876",
+     "front": "Pamela, ________(my darling).",
+     "back": "Pamela, **mein Schatz**."
+    },
+    {
+     "id": "a1-d1bad010b7",
+     "front": "________(Is this spot here still free)?",
+     "back": "**Ist der Platz hier noch frei**?"
+    },
+    {
+     "id": "a1-a1244c8cad",
+     "front": "Für _________(beautiful women) doch immer!",
+     "back": "Für **schöne Frauen** doch immer!"
+    },
+    {
+     "id": "a1-6879575e6d",
+     "front": "Woher kommt ________(such a pretty woman)?",
+     "back": "Woher kommt **eine so hübsche Frau?** Alternative: Woher kommt so eine hübsche Frau?"
+    },
+    {
+     "id": "a1-74350c7874",
+     "front": "_________(Are you a programmer)?",
+     "back": "**Bist du Programmierer**?"
+    },
+    {
+     "id": "a1-60448f63b9",
+     "front": "_________________(I work as an engineer).",
+     "back": "**Ich arbeite als Ingenieur**."
+    },
+    {
+     "id": "a1-40c67452ce",
+     "front": "________(That’s interesting)!",
+     "back": "**Das ist ja interessant**!"
+    },
+    {
+     "id": "a1-d8a1d91a71",
+     "front": "________(My beauty), komm mal her!",
+     "back": "**Meine Hübsche**, komm mal her!"
+    },
+    {
+     "id": "a1-7532deefca",
+     "front": "Und ________(what do you do for a living)?",
+     "back": "Und **was machst du beruflich**?"
+    },
+    {
+     "id": "a1-c47a5bd1fb",
+     "front": "In Australien _________(I am) Friseurin.",
+     "back": "In Australien **bin ich** Friseurin."
+    },
+    {
+     "id": "a1-f61d637c6d",
+     "front": "________(You make people pretty)?",
+     "back": "**Du machst Leute schön**?"
+    },
+    {
+     "id": "a1-3ae9bd5689",
+     "front": "_________(Why) die Hunde?",
+     "back": "**Wieso** die Hunde?"
+    },
+    {
+     "id": "a1-6ce63006ae",
+     "front": "_______(My specialties (My specialty) are) Pudel und Dackel.",
+     "back": "**Meine Spezialität sind** Pudel und Dackel."
+    },
+    {
+     "id": "a1-507b2fa433",
+     "front": "Dackel? ________(I love) Dackel.",
+     "back": "Dackel? **Ich liebe** Dackel."
+    },
+    {
+     "id": "a1-3f5b3b5b1a",
+     "front": "_________(Wait a second).",
+     "back": "**Warte kurz**."
+    },
+    {
+     "id": "a1-2a485b845c",
+     "front": "________(What are you already doing here)?",
+     "back": "**Was machst du schon hier**?"
+    },
+    {
+     "id": "a1-777de9b559",
+     "front": "________(Who’s that)?",
+     "back": "**Wer ist das**?"
+    },
+    {
+     "id": "a1-93c666ebed",
+     "front": "_________(That is) meine Freundin Natalia.",
+     "back": "**Das ist** meine Freundin Natalia."
+    },
+    {
+     "id": "a1-0f3ca331e9",
+     "front": "________(Pleased to meet you), Joana.",
+     "back": "**Freut mich**, Joana."
+    },
+    {
+     "id": "a1-6873b03d3b",
+     "front": "Joana ________(hardly speaks German).",
+     "back": "Joana **spricht kaum Deutsch**."
+    },
+    {
+     "id": "a1-91e3c60a94",
+     "front": "Woher kommt ________ (you two) eigentlich?",
+     "back": "Woher kommt **ihr zwei** eigentlich?"
+    },
+    {
+     "id": "a1-4f4cc48ceb",
+     "front": "Na, ________(we’re from Italy).",
+     "back": "Na, **wir kommen aus Italien**."
+    },
+    {
+     "id": "a1-f501d9291a",
+     "front": "Meine Mutter _______(is calling right now).",
+     "back": "Meine Mutter **ruft grad (=gerade) an**."
+    },
+    {
+     "id": "a1-7ba19a51af",
+     "front": "So Pietro, ______(now) gibt’s Prügel.",
+     "back": "So Pietro, **jetzt** gibt’s Prügel."
+    },
+    {
+     "id": "a1-71b8bd529f",
+     "front": "Ich ______________________(want to visit the Brandenburg Gate).",
+     "back": "Ich **will das Brandenburger Tor besuchen**."
+    },
+    {
+     "id": "a1-eb6edb0ffe",
+     "front": "________________________(How do I get there)?",
+     "back": "**Wie komme ich dorthin**?"
+    },
+    {
+     "id": "a1-71fa156774",
+     "front": "Sie _______(can take the S-train) zum Alexanderplatz nehmen.",
+     "back": "Sie **können die S-Bahn** zum Alexanderplatz nehmen."
+    },
+    {
+     "id": "a1-c8b5776aaa",
+     "front": "_____________(That sounds good). Wo ist die S-Bahn?",
+     "back": "**Das klingt gut**. Wo ist die S-Bahn?"
+    },
+    {
+     "id": "a1-596d7bc567",
+     "front": "Und wo kann ich _________(buy the ticket)?",
+     "back": "Und wo kann ich **das Ticket kaufen**?"
+    },
+    {
+     "id": "a1-ef661528d7",
+     "front": "________(Back there) ist ein Fahrkartenautomat.",
+     "back": "**Dahinten** ist ein Fahrkartenautomat."
+    },
+    {
+     "id": "a1-4cd6b0acf2",
+     "front": "Der Automat _________(is broken).",
+     "back": "Der Automat **ist kaputt**."
+    },
+    {
+     "id": "a1-d20878901d",
+     "front": "____________________(What do I do now)?",
+     "back": "**Was mach’ ich denn jetzt**?"
+    },
+    {
+     "id": "a1-dd899725a1",
+     "front": "___________(Over there) ist ein Fahrkartenschalter.",
+     "back": "**Dort drüben** ist ein Fahrkartenschalter."
+    },
+    {
+     "id": "a1-ea60599296",
+     "front": "___________________(I get it).",
+     "back": "**Ich verstehe schon**."
+    },
+    {
+     "id": "a1-cfb1a427aa",
+     "front": "Guten Tag, __________(I would like) eine Fahrkarte.",
+     "back": "Guten Tag, **ich hätte gern** eine Fahrkarte."
+    },
+    {
+     "id": "a1-86683cdc28",
+     "front": "Wollen Sie __________(a sip) von meinem Kaffee?",
+     "back": "Wollen Sie **einen Schluck** von meinem Kaffee?"
+    },
+    {
+     "id": "a1-b42ee005a2",
+     "front": "Der ist wirklich __________(very hot).",
+     "back": "Der ist wirklich **sehr heiß**."
+    },
+    {
+     "id": "a1-da28f74a7e",
+     "front": "_______(Where would you (form.) like to) fahren?",
+     "back": "**Wohin möchten Sie** fahren?"
+    },
+    {
+     "id": "a1-6f4873408d",
+     "front": "Ich ___________________(would like to go to Alexanderplatz).",
+     "back": "Ich **möchte zum Alexanderplatz fahren**."
+    },
+    {
+     "id": "a1-c52c03025d",
+     "front": "_______________(Roundtrip, lit. there and back)?",
+     "back": "**Hin und zurück**?"
+    },
+    {
+     "id": "a1-9564fb1f68",
+     "front": "__________(That makes) eigentlich 3,40 Euro.",
+     "back": "**Das macht** eigentlich 3,40 Euro."
+    },
+    {
+     "id": "a1-4dc7b60ce9",
+     "front": "_____________________(When does the next S-Bahn leave)?",
+     "back": "**Wann fährt die nächste S-Bahn**?"
+    },
+    {
+     "id": "a1-559fc913a1",
+     "front": "Gerade heute gibt es _________________(many delays).",
+     "back": "Gerade heute gibt es **viele Verspätungen**."
+    },
+    {
+     "id": "a1-81420fefbd",
+     "front": "Die nächste S-Bahn kommt ________________(in about 20 minutes).",
+     "back": "Die nächste S-Bahn kommt **in circa 20 Minuten**."
+    },
+    {
+     "id": "a1-de0ad6eeed",
+     "front": "Hallo, _____________(is this seat still free)?",
+     "back": "Hallo, **ist hier noch frei**?"
+    },
+    {
+     "id": "a1-1b476f6bd6",
+     "front": "Nächste Station: Westkreuz. __________(End of the line)!",
+     "back": "Nächste Station: Westkreuz. **Endstation**!"
+    },
+    {
+     "id": "a1-c747512306",
+     "front": "Entschuldigen Sie, ___________________(can you (form.) please help me)?",
+     "back": "Entschuldigen Sie, **können Sie mir bitte helfen**?"
+    },
+    {
+     "id": "a1-e1a6b90109",
+     "front": "Na klar, ___________(with pleasure).",
+     "back": "Na klar, **sehr gerne**."
+    },
+    {
+     "id": "a1-31cb6d7d94",
+     "front": "Ich glaub’, ___________________(that’s the wrong direction).",
+     "back": "Ich glaub’, **das ist die falsche Richtung**."
+    },
+    {
+     "id": "a1-1d598450ab",
+     "front": "__________________(I’m just unlucky today).",
+     "back": "**Ich hab heute nur Pech**."
+    },
+    {
+     "id": "a1-af989328f3",
+     "front": "Nein, ____________(don’t worry).",
+     "back": "Nein, **keine Sorge**."
+    },
+    {
+     "id": "a1-d3ea8d2504",
+     "front": "Ah, okay! ___________(And then)?",
+     "back": "Ah, okay! **Und dann**?"
+    },
+    {
+     "id": "a1-2763baefe5",
+     "front": "Und ________________(then get off (form.)).",
+     "back": "Und **dann steigen Sie aus**."
+    },
+    {
+     "id": "a1-88c3ac088e",
+     "front": "Wollen Sie __________(a piece) von meiner Brezel?",
+     "back": "Wollen Sie **ein Stück** von meiner Brezel?"
+    },
+    {
+     "id": "a1-59f370a0be",
+     "front": "Hallo! ________________(Are you from here)?",
+     "back": "Hallo! **Bist du von hier**?"
+    },
+    {
+     "id": "a1-88421325c7",
+     "front": "Ich wohn’ _________(back there) unter der Brücke.",
+     "back": "Ich wohn’ **dahinten** unter der Brücke."
+    },
+    {
+     "id": "a1-dbb9b7aab6",
+     "front": "_______________(Under the bridge)? Wow!",
+     "back": "**Unter der Brücke**? Wow!"
+    },
+    {
+     "id": "a1-9dae09c820",
+     "front": "_________(He hates) seine reichen Eltern und versteckt sich in Berlin.",
+     "back": "**Er hasst** seine reichen Eltern und versteckt sich in Berlin."
+    },
+    {
+     "id": "a1-05070a9cc9",
+     "front": "___________________(What do you want to know)?",
+     "back": "**Was möchtest du wissen**?"
+    },
+    {
+     "id": "a1-b2e3554c9e",
+     "front": "__________(I’m looking for) das Brandenburger Tor.",
+     "back": "**Ich suche** das Brandenburger Tor."
+    },
+    {
+     "id": "a1-65b148dd34",
+     "front": "Das ist ___________(not far).",
+     "back": "Das ist **nicht weit**."
+    },
+    {
+     "id": "a1-f6d314b318",
+     "front": "Ich habe ____________(all day) Zeit.",
+     "back": "Ich habe **den ganzen Tag** Zeit."
+    },
+    {
+     "id": "a1-504a492398",
+     "front": "Ah, _______________(that would be nice).",
+     "back": "Ah, **das wäre nett**."
+    },
+    {
+     "id": "a1-fe63f7689c",
+     "front": "Ich bin jetzt __________________(your city guide).",
+     "back": "Ich bin jetzt **dein Stadtführer**."
+    },
+    {
+     "id": "a1-9d262d13c9",
+     "front": "Also ___________________(then, I’ll get started).",
+     "back": "Also **dann fange ich mal an**."
+    },
+    {
+     "id": "a1-e18b41aaf0",
+     "front": "Hier ist der Fernsehturm. Er ist ______________(368 meters high).",
+     "back": "Hier ist der Fernsehturm. Er ist **368 Meter hoch**."
+    },
+    {
+     "id": "a1-78538c843f",
+     "front": "Von oben kannst du ________________(almost the entire city) sehen.",
+     "back": "Von oben kannst du **fast die ganze Stadt** sehen."
+    },
+    {
+     "id": "a1-ac5cd5d373",
+     "front": "Und ____________(the red building) dort?",
+     "back": "Und **das rote Gebäude** dort?"
+    },
+    {
+     "id": "a1-bf779a2969",
+     "front": "Rathaus? _____________(So what is that)? Ein Haus voller Ratten?",
+     "back": "Rathaus? **Was ist denn das**? Ein Haus voller Ratten?"
+    },
+    {
+     "id": "a1-a118a7dbe3",
+     "front": "Ach Quatsch, _______________(you’re funny).",
+     "back": "Ach Quatsch, **du bist ja lustig**."
+    },
+    {
+     "id": "a1-ebaeda757d",
+     "front": "Im Deutschen gibt es ___________________(so many funny words).",
+     "back": "Im Deutschen gibt es **so viele lustige Wörter**."
+    },
+    {
+     "id": "a1-bc3c940ca5",
+     "front": "Ja, komm. _____________(We continue (lit. On it goes)).",
+     "back": "Ja, komm. **Weiter geht’s**."
+    },
+    {
+     "id": "a1-88d757d4de",
+     "front": "Hier gibt’s eigentlich viele Museen __________(all around).",
+     "back": "Hier gibt’s eigentlich viele Museen **rundherum**."
+    },
+    {
+     "id": "a1-b0dc081122",
+     "front": "Ah, dahinten gibt’s _______((for) free) Kaffee.",
+     "back": "Ah, dahinten gibt’s **umsonst** Kaffee."
+    },
+    {
+     "id": "a1-a76c728cb3",
+     "front": "Wollen wir _______________(go for a coffee)?",
+     "back": "Wollen wir **ein’ Kaffee trinken gehen**?"
+    },
+    {
+     "id": "a1-e2d166a463",
+     "front": "Na dann, _________(come with me), ich zeig’s dir.",
+     "back": "Na dann, **komm mit**, ich zeig’s dir."
+    },
+    {
+     "id": "a1-51d2758922",
+     "front": "Und ____________(here we are).",
+     "back": "Und **hier sind wir**."
+    },
+    {
+     "id": "a1-05ff776315",
+     "front": "Und was sind die vier Pferde ____________(up there)?",
+     "back": "Und was sind die vier Pferde **dort oben**?"
+    },
+    {
+     "id": "a1-a6e3a64ca5",
+     "front": "Und manchmal penn ich __________(down there).",
+     "back": "Und manchmal penn’ ich **da unten**."
+    },
+    {
+     "id": "a1-c393ed30bd",
+     "front": "____________(Out of the way), das ist ein Fahrradweg!",
+     "back": "**Aus dem Weg**, das ist ein Fahrradweg!"
+    },
+    {
+     "id": "a1-241f6c0f7a",
+     "front": "__________(You have to) aber vorsichtig sein hier.",
+     "back": "**Man muss** aber vorsichtig sein hier."
+    },
+    {
+     "id": "a1-5bf2aa2040",
+     "front": "Berlin ________________(is dangerous)!",
+     "back": "Berlin **ist aber gefährlich**!"
+    },
+    {
+     "id": "a1-08d7d53eb7",
+     "front": "_________(Only for) Touristen.",
+     "back": "**Nur für** Touristen."
+    },
+    {
+     "id": "a1-4b2e2c38dd",
+     "front": "__________________(Are you hungry)?",
+     "back": "**Hast du Hunger**?"
+    },
+    {
+     "id": "a1-76db0b0dd1",
+     "front": "_____________(I’m inviting you).",
+     "back": "**Ich lad’ dich ein**."
+    },
+    {
+     "id": "a1-430568da4b",
+     "front": "Ehrlich? ________(Really)?",
+     "back": "Ehrlich? **Wirklich**?"
+    },
+    {
+     "id": "a1-2a538325cd",
+     "front": "_______________(Do you (form.) have a table) für zwei Personen, bitte?",
+     "back": "**Haben Sie einen Platz** für zwei Personen, bitte?"
+    },
+    {
+     "id": "a1-0ec5e0c320",
+     "front": "Ja, natürlich. ________________(Right over here).",
+     "back": "Ja, natürlich. **Gleich hier drüben**."
+    },
+    {
+     "id": "a1-dcfe8fa546",
+     "front": "Und _______________________(here is the menu).",
+     "back": "Und **hier ist die Speisekarte**."
+    },
+    {
+     "id": "a1-f3805a1bc0",
+     "front": "Ich möchte ________________________(something typically German) probieren.",
+     "back": "Ich möchte **etwas typisch Deutsches** probieren."
+    },
+    {
+     "id": "a1-7190b2eac9",
+     "front": "Können Sie _________________(recommend something)?",
+     "back": "Können Sie **etwas empfehlen**?"
+    },
+    {
+     "id": "a1-4c69870fe8",
+     "front": "Also ________(I’ll have the) den Schweinebraten, bitte.",
+     "back": "Also **ich nehme** den Schweinebraten, bitte."
+    },
+    {
+     "id": "a1-0b033626aa",
+     "front": "Haben Sie _______________(something vegetarian)?",
+     "back": "Haben Sie **was Vegetarisches**?"
+    },
+    {
+     "id": "a1-7b9fb6f5c7",
+     "front": "Die Käsespätzle __________________(I can recommend).",
+     "back": "Die Käsespätzle **kann ich empfehlen**."
+    },
+    {
+     "id": "a1-3f71393b37",
+     "front": "Die sind __________(so delicious).",
+     "back": "Die sind **so lecker**."
+    },
+    {
+     "id": "a1-1b8c72c0ea",
+     "front": "_____________________(Then I’ll take those).",
+     "back": "**Dann nehm’ ich die**."
+    },
+    {
+     "id": "a1-8c01169ea0",
+     "front": "_____________________(Would you (form.) like something to drink too)?",
+     "back": "**Möchten Sie auch etwas trinken**?"
+    },
+    {
+     "id": "a1-1c7257bde6",
+     "front": "Ich nehme _____________(a white wine), bitte.",
+     "back": "Ich nehme **einen Weißwein**, bitte."
+    },
+    {
+     "id": "a1-76f182efae",
+     "front": "__________________(What kind of beer) haben Sie?",
+     "back": "**Was für Bier** haben Sie?"
+    },
+    {
+     "id": "a1-3efbbb9f0f",
+     "front": "Okay, _____________________(I’d like to try that).",
+     "back": "Okay, **das möchte ich mal probieren**."
+    },
+    {
+     "id": "a1-cea1fc92c7",
+     "front": "Ich nehme ____________________(a non-alcoholic beer).",
+     "back": "Ich nehme **ein alkoholfreies Bier**."
+    },
+    {
+     "id": "a1-54cda89c43",
+     "front": "_________________(For you always).",
+     "back": "**Für dich immer**."
+    },
+    {
+     "id": "a1-f57e9c6e2b",
+     "front": "________________________________(You didn’t have to do that (lit. That wouldn’t have been necessary.)).",
+     "back": "**Das wär’ doch nicht nötig gewesen**."
+    },
+    {
+     "id": "a1-500b022af4",
+     "front": "Prost! ________(To us)!",
+     "back": "Prost! **Auf uns**!"
+    },
+    {
+     "id": "a1-22845fc319",
+     "front": "___________________________(Thank you very much for the invitation).",
+     "back": "**Vielen Dank für die Einladung**."
+    },
+    {
+     "id": "a1-db1ce976e9",
+     "front": "_________________(Bon appétit)!",
+     "back": "**Guten Appetit**!"
+    },
+    {
+     "id": "a1-d9b60ba0c3",
+     "front": "Magst du mir _____________(the cutlery) rüberreichen?",
+     "back": "Magst du mir **das Besteck** rüberreichen?"
+    },
+    {
+     "id": "a1-2cc9fe3ab7",
+     "front": "Danke ________(likewise).",
+     "back": "Danke **gleichfalls**."
+    },
+    {
+     "id": "a1-e1f64a4470",
+     "front": "Katie und Jonas ________________(are enjoying the meal).",
+     "back": "Katie und Jonas **genießen das Essen**."
+    },
+    {
+     "id": "a1-1a23733646",
+     "front": "Na, ___________(are you full)?",
+     "back": "Na, **bist du satt**?"
+    },
+    {
+     "id": "a1-c3b4dc7d1b",
+     "front": "____________________(Did you (form.) like it)?",
+     "back": "**Hat es Ihnen geschmeckt**?"
+    },
+    {
+     "id": "a1-3b31b6ad44",
+     "front": "______________________(Very good choice).",
+     "back": "**Sehr gute Wahl**."
+    },
+    {
+     "id": "a1-f7c99d614d",
+     "front": "________________(Should I already take the plates)?",
+     "back": "**Soll ich die Teller schon mitnehmen**?"
+    },
+    {
+     "id": "a1-d6c1c3e481",
+     "front": "______________________(That looks good)!",
+     "back": "**Das sieht gut aus**!"
+    },
+    {
+     "id": "a1-045cd5a103",
+     "front": "________________________(Was everything alright (lit. Did everything fit?))?",
+     "back": "**Hat alles gepasst**?"
+    },
+    {
+     "id": "a1-c34f7a3e14",
+     "front": "So, ___________________(now I’m here for you (form.)).",
+     "back": "So, **jetzt bin ich für Sie da**."
+    },
+    {
+     "id": "a1-a6d688f8c2",
+     "front": "Warum sind Sie denn schon _____________(awake so early)?",
+     "back": "Warum sind Sie denn schon **so früh wach**?"
+    },
+    {
+     "id": "a1-6a39698e6a",
+     "front": "Frühstück ist doch ___________(not until) sieben.",
+     "back": "Frühstück ist doch **erst um** sieben."
+    },
+    {
+     "id": "a1-f88a6a1ae9",
+     "front": "___________________(What time is it)?",
+     "back": "**Wie spät ist es**?"
+    },
+    {
+     "id": "a1-8190220602",
+     "front": "____________(I’m looking for) ein Zimmer.",
+     "back": "**Ich suche** ein Zimmer."
+    },
+    {
+     "id": "a1-0358d73e67",
+     "front": "_________________________(Do you (form.) need help)?",
+     "back": "**Brauchen Sie Hilfe**?"
+    },
+    {
+     "id": "a1-4c819254d3",
+     "front": "Ich verstehe ________________(the ad here) nicht.",
+     "back": "Ich verstehe **die Anzeige hier** nicht."
+    },
+    {
+     "id": "a1-9f1584d0bb",
+     "front": "Zwei oder mehrere Personen _________________(live together).",
+     "back": "Zwei oder mehrere Personen **wohnen zusammen**."
+    },
+    {
+     "id": "a1-43d0e26492",
+     "front": "____________________(That sounds good).",
+     "back": "**Das klingt gut**."
+    },
+    {
+     "id": "a1-f05c3442d7",
+     "front": "_____________________(Is the room still available)?",
+     "back": "**Ist das Zimmer noch frei**?"
+    },
+    {
+     "id": "a1-9f058deb09",
+     "front": "_______________(Can you cook), Katie Koch?",
+     "back": "**Kannst du kochen**, Katie Koch?"
+    },
+    {
+     "id": "a1-954bb74846",
+     "front": "___________________(You (form.) are renting out a room)?",
+     "back": "**Sie vermieten ein Zimmer**?"
+    },
+    {
+     "id": "a1-fe9d7bdcc5",
+     "front": "_______(When) kann ich es sehen?",
+     "back": "**Wann** kann ich es sehen?"
+    },
+    {
+     "id": "a1-8b395886cf",
+     "front": "Vielleicht ______________(on Tuesday)?",
+     "back": "Vielleicht **am Dienstag**?"
+    },
+    {
+     "id": "a1-2291259e05",
+     "front": "____________________(At what time)?",
+     "back": "**Um wie viel Uhr**?"
+    },
+    {
+     "id": "a1-595e783075",
+     "front": "Vielleicht ___________(at seven)?",
+     "back": "Vielleicht **um sieben**?"
+    },
+    {
+     "id": "a1-ff53596a8a",
+     "front": "Wie viele Leute _________(are you (pl.))?",
+     "back": "Wie viele Leute **seid ihr**?"
+    },
+    {
+     "id": "a1-ccff1d60f3",
+     "front": "Also Klamotten _______________(are forbidden).",
+     "back": "Also Klamotten **sind verboten**."
+    },
+    {
+     "id": "a1-3de80aba66",
+     "front": "Hallo, ich rufe ______________(about your (form.) ad) an.",
+     "back": "Hallo, ich rufe **wegen Ihrer Anzeige** an."
+    },
+    {
+     "id": "a1-52bea3dc27",
+     "front": "Wann ist _________________(the viewing)?",
+     "back": "Wann ist **die Besichtigung**?"
+    },
+    {
+     "id": "a1-e74cbec632",
+     "front": "Hast du ______________(this (lit. today) afternoon) Zeit?",
+     "back": "Hast du **heute Nachmittag** Zeit?"
+    },
+    {
+     "id": "a1-c2ad6a5fd0",
+     "front": "____________________(Is it also possible) morgen?",
+     "back": "**Geht es auch** morgen?"
+    },
+    {
+     "id": "a1-8dcc19dc06",
+     "front": "________________(Tomorrow we have time).",
+     "back": "**Morgen haben wir Zeit**."
+    },
+    {
+     "id": "a1-eb766e6101",
+     "front": "________________(Are you free) morgen Abend?",
+     "back": "**Kannst du** morgen Abend?"
+    },
+    {
+     "id": "a1-3353b099cd",
+     "front": "___________________________(Where do you (pl.) live)?",
+     "back": "**Wo wohnt ihr denn**?"
+    },
+    {
+     "id": "a1-aaf13bfa6e",
+     "front": "_________________________(That’s very central).",
+     "back": "**Das ist ja sehr zentral**."
+    },
+    {
+     "id": "a1-b24c771968",
+     "front": "Wo muss ich __________(ring the bell)?",
+     "back": "Wo muss ich **klingeln**?"
+    },
+    {
+     "id": "a1-4e3422fcf6",
+     "front": "_____(At) Müller.",
+     "back": "**Bei** Müller."
+    },
+    {
+     "id": "a1-5e0a38dd0e",
+     "front": "_____________(Your voice) kommt mir irgendwie bekannt vor.",
+     "back": "**Deine Stimme** kommt mir irgendwie bekannt vor."
+    },
+    {
+     "id": "a1-ab9f3b9011",
+     "front": "Na klar, die __________________(from the plane).",
+     "back": "Na klar, die **aus dem Flugzeug**."
+    },
+    {
+     "id": "a1-3887838cc3",
+     "front": "_______________________(No way)! Der verrückte Typ aus dem Flugzeug!",
+     "back": "**Das gibt’s ja nicht**! Der verrückte Typ aus dem Flugzeug!"
+    },
+    {
+     "id": "a1-243a51a352",
+     "front": "Hallihallo, _________(it’s me), Katie!",
+     "back": "Hallihallo, **ich bin’s**, Katie!"
+    },
+    {
+     "id": "a1-e0915d0ed2",
+     "front": "Hi, Katie Känguru! ______________(Come in)!",
+     "back": "Hi, Katie Känguru! **Komm rein**!"
+    },
+    {
+     "id": "a1-98971fb10b",
+     "front": "_______________________(It’s good to see you again)!",
+     "back": "**Schön dich wiederzusehen**!"
+    },
+    {
+     "id": "a1-c84150b76d",
+     "front": "Mein Mitbewohner Bobbi _________________(will also be here soon).",
+     "back": "Mein Mitbewohner Bobbi **kommt auch gleich**."
+    },
+    {
+     "id": "a1-db6516458e",
+     "front": "Soll ich die Schuhe hier im Flur ___________(take off)?",
+     "back": "Soll ich die Schuhe hier im Flur **ausziehen**?"
+    },
+    {
+     "id": "a1-b12993f860",
+     "front": "Du kannst entweder __________________(take off your shoes) oder später den Boden wischen.",
+     "back": "Du kannst entweder **die Schuhe ausziehen** oder später den Boden wischen."
+    },
+    {
+     "id": "a1-609fbc5b4c",
+     "front": "Die Wohnung ist ___________(really big)!",
+     "back": "Die Wohnung ist **echt groß**!"
+    },
+    {
+     "id": "a1-b0078f55e7",
+     "front": "________________________(How can you afford that)?",
+     "back": "**Wie kannst du dir das leisten**?"
+    },
+    {
+     "id": "a1-1c5934a373",
+     "front": "_______________(How many rooms) habt ihr?",
+     "back": "**Wie viele Zimmer** habt ihr?"
+    },
+    {
+     "id": "a1-3a0545ce95",
+     "front": "Und, _____________(do you like it)?",
+     "back": "Und, **gefällt’s dir**?"
+    },
+    {
+     "id": "a1-4d891fbbd7",
+     "front": "________________(Just like you).",
+     "back": "**So wie du**."
+    },
+    {
+     "id": "a1-c78d95c5c1",
+     "front": "Es ist ‘n bisschen dunkel hier, aber ______________(very cozy).",
+     "back": "Es ist ‘n bisschen dunkel hier, aber **sehr gemütlich**."
+    },
+    {
+     "id": "a1-5b8620619a",
+     "front": "Ich finde es ___________________(not dark at all)!",
+     "back": "Ich finde es **überhaupt nicht dunkel**!"
+    },
+    {
+     "id": "a1-684155fb19",
+     "front": "Ich finde es _____________(quite bright).",
+     "back": "Ich finde es **ziemlich hell**."
+    },
+    {
+     "id": "a1-1185377546",
+     "front": "Das hier ist __________(by the way) mein Platz.",
+     "back": "Das hier ist **übrigens** mein Platz."
+    },
+    {
+     "id": "a1-84e0fa1039",
+     "front": "Ach ja, _____________(I can see that (lit. one can see that)).",
+     "back": "Ach ja, **das sieht man**."
+    },
+    {
+     "id": "a1-55696b493a",
+     "front": "____________(I’ll show you) dein Zimmer.",
+     "back": "**Ich zeig’ dir** dein Zimmer."
+    },
+    {
+     "id": "a1-18f2544824",
+     "front": "______________________(You don’t like it)?",
+     "back": "**Gefällt’s dir nicht**?"
+    },
+    {
+     "id": "a1-59e5d3867a",
+     "front": "Das Zimmer hat _________(even) Möbel.",
+     "back": "Das Zimmer hat **sogar** Möbel."
+    },
+    {
+     "id": "a1-0f13c4c2c9",
+     "front": "______________________________(Do you need anything else)?",
+     "back": "**Brauchst du noch irgendwas**?"
+    },
+    {
+     "id": "a1-d83801e943",
+     "front": "Ist zwar gebraucht, aber noch _________________(in top condition).",
+     "back": "Ist zwar gebraucht, aber noch **im Topzustand**."
+    },
+    {
+     "id": "a1-66ceffbe8e",
+     "front": "Der ist __________________(a bit broken).",
+     "back": "Der ist **ein bisschen kaputt**."
+    },
+    {
+     "id": "a1-01f53da7c6",
+     "front": "Ein bisschen Kleber und __________________(it’ll be fine).",
+     "back": "Ein bisschen Kleber und **das wird schon**."
+    },
+    {
+     "id": "a1-e5f4d030db",
+     "front": "______________________(The exact opposite of) von Gogo.",
+     "back": "**Das genaue Gegenteil** von Gogo."
+    },
+    {
+     "id": "a1-70e7f6cc68",
+     "front": "___________________(Nice to meet you)!",
+     "back": "**Freut mich**!"
+    },
+    {
+     "id": "a1-cea7b403d9",
+     "front": "Du willst also mit _______________(us two chaotic people) zusammenwohnen?",
+     "back": "Du willst also mit **uns zwei Chaoten** zusammenwohnen?"
+    },
+    {
+     "id": "a1-d55337d747",
+     "front": "___________________(Why not)?",
+     "back": "**Warum nicht**?"
+    },
+    {
+     "id": "a1-54a7871284",
+     "front": "Gogo ist _________(a lazy bum (lit. lazy sock)).",
+     "back": "Gogo ist **eine faule Socke**."
+    },
+    {
+     "id": "a1-80db695a22",
+     "front": "Guck mal, ____________________________(all the dirty dishes here).",
+     "back": "Guck mal, **das ganze dreckige Geschirr hier**."
+    },
+    {
+     "id": "a1-af02768b25",
+     "front": "____________________________(I’ll do that later).",
+     "back": "**Das mach’ ich später weg**."
+    },
+    {
+     "id": "a1-46113537ec",
+     "front": "Wir haben ______________(a few rules).",
+     "back": "Wir haben **ein paar Regeln**."
+    },
+    {
+     "id": "a1-cb56b8892f",
+     "front": "Man ___________________________ (must always wash your own dishes).",
+     "back": "Man **muss sein Geschirr immer selber spülen**."
+    },
+    {
+     "id": "a1-8139233d33",
+     "front": "_____________(Look), Bobbi!",
+     "back": "**Guck mal**, Bobbi!"
+    },
+    {
+     "id": "a1-768034eaa8",
+     "front": "________________(My family) hat mir Bilder geschickt.",
+     "back": "**Meine Familie** hat mir Bilder geschickt."
+    },
+    {
+     "id": "a1-1a9a7c68dc",
+     "front": "Ist das __________(your father)?",
+     "back": "Ist das **dein Vater**?"
+    },
+    {
+     "id": "a1-8302a382fd",
+     "front": "Er ________________(is a policeman).",
+     "back": "Er **ist Polizist**."
+    },
+    {
+     "id": "a1-f36de8ab7b",
+     "front": "Mein Vater ist ___________(very nice).",
+     "back": "Mein Vater ist **sehr nett**."
+    },
+    {
+     "id": "a1-ab1c6a912f",
+     "front": "______________(Just not) zu meinen Ex-Freunden.",
+     "back": "**Nur nicht** zu meinen Ex-Freunden."
+    },
+    {
+     "id": "a1-4727332ca0",
+     "front": "Und _____________(he likes) die Deutschen.",
+     "back": "Und **er mag** die Deutschen."
+    },
+    {
+     "id": "a1-2ffa7132b3",
+     "front": "Seine Eltern, also meine Großeltern, ___________(are originally from) Deutschland.",
+     "back": "Seine Eltern, also meine Großeltern, **kommen ursprünglich aus** Deutschland."
+    },
+    {
+     "id": "a1-c203c530cc",
+     "front": "___________________(That’s why we’re called) Koch.",
+     "back": "**Deswegen heißen wir** Koch."
+    },
+    {
+     "id": "a1-52e433be37",
+     "front": "Sie geht auch ___________(every day) joggen.",
+     "back": "Sie geht auch **jeden Tag** joggen."
+    },
+    {
+     "id": "a1-c23df956a7",
+     "front": "Und __________________(next week) läuft sie sogar einen Marathon.",
+     "back": "Und **nächste Woche** läuft sie sogar einen Marathon."
+    },
+    {
+     "id": "a1-7e8aab2322",
+     "front": "Und das hier ist _____________(your (pl.) house)?",
+     "back": "Und das hier ist **euer Haus**?"
+    },
+    {
+     "id": "a1-abe602cf02",
+     "front": "_______________________(She’s very pretty).",
+     "back": "**Sie ist ja hübsch**."
+    },
+    {
+     "id": "a1-cf34f8d449",
+     "front": "______________________(Just as pretty as) ihre Tochter.",
+     "back": "**Genauso hübsch wie** ihre Tochter."
+    },
+    {
+     "id": "a1-521079a338",
+     "front": "Und das bist ________________(you as a baby), oder?",
+     "back": "Und das bist **du als Baby**, oder?"
+    },
+    {
+     "id": "a1-d7c6290ea1",
+     "front": "Sie ist ___________________(a little younger than me).",
+     "back": "Sie ist **etwas jünger als ich**."
+    },
+    {
+     "id": "a1-c579b246b0",
+     "front": "___________(About) zwei Minuten.",
+     "back": "**Ungefähr** zwei Minuten."
+    },
+    {
+     "id": "a1-0dda0befcd",
+     "front": "Hast du _____________________(any more siblings)?",
+     "back": "Hast du **noch mehr Geschwister**?"
+    },
+    {
+     "id": "a1-8427ce2bae",
+     "front": "___________________(Here he is).",
+     "back": "**Hier ist er**."
+    },
+    {
+     "id": "a1-412ad66973",
+     "front": "Er ist drei Jahre _______________(older than me).",
+     "back": "Er ist drei Jahre **älter als ich**."
+    },
+    {
+     "id": "a1-6a17dc2954",
+     "front": "Das ______________________(I can imagine).",
+     "back": "Das **kann ich mir vorstellen**."
+    },
+    {
+     "id": "a1-3e4485a604",
+     "front": "_______________________________(Just boys, pure chaos).",
+     "back": "**Nur Jungs, pures Chaos**."
+    },
+    {
+     "id": "a1-b7bc542e14",
+     "front": "Magst du auch _________________________(a piece of chocolate)?",
+     "back": "Magst du auch **ein Stück Schokolade**?"
+    },
+    {
+     "id": "a1-cbbc916a47",
+     "front": "_______________(Don’t tell Gogo).",
+     "back": "**Nicht Gogo verraten**."
+    },
+    {
+     "id": "a1-ef3abc1d36",
+     "front": "Hast du eigentlich auch _____________(siblings)?",
+     "back": "Hast du eigentlich auch **Geschwister**?"
+    },
+    {
+     "id": "a1-63cd22b660",
+     "front": "Meine Eltern __________________(are divorced) und mein Vater ist jetzt wieder verheiratet.",
+     "back": "Meine Eltern **sind geschieden** und mein Vater ist jetzt wieder verheiratet."
+    },
+    {
+     "id": "a1-524680905e",
+     "front": "Deswegen habe ich jetzt ____________________(a half-brother).",
+     "back": "Deswegen habe ich jetzt **einen Halbbruder**."
+    },
+    {
+     "id": "a1-beb26e57da",
+     "front": "Meinen Halbbruder ___________________(you even already know).",
+     "back": "Meinen Halbbruder **kennst du sogar schon**."
+    },
+    {
+     "id": "a1-d7c3cb1775",
+     "front": "___________________________(Whom do I know)?",
+     "back": "**Wen kenne ich**?"
+    },
+    {
+     "id": "a1-75c4879d61",
+     "front": "______________________________(I miss my family).",
+     "back": "**Ich vermisse meine Familie**."
+    },
+    {
+     "id": "a1-68543f173b",
+     "front": "Du gehörst jetzt _______________(because) zu uns.",
+     "back": "Du gehörst jetzt **nämlich** zu uns. (Alternative: Weil du jetzt du uns gehörst.)"
+    },
+    {
+     "id": "a1-1a99144707",
+     "front": "Eigentlich ______________________(I’m an only child).",
+     "back": "Eigentlich **bin ich Einzelkind**."
+    },
+    {
+     "id": "a1-6818f36fa7",
+     "front": "___________________(I know her) von Instagram.",
+     "back": "**Die kenne ich** von Instagram."
+    },
+    {
+     "id": "a1-7f262a560a",
+     "front": "____________________________(What are you doing here)?",
+     "back": "**Was machst du denn hier**?"
+    },
+    {
+     "id": "a1-d4724df04c",
+     "front": "Das ist Maria, __________________(my cousin).",
+     "back": "Das ist Maria, **meine Cousine**."
+    },
+    {
+     "id": "a1-9c2bb6afae",
+     "front": "Ich glaub’, ____________________(I’m still dreaming).",
+     "back": "Ich glaub’, **ich träume noch**."
+    },
+    {
+     "id": "a1-8bc84b204e",
+     "front": "________________________(Dream on).",
+     "back": "**Träum weiter**."
+    },
+    {
+     "id": "a1-a9f3f108f3",
+     "front": "________________(I’ll stay) ein paar Tage hier.",
+     "back": "**Ich bleibe** ein paar Tage hier."
+    },
+    {
+     "id": "a1-ca1a530548",
+     "front": "______________________(Follow me (form.)), schöne Frau.",
+     "back": "**Folgen Sie mir**, schöne Frau."
+    },
+    {
+     "id": "a1-5f4d3cd782",
+     "front": "_____________________________________(I’ll go shopping then).",
+     "back": "**Ich geh’ dann mal einkaufen**."
+    },
+    {
+     "id": "a1-4e9e5963c4",
+     "front": "___________________(I’ll come with you)!",
+     "back": "**Ich komm’ mit**!"
+    },
+    {
+     "id": "a1-eb3838da4f",
+     "front": "Ich glaube, Maria hat __________________(something else) unter “EINKAUFEN” verstanden.",
+     "back": "Ich glaube, Maria hat **etwas anderes** unter “EINKAUFEN” verstanden."
+    },
+    {
+     "id": "a1-4b3dc7970c",
+     "front": "________________(I thought), wir gehen einkaufen.",
+     "back": "**Ich dachte**, wir gehen einkaufen."
+    },
+    {
+     "id": "a1-18ecd4010d",
+     "front": "______________(I don’t want to go in there).",
+     "back": "**Ich will da nicht rein**."
+    },
+    {
+     "id": "a1-475c57fe2d",
+     "front": "Katie, ich will hier nicht ______________(spend the night).",
+     "back": "Katie, ich will hier nicht **übernachten**."
+    },
+    {
+     "id": "a1-d1645193a2",
+     "front": "__________________(Go get) Karotten.",
+     "back": "**Hol mal** Karotten."
+    },
+    {
+     "id": "a1-ae9afd1da9",
+     "front": "Es gibt keine Karotten, es gibt nur ____________(these strange) “Möhren”.",
+     "back": "Es gibt keine Karotten, es gibt nur **so komische** “Möhren”."
+    },
+    {
+     "id": "a1-9c81c461ec",
+     "front": "__________________(I’m … right now) im Supermarkt.",
+     "back": "**Ich bin gerade** im Supermarkt."
+    },
+    {
+     "id": "a1-7181ba3513",
+     "front": "Quark ist __________________(like yogurt), nur viel dicker.",
+     "back": "Quark ist **wie Joghurt**, nur viel dicker."
+    },
+    {
+     "id": "a1-fab5a9ca64",
+     "front": "Kennt mich mein Vater ________(even)?",
+     "back": "Kennt mich mein Vater **überhaupt**?"
+    },
+    {
+     "id": "a1-889f4f50b3",
+     "front": "Ach, Maria, komm, ________________________(we don’t have all day).",
+     "back": "Ach, Maria, komm, **wir haben nicht den ganzen Tag Zeit**."
+    },
+    {
+     "id": "a1-30b20d46b3",
+     "front": "______________________________(Please stop queuing​).",
+     "back": "**Bitte nicht mehr anstellen**."
+    },
+    {
+     "id": "a1-690fc8a7ba",
+     "front": "___________________________(Do you need anything else)?",
+     "back": "**Brauchst du noch etwas**?"
+    },
+    {
+     "id": "a1-3357f269e8",
+     "front": "Ja, ___________________(we still need) Radler.",
+     "back": "Ja, **wir brauchen noch** Radler."
+    },
+    {
+     "id": "a1-a5bf13b98f",
+     "front": "Wir müssen ______________(absolutely) Radler mitbringen.",
+     "back": "Wir müssen **unbedingt** Radler mitbringen."
+    },
+    {
+     "id": "a1-c05c38b63a",
+     "front": "Radler ist Bier _____________________(mixed with lemonade).",
+     "back": "Radler ist Bier **mit Limo gemischt**."
+    },
+    {
+     "id": "a1-546fdd46da",
+     "front": "__________________(How about) dem Wein hier?",
+     "back": "**Wie wäre es mit** dem Wein hier?"
+    },
+    {
+     "id": "a1-b109820d61",
+     "front": "Das ist _________________(way too expensive).",
+     "back": "Das ist **viel zu teuer**."
+    },
+    {
+     "id": "a1-44fd71043d",
+     "front": "___________________________(I don’t care).",
+     "back": "**Ist mir doch egal**."
+    },
+    {
+     "id": "a1-44376aeb50",
+     "front": "Ich habe _____________________(a few bottles of wine) runtergeschmissen.",
+     "back": "Ich habe **ein paar Flaschen Wein** runtergeschmissen."
+    },
+    {
+     "id": "a1-24382354aa",
+     "front": "Warum trägst du denn ______________(everything by yourself)?",
+     "back": "Warum trägst du denn **alles allein**?"
+    },
+    {
+     "id": "a1-33cf05bb57",
+     "front": "_____________________(Don’t ask).",
+     "back": "**Frag nicht**."
+    },
+    {
+     "id": "a1-3f051527e7",
+     "front": "_____________________(I was just shopping).",
+     "back": "**Ich war gerade einkaufen**."
+    },
+    {
+     "id": "a1-9444dd4894",
+     "front": "_____________________(What’s the matter), Bobbi?",
+     "back": "**Was ist los**, Bobbi?"
+    },
+    {
+     "id": "a1-44fc2f66fc",
+     "front": "________________________(I’m thirsty).",
+     "back": "**Ich habe Durst**."
+    },
+    {
+     "id": "a1-d4afcf7faa",
+     "front": "So, ________________________(I’ll get started).",
+     "back": "So, **dann fange ich mal an**."
+    },
+    {
+     "id": "a1-c76b14193d",
+     "front": "__________________________(I’m hungry).",
+     "back": "**Ich hab’ Hunger**."
+    },
+    {
+     "id": "a1-f7d4dc1374",
+     "front": "______________________(How long do you need) denn jetzt?",
+     "back": "**Wie lange brauchst du** denn jetzt?"
+    },
+    {
+     "id": "a1-43f4e73ba9",
+     "front": "________________(I’ll turn on some music)!",
+     "back": "**Ich mach’ Musik an**!"
+    },
+    {
+     "id": "a1-065d9b399a",
+     "front": "Katie, mach bitte das Radio ____________________(turn down a little bit).",
+     "back": "Katie, mach bitte das Radio **ein bisschen leiser**."
+    },
+    {
+     "id": "a1-8f2ffec30e",
+     "front": "Oder __________________________(I’ll close the door).",
+     "back": "Oder **ich mach’ die Tür zu**."
+    },
+    {
+     "id": "a1-35074030a4",
+     "front": "________________________(At this time)?",
+     "back": "**Um diese Zeit**?"
+    },
+    {
+     "id": "a1-7aa51356ab",
+     "front": "Er ist __________________________(a real sleepyhead).",
+     "back": "Er ist **eine richtige Schlafmütze**."
+    },
+    {
+     "id": "a1-201e5962ab",
+     "front": "__________________(This means)…",
+     "back": "**Das bedeutet**…"
+    },
+    {
+     "id": "a1-8368e46d89",
+     "front": "___________________(I’m explaining) hier Schlafmütze.",
+     "back": "**Ich erkläre** hier Schlafmütze."
+    },
+    {
+     "id": "a1-99dd30347b",
+     "front": "Katie, _______________________(do you cook often)?",
+     "back": "Katie, **kochst du oft**?"
+    },
+    {
+     "id": "a1-b5fc9cd240",
+     "front": "____________________(How strange).",
+     "back": "**Wie komisch**."
+    },
+    {
+     "id": "a1-b678e58acb",
+     "front": "Soll ich schon mal ___________________________(set the table)?",
+     "back": "Soll ich schon mal **den Tisch decken**?"
+    },
+    {
+     "id": "a1-a0177ca551",
+     "front": "Maria, ________________________________(can you help me, please)?",
+     "back": "Maria, **kannst du mir bitte helfen**?"
+    },
+    {
+     "id": "a1-b3845f7128",
+     "front": "______________________________(The food is ready).",
+     "back": "**Das Essen ist fertig**."
+    },
+    {
+     "id": "a1-a6a3a82868",
+     "front": "Jetzt bin ich gespannt, ob ________________(this tastes good), Frau Koch.",
+     "back": "Jetzt bin ich gespannt, ob **das schmeckt**, Frau Koch."
+    },
+    {
+     "id": "a1-dd7591b15b",
+     "front": "_______________________(It smells good).",
+     "back": "**Es riecht gut**."
+    },
+    {
+     "id": "a1-c96274949c",
+     "front": "______________________(My stomach growls) und ist so leer.",
+     "back": "**Mein Magen knurrt** und ist so leer."
+    },
+    {
+     "id": "a1-1e30b66187",
+     "front": "Darum wollen wir jetzt essen und das Danken _____________(not forget).",
+     "back": "Darum wollen wir jetzt essen und das Danken **nicht vergessen**."
+    },
+    {
+     "id": "a1-867e0830b4",
+     "front": "________________(Likewise).",
+     "back": "**Gleichfalls**."
+    },
+    {
+     "id": "a1-cdc783b0e3",
+     "front": "Das Fleisch ist _________________(too salty)!",
+     "back": "Das Fleisch ist **zu salzig**!"
+    },
+    {
+     "id": "a1-f89a4d18d5",
+     "front": "Meins ____________________(is all right).",
+     "back": "Meins **ist in Ordnung**."
+    },
+    {
+     "id": "a1-8e2c8ed535",
+     "front": "Der sieht jetzt aus ________(like) ein Schokoladenkuchen.",
+     "back": "Der sieht jetzt aus **wie** ein Schokoladenkuchen."
+    },
+    {
+     "id": "a1-b1146e8a82",
+     "front": "Katie, jetzt kann ich das nicht ___________________(post on Instagram).",
+     "back": "Katie, jetzt kann ich das nicht **auf Instagram posten**."
+    },
+    {
+     "id": "a1-bafc670cc0",
+     "front": "Guten Tag und ___________(welcome)!",
+     "back": "Guten Tag und **herzlich willkommen**!"
+    },
+    {
+     "id": "a1-77aedd3001",
+     "front": "Ich habe _____________(a few questions first).",
+     "back": "Ich habe **erstmal ein paar Fragen**."
+    },
+    {
+     "id": "a1-5d769c57e2",
+     "front": "______________(What’s your (form.) name)?",
+     "back": "**Wie ist Ihr Name**?"
+    },
+    {
+     "id": "a1-ef703bd3df",
+     "front": "______________(Just Katie)?",
+     "back": "**Nur Katie**?"
+    },
+    {
+     "id": "a1-6c983317ca",
+     "front": "______________(My family name is Koch).",
+     "back": "**Mein Familienname ist Koch**."
+    },
+    {
+     "id": "a1-8126f97f25",
+     "front": "Koch ist ______________(a German name).",
+     "back": "Koch ist **ein deutscher Name**."
+    },
+    {
+     "id": "a1-57bc8928bc",
+     "front": "Meine Oma ______________(is German).",
+     "back": "Meine Oma **ist Deutsche**."
+    },
+    {
+     "id": "a1-acaca97ade",
+     "front": "Mein Opa ______________(was also German).",
+     "back": "Mein Opa **war auch Deutscher**."
+    },
+    {
+     "id": "a1-cc550123e4",
+     "front": "______________(That’s enough now), Katie Koch.",
+     "back": "**Das reicht jetzt**, Katie Koch."
+    },
+    {
+     "id": "a1-29f03ee083",
+     "front": "Jetzt brauche ich noch ______________(some data).",
+     "back": "Jetzt brauche ich noch **ein paar Daten**."
+    },
+    {
+     "id": "a1-51d65bbc62",
+     "front": "______________(The zip code is) 10555.",
+     "back": "**Die Postleitzahl ist** 10555."
+    },
+    {
+     "id": "a1-b49b59a92a",
+     "front": "______________(Please repeat (form.)) noch mal die Postleitzahl.",
+     "back": "**Bitte wiederholen Sie** noch mal die Postleitzahl."
+    },
+    {
+     "id": "a1-a08ec45f9a",
+     "front": "______________(What’s your (form.) date of birth)?",
+     "back": "**Wie lautet Ihr Geburtsdatum**?"
+    },
+    {
+     "id": "a1-36737901db",
+     "front": "Soll ich jetzt rechnen ______________(or what)?",
+     "back": "Soll ich jetzt rechnen **oder was**?"
+    },
+    {
+     "id": "a1-75a9bb3a20",
+     "front": "Oh, ______________(I’m sorry).",
+     "back": "Oh, **Entschuldigung**."
+    },
+    {
+     "id": "a1-e3b8bd3df5",
+     "front": "Dann ______________(it’s your (form.) birthday soon)!",
+     "back": "Dann **haben Sie ja bald Geburtstag**!"
+    },
+    {
+     "id": "a1-6b5e314f2e",
+     "front": "Ja, ______________(that’s right)!",
+     "back": "Ja, **das stimmt**!"
+    },
+    {
+     "id": "a1-f10284c75f",
+     "front": "Und ______________(the last question): Wo sind Sie geboren?",
+     "back": "Und **die letzte Frage**: Wo sind Sie geboren?"
+    },
+    {
+     "id": "a1-6c89de225c",
+     "front": "______________(I live in) Sydney.",
+     "back": "**Ich lebe in** Sydney."
+    },
+    {
+     "id": "a1-f3150717fc",
+     "front": "______________(What happened now)?",
+     "back": "**Was ist denn jetzt passiert**?"
+    },
+    {
+     "id": "a1-2bd9777c4c",
+     "front": "Bitte ____________________(fill out (form.)) dieses Anmeldeformular aus.",
+     "back": "Bitte **füllen Sie** dieses Anmeldeformular aus."
+    },
+    {
+     "id": "a1-05d46231f6",
+     "front": "_______________(You (form.) are supposed to) Ihre Daten dort eintragen.",
+     "back": "**Sie sollen** Ihre Daten dort eintragen."
+    },
+    {
+     "id": "a1-1832af68df",
+     "front": "____________________(All right).",
+     "back": "**Alles klar**."
+    },
+    {
+     "id": "a1-4bf74e27cd",
+     "front": "Ach, Frau Koch. ___________________(You’re (form.) killing me) (coll.)!",
+     "back": "Ach, Frau Koch. **Sie machen mich fertig**!"
+    },
+    {
+     "id": "a1-1f670b0160",
+     "front": "Hier! ____________________(Take (form.)) meinen Kuli.",
+     "back": "Hier! **Nehmen Sie** meinen Kuli."
+    },
+    {
+     "id": "a1-0aa635d247",
+     "front": "Das ist ____________________(short for) “Kugelschreiber”.",
+     "back": "Das ist **kurz für** “Kugelschreiber”."
+    },
+    {
+     "id": "a1-99fd40baec",
+     "front": "Okay. ____________________(Done)! Hier, bitte!",
+     "back": "Okay. **Fertig**! Hier, bitte!"
+    },
+    {
+     "id": "a1-cb27f989e9",
+     "front": "____________________(Today we are going to talk about) das Perfekt.",
+     "back": "**Heute sprechen wir über** das Perfekt."
+    },
+    {
+     "id": "a1-800142f0be",
+     "front": "Der Dackel ____________________(is running away)!",
+     "back": "Der Dackel **rennt weg**!"
+    },
+    {
+     "id": "a1-8eb2523be6",
+     "front": "Was für’n Dackel?! Sie sind ___________________(in my class), Katie Koch!",
+     "back": "Was für’n Dackel?! Sie sind **in meinem Unterricht**, Katie Koch!"
+    },
+    {
+     "id": "a1-993be15b08",
+     "front": "____________________(Finally I’m home).",
+     "back": "**Endlich bin ich zu Hause**."
+    },
+    {
+     "id": "a1-d403b7a8d6",
+     "front": "____________________(How was your day) heute?",
+     "back": "**Wie war dein Tag** heute?"
+    },
+    {
+     "id": "a1-058fdd62e0",
+     "front": "____________________(Totally relaxed).",
+     "back": "**Total entspannt**."
+    },
+    {
+     "id": "a1-91c15ddeba",
+     "front": "Erst habe ich ____________________(all night) durchtrainiert.",
+     "back": "Erst habe ich **die ganze Nacht** durchtrainiert."
+    },
+    {
+     "id": "a1-62597f0939",
+     "front": "Ich ____________________(went shopping, too).",
+     "back": "Ich **habe auch eingekauft**."
+    },
+    {
+     "id": "a1-aa2528ab2b",
+     "front": "____________________(That feels good)!",
+     "back": "**Das tut gut**!"
+    },
+    {
+     "id": "a1-94af722770",
+     "front": "____________________(Do you have another bottle)?",
+     "back": "**Hast du noch eine Flasche**?"
+    },
+    {
+     "id": "a1-dc21be664e",
+     "front": "____________________(To us)!",
+     "back": "**Auf uns**!"
+    },
+    {
+     "id": "a1-4b42497e1c",
+     "front": "______________(Earlier) habe ich meine Exfrau vom Flughafen abgeholt.",
+     "back": "**Vorhin** habe ich meine Exfrau vom Flughafen abgeholt."
+    },
+    {
+     "id": "a1-51a72aaea2",
+     "front": "Wir sind trotzdem noch ____________________(good friends).",
+     "back": "Wir sind trotzdem noch **gute Freunde**."
+    },
+    {
+     "id": "a1-d460a048f0",
+     "front": "____________________(Does she still live) in Berlin?",
+     "back": "**Wohnt sie noch** in Berlin?"
+    },
+    {
+     "id": "a1-aa21d2c8e0",
+     "front": "Sie ____________________(studied here).",
+     "back": "Sie **hat hier studiert**."
+    },
+    {
+     "id": "a1-800a28e82f",
+     "front": "____________________(She still supports me financially).",
+     "back": "**Sie unterstützt mich noch finanziell**."
+    },
+    {
+     "id": "a1-a179579f3a",
+     "front": "____________________(That´s why) haben wir geheiratet.",
+     "back": "**Deswegen** haben wir geheiratet."
+    },
+    {
+     "id": "a1-324e1a31d9",
+     "front": "Sie wollte sich dann wieder ____________________(get divorced).",
+     "back": "Sie wollte sich dann wieder **scheiden lassen**."
+    },
+    {
+     "id": "a1-cf3a42fcc0",
+     "front": "Ist das ____________________(just for you)?",
+     "back": "Ist das **nur für dich**?"
+    },
+    {
+     "id": "a1-6d88d8ec66",
+     "front": "Oh, ____________________(that looks disgusting).",
+     "back": "Oh, **das sieht eklig aus**."
+    },
+    {
+     "id": "a1-8aa3dfc63c",
+     "front": "Ich habe noch nie so viel ________________(meat for one person) gesehen.",
+     "back": "Ich habe noch nie so viel **Fleisch für eine Person** gesehen."
+    },
+    {
+     "id": "a1-e4dec78c39",
+     "front": "Hast du auch __________________(vegetables for me)?",
+     "back": "Hast du auch **Gemüse für mich**?"
+    },
+    {
+     "id": "a1-05431192b1",
+     "front": "Na klar. ____________________(With salt and pepper)?",
+     "back": "Na klar. **Mit Salz und Pfeffer**?"
+    },
+    {
+     "id": "a1-73e57af8c0",
+     "front": "____________________(Salt only), bitte.",
+     "back": "**Nur Salz**, bitte."
+    },
+    {
+     "id": "a1-717bca3678",
+     "front": "____________________(Don’t worry).",
+     "back": "**Keine Sorge**."
+    },
+    {
+     "id": "a1-4a831b1055",
+     "front": "Ich habe dir auch _________________(something vegetarian) mitgebracht.",
+     "back": "Ich habe dir auch **was Vegetarisches** mitgebracht."
+    },
+    {
+     "id": "a1-f531d630d5",
+     "front": "Oh, ___________________(that’s so nice of you).",
+     "back": "Oh, **das ist aber lieb von dir**."
+    },
+    {
+     "id": "a1-8cbf54a415",
+     "front": "________________________(I had the day off today).",
+     "back": "**Ich hatte heute frei**."
+    },
+    {
+     "id": "a1-2157a78954",
+     "front": "Eigentlich ________________________(as always).",
+     "back": "Eigentlich **wie immer**."
+    },
+    {
+     "id": "a1-1c2cc88a94",
+     "front": "________________________(You have no idea).",
+     "back": "**Du hast doch keine Ahnung**."
+    },
+    {
+     "id": "a1-6fd09a83cd",
+     "front": "______________________________(What are you guys doing)?",
+     "back": "**Was macht ihr denn da**?"
+    },
+    {
+     "id": "a1-2cf36190c2",
+     "front": "Und ______________________(I won).",
+     "back": "Und **ich hab’ gewonnen**."
+    },
+    {
+     "id": "a1-0a5c383cd1",
+     "front": "Und _____________________(how was your day) heute?",
+     "back": "Und **wie war dein Tag** heute?"
+    },
+    {
+     "id": "a1-163b4c6cfd",
+     "front": "__________________(Pretty exhausting) und chaotisch.",
+     "back": "**Ziemlich anstrengend** und chaotisch."
+    },
+    {
+     "id": "a1-9f74e990f6",
+     "front": "Ich bin ____________(totally exhausted (lit. broken)).",
+     "back": "Ich bin **total kaputt**."
+    },
+    {
+     "id": "a1-67e238fe2e",
+     "front": "________________________(What happened)?",
+     "back": "**Was ist passiert**?"
+    },
+    {
+     "id": "a1-977d25f923",
+     "front": "Zuerst _____________________________(I got up too late).",
+     "back": "Zuerst **bin ich zu spät aufgestanden**."
+    },
+    {
+     "id": "a1-0ab308ddbc",
+     "front": "Mein Wecker __________________(didn’t ring).",
+     "back": "Mein Wecker **hat nicht geklingelt**."
+    },
+    {
+     "id": "a1-59fe19b5c4",
+     "front": "Mein Fahrrad _____________(was gone)!",
+     "back": "Mein Fahrrad **war weg**!"
+    },
+    {
+     "id": "a1-d3815d207e",
+     "front": "Die ________________________(stole your bike)?",
+     "back": "Die **haben dein Fahrrad geklaut**?"
+    },
+    {
+     "id": "a1-80260f0e5c",
+     "front": "_________________(What color) hatte dein Fahrrad?",
+     "back": "**Welche Farbe** hatte dein Fahrrad?"
+    },
+    {
+     "id": "a1-aefb358da0",
+     "front": "Und hast du es noch ___________(on time) zum Unterricht geschafft?",
+     "back": "Und hast du es noch **pünktlich** zum Unterricht geschafft?"
+    },
+    {
+     "id": "a1-f1fa6aadb7",
+     "front": "Nein, aber ich war _________________________(only five minutes late).",
+     "back": "Nein, aber ich war **nur fünf Minuten zu spät**."
+    },
+    {
+     "id": "a1-cea8211e87",
+     "front": "_________________(But that’s okay).",
+     "back": "**Das ist doch okay**."
+    },
+    {
+     "id": "a1-b1fd85004a",
+     "front": "Ich habe _______________(in class) nur “Blablablablabla” gehört.",
+     "back": "Ich habe **im Unterricht** nur “Blablablablabla” gehört."
+    },
+    {
+     "id": "a1-0ae60cc35c",
+     "front": "Über ______________________(what topic) habt ihr denn geredet?",
+     "back": "Über **welches Thema** habt ihr denn geredet?"
+    },
+    {
+     "id": "a1-8ea7a8999a",
+     "front": "_____________________(About something) mit Perfekt oder so?",
+     "back": "**Über irgendwas** mit Perfekt oder so?"
+    },
+    {
+     "id": "a1-36954833f9",
+     "front": "________________(Fortunately) ist Deutsch meine Muttersprache.",
+     "back": "**Zum Glück** ist Deutsch meine Muttersprache."
+    },
+    {
+     "id": "a1-dc21d66f13",
+     "front": "Die deutsche Grammatik ist ein Albtraum ___________(for us foreigners).",
+     "back": "Die deutsche Grammatik ist ein Albtraum **für uns Ausländer**."
+    },
+    {
+     "id": "a1-3f05ef7216",
+     "front": "___________________(The most important thing is): Üben, üben, üben.",
+     "back": "**Das Wichtigste ist**: Üben, üben, üben."
+    },
+    {
+     "id": "a1-abd3420377",
+     "front": "______________________(You’re starting to sound like) meine Lehrerin.",
+     "back": "**Du klingst schon wie** meine Lehrerin."
+    },
+    {
+     "id": "a1-5501e2201a",
+     "front": "Ich habe Angst, ____________________(again and again) einzuschlafen.",
+     "back": "Ich habe Angst, **immer wieder** einzuschlafen."
+    },
+    {
+     "id": "a1-0b66aa803a",
+     "front": "________________(Why not)?",
+     "back": "**Wieso nicht**?"
+    },
+    {
+     "id": "a1-ee7444ea13",
+     "front": "__________________(I’ve got it)!",
+     "back": "**Ich hab’s**!"
+    },
+    {
+     "id": "a1-5123446caa",
+     "front": "Natürlich ______________(innocent).",
+     "back": "Natürlich **unschuldig**."
+    },
+    {
+     "id": "a1-15dee28409",
+     "front": "_________________________(This afternoon) haben Sie mich verhaftet.",
+     "back": "**Heute Nachmittag** haben Sie mich verhaftet."
+    },
+    {
+     "id": "a1-91511a9ffc",
+     "front": "Sie haben gesagt, _______________________(I was fare-dodging).",
+     "back": "Sie haben gesagt, **ich bin schwarzgefahren**."
+    },
+    {
+     "id": "a1-f05ee36c3c",
+     "front": "Aber der Richter ___________________________(didn’t believe me).",
+     "back": "Aber der Richter **hat mir nicht geglaubt**."
+    },
+    {
+     "id": "a1-993b2793f2",
+     "front": "Im Ausreden erfinden war ich immer ______________(the best).",
+     "back": "Im Ausreden erfinden war ich immer **der Beste**."
+    },
+    {
+     "id": "a1-a9632ba418",
+     "front": "Ich lerne jetzt nur noch _____________(with you guys) und Anjas Videos.",
+     "back": "Ich lerne jetzt nur noch **mit euch** und Anjas Videos."
+    },
+    {
+     "id": "a1-c2d168b55c",
+     "front": "Hast du Gogo heute ________(already) gesehen?",
+     "back": "Hast du Gogo heute **schon** gesehen?"
+    },
+    {
+     "id": "a1-a7f509cd7c",
+     "front": "Vielleicht _________________________(he’s still asleep)?",
+     "back": "Vielleicht **schläft er noch**?"
+    },
+    {
+     "id": "a1-00adb845ca",
+     "front": "Er hat gesagt, er ____________________________(coming to soccer).",
+     "back": "Er hat gesagt, er **kommt mit zum Fußball**."
+    },
+    {
+     "id": "a1-1ed4d55c3f",
+     "front": "Habt ihr nicht _________________(enough people)?",
+     "back": "Habt ihr nicht **genug Leute**?"
+    },
+    {
+     "id": "a1-0e3840375c",
+     "front": "_____________________(We are still missing) ein Mann.",
+     "back": "**Uns fehlt noch** ein Mann."
+    },
+    {
+     "id": "a1-29f628a94f",
+     "front": "________________________(Are you up for it)?",
+     "back": "**Hast du Lust**?"
+    },
+    {
+     "id": "a1-a7e325fddb",
+     "front": "___________________(I love) Fußball!",
+     "back": "**Ich liebe** Fußball!"
+    },
+    {
+     "id": "a1-f4ce45ef6f",
+     "front": "Du kannst gerne ________________(play along).",
+     "back": "Du kannst gerne **mitspielen**."
+    },
+    {
+     "id": "a1-52872befb6",
+     "front": "Wir spielen __________________(every Friday) von 17 bis 19 Uhr.",
+     "back": "Wir spielen **jeden Freitag** von 17 bis 19 Uhr."
+    },
+    {
+     "id": "a1-38aae31eb0",
+     "front": "____________________(In summer) spielen wir immer im Park.",
+     "back": "**Im Sommer** spielen wir immer im Park."
+    },
+    {
+     "id": "a1-b1f7deae42",
+     "front": "Ich spiele gerne ___________(outside).",
+     "back": "Ich spiele gerne **draußen**."
+    },
+    {
+     "id": "a1-3de0277677",
+     "front": "Ja, ________________(I’m in).",
+     "back": "Ja, **ich bin dabei**."
+    },
+    {
+     "id": "a1-5347618a10",
+     "front": "Und ______________________(what are your) Hobbys außer Fußball?",
+     "back": "Und **was hast du noch für** Hobbys außer Fußball?"
+    },
+    {
+     "id": "a1-48c3bd928e",
+     "front": "______________________(I like to read) und ich male gern.",
+     "back": "**Ich lese gern** und ich male gern."
+    },
+    {
+     "id": "a1-c07c5ea7e9",
+     "front": "Kann ich _________________(some pictures) sehen?",
+     "back": "Kann ich **ein paar Bilder** sehen?"
+    },
+    {
+     "id": "a1-b075f62220",
+     "front": "Aber ____________________(I’m warning you): Ich experimentiere gern mit Farben.",
+     "back": "Aber **ich warne dich**: Ich experimentiere gern mit Farben."
+    },
+    {
+     "id": "a1-650d05d480",
+     "front": "____________________(Show me).",
+     "back": "**Zeig mal her**."
+    },
+    {
+     "id": "a1-bb65211cba",
+     "front": "_______________________(That’s awesome (lit. That’s the hammer))!",
+     "back": "**Das ist ja der Hammer**!"
+    },
+    {
+     "id": "a1-116bd4e255",
+     "front": "Katie van Gogh, du bist _____________________(a true artist).",
+     "back": "Katie van Gogh, du bist **eine wahre Künstlerin**."
+    },
+    {
+     "id": "a1-164f771f7d",
+     "front": "____________(Look), die haben sogar ein Klettergerüst und eine Rutsche.",
+     "back": "**Guck mal**, die haben sogar ein Klettergerüst und eine Rutsche."
+    },
+    {
+     "id": "a1-49509e3221",
+     "front": "Ich komme ______________(not after all) mit zum Fußball.",
+     "back": "Ich komme **doch nicht** mit zum Fußball."
+    },
+    {
+     "id": "a1-ebb4751f70",
+     "front": "_____________(Seriously)?",
+     "back": "**Im Ernst**?"
+    },
+    {
+     "id": "a1-797615fc61",
+     "front": "Dann ___________(we’ll have (do)) auf jeden Fall eine Party.",
+     "back": "Dann **machen wir** auf jeden Fall eine Party."
+    },
+    {
+     "id": "a1-2630fdbc04",
+     "front": "Wir können bei uns __________________(on our balcony) feiern.",
+     "back": "Wir können bei uns **auf dem Balkon** feiern."
+    },
+    {
+     "id": "a1-16022cc2a2",
+     "front": "Da ____________________(is a lot of space).",
+     "back": "Da **ist viel Platz**."
+    },
+    {
+     "id": "a1-7961e69a97",
+     "front": "Ich ________________(will text…right away) meinem neuen Freund Pietro.",
+     "back": "Ich **schreibe gleich** meinem neuen Freund Pietro."
+    },
+    {
+     "id": "a1-a76c157a64",
+     "front": "Ja, nicht das, ___________________(what you think).",
+     "back": "Ja, nicht das, **was du denkst**."
+    },
+    {
+     "id": "a1-54c3b5add9",
+     "front": "Er ist __________________(just a buddy (coll.)).",
+     "back": "Er ist **nur ein Kumpel**."
+    },
+    {
+     "id": "a1-dc94b3614f",
+     "front": "_________________________(I look like) 18.",
+     "back": "**Ich sehe aus wie** 18."
+    },
+    {
+     "id": "a1-dcfbb7cdd8",
+     "front": "Ist das okay __________(for you)?",
+     "back": "Ist das okay **für dich**?"
+    },
+    {
+     "id": "a1-430163a221",
+     "front": "_______________________(What’s the matter)?",
+     "back": "**Was ist los**?"
+    },
+    {
+     "id": "a1-e073ba8f27",
+     "front": "_______________________(Me and fashion).",
+     "back": "**Ich und Mode**."
+    },
+    {
+     "id": "a1-ac6fa9353f",
+     "front": "_______________________(Does it go together)?",
+     "back": "**Passt das**?"
+    },
+    {
+     "id": "a1-26529ad0d1",
+     "front": "Warte,________________________(I’ll get) Gogo.",
+     "back": "Warte, **ich hol**’ Gogo."
+    },
+    {
+     "id": "a1-6ed4bfde03",
+     "front": "________________________(What’s up)?",
+     "back": "**Was gibt’s**?"
+    },
+    {
+     "id": "a1-4eb86a3183",
+     "front": "________________________(Look), Gogo.",
+     "back": "**Schau mal**, Gogo."
+    },
+    {
+     "id": "a1-b46a298b50",
+     "front": "Ich finde, _______________________(you can wear anything).",
+     "back": "Ich finde, **du kannst alles tragen**."
+    },
+    {
+     "id": "a1-c00e879a1d",
+     "front": "Bobbi, _____________________(you just don’t know anything) von Mode.",
+     "back": "Bobbi, **du hast einfach keine Ahnung** von Mode."
+    },
+    {
+     "id": "a1-75b901fcef",
+     "front": "_______________________(Let’s go).",
+     "back": "**Auf geht’s**."
+    },
+    {
+     "id": "a1-8489e31be2",
+     "front": "_______________________(Do I really want that)?",
+     "back": "**Will ich das wirklich**?"
+    },
+    {
+     "id": "a1-a1bb8c0622",
+     "front": "Das ist ________________(the best store) in Berlin zum Klamotten kaufen.",
+     "back": "Das ist **der beste Laden** in Berlin zum Klamotten kaufen."
+    },
+    {
+     "id": "a1-f38545716d",
+     "front": "Da gibt’s ________________________(the hottest shit (vulg.)).",
+     "back": "Da gibt’s **den geilsten Scheiß** (vulg.)."
+    },
+    {
+     "id": "a1-e2c21aeb3e",
+     "front": "________________________(You really don’t know), was gut ist.",
+     "back": "**Du weißt echt nicht**, was gut ist."
+    },
+    {
+     "id": "a1-83ad3c6385",
+     "front": "________________________(Tell me about it).",
+     "back": "**Erzähl mal**."
+    },
+    {
+     "id": "a1-256accb4d5",
+     "front": "________________________(What size) hast du denn?",
+     "back": "**Welche Größe** hast du denn?"
+    },
+    {
+     "id": "a1-80379e7b77",
+     "front": "________________________(Which top)?",
+     "back": "**Welches Top**?"
+    },
+    {
+     "id": "a1-bb7d338923",
+     "front": "Meine Oma hat ________________________(the same one).",
+     "back": "Meine Oma hat **den gleichen**."
+    },
+    {
+     "id": "a1-5486019a35",
+     "front": "Aber ________________________(blue is not my color).",
+     "back": "Aber **Blau ist nicht meine Farbe**."
+    },
+    {
+     "id": "a1-ae9316329f",
+     "front": "________________________(I’ll ask)!",
+     "back": "**Ich frag’ mal**!"
+    },
+    {
+     "id": "a1-0fb35a7cdb",
+     "front": "Das ist ________________________(a bit revealing).",
+     "back": "Das ist **ein bisschen freizügig**."
+    },
+    {
+     "id": "a1-53f380bb0e",
+     "front": "Nein, die Hose ________________________(don’t fit me).",
+     "back": "Nein, die Hose **passt mir nicht**."
+    },
+    {
+     "id": "a1-1e2e9ec2d5",
+     "front": "Sie ist ________________________(too small).",
+     "back": "Sie ist **zu klein**."
+    },
+    {
+     "id": "a1-1624364e45",
+     "front": "________________________(Pity).",
+     "back": "**Schade**."
+    },
+    {
+     "id": "a1-d3cf5cf6a3",
+     "front": "Vielleicht haben sie die noch ________________________(in size) 40.",
+     "back": "Vielleicht haben sie die noch **in Größe** 40."
+    },
+    {
+     "id": "a1-0517a9eb90",
+     "front": "________________________(I don’t wear a) 40.",
+     "back": "**Ich trage keine** 40."
+    },
+    {
+     "id": "a1-111b08d70a",
+     "front": "Das Etikett ________________________(must be wrong).",
+     "back": "Das Etikett **muss falsch sein**."
+    },
+    {
+     "id": "a1-d2595137e3",
+     "front": "Ich habe ______________________(the perfect dress for you) gefunden.",
+     "back": "Ich habe **das perfekte Kleid für dich** gefunden."
+    },
+    {
+     "id": "a1-3a0a0eb73a",
+     "front": "________________________(I’ll put it on).",
+     "back": "**Das zieh’ ich mal an**!"
+    },
+    {
+     "id": "a1-c7abaa4bad",
+     "front": "______________________(Where did my dress go)?",
+     "back": "**Wo ist denn mein Kleid hin**?"
+    },
+    {
+     "id": "a1-8abb8bfa9c",
+     "front": "Ja, ________________________(it fits)!",
+     "back": "Ja, **es passt**!"
+    },
+    {
+     "id": "a1-6c83b1b80d",
+     "front": "________________________(Happy Birthday!)",
+     "back": "**Alles Gute zum Geburtstag**!"
+    },
+    {
+     "id": "a1-a19fc8f4b6",
+     "front": "Die Blumen ________________________(are so beautiful).",
+     "back": "Die Blumen **sind so schön**!"
+    },
+    {
+     "id": "a1-fa63d7c779",
+     "front": "________________________(How sweet) von euch.",
+     "back": "**Wie süß** von euch."
+    },
+    {
+     "id": "a1-67fc8b9d76",
+     "front": "_______________(I like to eat) Salami, und Nutella esse ich noch viel lieber.",
+     "back": "**Ich esse gern** Salami, und Nutella esse ich noch viel lieber."
+    },
+    {
+     "id": "a1-27dae0af5d",
+     "front": "Und zusammen esse ich es ________________________((I like it) the most).",
+     "back": "Und zusammen esse ich es **am liebsten**."
+    },
+    {
+     "id": "a1-549a960995",
+     "front": "_______________________(Are you already excited)?",
+     "back": "**Bist du schon aufgeregt**?"
+    },
+    {
+     "id": "a1-e17bf302d5",
+     "front": "Ja, ________________________(a little).",
+     "back": "Ja, **ein bisschen**."
+    },
+    {
+     "id": "a1-87b1272df4",
+     "front": "Aber ich hoffe, ________________________(the weather will be good).",
+     "back": "Aber ich hoffe, **das Wetter wird gut**."
+    },
+    {
+     "id": "a1-1defbbee3f",
+     "front": "Es ist ________________________(so cloudy).",
+     "back": "Es ist **so bewölkt**."
+    },
+    {
+     "id": "a1-5f3cd2a840",
+     "front": "Gogo, ________________________(are you serious)?",
+     "back": "Gogo, **ist das dein Ernst**?"
+    },
+    {
+     "id": "a1-eb2a9fcc4b",
+     "front": "Da kommen Gäste ________________________(out of the elevator).",
+     "back": "Da kommen Gäste **aus dem Aufzug**."
+    },
+    {
+     "id": "a1-de2259217b",
+     "front": "Katie, ________________________(who (all) did you invite)?",
+     "back": "Katie, **wen hast du denn alles eingeladen**?"
+    },
+    {
+     "id": "a1-5d47364ad0",
+     "front": "Denkst du, ________________________(they’re all Pietro’s girlfriends)?",
+     "back": "Denkst du, **das sind alles Pietros Freundinnen**?"
+    },
+    {
+     "id": "a1-4f44d99c73",
+     "front": "________________________(Yes, I think so).",
+     "back": "**Ja, ich denke schon**."
+    },
+    {
+     "id": "a1-822c86d778",
+     "front": "________________________(I like him).",
+     "back": "**Der ist mir sympathisch.** Alternative: Ich mag ihn."
+    },
+    {
+     "id": "a1-428d52e7a4",
+     "front": "Denkst du, ________________________(he’ll give me one)?",
+     "back": "Denkst du, **der gibt mir eine ab**?"
+    },
+    {
+     "id": "a1-fefb343df7",
+     "front": "________________________(Ask him)!",
+     "back": "**Frag ihn mal**!"
+    },
+    {
+     "id": "a1-caed761a00",
+     "front": "________________________(All the best), liebe Katie!",
+     "back": "**Alles Gute**, liebe Katie!"
+    },
+    {
+     "id": "a1-0f5043a387",
+     "front": "________________________(You guys are the best)!",
+     "back": "**Ihr seid die Besten**!"
+    },
+    {
+     "id": "a1-7f4f119cfa",
+     "front": "________________________(Here’s to an unforgettable evening)!",
+     "back": "**Auf einen unvergesslichen Abend**!"
+    },
+    {
+     "id": "a1-df95bd7bef",
+     "front": "_______________________(What’s the noise here)?",
+     "back": "**Was ist das hier für ein Krach**?"
+    },
+    {
+     "id": "a1-8f8acf7c61",
+     "front": "Wir ________________________(are having a party).",
+     "back": "Wir **feiern eine Party**."
+    },
+    {
+     "id": "a1-85487880e8",
+     "front": "____________________(It’s a pain in the ass (lit. That goes on my balls))!",
+     "back": "**Das geht mir auf’n Sack**!"
+    },
+    {
+     "id": "a1-5435088be7",
+     "front": "Machen Sie mal die Musik aus oder ____________________(I’ll call the police).",
+     "back": "Machen Sie mal die Musik aus oder **ich rufe die Polizei**."
+    },
+    {
+     "id": "a1-6de4174087",
+     "front": "________________________(Please excuse the volume (form.)).",
+     "back": "**Entschuldigen Sie bitte die Lautstärke**."
+    },
+    {
+     "id": "a1-8d69e93e00",
+     "front": "________________________(Is that you (form.))?",
+     "back": "**Sind Sie das**?"
+    },
+    {
+     "id": "a1-dd85dceb6a",
+     "front": "________________________(We are celebrating) meinen Geburtstag.",
+     "back": "**Wir feiern gerade** meinen Geburtstag."
+    },
+    {
+     "id": "a1-3a2ad468c6",
+     "front": "________________________(Just celebrate with us (form.)).",
+     "back": "**Feiern Sie doch einfach mit**."
+    },
+    {
+     "id": "a1-a7becda9be",
+     "front": "________________________(See you in a minute)!",
+     "back": "**Bis gleich**!"
+    },
+    {
+     "id": "a1-05ccf0b492",
+     "front": "________________________(Somehow) klappt das nicht so gut.",
+     "back": "**Irgendwie** klappt das nicht so gut."
+    }
+   ]
+  },
+  {
+   "id": "a2-chunks",
+   "name": "A2 Chunks",
+   "level": "A2",
+   "subtitle": "Brainscape · A2.1 + A2.2 · Units 1–10",
+   "origin": "predefined",
+   "cards": [
+    {
+     "id": "a2-a34ff0808e",
+     "front": "Wir Deutschen sind ________(true masters) im Mülltrennen.",
+     "back": "Wir Deutschen sind **wahre Meister** im Mülltrennen."
+    },
+    {
+     "id": "a2-faebe4b642",
+     "front": "_________(Where) kommt der Müll hier?",
+     "back": "**Wohin** kommt der Müll hier?"
+    },
+    {
+     "id": "a2-97f7e5acf0",
+     "front": "________(Throw it in the) Container da.",
+     "back": "**Wirf ihn in den** Container da."
+    },
+    {
+     "id": "a2-3f69956493",
+     "front": "Dann stell ihn _________(next to it).",
+     "back": "Dann stell ihn **daneben**."
+    },
+    {
+     "id": "a2-49555357ba",
+     "front": "________(There’s) doch noch Platz.",
+     "back": "**Hier ist** doch noch Platz."
+    },
+    {
+     "id": "a2-ee176b3c93",
+     "front": "In Deutschland _____________(we separate the garbage).",
+     "back": "In Deutschland **trennen wir den Müll**."
+    },
+    {
+     "id": "a2-34760b3f13",
+     "front": "Wollen _________(you two (form.)) einen Kaffee?",
+     "back": "Wollen **Sie beide** einen Kaffee?"
+    },
+    {
+     "id": "a2-e055f151c2",
+     "front": "_________(I am) müde.",
+     "back": "**Ich bin** müde."
+    },
+    {
+     "id": "a2-be363b5106",
+     "front": "_________(Come up (form.)).",
+     "back": "**Kommen Sie hoch**."
+    },
+    {
+     "id": "a2-62c7820720",
+     "front": "_________(My darling)!",
+     "back": "**Meine Süße**!"
+    },
+    {
+     "id": "a2-07c043b228",
+     "front": "_________(Come in (form.)).",
+     "back": "**Kommen Sie rein**."
+    },
+    {
+     "id": "a2-c36e9daac1",
+     "front": "Sollen wir die _________(shoes) hier im Flur ausziehen?",
+     "back": "Sollen wir die **Schuhe** hier im Flur ausziehen?"
+    },
+    {
+     "id": "a2-fef4de0d8b",
+     "front": "_________(Come here).",
+     "back": "**Komm mal her**."
+    },
+    {
+     "id": "a2-5177c9089f",
+     "front": "Meine Freundin _________(likes to clean).",
+     "back": "Meine Freundin **putzt gerne**."
+    },
+    {
+     "id": "a2-5d44c4e2b7",
+     "front": "_________(Have a seat (form.)).",
+     "back": "**Nehmen Sie Platz**."
+    },
+    {
+     "id": "a2-13f61a130b",
+     "front": "_________(Do you (form.) want) Zucker?",
+     "back": "**Möchten Sie** Zucker?"
+    },
+    {
+     "id": "a2-58ddf700e2",
+     "front": "_________(Milk) ist leider aus.",
+     "back": "**Milch** ist leider aus."
+    },
+    {
+     "id": "a2-9d3a482afd",
+     "front": "_________(I’m on a diet).",
+     "back": "**Ich mache eine Diät**."
+    },
+    {
+     "id": "a2-346b44c8cf",
+     "front": "Hier hängen viele Wurst-Bilder _________(on the wall).",
+     "back": "Hier hängen viele Wurst-Bilder **an der Wand**."
+    },
+    {
+     "id": "a2-cfef307584",
+     "front": "_________(What a surprise)!",
+     "back": "**Was für eine Überraschung**!"
+    },
+    {
+     "id": "a2-d2f1410942",
+     "front": "_________(What a pleasure), Sie wiederzusehen.",
+     "back": "**Was für eine Freude**, Sie wiederzusehen."
+    },
+    {
+     "id": "a2-db9a6da123",
+     "front": "_________(You know each other)?",
+     "back": "**Ihr kennt euch**?"
+    },
+    {
+     "id": "a2-921002e6a7",
+     "front": "Sie waren ja _________(supposedly) im Gefängnis.",
+     "back": "Sie waren ja **angeblich** im Gefängnis."
+    },
+    {
+     "id": "a2-0b4a096de3",
+     "front": "Sie wohnt leider nicht mehr _________(with me).",
+     "back": "Sie wohnt leider nicht mehr **bei mir**."
+    },
+    {
+     "id": "a2-890a3a84fa",
+     "front": "_________(You wanted), dass ich ausziehe, Klaus!",
+     "back": "**Du wolltest doch**, dass ich ausziehe, Klaus!"
+    },
+    {
+     "id": "a2-a91ed4396e",
+     "front": "_________(Are we doing this again)?",
+     "back": "**Geht das schon wieder los**?"
+    },
+    {
+     "id": "a2-042b69b764",
+     "front": "Immer _________(this back and forth) mit dir!",
+     "back": "Immer **dieses Hin und Her** mit dir!"
+    },
+    {
+     "id": "a2-4b0b3753e4",
+     "front": "_________(You never know), was du willst!",
+     "back": "**Nie weißt du**, was du willst!"
+    },
+    {
+     "id": "a2-be504ead1f",
+     "front": "Es war sehr nett _________(at your place (form.)).",
+     "back": "Es war sehr nett **bei Ihnen**."
+    },
+    {
+     "id": "a2-b11954d6e9",
+     "front": "Ich bin noch _________(tired).",
+     "back": "Ich bin noch **müde**."
+    },
+    {
+     "id": "a2-437e0f345c",
+     "front": "_________(I’m ironing).",
+     "back": "**Ich bügle**."
+    },
+    {
+     "id": "a2-3d60090a3d",
+     "front": "Warum denn _________(out here)?",
+     "back": "Warum denn **hier draußen**?"
+    },
+    {
+     "id": "a2-9b509ae273",
+     "front": "Weil Brigitte _________(inside) putzt.",
+     "back": "Weil Brigitte **drinnen** putzt."
+    },
+    {
+     "id": "a2-6af1cd3863",
+     "front": "Da darf ich nicht _________(stand in the way).",
+     "back": "Da darf ich nicht **im Weg stehen**."
+    },
+    {
+     "id": "a2-90a90545cf",
+     "front": "_________(Cleaning calms her down).",
+     "back": "**Putzen beruhigt sie**."
+    },
+    {
+     "id": "a2-cf20b6bc7b",
+     "front": "Da kann sie gern mal _________(come over to our place).",
+     "back": "Da kann sie gern mal **bei uns vorbeikommen**."
+    },
+    {
+     "id": "a2-81959b5038",
+     "front": "Ich _________(was just kidding).",
+     "back": "Ich **habe nur einen Spaß gemacht**."
+    },
+    {
+     "id": "a2-cc518a511f",
+     "front": "Sie _________(forgot to plug it in) (form.).",
+     "back": "Sie **haben vergessen, den Stecker reinzustecken**."
+    },
+    {
+     "id": "a2-7aef0f0815",
+     "front": "_________(Don’t tell (form.)) meiner Freundin!",
+     "back": "**Sagen Sie nichts** meiner Freundin!"
+    },
+    {
+     "id": "a2-e196916887",
+     "front": "_________(Will you finish soon), Klaus?",
+     "back": "**Bist du bald mal fertig**, Klaus?"
+    },
+    {
+     "id": "a2-bb162fea6b",
+     "front": "Ich bin _________(the best grandpa in the world).",
+     "back": "Ich bin **der beste Opa der Welt**."
+    },
+    {
+     "id": "a2-d7a1c2140d",
+     "front": "_________(I believe that)!",
+     "back": "**Das glaube ich**!"
+    },
+    {
+     "id": "a2-d9e04856ed",
+     "front": "_________(Wait (form.)).",
+     "back": "**Warten Sie**."
+    },
+    {
+     "id": "a2-fa6d476c19",
+     "front": "Sie wohnen_________(for four years) in Kanada.",
+     "back": "Sie wohnen **seit vier Jahren** in Kanada."
+    },
+    {
+     "id": "a2-2aa9e4ffcd",
+     "front": "_________(That’s a long way away).",
+     "back": "**Das ist aber weit weg**."
+    },
+    {
+     "id": "a2-f214f8a69c",
+     "front": "Ich habe sie bislang auch _________(only once) besucht.",
+     "back": "Ich habe sie bislang auch **nur einmal** besucht."
+    },
+    {
+     "id": "a2-f6cdc77969",
+     "front": "_________(By video telephony).",
+     "back": "**Per Videotelefonie**."
+    },
+    {
+     "id": "a2-d4e351cb56",
+     "front": "_________(How old) sind Ihre Enkelkinder?",
+     "back": "**Wie alt** sind Ihre Enkelkinder?"
+    },
+    {
+     "id": "a2-4e31067e87",
+     "front": "Die sind alle _________(in elementary school).",
+     "back": "Die sind alle **in der Grundschule**."
+    },
+    {
+     "id": "a2-e0118bdedd",
+     "front": "Glaube ich _________(at least).",
+     "back": "Glaube ich **zumindest**."
+    },
+    {
+     "id": "a2-ed3c6ebc88",
+     "front": "_________(Why is that)?",
+     "back": "**Warum das denn**?"
+    },
+    {
+     "id": "a2-eebf8afee3",
+     "front": "Er ist mittlerweile 40 und _________(still studying).",
+     "back": "Er ist mittlerweile 40 und **studiert immer noch**."
+    },
+    {
+     "id": "a2-bad8ad235e",
+     "front": "Und ________(constantly asks me for money).",
+     "back": "Und **fragt mich ständig nach Geld**."
+    },
+    {
+     "id": "a2-b5819ec4a3",
+     "front": "Ich weiß gar nicht, _________(what will become of him).",
+     "back": "Ich weiß gar nicht, **was aus dem mal werden soll**."
+    },
+    {
+     "id": "a2-5f89e0d48f",
+     "front": "Er war super in der Schule, hatte nur Einsen _________(on his report).",
+     "back": "Er war super in der Schule, hatte nur Einsen **auf dem Zeugnis**."
+    },
+    {
+     "id": "a2-295bb88b6b",
+     "front": "_________(Then what happened)?",
+     "back": "**Was ist dann passiert**?"
+    },
+    {
+     "id": "a2-967a098922",
+     "front": "Aber vielleicht ist es _________(the right thing for him).",
+     "back": "Aber vielleicht ist es **das Richtige für ihn**."
+    },
+    {
+     "id": "a2-041fe1e672",
+     "front": "_________(It was nice), mit Ihnen zu plaudern.",
+     "back": "**Es war nett**, mit Ihnen zu plaudern."
+    },
+    {
+     "id": "a2-8fe8ed40ae",
+     "front": "_________(You’re supposed to) bügeln.",
+     "back": "**Du sollst doch** bügeln."
+    },
+    {
+     "id": "a2-76c460dcb1",
+     "front": "Ich_________(will be done in a minute).",
+     "back": "Ich **bin gleich fertig**."
+    },
+    {
+     "id": "a2-9a712ea4f5",
+     "front": "Was machst du ________(with my laptop)?",
+     "back": "Was machst du **mit meinem Laptop**?"
+    },
+    {
+     "id": "a2-4c6df6377d",
+     "front": "________(Is anyone else sitting at my laptop)?",
+     "back": "**Sitzt noch jemand an meinem Laptop**?"
+    },
+    {
+     "id": "a2-b0061496a6",
+     "front": "Mein Rechner ________(is broken).",
+     "back": "Mein Rechner **ist kaputt**."
+    },
+    {
+     "id": "a2-7be8b00599",
+     "front": "Ich ________(just took yours).",
+     "back": "Ich **hab’ mir mal deinen genommen**."
+    },
+    {
+     "id": "a2-2a90c84caf",
+     "front": "Aber du kannst doch _______(ask first).",
+     "back": "Aber du kannst doch **vorher fragen**."
+    },
+    {
+     "id": "a2-9165fe1c6d",
+     "front": "________(Sorry).",
+     "back": "**Tut mir leid**."
+    },
+    {
+     "id": "a2-7499c5d5ba",
+     "front": "________(By the way) du solltest dir mal ein Passwort einrichten.",
+     "back": "**Übrigens**, du solltest dir mal ein Passwort einrichten."
+    },
+    {
+     "id": "a2-a120e15670",
+     "front": "________(Tell me), hast du keine Maus?",
+     "back": "**Sag mal**, hast du keine Maus?"
+    },
+    {
+     "id": "a2-f98f25fe94",
+     "front": "Brauchst du ________(anything else)?",
+     "back": "Brauchst du **sonst noch etwas**?"
+    },
+    {
+     "id": "a2-0167673133",
+     "front": "Ein USB-Stick _______(would be great).",
+     "back": "Ein USB-Stick **wäre toll**."
+    },
+    {
+     "id": "a2-ebcb99c58a",
+     "front": "Brauchst du ________(much longer)?",
+     "back": "Brauchst du **noch lange**?"
+    },
+    {
+     "id": "a2-e7b6212b1b",
+     "front": "________(I’m almost done).",
+     "back": "**Ich bin gleich fertig**."
+    },
+    {
+     "id": "a2-3e1a3fc2c3",
+     "front": "________(Nothing at all).",
+     "back": "**Gar nichts**."
+    },
+    {
+     "id": "a2-99cb0ca1e4",
+     "front": "________(Checking the weather forecast).",
+     "back": "**Den Wetterbericht checken**."
+    },
+    {
+     "id": "a2-d0ead0f461",
+     "front": "Ich suche ________(on the Internet) nach einer Freundin.",
+     "back": "Ich suche **im Internet** nach einer Freundin."
+    },
+    {
+     "id": "a2-8f1e5bfd63",
+     "front": "________(Look).",
+     "back": "**Schau mal**."
+    },
+    {
+     "id": "a2-2d5140a188",
+     "front": "________(Take it easy).",
+     "back": "**Bleib mal locker**."
+    },
+    {
+     "id": "a2-9640ebb079",
+     "front": "________(Don’t worry).",
+     "back": "**Keine Angst**."
+    },
+    {
+     "id": "a2-8807c5dfda",
+     "front": "Das erste Date wird ________(free of charge) vermittelt.",
+     "back": "Das erste Date wird **kostenlos** vermittelt."
+    },
+    {
+     "id": "a2-87ea277719",
+     "front": "________(More attempts) brauche ich gar nicht.",
+     "back": "**Mehr Versuche** brauche ich gar nicht."
+    },
+    {
+     "id": "a2-bee60652fb",
+     "front": "Ich schreibe ________(right now) mein Profil.",
+     "back": "Ich schreibe **gerade** mein Profil."
+    },
+    {
+     "id": "a2-31d29551f5",
+     "front": "Willst du ________(see it)?",
+     "back": "Willst du **mal sehen**?"
+    },
+    {
+     "id": "a2-cab1a3a836",
+     "front": "________(Let me see)!",
+     "back": "**Zeig mal**!"
+    },
+    {
+     "id": "a2-1153a52fba",
+     "front": "________(Nonsense)!",
+     "back": "**Quatsch**!"
+    },
+    {
+     "id": "a2-a9d319215f",
+     "front": "________(That’s me).",
+     "back": "**Das bin ich**."
+    },
+    {
+     "id": "a2-4da67e8263",
+     "front": "________(That hurts).",
+     "back": "**Das tut weh**."
+    },
+    {
+     "id": "a2-94c098d02a",
+     "front": "Und du bist ________(athletic)?",
+     "back": "Und du bist **sportlich**?"
+    },
+    {
+     "id": "a2-54bc45bf40",
+     "front": "________(Come on).",
+     "back": "**Komm schon**."
+    },
+    {
+     "id": "a2-ee51cc1ba0",
+     "front": "Und du liest viel? ________(When)?",
+     "back": "Und du liest viel? **Wann denn**?"
+    },
+    {
+     "id": "a2-b28737016a",
+     "front": "________(I didn’t know), dass du Pilot bist.",
+     "back": "**Ich wusste gar nicht**, dass du Pilot bist."
+    },
+    {
+     "id": "a2-afe90f4eba",
+     "front": "________(Everyone calls me) Gogo.",
+     "back": "**Alle nennen mich** Gogo."
+    },
+    {
+     "id": "a2-d45fbffef2",
+     "front": "________(That’s right).",
+     "back": "**Das stimmt**."
+    },
+    {
+     "id": "a2-611c572623",
+     "front": "________(You must earn) viel Geld, oder?",
+     "back": "**Da verdient man doch bestimmt** viel Geld, oder?"
+    },
+    {
+     "id": "a2-81ab288cf4",
+     "front": "Ich ________(can’t complain at all).",
+     "back": "Ich **kann mich überhaupt nicht beklagen**."
+    },
+    {
+     "id": "a2-3b6bff1a7b",
+     "front": "Ich glaube, diesmal hast du ________(found the right one).",
+     "back": "Ich glaube, diesmal hast du **den Richtigen gefunden**."
+    },
+    {
+     "id": "a2-97e8646036",
+     "front": "________(Isn’t your profession) gefährlich?",
+     "back": "**Ist dein Beruf nicht** gefährlich?"
+    },
+    {
+     "id": "a2-6ac33055ae",
+     "front": "Denk dir schnell ________(something impressive) aus!",
+     "back": "Denk dir schnell **etwas Beeindruckendes** aus!"
+    },
+    {
+     "id": "a2-3922fc5834",
+     "front": "Gestern ist ______(an engine failed).",
+     "back": "Gestern ist **ein Triebwerk ausgefallen**."
+    },
+    {
+     "id": "a2-8fc19d2fde",
+     "front": "Deshalb musste ich auf dem Wannsee ________(make an emergency landing).",
+     "back": "Deshalb musste ich auf dem Wannsee **notlanden**."
+    },
+    {
+     "id": "a2-d4cb5c5495",
+     "front": "Ich finde ________(men in uniform) sexy.",
+     "back": "Ich finde **Männer in Uniform** sexy."
+    },
+    {
+     "id": "a2-003db5be14",
+     "front": "________(Here again at last)!",
+     "back": "**Endlich wieder hier**!"
+    },
+    {
+     "id": "a2-36fd1bfc6a",
+     "front": "________(Disgusting)!",
+     "back": "**Widerlich**!"
+    },
+    {
+     "id": "a2-b539828dab",
+     "front": "Schön, ________(that you’re finally here)!",
+     "back": "Schön, **dass du endlich da bist**!"
+    },
+    {
+     "id": "a2-48234b5baa",
+     "front": "________(Sorry for the delay).",
+     "back": "**Entschuldige die Verspätung**."
+    },
+    {
+     "id": "a2-53eb0f7566",
+     "front": "________(It doesn’t matter).",
+     "back": "**Das macht nichts**."
+    },
+    {
+     "id": "a2-b1732013e5",
+     "front": "Sie ist ________(almost as beautiful as you).",
+     "back": "Sie ist **fast so schön wie du**."
+    },
+    {
+     "id": "a2-aa6dd5f330",
+     "front": "Das ist ________(sweet of you).",
+     "back": "Das ist **lieb von dir**."
+    },
+    {
+     "id": "a2-63aeaab2db",
+     "front": "________(Gorgeous)!",
+     "back": "**Umwerfend**!"
+    },
+    {
+     "id": "a2-c4122f0296",
+     "front": "________(Like a starry sky).",
+     "back": "**Wie ein Sternenhimmel**."
+    },
+    {
+     "id": "a2-93cacec3b1",
+     "front": "________(So many compliments).",
+     "back": "**So viele Komplimente**."
+    },
+    {
+     "id": "a2-18ab51c55c",
+     "front": "________(I love) zu segeln.",
+     "back": "**Ich liebe es** zu segeln."
+    },
+    {
+     "id": "a2-188b42b279",
+     "front": "________(My ex-boyfriend)",
+     "back": "**Mein Exfreund**"
+    },
+    {
+     "id": "a2-1b7a29e5bd",
+     "front": "Ich bin gestern gerade erst ________(from Hamburg) zurückgekommen.",
+     "back": "Ich bin gestern gerade erst **aus Hamburg** zurückgekommen."
+    },
+    {
+     "id": "a2-2b5d575765",
+     "front": "________(Unbelievable)!",
+     "back": "**Unglaublich**!"
+    },
+    {
+     "id": "a2-66219af711",
+     "front": "________(Next week), da fliege ich nach Venedig.",
+     "back": "**Nächste Woche**, da fliege ich nach Venedig."
+    },
+    {
+     "id": "a2-39807f8334",
+     "front": "________(What are you doing) morgen?",
+     "back": "**Was machst du** morgen?"
+    },
+    {
+     "id": "a2-66e87d72c7",
+     "front": "________(Shall we) morgen zu deiner Jacht fahren?",
+     "back": "**Wollen wir** morgen zu deiner Jacht fahren?"
+    },
+    {
+     "id": "a2-7ed71e28f7",
+     "front": "________(I have a) viel bessere Idee.",
+     "back": "**Ich habe eine** viel bessere Idee."
+    },
+    {
+     "id": "a2-e23f14bfed",
+     "front": "Wir gehen morgen ________(to the park).",
+     "back": "Wir gehen morgen **in den Park**."
+    },
+    {
+     "id": "a2-b626fea62e",
+     "front": "_______________(I’m hot)!",
+     "back": "**Mir ist heiß**!"
+    },
+    {
+     "id": "a2-1c9a25a480",
+     "front": "Haben wir noch Eis __________________(in the freezer)?",
+     "back": "Haben wir noch Eis **in der Tiefkühltruhe**?"
+    },
+    {
+     "id": "a2-ca1c688e56",
+     "front": "Nein, ___________(I mean) Eis zum Essen.",
+     "back": "Nein, **ich meine** Eis zum Essen."
+    },
+    {
+     "id": "a2-4e67329b1d",
+     "front": "Das hier ist ______________(ice for cooling) von Getränken.",
+     "back": "Das hier ist **Eis zum Kühlen** von Getränken."
+    },
+    {
+     "id": "a2-5846a031b3",
+     "front": "Aber wir könnten ________________(go to the park).",
+     "back": "Aber wir könnten **in den Park gehen**."
+    },
+    {
+     "id": "a2-8f154645be",
+     "front": "_____________(I’m ready, lit. done).",
+     "back": "**Ich bin fertig**."
+    },
+    {
+     "id": "a2-5b3a9c4a12",
+     "front": "Ich will ________________________(protect myself from the sun).",
+     "back": "Ich will **mich vor der Sonne schützen**."
+    },
+    {
+     "id": "a2-77aae2f185",
+     "front": "____________________(Are you also coming) in den Park?",
+     "back": "**Kommst du auch mit** in den Park?"
+    },
+    {
+     "id": "a2-ed295ddc07",
+     "front": "Ich wollte __________(anyway) mit Viola dahin gehen.",
+     "back": "Ich wollte **sowieso** mit Viola dahin gehen."
+    },
+    {
+     "id": "a2-54acee8a0d",
+     "front": "Na dann gehen wir __________(the four of us).",
+     "back": "Na dann gehen wir **zu viert**."
+    },
+    {
+     "id": "a2-5e3528956d",
+     "front": "Die Sonne _____________(is gone anyway).",
+     "back": "Die Sonne **ist eh weg**."
+    },
+    {
+     "id": "a2-9f966b8d2a",
+     "front": "_______________(I’m cold)!",
+     "back": "**Mir ist kalt**!"
+    },
+    {
+     "id": "a2-84afa2d6b9",
+     "front": "___________(Somehow) ist auf einmal Herbst.",
+     "back": "**Irgendwie** ist auf einmal Herbst."
+    },
+    {
+     "id": "a2-bd68c3db26",
+     "front": "Da ist ______(even) ein Teich mit Enten.",
+     "back": "Da ist **sogar** ein Teich mit Enten."
+    },
+    {
+     "id": "a2-9fd64ed2c7",
+     "front": "______________(Come here (pl.))!",
+     "back": "**Kommt her**!"
+    },
+    {
+     "id": "a2-2e7226e5f2",
+     "front": "_____________________________(Nice to meet you)!",
+     "back": "**Schön, dich kennenzulernen**!"
+    },
+    {
+     "id": "a2-1a7855270f",
+     "front": "Gogo hat schon _______________________(told us a lot about you).",
+     "back": "Gogo hat schon **viel von dir erzählt**."
+    },
+    {
+     "id": "a2-89b50321d4",
+     "front": "________________________(That looks delicious).",
+     "back": "**Das sieht ja lecker aus**."
+    },
+    {
+     "id": "a2-7015440eed",
+     "front": "Lass Bobbi doch ________(first) auspacken.",
+     "back": "Lass Bobbi doch **erst mal** auspacken."
+    },
+    {
+     "id": "a2-a36ccfe69b",
+     "front": "________(Mine)!",
+     "back": "**Meins**!"
+    },
+    {
+     "id": "a2-05ad89db8f",
+     "front": "_________________(Something sweet) für meine Süße.",
+     "back": "**Etwas Süßes** für meine Süße."
+    },
+    {
+     "id": "a2-1d28fdb0f1",
+     "front": "Haben wir ______________(miss something)?",
+     "back": "Haben wir **was verpasst**?"
+    },
+    {
+     "id": "a2-84960c7ff2",
+     "front": "_______________________________(What’s going on here (coll.))?",
+     "back": "**Was geht denn hier ab**?"
+    },
+    {
+     "id": "a2-656f3e960f",
+     "front": "_____________________(Does that mean), dass du auch kein Pilot bist?",
+     "back": "**Heißt das**, dass du auch kein Pilot bist?"
+    },
+    {
+     "id": "a2-263e7a3dfa",
+     "front": "_____________________(Not exactly).",
+     "back": "**Nicht direkt**."
+    },
+    {
+     "id": "a2-2385d264ed",
+     "front": "Ich will dich ___________(never again) sehen!",
+     "back": "Ich will dich **nie wieder** sehen!"
+    },
+    {
+     "id": "a2-7ba852e3e5",
+     "front": "______________________(Now wait a minute), Viola.",
+     "back": "**Nun warte doch mal**, Viola."
+    },
+    {
+     "id": "a2-739a9343c0",
+     "front": "Nicht alles ____________(was a lie).",
+     "back": "Nicht alles **war gelogen**."
+    },
+    {
+     "id": "a2-80ce0f3a0d",
+     "front": "Die Komplimente ______________(were honest).",
+     "back": "Die Komplimente **waren ehrlich**."
+    },
+    {
+     "id": "a2-480e5be441",
+     "front": "Die Komplimente waren _______________(as real as) Violas Haare.",
+     "back": "Die Komplimente waren **genauso echt wie** Violas Haare."
+    },
+    {
+     "id": "a2-0ef21d08cc",
+     "front": "______________________(Wait for me)!",
+     "back": "**Warte doch auf mich**!"
+    },
+    {
+     "id": "a2-4aab21ddfd",
+     "front": "Katie ___________________________(at the registration office).",
+     "back": "Katie **im Einwohnermeldeamt**."
+    },
+    {
+     "id": "a2-7bcd879ec0",
+     "front": "Ich möchte ____________(register).",
+     "back": "Ich möchte **mich anmelden**."
+    },
+    {
+     "id": "a2-4634b33c0f",
+     "front": "Heute ____________________(alone on the road)?",
+     "back": "Heute **alleine unterwegs**?"
+    },
+    {
+     "id": "a2-27ecc7b17b",
+     "front": "___________________________________((It’s) good to see you again)!",
+     "back": "**Schön, dich wiederzusehen**!"
+    },
+    {
+     "id": "a2-bbdce3b16e",
+     "front": "____________________________________(What are you doing here)?",
+     "back": "**Was machst du denn hier**?"
+    },
+    {
+     "id": "a2-84a88c63b4",
+     "front": "Ich habe ______________________(received a letter).",
+     "back": "Ich habe **ein Schreiben bekommen**."
+    },
+    {
+     "id": "a2-e5c8e6a7f2",
+     "front": "Deutsche wollen _______________(always everything right away).",
+     "back": "Deutsche wollen **immer alles sofort**."
+    },
+    {
+     "id": "a2-34bb792830",
+     "front": "__________(How long) bist du denn schon in Deutschland?",
+     "back": "**Wie lange** bist du denn schon in Deutschland?"
+    },
+    {
+     "id": "a2-76f66cbc4f",
+     "front": "____________(Only for) drei Jahren.",
+     "back": "**Erst seit** drei Jahren"
+    },
+    {
+     "id": "a2-88b0137659",
+     "front": "Und dann muss ich ____________(a fine) von 500 Euro zahlen.",
+     "back": "Und dann muss ich **ein Bußgeld** von 500 Euro zahlen."
+    },
+    {
+     "id": "a2-5d83788cb1",
+     "front": "Heute ist sie besonders _________(diligent).",
+     "back": "Heute ist sie besonders **fleißig**."
+    },
+    {
+     "id": "a2-bfece8d94a",
+     "front": "Katie, __________________(don’t be so impatient).",
+     "back": "Katie, **nicht so ungeduldig**."
+    },
+    {
+     "id": "a2-e9ad20cf4c",
+     "front": "Ich möchte mich gerne _______________________(register in Germany).",
+     "back": "Ich möchte mich gerne **in Deutschland anmelden**."
+    },
+    {
+     "id": "a2-7f7aff658a",
+     "front": "Haben Sie _______________________(filled out the registration form)?",
+     "back": "Haben Sie **das Anmeldeformular ausgefüllt**?"
+    },
+    {
+     "id": "a2-60b5538c30",
+     "front": "______________________(Let’s have a look).",
+     "back": "**Gucken wir mal**."
+    },
+    {
+     "id": "a2-8edd26c85a",
+     "front": "_____________(Since when) sind Sie denn in Deutschland?",
+     "back": "**Seit wann** sind Sie denn in Deutschland?"
+    },
+    {
+     "id": "a2-3cee30c8b2",
+     "front": "___________________(For three months)?",
+     "back": "**Seit drei Monaten**?"
+    },
+    {
+     "id": "a2-0e016d3ee9",
+     "front": "Und dann melden Sie sich ______(just now) an?",
+     "back": "Und dann melden Sie sich **jetzt erst** an?"
+    },
+    {
+     "id": "a2-2326305440",
+     "front": "Muss ich jetzt auch _______________(pay a fine)?",
+     "back": "Muss ich jetzt auch **Bußgeld zahlen**?"
+    },
+    {
+     "id": "a2-b4a4fab23a",
+     "front": "Heute ___________________________(we’ll make an exception).",
+     "back": "Heute **machen wir mal ‘ne Ausnahme**."
+    },
+    {
+     "id": "a2-6a949d0173",
+     "front": "Ihr Anmeldeformular ist leider noch _________________(not complete).",
+     "back": "Ihr Anmeldeformular ist leider noch **nicht vollständig**."
+    },
+    {
+     "id": "a2-c86c4297a9",
+     "front": "_______________(What is missing)?",
+     "back": "**Was fehlt**?"
+    },
+    {
+     "id": "a2-4f1f01b0ca",
+     "front": "__________________(Isn’t he cute)?",
+     "back": "**Ist er nicht süß**?"
+    },
+    {
+     "id": "a2-59d45a3d3b",
+     "front": "____________(The address).",
+     "back": "**Die Anschrift**."
+    },
+    {
+     "id": "a2-0ede836bf9",
+     "front": "Und da leben Sie ________________________(with your (form.) relatives)?",
+     "back": "Und da leben Sie **mit Ihren Angehörigen**?"
+    },
+    {
+     "id": "a2-4ee69d7ac3",
+     "front": "__________________________(A copy of your passport).",
+     "back": "**Eine Kopie Ihres Reisepasses**."
+    },
+    {
+     "id": "a2-87d24f557f",
+     "front": "____________________________(How am I supposed to pay for this)?",
+     "back": "**Wie soll ich das bezahlen**?"
+    },
+    {
+     "id": "a2-ce0b48b33f",
+     "front": "_____________________(What happened)?",
+     "back": "**Was ist denn passiert**?"
+    },
+    {
+     "id": "a2-aca9653c97",
+     "front": "___________________(Everything will be fine).",
+     "back": "**Alles wird gut**."
+    },
+    {
+     "id": "a2-16cd18d529",
+     "front": "_____________________________(I’ll invite you for a coffee)!",
+     "back": "**Ich lad dich auf einen Kaffee ein**!"
+    },
+    {
+     "id": "a2-ffa2bc2707",
+     "front": "Ich habe noch nie eine Frau ______________(seen), die so schnell rennen kann.",
+     "back": "Ich habe noch nie eine Frau **gesehen**, die so schnell rennen kann."
+    },
+    {
+     "id": "a2-444b8cbd2d",
+     "front": "Was kochst du ______________(tonight) eigentlich für uns?",
+     "back": "Was kochst du **heute Abend** eigentlich für uns?"
+    },
+    {
+     "id": "a2-ad1b66bed0",
+     "front": "_________(Why) muss ich immer kochen?",
+     "back": "**Wieso** muss ich immer kochen?"
+    },
+    {
+     "id": "a2-fc0fa0f1e6",
+     "front": "______________________________(Why don’t you cook for a change)?",
+     "back": "**Warum kochst du nicht mal**?"
+    },
+    {
+     "id": "a2-5c95645558",
+     "front": "_____________(Of course) kann ich kochen.",
+     "back": "**Na klar** kann ich kochen."
+    },
+    {
+     "id": "a2-c0a6123d82",
+     "front": "_______________(As good as) du ein Flugzeug fliegen kannst?",
+     "back": "**So gut wie** du ein Flugzeug fliegen kannst?"
+    },
+    {
+     "id": "a2-b6f2b8dbd8",
+     "front": "_________________(Let’s see how that goes).",
+     "back": "**Das kann was werden**."
+    },
+    {
+     "id": "a2-ea93a34229",
+     "front": "___________________(I’ll prove to you (pl.)), dass ich kochen kann.",
+     "back": "**Ich beweise euch**, dass ich kochen kann."
+    },
+    {
+     "id": "a2-144f08fc35",
+     "front": "________________(Where is) das Kochbuch?",
+     "back": "**Wo ist denn** das Kochbuch?"
+    },
+    {
+     "id": "a2-a078e7940f",
+     "front": "In der Küche ist ____(one).",
+     "back": "In der Küche ist **eins**."
+    },
+    {
+     "id": "a2-4fc578e89a",
+     "front": "Ich habe _____________(don’t (not) enough money).",
+     "back": "Ich habe **nicht genug Geld**."
+    },
+    {
+     "id": "a2-920ee523a2",
+     "front": "Das ist _____________(cheap).",
+     "back": "Das ist **billig**."
+    },
+    {
+     "id": "a2-55f0cf3cbb",
+     "front": "_________________(What are you cooking) für uns?",
+     "back": "**Was kochst du** für uns?"
+    },
+    {
+     "id": "a2-284e3f6552",
+     "front": "Oh, _______________(delicious)!",
+     "back": "Oh, **lecker**!"
+    },
+    {
+     "id": "a2-3f41953feb",
+     "front": "__________(Three times) hätte ich gerne Spaghetti mit Tomatensoße.",
+     "back": "**Dreimal** hätte ich gerne Spaghetti mit Tomatensoße."
+    },
+    {
+     "id": "a2-55cbb12057",
+     "front": "______________________________(How long does it take)?",
+     "back": "**Wie lange dauert das**?"
+    },
+    {
+     "id": "a2-b62ff1b703",
+     "front": "___________________(I knew it)!",
+     "back": "**Ich wusste es**!"
+    },
+    {
+     "id": "a2-5d9216a848",
+     "front": "____________________(It was so obvious).",
+     "back": "**Das war so klar**."
+    },
+    {
+     "id": "a2-68d08423bf",
+     "front": "Und _____________________________(who is going (lit. supposed to) to pay for that)?",
+     "back": "Und **wer soll das bezahlen**?"
+    },
+    {
+     "id": "a2-a59976aa25",
+     "front": "Aber ___________________(I have an idea).",
+     "back": "Aber **ich hab’ eine Idee**."
+    },
+    {
+     "id": "a2-3fe10537bf",
+     "front": "___________________________(That smells delicious)!",
+     "back": "**Riecht das lecker**!"
+    },
+    {
+     "id": "a2-d909e52c46",
+     "front": "___________(That’s) 19,50, bitte!",
+     "back": "**Das macht** 19,50, bitte!"
+    },
+    {
+     "id": "a2-2adfe08610",
+     "front": "__________________(Keep the change).",
+     "back": "**Stimmt so**."
+    },
+    {
+     "id": "a2-483dbf0523",
+     "front": "____________________(You’re kidding).",
+     "back": "**Ist nicht dein Ernst**."
+    },
+    {
+     "id": "a2-58eeb03443",
+     "front": "Dann ____________________________(count again).",
+     "back": "Dann **zähl noch mal nach**."
+    },
+    {
+     "id": "a2-681c56e020",
+     "front": "_____________(Too little), Kleiner.",
+     "back": "**Zu wenig**, Kleiner."
+    },
+    {
+     "id": "a2-a5c1133002",
+     "front": "Aber ich hab’ schon __________________(smelled it).",
+     "back": "Aber ich hab’ schon **dran gerochen**."
+    },
+    {
+     "id": "a2-d823f5ba9a",
+     "front": "Bobbi, ___________________________(can you lend me some money)?",
+     "back": "Bobbi, **kannst du mir mal Geld leihen**?"
+    },
+    {
+     "id": "a2-8ecc29a568",
+     "front": "________________(How much)?",
+     "back": "**Wie viel denn**?"
+    },
+    {
+     "id": "a2-cf116ba7a5",
+     "front": "Aber du kriegst dein Sparschwein __________(back).",
+     "back": "Aber du kriegst dein Sparschwein **zurück**."
+    },
+    {
+     "id": "a2-b78e764b40",
+     "front": "______________(Shall we) einen Film schauen?",
+     "back": "**Wollen wir** einen Film schauen?"
+    },
+    {
+     "id": "a2-8b1284bed6",
+     "front": "Ich hab’ _________(the other day) von einem interessanten Dokumentarfilm gehört.",
+     "back": "Ich hab’ **neulich** von einem interessanten Dokumentarfilm gehört."
+    },
+    {
+     "id": "a2-e84218f42e",
+     "front": "_______________________(A bit of entertainment) brauche ich schon.",
+     "back": "**Ein bisschen Unterhaltung** brauche ich schon."
+    },
+    {
+     "id": "a2-dd2efde8d0",
+     "front": "Eine Doku kann auch unterhaltsam sein und _______________(you learn something).",
+     "back": "Eine Doku kann auch unterhaltsam sein und **man lernt etwas**."
+    },
+    {
+     "id": "a2-95f1272e4b",
+     "front": "Horror __________________(to relax)?",
+     "back": "Horror **zum Entspannen**?"
+    },
+    {
+     "id": "a2-20e213c986",
+     "front": "______________________________(That’s too scary for me).",
+     "back": "**Das ist mir zu gruselig**."
+    },
+    {
+     "id": "a2-a17b9b4bdd",
+     "front": "Liebe und Drama _____________________(I just had enough) mit Viola.",
+     "back": "Liebe und Drama **hatte ich eben genug** mit Viola."
+    },
+    {
+     "id": "a2-c19fb698ae",
+     "front": "An dem Drama ___________________(is all your fault).",
+     "back": "An dem Drama **bist du doch schuld**."
+    },
+    {
+     "id": "a2-4a0ae4eda7",
+     "front": "___________________(How about) Titanic?",
+     "back": "**Wie wär’s mit** Titanic?"
+    },
+    {
+     "id": "a2-71540f7393",
+     "front": "Und Leo ist _________________________(such a great actor).",
+     "back": "Und Leo ist **so ein toller Schauspieler**."
+    },
+    {
+     "id": "a2-57c38452be",
+     "front": "__________________(Of course not), meine liebe Rose.",
+     "back": "**Natürlich nicht**, meine liebe Rose."
+    },
+    {
+     "id": "a2-33fcc9b523",
+     "front": "____________(Maybe) “Der Schuh des Manitu”?",
+     "back": "**Vielleicht** “Der Schuh des Manitu”?"
+    },
+    {
+     "id": "a2-aae43b9d0a",
+     "front": "Die sind ______(stupid).",
+     "back": "Die sind **doof**."
+    },
+    {
+     "id": "a2-1f9f2c88bb",
+     "front": "Der Humor ist ___________________(totally exaggerated).",
+     "back": "Der Humor ist **total übertrieben**."
+    },
+    {
+     "id": "a2-9edde78573",
+     "front": "________________(A mixture) zwischen Komödie und Drama.",
+     "back": "**Eine Mischung** zwischen Komödie und Drama."
+    },
+    {
+     "id": "a2-93fcab5814",
+     "front": "Da ist _____________(for everyone) was dabei.",
+     "back": "Da ist **für jeden** was dabei."
+    },
+    {
+     "id": "a2-899dc607f0",
+     "front": "____________________________(What’s going on now)?",
+     "back": "**Was ist denn jetzt los**?"
+    },
+    {
+     "id": "a2-14aa0bb0f2",
+     "front": "Ich glaube, ____________________________(we have an internet outage)!",
+     "back": "Ich glaube, **wir haben eine Internetstörung**!"
+    },
+    {
+     "id": "a2-c8ed2cc31c",
+     "front": "______________________(You can figure it out (pl.)).",
+     "back": "**Ihr macht das schon**."
+    },
+    {
+     "id": "a2-a2cf217a48",
+     "front": "_______________(It’s already) 10!",
+     "back": "**Es ist schon** 10!"
+    },
+    {
+     "id": "a2-7b8a663f22",
+     "front": "_____________________(Do you already have plans) fürs Wochenende?",
+     "back": "**Hast du schon Pläne** fürs Wochenende?"
+    },
+    {
+     "id": "a2-0d91d0ac2a",
+     "front": "Ich ___________________(live in the day).",
+     "back": "Ich **lebe in den Tag hinein**."
+    },
+    {
+     "id": "a2-0b0c701f25",
+     "front": "Aber wir könnten doch mal _____________________(do something).",
+     "back": "Aber wir könnten doch mal **was unternehmen**."
+    },
+    {
+     "id": "a2-2fe69ed664",
+     "front": "__________(Let’s (pl.)) feiern gehen.",
+     "back": "**Lass uns** feiern gehen."
+    },
+    {
+     "id": "a2-f3ea87bee2",
+     "front": "Aber wollen wir nicht lieber _____________________(go for a bike ride)?",
+     "back": "Aber wollen wir nicht lieber **eine Radtour machen**?"
+    },
+    {
+     "id": "a2-8adf087d4c",
+     "front": "Ich habe auch _________(right now) kein Fahrrad.",
+     "back": "Ich habe auch **gerade** kein Fahrrad."
+    },
+    {
+     "id": "a2-f429b2a612",
+     "front": "Aber Filme können wir auch _________________(watch at home).",
+     "back": "Aber Filme können wir auch **zu Hause schauen**."
+    },
+    {
+     "id": "a2-b96af5e3b6",
+     "front": "Lass uns ___________________(go to a concert).",
+     "back": "Lass uns **auf ein Konzert gehen**."
+    },
+    {
+     "id": "a2-48b91b7a83",
+     "front": "Im Mauerpark __________________(there’s always something going on).",
+     "back": "Im Mauerpark **ist immer was los**."
+    },
+    {
+     "id": "a2-4b02e0e52a",
+     "front": "Lass uns ___________(go there).",
+     "back": "Lass uns **dort hingehen**."
+    },
+    {
+     "id": "a2-7d24e2d148",
+     "front": "_________________(What’s up)?",
+     "back": "**Was ist los**?"
+    },
+    {
+     "id": "a2-e333c40c63",
+     "front": "Ich will E-Mails verschicken, aber ______________(nothing is happening).",
+     "back": "Ich will E-Mails verschicken, aber **es passiert nichts**."
+    },
+    {
+     "id": "a2-fced539c79",
+     "front": "Und _________________(a month ago) gab es auch schon mal Probleme.",
+     "back": "Und **vor einem Monat** gab es auch schon mal Probleme."
+    },
+    {
+     "id": "a2-b4953bb4f8",
+     "front": "_______________(How long (lit. Since when)) habt ihr den Router denn?",
+     "back": "**Seit wann** habt ihr den Router denn?"
+    },
+    {
+     "id": "a2-84af382381",
+     "front": "Genau, Katie, __________________________(that’s how you do it).",
+     "back": "Genau, Katie, **so macht man das**."
+    },
+    {
+     "id": "a2-fab89db7ef",
+     "front": "Das Internet _____________________(is still not working).",
+     "back": "Das Internet **funktioniert immer noch nicht**."
+    },
+    {
+     "id": "a2-b324bca0b8",
+     "front": "Der Router muss erst _____________(reboot), das dauert ein paar Minuten.",
+     "back": "Der Router muss erst **neu starten**, das dauert ein paar Minuten."
+    },
+    {
+     "id": "a2-51b6da64f6",
+     "front": "________________________________(Violence is not the solution).",
+     "back": "**Gewalt ist doch keine Lösung**."
+    },
+    {
+     "id": "a2-fad93c9a85",
+     "front": "______________________________(I’ll call the technician)!",
+     "back": "**Ich ruf’ den Techniker an**!"
+    },
+    {
+     "id": "a2-302c52894f",
+     "front": "Bitte _____________________________(be patient (form.)).",
+     "back": "Bitte **haben Sie etwas Geduld**."
+    },
+    {
+     "id": "a2-e827b3f18b",
+     "front": "Was für _____________________(an annoying voice)!",
+     "back": "Was für **eine nervige Stimme**!"
+    },
+    {
+     "id": "a2-5e155d6288",
+     "front": "_____________(For quality assurance) zeichnen wir einige Gespräche auf.",
+     "back": "**Zur Qualitätssicherung** zeichnen wir einige Gespräche auf."
+    },
+    {
+     "id": "a2-3dadeabce1",
+     "front": "_________________(Goodbye).",
+     "back": "**Auf Wiederhören**."
+    },
+    {
+     "id": "a2-fafd2e1a3b",
+     "front": "Er ist ____________(looks like (lit. apparently)) wieder mal auf “Geschäftsreise”.",
+     "back": "Er ist **anscheinend** wieder mal auf “Geschäftsreise”."
+    },
+    {
+     "id": "a2-69a7f8d2e3",
+     "front": "___________________________(What can I do for you (form.))?",
+     "back": "**Was kann ich für Sie tun**?"
+    },
+    {
+     "id": "a2-eb9876a9ee",
+     "front": "Mein Internet __________________(is not working).",
+     "back": "Mein Internet **funktioniert nicht**."
+    },
+    {
+     "id": "a2-5bd21fdc3a",
+     "front": "___________________(I repeat).",
+     "back": "**Ich wiederhole**."
+    },
+    {
+     "id": "a2-72d68a072b",
+     "front": "________________(Quiet now).",
+     "back": "**Ruhe jetzt**."
+    },
+    {
+     "id": "a2-1a1475e469",
+     "front": "__________________________(There is no malfunction).",
+     "back": "**Eine Störung gibt es nicht**."
+    },
+    {
+     "id": "a2-2adc444d29",
+     "front": "_______________(Does (it) suit you (form.)) um 12 Uhr?",
+     "back": "**Passt es Ihnen** um 12 Uhr?"
+    },
+    {
+     "id": "a2-2adfc5b343",
+     "front": "_____________________________(Sorry, I can’t make it).",
+     "back": "**Da kann ich leider nicht**."
+    },
+    {
+     "id": "a2-cb199e792d",
+     "front": "Haben Sie auch ____________________(a later appointment)?",
+     "back": "Haben Sie auch **einen späteren Termin**?"
+    },
+    {
+     "id": "a2-d60fce85d2",
+     "front": "Das ist _______________________(the only free appointment) morgen.",
+     "back": "Das ist **der einzige freie Termin** morgen."
+    },
+    {
+     "id": "a2-754e5a5276",
+     "front": "Ich hab’ um 10 einen Friseurtermin und ich weiß nicht, ______________________(how long it will take).",
+     "back": "Ich hab’ um 10 einen Friseurtermin und ich weiß nicht, **wie lange es dauert**."
+    },
+    {
+     "id": "a2-fadf7c9bea",
+     "front": "_______________________(For how long) bist du denn beim Friseur?",
+     "back": "**Für wie lange** bist du denn beim Friseur?"
+    },
+    {
+     "id": "a2-6f5ebb9c5e",
+     "front": "Vielleicht ___________________(for two or three hours).",
+     "back": "Vielleicht **für zwei oder drei Stunden**."
+    },
+    {
+     "id": "a2-8d323f0dd3",
+     "front": "__________________________(What’s more important to you)?",
+     "back": "**Was ist dir wichtiger**?"
+    },
+    {
+     "id": "a2-51ca4c9e8e",
+     "front": "____________________(Correct answer).",
+     "back": "**Richtige Antwort**."
+    },
+    {
+     "id": "a2-a44347f887",
+     "front": "Vielleicht kannst du _________________(reschedulde your appointment)?",
+     "back": "Vielleicht kannst du **deinen Termin verschieben**?"
+    },
+    {
+     "id": "a2-6b4d6327eb",
+     "front": "__________________(Are you still there (form.))?",
+     "back": "**Sind Sie noch da**?"
+    },
+    {
+     "id": "a2-243b7f7b87",
+     "front": "_________________________(It looks great on you) übrigens!",
+     "back": "**Es steht dir super** übrigens!"
+    },
+    {
+     "id": "a2-576cb682fe",
+     "front": "Das hab’ ich _______________(last night) mit meinen Freunden gemalt.",
+     "back": "Das hab’ ich **gestern Abend** mit meinen Freunden gemalt."
+    },
+    {
+     "id": "a2-40c2771549",
+     "front": "_______________________(Don’t talk nonsense)!",
+     "back": "**Erzähl doch nicht**!"
+    },
+    {
+     "id": "a2-fd6b031d4b",
+     "front": "__________________(You nutcase)!",
+     "back": "**Du Spinner**!"
+    },
+    {
+     "id": "a2-16af0199eb",
+     "front": "________________(That’s what you call) Berliner Kunst.",
+     "back": "**Das nennt man** Berliner Kunst."
+    },
+    {
+     "id": "a2-39750617f8",
+     "front": "Ich kenn’ _______________(for example) Udo Jürgens.",
+     "back": "Ich kenn’ **zum Beispiel** Udo Jürgens."
+    },
+    {
+     "id": "a2-0f5cd1516a",
+     "front": "____________(By him) mag ich nur ein Lied.",
+     "back": "**Von dem** mag ich nur ein Lied."
+    },
+    {
+     "id": "a2-5af8278164",
+     "front": "______________________(I have never been) auf Hawaii.",
+     "back": "**Ich war noch niemals** auf Hawaii."
+    },
+    {
+     "id": "a2-1ce93c7964",
+     "front": "__________________________(Do you know anything by) Rammstein?",
+     "back": "**Kennst du auch was von** Rammstein?"
+    },
+    {
+     "id": "a2-85973651e1",
+     "front": "________________(We are afraid) und sind allein.",
+     "back": "**Wir haben Angst** und sind allein."
+    },
+    {
+     "id": "a2-7acf1767d5",
+     "front": "________________________(I have to go to the toilet).",
+     "back": "**Ich muss aufs Klo**."
+    },
+    {
+     "id": "a2-7ce5832fce",
+     "front": "_______________(You look like) könntest du ‘ne Tüte Spaß gebrauchen.",
+     "back": "**Du siehst aus, als** könntest du ‘ne Tüte Spaß gebrauchen."
+    },
+    {
+     "id": "a2-d57fb8ca8a",
+     "front": "Hast du nicht mal _____________(fancy some) Schokokekse?",
+     "back": "Hast du nicht mal **Lust auf** Schokokekse?"
+    },
+    {
+     "id": "a2-52852f32e6",
+     "front": "______________________(Keep your hands off it)!",
+     "back": "**Lass die Finger davon**!"
+    },
+    {
+     "id": "a2-f68c84e687",
+     "front": "Die ___________________(look delicious).",
+     "back": "Die **sehen lecker aus**."
+    },
+    {
+     "id": "a2-87cdccc5d8",
+     "front": "__________(Careful), das Teil ist scharf.",
+     "back": "**Vorsicht**, das Teil ist scharf."
+    },
+    {
+     "id": "a2-bb64902d59",
+     "front": "Ja, _____________________(but not all at once).",
+     "back": "Ja, **aber nicht auf einmal**."
+    },
+    {
+     "id": "a2-9802308a51",
+     "front": "Kannst du nicht einmal _________________(listen to me)?",
+     "back": "Kannst du nicht einmal **auf mich hören**?"
+    },
+    {
+     "id": "a2-6fadcbb8f5",
+     "front": "________________(Where are you)?",
+     "back": "**Wo bleibst du**?"
+    },
+    {
+     "id": "a2-a945510d00",
+     "front": "Katie __________________(is about to take off).",
+     "back": "Katie **hebt gleich ab**."
+    },
+    {
+     "id": "a2-c9b31b1942",
+     "front": "Komm, ___________________(let’s dance)!",
+     "back": "Komm, **lass uns tanzen**!"
+    },
+    {
+     "id": "a2-59d323c5a3",
+     "front": "Okay, aber lass uns doch ___________________(go in first)!",
+     "back": "Okay, aber lass uns doch **erst mal reingehen**!"
+    },
+    {
+     "id": "a2-90e86436e4",
+     "front": "______________________________(I want to let off steam)!",
+     "back": "**Ich will die Sau rauslassen**!"
+    },
+    {
+     "id": "a2-7ce3f48c5e",
+     "front": "_____________________(Did you take anything) als ich auf’m Klo war?",
+     "back": "**Hast du irgendwas genommen** als ich auf’m Klo war?"
+    },
+    {
+     "id": "a2-357f76fbc4",
+     "front": "Die ganze Welt ___________________(revolves around me).",
+     "back": "Die ganze Welt **dreht sich um mich**."
+    },
+    {
+     "id": "a2-3952717591",
+     "front": "_____________(Watch out), da ist die Straße.",
+     "back": "**Pass auf**, da ist die Straße."
+    },
+    {
+     "id": "a2-0cfe5d2da4",
+     "front": "Ich glaub’, ________________________(something is wrong).",
+     "back": "Ich glaub’, **irgendwas stimmt nicht**."
+    },
+    {
+     "id": "a2-fa5e90a8cd",
+     "front": "Warte mal, _____________________(I’m gonna call us a cab), ja?",
+     "back": "Warte mal, **ich ruf’ uns ein Taxi**, ja?"
+    },
+    {
+     "id": "a2-29cb0dfccb",
+     "front": "______________________(What happened)?",
+     "back": "**Was ist passiert**?"
+    },
+    {
+     "id": "a2-d209d7312a",
+     "front": "Erfahre es ________________________(in the next episode)!",
+     "back": "Erfahre es **in der nächsten Folge**!"
+    },
+    {
+     "id": "a2-3ac4df6ccf",
+     "front": "_______________(Unfortunately) machte sie im Mauerpark einen großen Fehler.",
+     "back": "**Leider** machte sie im Mauerpark einen großen Fehler."
+    },
+    {
+     "id": "a2-0446a29a90",
+     "front": "____________________(Something’s wrong).",
+     "back": "**Irgendwas stimmt nicht**."
+    },
+    {
+     "id": "a2-21b06c681f",
+     "front": "____________________(Are you awake)?",
+     "back": "**Bist du wach**?"
+    },
+    {
+     "id": "a2-d5a313f864",
+     "front": "___________________(It’s me), Bobbi.",
+     "back": "**Ich bin’s**, Bobbi."
+    },
+    {
+     "id": "a2-5b089b8a2d",
+     "front": "Gogo, ____________________(come quickly).",
+     "back": "Gogo, **komm schnell**."
+    },
+    {
+     "id": "a2-563deecab8",
+     "front": "____________________(What’s wrong) (coll.)?",
+     "back": "**Was’n los**?"
+    },
+    {
+     "id": "a2-4f0bf6074f",
+     "front": "____________________(She doesn’t recognize me at all).",
+     "back": "**Sie erkennt mich gar nicht**."
+    },
+    {
+     "id": "a2-956b9e45f5",
+     "front": "____________________(What shall we do)?",
+     "back": "**Was sollen wir tun**?"
+    },
+    {
+     "id": "a2-a8f8f55c2b",
+     "front": "____________________(Go get) bitte Frau Dr. Weiß.",
+     "back": "**Hol du** bitte Frau Dr. Weiß."
+    },
+    {
+     "id": "a2-edd0aa97a5",
+     "front": "____________________(I’ll stay here with her).",
+     "back": "**Ich bleib’ hier bei ihr**."
+    },
+    {
+     "id": "a2-5a5e88b71b",
+     "front": "____________________(What’s wrong with her)?",
+     "back": "**Was ist los mit ihr**?"
+    },
+    {
+     "id": "a2-717bca3678",
+     "front": "____________________(Don’t worry).",
+     "back": "**Keine Sorge**."
+    },
+    {
+     "id": "a2-9f84f46512",
+     "front": "____________________(She doesn’t remember).",
+     "back": "**Sie erinnert sich nicht**."
+    },
+    {
+     "id": "a2-41b2536de7",
+     "front": "____________________(Give her time (form.)).",
+     "back": "**Geben Sie ihr Zeit**."
+    },
+    {
+     "id": "a2-5b32bd7dd2",
+     "front": "Könnten Sie beide bitte ____________________(wait outside)?",
+     "back": "Könnten Sie beide bitte **draußen warten**?"
+    },
+    {
+     "id": "a2-ea7a9096a0",
+     "front": "Frau Koch, könnten Sie bitte ____________________(speak in German)?",
+     "back": "Frau Koch, könnten Sie bitte **auf Deutsch sprechen**?"
+    },
+    {
+     "id": "a2-8523cb54d3",
+     "front": "____________________(My head hurts).",
+     "back": "**Mein Kopf tut weh**."
+    },
+    {
+     "id": "a2-89e545f671",
+     "front": "____________________(I feel sick).",
+     "back": "**Mir ist schlecht**."
+    },
+    {
+     "id": "a2-7d1dfecb33",
+     "front": "____________________(This will soon pass).",
+     "back": "**Das geht bald vorüber**."
+    },
+    {
+     "id": "a2-a69844169c",
+     "front": "Ja, ____________________(of course).",
+     "back": "Ja, **selbstverständlich**."
+    },
+    {
+     "id": "a2-0ead1a06ec",
+     "front": "____________________(You (form.) will feel better), Frau Koch.",
+     "back": "**Es wird Ihnen besser gehen**, Frau Koch."
+    },
+    {
+     "id": "a2-31b3e3cccd",
+     "front": "____________________(My arm tingles).",
+     "back": "**Mein Arm kribbelt**."
+    },
+    {
+     "id": "a2-f73009e4ec",
+     "front": "____________________(We x-rayed your (form.) bones).",
+     "back": "**Wir haben Ihre Knochen geröntgt**."
+    },
+    {
+     "id": "a2-4acab98573",
+     "front": "Das ______________________(all looks good).",
+     "back": "Das **sieht alles gut aus**."
+    },
+    {
+     "id": "a2-78c2f75d77",
+     "front": "______________________(Everything is fine).",
+     "back": "**Es ist alles in Ordnung**."
+    },
+    {
+     "id": "a2-43e9517255",
+     "front": "______________________(You (form.) will be released soon).",
+     "back": "**Sie werden bald entlassen**."
+    },
+    {
+     "id": "a2-b42a13c669",
+     "front": "______________________(Take care (form.))!",
+     "back": "**Machen Sie es gut**!"
+    },
+    {
+     "id": "a2-137aafdeb9",
+     "front": "______________________(To freedom), Katie!",
+     "back": "**Auf in die Freiheit**, Katie!"
+    },
+    {
+     "id": "a2-ba4098888d",
+     "front": "Also erst mal ______________________(no more dancing), bitte.",
+     "back": "Also erst mal **nicht mehr tanzen**, bitte."
+    },
+    {
+     "id": "a2-180f3a4d38",
+     "front": "______________________(I won’t do that).",
+     "back": "**Das werde ich nicht tun**."
+    },
+    {
+     "id": "a2-5e2f4583aa",
+     "front": "_______________________(Are we lost)?",
+     "back": "**Haben wir uns verlaufen**?"
+    },
+    {
+     "id": "a2-311e151a62",
+     "front": "_______________________(We moved).",
+     "back": "**Wir sind umgezogen**."
+    },
+    {
+     "id": "a2-e135d0ba13",
+     "front": "_______________________(Did you (pl.) win the lottery)?",
+     "back": "**Habt ihr im Lotto gewonnen**?"
+    },
+    {
+     "id": "a2-3a4edf3f3b",
+     "front": "Wir dürfen hier _______________________(live for cheap).",
+     "back": "Wir dürfen hier **günstig wohnen**."
+    },
+    {
+     "id": "a2-e008030e2a",
+     "front": "Gogo,_______________________(don’t be so wild)!",
+     "back": "Gogo, **nicht so stürmisch**!"
+    },
+    {
+     "id": "a2-1967cba950",
+     "front": "_______________________(I was worried).",
+     "back": "**Ich hab’ mir Sorgen gemacht**."
+    },
+    {
+     "id": "a2-f20122dfd4",
+     "front": "________________________(Drinking a lot is important).",
+     "back": "**Viel trinken ist wichtig**."
+    },
+    {
+     "id": "a2-f1b03fc93b",
+     "front": "Von wem ist die denn ________________________(anyway)?",
+     "back": "Von wem ist die denn **überhaupt**?"
+    },
+    {
+     "id": "a2-489dabc3db",
+     "front": "So ________________________(many reminders)?",
+     "back": "So **viele Mahnungen**?"
+    },
+    {
+     "id": "a2-6ee47c63d6",
+     "front": "________________________(Your visitors (lit. your visit)) ist da, Katie!",
+     "back": "**Dein Besuch** ist da, Katie!"
+    },
+    {
+     "id": "a2-3261b67e84",
+     "front": "Ich gehe ________________________(real quick)einkaufen mit Bobbi.",
+     "back": "Ich gehe **noch kurz** einkaufen mit Bobbi."
+    },
+    {
+     "id": "a2-f538bfeb07",
+     "front": "________________________(What kind of things do you (form.) do)?",
+     "back": "**Was machen Sie denn für Sachen**?"
+    },
+    {
+     "id": "a2-837016e352",
+     "front": "________________________(Good choice).",
+     "back": "**Gute Wahl**."
+    },
+    {
+     "id": "a2-e2f8d03461",
+     "front": "Eine leckere ________________________(bar of chocolate) für Sie.",
+     "back": "Eine leckere **Tafel Schokolade** für Sie."
+    },
+    {
+     "id": "a2-838b8de4a5",
+     "front": "_____________________(Finding the man of your dreams) - für Dummies (coll.).",
+     "back": "**Den Traummann finden** - für Dummies (ugs.)."
+    },
+    {
+     "id": "a2-c5780fd2e4",
+     "front": "Damit Sie einen jungen Mann finden, ____________________(who is right for you (form.))",
+     "back": "Damit Sie einen jungen Mann finden, **der zu Ihnen passt**."
+    },
+    {
+     "id": "a2-fc6dddb6c0",
+     "front": "________________________(It worked for me too).",
+     "back": "**Bei mir hat es auch geklappt**."
+    },
+    {
+     "id": "a2-5c21432906",
+     "front": "Ich hab’ _______________(a consolation gift for you (form.)).",
+     "back": "Ich hab’ **ein Trostpflaster für Sie**."
+    },
+    {
+     "id": "a2-3589cfad5c",
+     "front": "________________________(A) leckere Tafel Schokolade.",
+     "back": "**Eine** leckere Tafel Schokolade."
+    },
+    {
+     "id": "a2-0abff8e59d",
+     "front": "Ich bin ________________________(a real bookworm, lit. ‘reading rat’) (coll.)",
+     "back": "Ich bin **eine richtige Leseratte** (ugs.)."
+    },
+    {
+     "id": "a2-5dd804278d",
+     "front": "Eine Leseratte ist _____________________(the same as) ein Bücherwurm (coll.).",
+     "back": "Eine Leseratte ist **das Gleiche wie** ein Bücherwurm (ugs)."
+    },
+    {
+     "id": "a2-e67cbe9d31",
+     "front": "Kommen Sie ________________________(from the earth)?",
+     "back": "Kommen Sie **aus der Erde**?"
+    },
+    {
+     "id": "a2-610eb33c9e",
+     "front": "________________________(Now I understand you (form.)).",
+     "back": "**Jetzt verstehe ich Sie**."
+    },
+    {
+     "id": "a2-c66d1aeda8",
+     "front": "_______________(I especially enjoy reading) Gedichte und Geschichten.",
+     "back": "**Ich lese besonders gerne** Gedichte und Geschichten."
+    },
+    {
+     "id": "a2-53fe44ef4a",
+     "front": "Deutschland ist __________________(the land of the poets and thinkers).",
+     "back": "Deutschland ist **das Land der Dichter und Denker**."
+    },
+    {
+     "id": "a2-71027988d2",
+     "front": "________________________(I prefer writing myself).",
+     "back": "**Ich schreibe lieber selbst**."
+    },
+    {
+     "id": "a2-6922584bff",
+     "front": "Grimms Märchen ________________________(are entertaining).",
+     "back": "Grimms Märchen **sind unterhaltsam**."
+    },
+    {
+     "id": "a2-7b2d2ba77e",
+     "front": "Meine Oma hat uns immer ________(before bed)ein Märchen vorgelesen.",
+     "back": "Meine Oma hat uns immer **vor dem Schlafengehen** ein Märchen vorgelesen."
+    },
+    {
+     "id": "a2-7b2cb0ca56",
+     "front": "________________________(Well, if that’s the case), dann bringe ich Ihnen das nächste Mal eines meiner Märchenbücher mit.",
+     "back": "**Na, wenn das so ist**, dann bringe ich Ihnen das nächste Mal eines meiner Märchenbücher mit."
+    },
+    {
+     "id": "a2-9faf7923fe",
+     "front": "______________________(Turn around)!",
+     "back": "**Dreh dich um**!"
+    },
+    {
+     "id": "a2-daf630fb0f",
+     "front": "______________________((It’s) so nice you’re here)!",
+     "back": "**Schön, dass du da bist**!"
+    },
+    {
+     "id": "a2-661bf86c06",
+     "front": "Was machst du denn hier?__________________(Surprise you)!",
+     "back": "Was machst du denn hier? **Dich überraschen**!"
+    },
+    {
+     "id": "a2-0bc515804c",
+     "front": "______________________(I thought), du musst studieren.",
+     "back": "**Ich dachte**, du musst studieren."
+    },
+    {
+     "id": "a2-56331d0c01",
+     "front": "______________________(It’s so nice), dich zu sehen.",
+     "back": "**Es ist so schön**, dich zu sehen."
+    },
+    {
+     "id": "a2-8d6fbcad84",
+     "front": "Ich habe direkt ______________________(packed my suitcase).",
+     "back": "Ich habe direkt **meinen Koffer gepackt**."
+    },
+    {
+     "id": "a2-ea652b91b6",
+     "front": "Ihnen geht’s gut, ___________(as long as) ihre Tochter nicht im Koma liegt.",
+     "back": "Ihnen geht’s gut, **solange** ihre Tochter nicht im Koma liegt."
+    },
+    {
+     "id": "a2-49c1169f49",
+     "front": "Oma ______________________(broke her arm).",
+     "back": "Oma **hat sich den Arm gebrochen**."
+    },
+    {
+     "id": "a2-5e9ee4f346",
+     "front": "______________________(Come on in).",
+     "back": "**Komm erst mal rein**."
+    },
+    {
+     "id": "a2-6cf3e82a0b",
+     "front": "______________________(Sit down).",
+     "back": "**Setz dich**."
+    },
+    {
+     "id": "a2-7f8f95744c",
+     "front": "______________________(Show me) deinen neuen Freund.",
+     "back": "**Zeig mir mal** deinen neuen Freund."
+    },
+    {
+     "id": "a2-d8a078b293",
+     "front": "______________________(Look)!",
+     "back": "**Guck mal**!"
+    },
+    {
+     "id": "a2-9ea4cd2c37",
+     "front": "Es ist ______________________(not yet) offiziell.",
+     "back": "Es ist **noch nicht** offiziell."
+    },
+    {
+     "id": "a2-d169453adc",
+     "front": "______________________(Are you serious)?",
+     "back": "**Meinst du das ernst**?"
+    },
+    {
+     "id": "a2-2f3ee3b40d",
+     "front": "Das ist Gogo, ______________________(my roommate).",
+     "back": "Das ist Gogo, **mein Mitbewohner**."
+    },
+    {
+     "id": "a2-52a952f394",
+     "front": "_________________(Seriously now), was hat dir Katie über mich erzählt?",
+     "back": "**Jetzt mal im Ernst**, was hat dir Katie über mich erzählt?"
+    },
+    {
+     "id": "a2-8ff1ed7054",
+     "front": "___________________(You’re lying through your teeth (lit. ‘so much that the beams are bending’).",
+     "back": "**Du lügst, dass sich die Balken biegen**."
+    },
+    {
+     "id": "a2-7e0d7bc69c",
+     "front": "____________________(That’s not true at all)!",
+     "back": "**Das stimmt doch überhaupt nicht**!"
+    },
+    {
+     "id": "a2-08d8b60ca7",
+     "front": "Gogo, wo warst du denn ______________________(all of a sudden)?",
+     "back": "Gogo, wo warst du denn **auf einmal**?"
+    },
+    {
+     "id": "a2-1efc5c384d",
+     "front": "_____________________(Incredibly lazy)!",
+     "back": "**Unfassbar faul**!"
+    },
+    {
+     "id": "a2-a4bbb91c84",
+     "front": "______________________(Next time) nur die guten Sachen erzählen, ja?",
+     "back": "**Das nächste Mal** nur die guten Sachen erzählen, ja?"
+    },
+    {
+     "id": "a2-b206790590",
+     "front": "Ich bin ______________________(a little haphazard).",
+     "back": "Ich bin **etwas planlos**."
+    },
+    {
+     "id": "a2-8a9a0d07e4",
+     "front": "______________________(Come on), Bobbi.",
+     "back": "**Komm schon**, Bobbi."
+    },
+    {
+     "id": "a2-74ebc88484",
+     "front": "______________________(I’ll make it up to you).",
+     "back": "**Ich mach’s wieder gut**."
+    },
+    {
+     "id": "a2-2eb6517391",
+     "front": "Na, ______________________(I’m curious about that).",
+     "back": "Na, **da bin ich mal gespannt**."
+    },
+    {
+     "id": "a2-b90e6a879c",
+     "front": "______________________(To us)!",
+     "back": "**Auf uns**!"
+    },
+    {
+     "id": "a2-3772b3e931",
+     "front": "____________(By the way), Leute, ich muss noch eine Unterkunft suchen.",
+     "back": "**Übrigens**, Leute, ich muss noch eine Unterkunft suchen."
+    },
+    {
+     "id": "a2-240d0f57ea",
+     "front": "Nein, ______________________(you’ll stay with us).",
+     "back": "Nein, **du bleibst bei uns**."
+    },
+    {
+     "id": "a2-b47aa2be74",
+     "front": "Ich schlaf’ einfach ______________________(on the couch).",
+     "back": "Ich schlaf’ einfach **auf der Couch**."
+    },
+    {
+     "id": "a2-03c123844d",
+     "front": "Ich hab’ ______________________(my period (lit. my days)) (coll.).",
+     "back": "Ich hab’ **meine Tage** (ugs.)."
+    },
+    {
+     "id": "a2-e9ce4961ad",
+     "front": "______________________(Love you) (coll.).",
+     "back": "**Hab’ dich lieb** (ugs.)."
+    },
+    {
+     "id": "a2-1928f807df",
+     "front": "______________________(Have fun)!",
+     "back": "**Viel Spaß**!"
+    },
+    {
+     "id": "a2-e233084b46",
+     "front": "______________________(See you later).",
+     "back": "**Bis nachher**."
+    },
+    {
+     "id": "a2-bb1da945c2",
+     "front": "Du bist ______________________(definitely) sehr haarig.",
+     "back": "Du bist **auf jeden Fall** sehr haarig."
+    },
+    {
+     "id": "a2-e2429372fe",
+     "front": "Fußball ______________________(for example).",
+     "back": "Fußball **zum Beispiel**."
+    },
+    {
+     "id": "a2-9fb15a1e42",
+     "front": "Das spiel’ ich doch schon ___________________(from time to time) mal.",
+     "back": "Das spiel’ ich doch schon **ab und zu** mal."
+    },
+    {
+     "id": "a2-d80b1997e9",
+     "front": "Komm, ______________________(I got it)!",
+     "back": "Komm, **ich hab’s**!"
+    },
+    {
+     "id": "a2-6cc30ec900",
+     "front": "_______________________(Promise)!",
+     "back": "**Versprich es**!"
+    },
+    {
+     "id": "a2-9f1700315f",
+     "front": "Und jetzt ______________________(get out of here).",
+     "back": "Und jetzt **raus hier**."
+    },
+    {
+     "id": "a2-08dd089b71",
+     "front": "_______________________(What happened to you)?",
+     "back": "**Was ist denn mit dir passiert**?"
+    },
+    {
+     "id": "a2-db985f1655",
+     "front": "Los______________________(move)!",
+     "back": "Los, **beweg dich**!"
+    },
+    {
+     "id": "a2-716af786d8",
+     "front": "______________________(Up you go)!",
+     "back": "**Hoch mit dir**!"
+    },
+    {
+     "id": "a2-675480401e",
+     "front": "Natalia ______________________(is also joining in).",
+     "back": "Natalia **macht auch mit**."
+    },
+    {
+     "id": "a2-4175e7a134",
+     "front": "______________________(Let’s go)!",
+     "back": "**Los geht’s**!"
+    },
+    {
+     "id": "a2-395f24d2c8",
+     "front": "______________________(First) dehnen.",
+     "back": "**Erstmal** dehnen."
+    },
+    {
+     "id": "a2-2455cfdf05",
+     "front": "______________________(We were stretching).",
+     "back": "**Wir haben uns gedehnt**."
+    },
+    {
+     "id": "a2-2b9fbde026",
+     "front": "______________________(What else)?",
+     "back": "**Was noch**?"
+    },
+    {
+     "id": "a2-55ba995dc7",
+     "front": "_____________________(Try harder)!",
+     "back": "**Streng dich an**!"
+    },
+    {
+     "id": "a2-bcb96d58d6",
+     "front": "_____________________(Stay here)!",
+     "back": "**Bleib hier**!"
+    },
+    {
+     "id": "a2-fe61c51775",
+     "front": "Ich hab’ schon _____________________(prepared breakfast)!",
+     "back": "Ich hab’ schon **Frühstück vorbereitet**!"
+    },
+    {
+     "id": "a2-99c448e7b8",
+     "front": "_____________________(Looks delicious)!",
+     "back": "**Sieht lecker aus**!"
+    },
+    {
+     "id": "a2-e640b387cd",
+     "front": "_____________________(Sit down)!",
+     "back": "**Setz dich**!"
+    },
+    {
+     "id": "a2-67344a6bf6",
+     "front": "Du solltest dich ___________________(eat healthier).",
+     "back": "Du solltest dich **gesünder ernähren**."
+    },
+    {
+     "id": "a2-a316b0468d",
+     "front": "_______________________(Are you (form.) not feeling well)?",
+     "back": "**Geht es Ihnen nicht gut**?"
+    },
+    {
+     "id": "a2-98ca363a43",
+     "front": "Herr Kraut, rauchen Sie etwa _______________________(in secret)?",
+     "back": "Herr Kraut, rauchen Sie etwa **heimlich**?"
+    },
+    {
+     "id": "a2-6464480432",
+     "front": "Sie _______________________(should smoke less).",
+     "back": "Sie **sollten weniger rauchen**."
+    },
+    {
+     "id": "a2-4632e8f4d6",
+     "front": "_______________________(You (form.) are right).",
+     "back": "**Sie haben ja recht**."
+    },
+    {
+     "id": "a2-b6fa267cac",
+     "front": "_______________________(I’m exhausted) (coll.).",
+     "back": "**Ich bin fix und fertig**."
+    },
+    {
+     "id": "a2-0a504446c5",
+     "front": "_______________________(See you around)!",
+     "back": "**Wir sehen uns**!"
+    },
+    {
+     "id": "a2-1143103990",
+     "front": "_________(Really delicious) diese Apfeltaschen.",
+     "back": "**Echt lecker** diese Apfeltaschen."
+    },
+    {
+     "id": "a2-ad6cdea64b",
+     "front": "__________(Is anyone there)?",
+     "back": "**Ist da jemand**?"
+    },
+    {
+     "id": "a2-475f966a26",
+     "front": "Ich wollte mir eben nur __________(wash my hands).",
+     "back": "Ich wollte mir eben nur **die Hände waschen**."
+    },
+    {
+     "id": "a2-af1ff18af2",
+     "front": "__________(I’ll be gone in a minute).",
+     "back": "**Ich bin gleich wieder weg**."
+    },
+    {
+     "id": "a2-413f1162ba",
+     "front": "__________(There it (lit. he) is)!",
+     "back": "**Da ist er ja**!"
+    },
+    {
+     "id": "a2-665c6ff8d6",
+     "front": "__________(Tell me), wie findest du mich denn eigentlich so als Mann?",
+     "back": "**Sag mal**, wie findest du mich denn eigentlich so als Mann?"
+    },
+    {
+     "id": "a2-d3111ca5eb",
+     "front": "__________(It broke).",
+     "back": "**Der ist kaputtgegangen**."
+    },
+    {
+     "id": "a2-df4400c666",
+     "front": "Der ist __________(just) kaputtgegangen.",
+     "back": "Der ist **eben** kaputtgegangen."
+    },
+    {
+     "id": "a2-5379a1a03d",
+     "front": "__________(Are you crazy) oder was? (coll.)",
+     "back": "**Spinnst du** oder was? (ugs)."
+    },
+    {
+     "id": "a2-3bbea98788",
+     "front": "__________(Out)!",
+     "back": "**Raus**!"
+    },
+    {
+     "id": "a2-0a68c9d339",
+     "front": "Ich bin __________(up here).",
+     "back": "Ich bin **hier oben**."
+    },
+    {
+     "id": "a2-272c159252",
+     "front": "Du musst __________(help me)!",
+     "back": "Du musst **mir helfen**!"
+    },
+    {
+     "id": "a2-6602cf2ac9",
+     "front": "__________(What do you mean by) “weiter”?",
+     "back": "**Was meinst du denn mit** “weiter”?"
+    },
+    {
+     "id": "a2-8e7eef7270",
+     "front": "__________(Don’t stress about) der Frauensuche!",
+     "back": "**Nur kein Stress bei** der Frauensuche!"
+    },
+    {
+     "id": "a2-764aa6afb5",
+     "front": "__________(Just forget about her)!",
+     "back": "**Vergiss sie einfach**!"
+    },
+    {
+     "id": "a2-57742752c8",
+     "front": "Meine Schwester ist bald wieder tausende Kilometer __________(away).",
+     "back": "Meine Schwester ist bald wieder tausende Kilometer **weit weg**."
+    },
+    {
+     "id": "a2-2b284f4b16",
+     "front": "Ich geh’ jetzt erstmal _________(to the hairdresser’s).",
+     "back": "Ich geh’ jetzt erstmal **zum Friseur**."
+    },
+    {
+     "id": "a2-30714afdca",
+     "front": "__________(Let’s see)!",
+     "back": "**Gucken wir mal**!"
+    },
+    {
+     "id": "a2-bb85950df9",
+     "front": "Ich kann __________(cut your hair).",
+     "back": "Ich kann **dir die Haare schneiden**."
+    },
+    {
+     "id": "a2-998f57727e",
+     "front": "__________(There are plenty of other fish in the sea (lit. Other mothers have beautiful daughters, too)).",
+     "back": "**Andere Mütter haben auch schöne Töchter**."
+    },
+    {
+     "id": "a2-4a95329171",
+     "front": "Nur __________(a little bit of trimming)!",
+     "back": "Nur **ein bisschen kürzen**!"
+    },
+    {
+     "id": "a2-116e63da2b",
+     "front": "__________(Have you thought this through)?",
+     "back": "**Hast du dir das gut überlegt**?"
+    },
+    {
+     "id": "a2-9b93313686",
+     "front": "__________(Don’t worry about it).",
+     "back": "**Mach dir mal keinen Kopf**."
+    },
+    {
+     "id": "a2-299703b793",
+     "front": "Ich weiß nicht, ob ich __________(trust you) kann.",
+     "back": "Ich weiß nicht, ob ich **dir trauen** kann."
+    },
+    {
+     "id": "a2-4ffe10979c",
+     "front": "Ha! Gogo,__________(what do you look like)?",
+     "back": "Ha! Gogo, **wie siehst du denn aus**?"
+    },
+    {
+     "id": "a2-1772e3be99",
+     "front": "__________(What do you expect)?",
+     "back": "**Was erwartest du**?"
+    },
+    {
+     "id": "a2-b2fd810f31",
+     "front": "__________(It does look good)!",
+     "back": "**Das sieht doch gut aus**!"
+    },
+    {
+     "id": "a2-73f65f0a26",
+     "front": "Natalia wird __________(hate me).",
+     "back": "Natalia wird **mich hassen**."
+    },
+    {
+     "id": "a2-3b3d6c8a06",
+     "front": "__________(I told you so)!",
+     "back": "**Sag’ ich doch**!"
+    },
+    {
+     "id": "a2-28e7e8218c",
+     "front": "Ich habe morgen __________(a date).",
+     "back": "Ich habe morgen **eine Verabredung**."
+    },
+    {
+     "id": "a2-d0ce7e90c6",
+     "front": "Hier gibt’s __________(just everything).",
+     "back": "Hier gibt’s **einfach alles**."
+    },
+    {
+     "id": "a2-346a0f5d75",
+     "front": "__________(Whatever you want).",
+     "back": "**Was du auch immer willst**."
+    },
+    {
+     "id": "a2-55ee6323e4",
+     "front": "Guck mal, die Lampe __________(with the red glasses).",
+     "back": "Guck mal, die Lampe **mit den roten Gläsern**."
+    },
+    {
+     "id": "a2-44c477bb48",
+     "front": "__________(Fits well) in mein Schlafzimmer.",
+     "back": "**Passt gut** in mein Schlafzimmer."
+    },
+    {
+     "id": "a2-51135baec5",
+     "front": "__________(No one there).",
+     "back": "**Niemand da**."
+    },
+    {
+     "id": "a2-5d8ba54982",
+     "front": "__________(It fits) perfekt!",
+     "back": "**Das passt** perfekt!"
+    },
+    {
+     "id": "a2-86dc246d85",
+     "front": "__________(You still needed) Bilderrahmen, oder?",
+     "back": "**Du brauchtest doch noch** Bilderrahmen, oder?"
+    },
+    {
+     "id": "a2-6f0a76a8a3",
+     "front": "__________(Let’s see), wo’s die gibt.",
+     "back": "**Lass mal schauen**, wo’s die gibt."
+    },
+    {
+     "id": "a2-edbc0a1b4d",
+     "front": "__________(One of those) wollte ich schon immer haben!",
+     "back": "**So eins** wollte ich schon immer haben!"
+    },
+    {
+     "id": "a2-2cad6c1571",
+     "front": "__________(Looks like) so ‘ne Biene.",
+     "back": "**Sieht aus wie** so ‘ne Biene."
+    },
+    {
+     "id": "a2-eadf00c5cf",
+     "front": "Guck mal,__________(this one here (masculine))hat Bilderrahmen.",
+     "back": "Guck mal, **der hier** hat Bilderrahmen."
+    },
+    {
+     "id": "a2-4cecd7f787",
+     "front": "Hallo, __________(you beauties).",
+     "back": "Hallo, **ihr Hübschen**."
+    },
+    {
+     "id": "a2-7a0ad573be",
+     "front": "__________(What can I do for you (lit. What good can I do for you))?",
+     "back": "**Was kann ich euch Gutes tun**?"
+    },
+    {
+     "id": "a2-7116c760dc",
+     "front": "__________(Do I know you from somewhere)?",
+     "back": "**Kenn’ ich dich irgendwoher**?"
+    },
+    {
+     "id": "a2-5bc6f4e2e5",
+     "front": "__________(No one knows me).",
+     "back": "**Mich kennt niemand**."
+    },
+    {
+     "id": "a2-48207f1f53",
+     "front": "__________(Is it (masculine) stolen) oder was? (coll.)",
+     "back": "**Ist der geklaut** oder was? (ugs.)"
+    },
+    {
+     "id": "a2-6e2a2af720",
+     "front": "Die eckigen Bilderrahmen __________(I like better).",
+     "back": "Die eckigen Bilderrahmen **gefallen mir besser**."
+    },
+    {
+     "id": "a2-5b02d27813",
+     "front": "Der hier mit dem roten Holz ist doch __________(quite chic).",
+     "back": "Der hier mit dem roten Holz ist doch **ganz schick**."
+    },
+    {
+     "id": "a2-4604fb5435",
+     "front": "Also __________(only the frame)?",
+     "back": "Also **nur der Rahmen**?"
+    },
+    {
+     "id": "a2-959f71d555",
+     "front": "17 Euro __________(is too much for me anyway).",
+     "back": "17 Euro **ist mir eh zu viel**."
+    },
+    {
+     "id": "a2-e9aaa9cf46",
+     "front": "__________(What kind of bike) suchen Sie denn?",
+     "back": "**Was für ein Fahrrad** suchen Sie denn?"
+    },
+    {
+     "id": "a2-fe8224370a",
+     "front": "Wir verkaufen __________(a used ladies bike).",
+     "back": "Wir verkaufen **ein gebrauchtes Damenrad**."
+    },
+    {
+     "id": "a2-0bca14e900",
+     "front": "Sie ist __________(a real danger to other people).",
+     "back": "Sie ist **eine echte Gefahr für andere Menschen**."
+    },
+    {
+     "id": "a2-3e9532992f",
+     "front": "__________(Don’t exaggerate)!",
+     "back": "**Übertreib mal nicht**!"
+    },
+    {
+     "id": "a2-7e601518a7",
+     "front": "__________(It’s true (coll.))!",
+     "back": "**Ist doch wahr**!"
+    },
+    {
+     "id": "a2-dca6dfa448",
+     "front": "__________(That’s exactly the kind) habe ich gesucht!",
+     "back": "**Genau so eins** habe ich gesucht!"
+    },
+    {
+     "id": "a2-66d3825a57",
+     "front": "__________(Even with a basket)!",
+     "back": "**Sogar mit Korb**!"
+    },
+    {
+     "id": "a2-6390d85575",
+     "front": "__________(What a bargain)!",
+     "back": "**Was für ein Schnäppchen**!"
+    },
+    {
+     "id": "a2-61a395196c",
+     "front": "__________(I’ll take it (coll.)).",
+     "back": "**Nehm’ ich**."
+    },
+    {
+     "id": "a2-f66ea14b08",
+     "front": "_______________(Long time no see).",
+     "back": "**Lange nicht gesehen**."
+    },
+    {
+     "id": "a2-b206c423c0",
+     "front": "_______________(What do you do for a living)?",
+     "back": "**Was machst du beruflich**?"
+    },
+    {
+     "id": "a2-3e6c6b95fa",
+     "front": "Hast du _______________(at least) nette Kollegen?",
+     "back": "Hast du **wenigstens** nette Kollegen?"
+    },
+    {
+     "id": "a2-0bfed69be3",
+     "front": "Warum machst du dich dann nicht ______________(self-employed)?",
+     "back": "Warum machst du dich dann nicht **selbstständig**?"
+    },
+    {
+     "id": "a2-955865ace8",
+     "front": "Das ______________(is too risky for me).",
+     "back": "Das **ist mir zu riskant**."
+    },
+    {
+     "id": "a2-b3f009cf8b",
+     "front": "______________(Besides) ist mein Gehalt echt gut.",
+     "back": "**Außerdem** ist mein Gehalt echt gut."
+    },
+    {
+     "id": "a2-d1fca9f97b",
+     "front": "Aber ______________(making money) ist doch nicht alles!",
+     "back": "Aber **Geld verdienen** ist doch nicht alles!"
+    },
+    {
+     "id": "a2-70d19b9688",
+     "front": "Das erste Radler ______________(is on me)!",
+     "back": "Das erste Radler **geht auf mich**!"
+    },
+    {
+     "id": "a2-1f0e60e201",
+     "front": "______________(Where is the waitress)?",
+     "back": "**Wo ist denn die Bedienung?** Alternative: Wo ist denn die Kellnerin?"
+    },
+    {
+     "id": "a2-64eef027ad",
+     "front": "______________(We’d like to order).",
+     "back": "**Wir würden gerne bestellen**."
+    },
+    {
+     "id": "a2-e56632409d",
+     "front": "_______________(Self-service).",
+     "back": "**Selbstbedienung**."
+    },
+    {
+     "id": "a2-ef65f3d6e7",
+     "front": "Gogo _______________(created a dating profile for himself).",
+     "back": "Gogo **hat sich ein Dating-Profil erstellt**."
+    },
+    {
+     "id": "a2-802bacac5b",
+     "front": "_______________(I’d better (lit. I rather want to) get out).",
+     "back": "**Ich will lieber raus**."
+    },
+    {
+     "id": "a2-07d4bff188",
+     "front": "_______________(Let’s go out (pl.)).",
+     "back": "**Lass uns rausgehen**."
+    },
+    {
+     "id": "a2-0bc3d035b8",
+     "front": "Das ist _______________(a funny story).",
+     "back": "Das ist **eine lustige Geschichte**."
+    },
+    {
+     "id": "a2-0731f8e2fd",
+     "front": "Was hast du _______________(do to her)?",
+     "back": "Was hast du **mit der angestellt**?"
+    },
+    {
+     "id": "a2-43097b20ee",
+     "front": "Ich würde gern nicht ständig von solchen Versagern wie dir _______________(be harassed).",
+     "back": "Ich würde gern nicht ständig von solchen Versagern wie dir **belästigt werden**."
+    },
+    {
+     "id": "a2-2fd256827a",
+     "front": "_______________(We’d like to) drei Radler bestellen.",
+     "back": "**Wir würden gerne** drei Radler bestellen."
+    },
+    {
+     "id": "a2-c28db0cbfd",
+     "front": "_______________(The loser) muss da in den See springen.",
+     "back": "**Der Verlierer** muss da in den See springen."
+    },
+    {
+     "id": "a2-e98b49f1da",
+     "front": "_______________(I’m in).",
+     "back": "**Da bin ich dabei**."
+    },
+    {
+     "id": "a2-c7f903a667",
+     "front": "_______________(You lost)!",
+     "back": "**Du hast verloren**!"
+    },
+    {
+     "id": "a2-7eea2af451",
+     "front": "_______________(That was just a joke).",
+     "back": "**Das war doch nur ein Spaß**."
+    },
+    {
+     "id": "a2-b316b2f3c5",
+     "front": "_______________((Get) in there now)!",
+     "back": "**Rein da jetzt**!"
+    },
+    {
+     "id": "a2-0c1439bd82",
+     "front": "_______________(A few seconds) musst du noch!",
+     "back": "**Ein paar Sekunden** musst du noch!"
+    },
+    {
+     "id": "a2-02a6bcea54",
+     "front": "_______________(Come on in (pl.)), Jungs!",
+     "back": "**Kommt rein**, Jungs!"
+    },
+    {
+     "id": "a2-58db670fd2",
+     "front": "Ich sag’s euch, nächstes Mal _______________(it’s your turn (pl.)).",
+     "back": "Ich sag’s euch, nächstes Mal **seid ihr dran**."
+    },
+    {
+     "id": "a2-b2aa0d7bea",
+     "front": "_______________(Nonsense), Gogo!",
+     "back": "**Quatsch**, Gogo!"
+    },
+    {
+     "id": "a2-89096b55a7",
+     "front": "Der Verlierer muss da _______________(jump into the lake there).",
+     "back": "Der Verlierer muss da **in den See springen**."
+    },
+    {
+     "id": "a2-a1d7add6c5",
+     "front": "______________(An old school friend).",
+     "back": "**Ein alter Schulfreund**."
+    },
+    {
+     "id": "a2-7cfba0eca7",
+     "front": "_______________(I have to think).",
+     "back": "**Ich muss überlegen**."
+    },
+    {
+     "id": "a2-a0f4472b9c",
+     "front": "_______________(It’s your turn).",
+     "back": "**Du bist dran**."
+    },
+    {
+     "id": "a2-af30a2025d",
+     "front": "Aber im März und April hab’ ich dann _________(five weeks off at a stretch)",
+     "back": "Aber im März und April hab’ ich dann **fünf Wochen am Stück frei**."
+    },
+    {
+     "id": "a2-f1d651805e",
+     "front": "Dann lass uns doch _______________(all together)irgendwohin fahren!",
+     "back": "Dann lass uns doch **alle zusammen** irgendwohin fahren!"
+    },
+    {
+     "id": "a2-0d0d7ff054",
+     "front": "Das ist _______________(better for the environment).",
+     "back": "Das ist **besser für die Umwelt**."
+    },
+    {
+     "id": "a2-1b3d2e46c8",
+     "front": "Ich will _______________(to a warm place).",
+     "back": "Ich will **ins Warme**!"
+    },
+    {
+     "id": "a2-95ea8b0ba6",
+     "front": "_______________(What do you suggest), Gogo?",
+     "back": "**Was schlägst du vor**, Gogo?"
+    },
+    {
+     "id": "a2-e0535d4934",
+     "front": "Wie wär’s mit Sachsen _______________(instead)?",
+     "back": "Wie wär’s mit Sachsen **stattdessen**?"
+    },
+    {
+     "id": "a2-8526f25e28",
+     "front": "Da _______________(I used to go a lot).",
+     "back": "Da **war ich früher oft**."
+    },
+    {
+     "id": "a2-094d76e23e",
+     "front": "Da kann man _______________(go hiking).",
+     "back": "Da kann man **wandern gehen**."
+    },
+    {
+     "id": "a2-f20d547d36",
+     "front": "Ich hab’ _______________(found something (coll.)).",
+     "back": "Ich hab’ **was gefunden**!"
+    },
+    {
+     "id": "a2-5f3ea3a4ba",
+     "front": "Wir könnten doch eigentlich auch ___________(cook for ourselves), oder?",
+     "back": "Wir könnten doch eigentlich auch **selbst kochen**, oder?"
+    },
+    {
+     "id": "a2-ee32a569f7",
+     "front": "_______________(That’s true).",
+     "back": "**Das stimmt**."
+    },
+    {
+     "id": "a2-e096112af7",
+     "front": "In einer Ferienwohnung wären wir __________(much more independent).",
+     "back": "In einer Ferienwohnung wären wir **viel unabhängiger**."
+    },
+    {
+     "id": "a2-c8d1d11e65",
+     "front": "_______________(Persuaded).",
+     "back": "**Überredet**."
+    },
+    {
+     "id": "a2-91a79241ea",
+     "front": "Gemütliche Apartments für zwei bis vier Personen _______________(with gorgeous views (lit. gorgeous view)).",
+     "back": "Gemütliche Apartments für zwei bis vier Personen **mit herrlichem Blick**."
+    },
+    {
+     "id": "a2-0fec5bc1e7",
+     "front": "Sehr viele Outdooraktivitäten für Abenteuer-Junkies ________(in the area).",
+     "back": "Sehr viele Outdooraktivitäten für Abenteuer-Junkies **in der Umgebung**."
+    },
+    {
+     "id": "a2-fa262dc1b0",
+     "front": "_______________(That sounds great)!",
+     "back": "**Das klingt doch super**!"
+    },
+    {
+     "id": "a2-3b92ae5387",
+     "front": "Was kostet _______________(the overnight stay)?",
+     "back": "Was kostet **die Übernachtung**?"
+    },
+    {
+     "id": "a2-44eec5dbb4",
+     "front": "Wir müssen doch erst mal _______________(read the reviews).",
+     "back": "Wir müssen doch erst mal **die Bewertungen lesen**."
+    },
+    {
+     "id": "a2-755acb2472",
+     "front": "Kann ich _______________(cancel this)?",
+     "back": "Kann ich **das stornieren**?"
+    },
+    {
+     "id": "a2-efae5b2a28",
+     "front": "_______________(You must mean) mit meinem.",
+     "back": "**Du meinst wohl** mit meinem."
+    },
+    {
+     "id": "a2-733c0c60f2",
+     "front": "Das Auto _______________(can’t make the long distance).",
+     "back": "Das Auto **schafft die lange Strecke nicht**."
+    },
+    {
+     "id": "a2-bd19db499d",
+     "front": "Dann _______________(better not).",
+     "back": "Dann **lieber nicht**."
+    },
+    {
+     "id": "a2-59af4d1c32",
+     "front": "_______________(What are you doing (lit. What nice thing are you doing) (pl.))?",
+     "back": "**Was macht ihr Schönes**?"
+    },
+    {
+     "id": "a2-be069ef7ac",
+     "front": "_______________(Are you coming/joining)?",
+     "back": "**Kommst du mit**?"
+    },
+    {
+     "id": "a2-c817a6b77b",
+     "front": "_______________(But I’m leaving tomorrow)!",
+     "back": "**Aber ich reise morgen doch schon wieder ab**!"
+    },
+    {
+     "id": "a2-d0b71d3b63",
+     "front": "Also, _______________(let’s keep this between us), Leute!",
+     "back": "Also, **das bleibt unter uns**, Leute!"
+    },
+    {
+     "id": "a2-7983cf8cb6",
+     "front": "Ist der nicht _______________(much older than you)?",
+     "back": "Ist der nicht **viel älter als du**?"
+    },
+    {
+     "id": "a2-6b7ebaeb7d",
+     "front": "_______________(That’s disgusting).",
+     "back": "**Das ist ja ekelhaft**."
+    },
+    {
+     "id": "a2-dbfa2edf2f",
+     "front": "_______________(I am excited / I am glad.).",
+     "back": "**Ich freue mich**."
+    },
+    {
+     "id": "a2-cd71577342",
+     "front": "Gogo _______________(is heartbroken).",
+     "back": "Gogo **hat Liebeskummer**."
+    },
+    {
+     "id": "a2-6ce80ecec5",
+     "front": "Ist es _______________(because of Natalia)?",
+     "back": "Ist es **wegen Natalia**?"
+    },
+    {
+     "id": "a2-5caacc74a5",
+     "front": "Ich dachte, ich habe _______________(a chance with her).",
+     "back": "Ich dachte, ich habe **eine Chance bei ihr**."
+    },
+    {
+     "id": "a2-cd3a2bba56",
+     "front": "_______________(It’s not your fault).",
+     "back": "**Es ist nicht deine Schuld**."
+    },
+    {
+     "id": "a2-6e24c046fd",
+     "front": "Na ja, aber jedenfalls hab’ ich _______________(popsicles).",
+     "back": "Na ja, aber jedenfalls hab’ ich **Eis am Stiel**."
+    },
+    {
+     "id": "a2-ea163ef125",
+     "front": "_______________(It will take your mind off things)!",
+     "back": "**Das bringt dich auf andere Gedanken**!"
+    },
+    {
+     "id": "a2-d8a7c68f54",
+     "front": "Wir können _______________(take a test drive).",
+     "back": "Wir können **eine Probefahrt machen**."
+    },
+    {
+     "id": "a2-c46d8f3d01",
+     "front": "Ich bin einfach _______________(a failure (lit. a loser))!",
+     "back": "Ich bin einfach **ein Versager**!"
+    },
+    {
+     "id": "a2-f9f20019f2",
+     "front": "_______________(Leave me alone)!",
+     "back": "**Lass mich in Ruhe**!"
+    },
+    {
+     "id": "a2-b17b78b558",
+     "front": "_______________(Welcome)!",
+     "back": "**Herzlich willkommen**!"
+    },
+    {
+     "id": "a2-ffb5676fc6",
+     "front": "_______________(New or used)?",
+     "back": "**Neu oder gebraucht**?"
+    },
+    {
+     "id": "a2-58d6d98105",
+     "front": "Hier hätten wir _______________(for example a white) Opel.",
+     "back": "Hier hätten wir **zum Beispiel einen weißen** Opel."
+    },
+    {
+     "id": "a2-b544557172",
+     "front": "_______________(Very popular).",
+     "back": "**Sehr beliebt**."
+    },
+    {
+     "id": "a2-2015284362",
+     "front": "_______________(Very special)!",
+     "back": "**Sehr besonders**!"
+    },
+    {
+     "id": "a2-4ae6772264",
+     "front": "Ich dachte an _______________(something sporty).",
+     "back": "Ich dachte an **etwas Sportliches**."
+    },
+    {
+     "id": "a2-fb7d7981ef",
+     "front": "_______________(Just arrived).",
+     "back": "**Gerade erst eingetroffen**."
+    },
+    {
+     "id": "a2-d05072ba81",
+     "front": "_______________(Highly recommended)!",
+     "back": "**Sehr empfehlenswert**!"
+    },
+    {
+     "id": "a2-f27b17e563",
+     "front": "_______________(Let me think (form.)).",
+     "back": "**Lassen Sie mich überlegen**."
+    },
+    {
+     "id": "a2-ae7cc83834",
+     "front": "Ein gebrauchter Porsche _______________(in full equipment).",
+     "back": "Ein gebrauchter Porsche **in Vollausstattung**."
+    },
+    {
+     "id": "a2-38e8262283",
+     "front": "Wollen wir ein bisschen _______________(drive around)?",
+     "back": "Wollen wir ein bisschen **durch die Gegend fahren**?"
+    },
+    {
+     "id": "a2-82624a015a",
+     "front": "_______________(A barrier)!",
+     "back": "**Eine Absperrung**!"
+    },
+    {
+     "id": "a2-ad363a7eb4",
+     "front": "_______________(I can still do it)!",
+     "back": "**Das schaff’ ich noch**!"
+    },
+    {
+     "id": "a2-1c16057b46",
+     "front": "_______________(Watch out / Attention)!",
+     "back": "**Achtung**!"
+    },
+    {
+     "id": "a2-a24ae1de0d",
+     "front": "Da ist ‘ne Frau _______________(on the crosswalk).",
+     "back": "Da ist ‘ne Frau **auf dem Zebrastreifen**!"
+    },
+    {
+     "id": "a2-682e50abea",
+     "front": "Ich hatte _______________(everything under control).",
+     "back": "Ich hatte **alles unter Kontrolle**."
+    },
+    {
+     "id": "a2-baee4fd603",
+     "front": "Wir können _______________(along the river)fahren.",
+     "back": "Wir können **am Fluss entlang** fahren."
+    },
+    {
+     "id": "a2-71ef71bd61",
+     "front": "“Umfahren” und “umfahren” sind ____________(two very different things).",
+     "back": "“Umfahren” und “umfahren” sind **zwei sehr verschiedene Dinge**."
+    },
+    {
+     "id": "a2-4ddacd5d63",
+     "front": "Ich glaube, _______________(you mean) “umfahr sie doch”.",
+     "back": "Ich glaube, **du meinst** “umfahr sie doch”."
+    },
+    {
+     "id": "a2-9275ab5629",
+     "front": "Am besten du gehst zur Bank und _______________(get some advice).",
+     "back": "Am besten du gehst zur Bank und **lässt dich beraten**."
+    },
+    {
+     "id": "a2-5ae72c3228",
+     "front": "Wenn du zur Bank gehst, dann _______________(I’ll come with you).",
+     "back": "Wenn du zur Bank gehst, dann **komme ich mit**."
+    },
+    {
+     "id": "a2-e8d7e33a1b",
+     "front": "Ich wollte _______________(find out about loans).",
+     "back": "Ich wollte **mich über Kredite informieren**."
+    },
+    {
+     "id": "a2-1b3fa9e52b",
+     "front": "_______________(Absolutely)!",
+     "back": "**Auf jeden Fall**!"
+    },
+    {
+     "id": "a2-311d62043d",
+     "front": "_______________(You can’t afford it (masculine)).",
+     "back": "**Den kannst du dir nicht leisten**."
+    },
+    {
+     "id": "a2-e1ae7b7ef9",
+     "front": "Ja, _______________(that’s why) brauch’ ich doch einen Kredit.",
+     "back": "Ja, **deswegen** brauch’ ich doch einen Kredit."
+    },
+    {
+     "id": "a2-518f6d85b2",
+     "front": "Er _______________(volunteers to work) am Tresen.",
+     "back": "Er **arbeitet freiwillig** am Tresen."
+    },
+    {
+     "id": "a2-83d8251f18",
+     "front": "Könnten Sie mir sagen, _______________(who is responsible for granting loans)?",
+     "back": "Könnten Sie mir sagen, **wer für die Kreditvergabe zuständig ist**?"
+    },
+    {
+     "id": "a2-37c9e61e7c",
+     "front": "_______________(I will pass you (form.) on).",
+     "back": "**Ich leite Sie weiter**."
+    },
+    {
+     "id": "a2-39fe7547ef",
+     "front": "Gabi Geizig _______________(on the phone).",
+     "back": "Gabi Geizig **am Telefon**."
+    },
+    {
+     "id": "a2-c7ab5f7669",
+     "front": "_______________(What can I do for you (form.))?",
+     "back": "**Was kann ich für Sie tun**?"
+    },
+    {
+     "id": "a2-bd2d5a220b",
+     "front": "Ich würde gern _______________(open an account).",
+     "back": "Ich würde gern **ein Konto eröffnen**."
+    },
+    {
+     "id": "a2-d42ef93665",
+     "front": "_______________(How much are the fees)?",
+     "back": "**Wie hoch sind die Gebühren**?"
+    },
+    {
+     "id": "a2-ba35b76167",
+     "front": "_______________(The fees are) 10 Euro im Monat.",
+     "back": "**Die Gebühren belaufen sich auf** 10 Euro im Monat."
+    },
+    {
+     "id": "a2-a2b5d35905",
+     "front": "Wir _______________(do not give discounts)!",
+     "back": "Wir **geben keine Rabatte**!"
+    },
+    {
+     "id": "a2-ded486a691",
+     "front": "_______________(That is not possible).",
+     "back": "**Das geht nicht**."
+    },
+    {
+     "id": "a2-813a08e7d1",
+     "front": "Überweisungen, Einzahlungen und Abhebungen __________(are included).",
+     "back": "Überweisungen, Einzahlungen und Abhebungen **sind inbegriffen**."
+    },
+    {
+     "id": "a2-bb2d3a0f8c",
+     "front": "Unsere Bank _______________(very well positioned digitally).",
+     "back": "Unsere Bank **ist sehr gut digital aufgestellt**."
+    },
+    {
+     "id": "a2-5cd8c4d542",
+     "front": "_______________(That sounds) ja sehr digital!",
+     "back": "**Das klingt** ja sehr digital!"
+    },
+    {
+     "id": "a2-9b687a6f78",
+     "front": "_______________(Just hung up)!",
+     "back": "**Einfach aufgelegt**!"
+    },
+    {
+     "id": "a2-f6c97f045c",
+     "front": "Sie müssten nur noch _______________(sign here).",
+     "back": "Sie müssten nur noch **hier unterschreiben**."
+    },
+    {
+     "id": "a2-6e0e1a0233",
+     "front": "_______________(Of course)!",
+     "back": "**Selbstverständlich**!"
+    },
+    {
+     "id": "a2-cca11f3ecf",
+     "front": "Da ist die Abhebung _______________(free of charge).",
+     "back": "Da ist die Abhebung **gebührenfrei**."
+    },
+    {
+     "id": "a2-c11e875a26",
+     "front": "Ich _______________(‘ll be right back).",
+     "back": "Ich **bin gleich wieder da**."
+    },
+    {
+     "id": "a2-2a0f327a0f",
+     "front": "_______________(All done)?",
+     "back": "**Fertig**?"
+    },
+    {
+     "id": "a2-23a82ec9ab",
+     "front": "Frau Geizig ist auch nicht hier, weil sie _______________(only in the mornings) arbeitet.",
+     "back": "Frau Geizig ist auch nicht hier, weil sie **nur vormittags** arbeitet."
+    },
+    {
+     "id": "a2-276493f904",
+     "front": "_______________(Hands up)!",
+     "back": "**Hände hoch**!"
+    },
+    {
+     "id": "a2-87ff16b332",
+     "front": "Der _______________(looks) ja witzig aus!",
+     "back": "Der **sieht** ja witzig aus!"
+    },
+    {
+     "id": "a2-336cb1ab35",
+     "front": "Es wird _______________(definitely) spannend.",
+     "back": "Es wird **auf jeden Fall** spannend."
+    }
+   ]
+  }
+ ]
+}

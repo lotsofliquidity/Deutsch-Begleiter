@@ -1,2 +1,9 @@
 .DS_Store
 .research/
+
+# Xcode / app build artefacts
+app/build/
+app/**/xcuserdata/
+app/**/DerivedData/
+app/**/.build/
+app/**/SourcePackages/

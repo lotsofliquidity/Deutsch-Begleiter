@@ -81,6 +81,7 @@ anki/German-core.txt          # deck — pattern/verb/teach only (generated from
 MISTAKES.md                   # selective error log (+14 day revisits)
 .agents/skills/               # /ingest, /teach, /drill (Cursor and VS Code)
 AGENTS.md                     # always-on rules for both editors
+app/                          # SwiftUI iOS + macOS client (design prototype) — see app/README.md
 ```
 
 ### Where the rules live

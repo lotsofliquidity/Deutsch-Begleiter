@@ -1,0 +1,49 @@
+name: DeutschBegleiter
+options:
+  bundleIdPrefix: com.hayden
+  deploymentTarget:
+    iOS: "26.0"
+    macOS: "26.0"
+  createIntermediateGroups: true
+
+packages:
+  DesignKit:
+    path: Packages/DesignKit
+  SRSKit:
+    path: Packages/SRSKit
+  GRDB:
+    url: https://github.com/groue/GRDB.swift
+    from: 7.11.1
+
+targets:
+  DeutschBegleiter:
+    type: application
+    supportedDestinations: [iOS, macOS]
+    sources:
+      - path: DeutschBegleiter
+    dependencies:
+      - package: DesignKit
+        product: DesignKit
+      - package: SRSKit
+        product: SRSKit
+      - package: GRDB
+        product: GRDB
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.hayden.DeutschBegleiter
+        GENERATE_INFOPLIST_FILE: YES
+        SWIFT_VERSION: "6.0"
+        SWIFT_STRICT_CONCURRENCY: complete
+        MARKETING_VERSION: "0.1"
+        CURRENT_PROJECT_VERSION: "1"
+        ENABLE_USER_SCRIPT_SANDBOXING: YES
+        CODE_SIGN_STYLE: Automatic
+        INFOPLIST_KEY_CFBundleDisplayName: Deutsch-Begleiter
+        INFOPLIST_KEY_NSMicrophoneUsageDescription: Übe Deutsch, indem du sprichst.
+        INFOPLIST_KEY_NSSpeechRecognitionUsageDescription: Erkennt deine Aussprache.
+        "INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]": YES
+        "INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]": YES
+        "INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone": UIInterfaceOrientationPortrait
+      configs:
+        Debug:
+          SWIFT_ACTIVE_COMPILATION_CONDITIONS: DEBUG
