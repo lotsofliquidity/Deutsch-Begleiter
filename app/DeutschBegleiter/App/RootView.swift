@@ -1,6 +1,20 @@
 import SwiftUI
 import DesignKit
 
+/// Debug-only launch arguments, used to screenshot a specific screen:
+///   --tab course        --course g1        --cards a1-chunks
+enum LaunchArgument {
+    static var tab: Tab? {
+        value(after: "--tab").flatMap(Tab.init(rawValue:))
+    }
+
+    static func value(after flag: String) -> String? {
+        let args = ProcessInfo.processInfo.arguments
+        guard let index = args.firstIndex(of: flag), index + 1 < args.count else { return nil }
+        return args[index + 1]
+    }
+}
+
 enum Tab: String, CaseIterable, Identifiable {
     case home, speak, course, cards, settings
 
@@ -35,20 +49,16 @@ struct RootView: View {
     @State private var tab: Tab
     @Environment(\.colorScheme) private var scheme
 
-    init(tab: Tab = .home) {
+    init(tab: Tab = LaunchArgument.tab ?? .home) {
         _tab = State(initialValue: tab)
     }
 
     var body: some View {
         let t = SceneTokens.resolve(scheme)
 
-        ZStack {
-            MeadowScene(horizon: tab == .speak ? 0.70 : 0.58)
-                .blur(radius: tab == .speak ? 16 : 0)
-                .animation(Motion.card, value: tab)
-
+        ZStack(alignment: .bottom) {
             if tab == .speak {
-                t.skyTop.opacity(0.10).ignoresSafeArea()
+                t.skyTop.opacity(0.10)
             }
 
             Group {
@@ -61,13 +71,26 @@ struct RootView: View {
                 }
             }
             .frame(maxWidth: 620)
+            .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .top)
+            // Room for the floating tab bar. An explicit inset rather than
+            // `safeAreaInset`, which did not reach the scroll views here: the
+            // bar stayed on top of live content.
+            .padding(.bottom, Metrics.tabBarClearance)
             .transition(.opacity.combined(with: .scale(scale: 0.98)))
-        }
-        .safeAreaInset(edge: .bottom, spacing: 0) {
+
             TabBar(selection: $tab)
                 .frame(maxWidth: 620)
                 .padding(.horizontal, 14)
                 .padding(.bottom, 6)
+        }
+        // The scene bleeds behind everything, but as a *background* it no longer
+        // stretches the layout into the safe area — which is what pushed content
+        // under the tab bar and past the home indicator.
+        .background {
+            MeadowScene(horizon: tab == .speak ? 0.70 : 0.58)
+                .blur(radius: tab == .speak ? 16 : 0)
+                .animation(Motion.card, value: tab)
+                .ignoresSafeArea()
         }
         .environmentObject(store)
         .environmentObject(reviews)

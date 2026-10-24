@@ -22,6 +22,33 @@ xcodebuild -project DeutschBegleiter.xcodeproj -scheme DeutschBegleiter \
 so new Swift files need a `xcodegen generate` before Xcode sees them. Running from
 Xcode needs a signing team on the target — the CLI build above bypasses that.
 
+## Run it
+
+Simulator only — no signing, no provisioning profile, no device:
+
+```bash
+tools/run_sim.sh                 # builds, boots, installs, launches
+tools/run_sim.sh "iPhone 17"     # any installed simulator
+```
+
+Or open `DeutschBegleiter.xcodeproj`, pick an iPhone simulator, ⌘R.
+
+A device build needs `DEVELOPMENT_TEAM` in `project.yml`; it is deliberately not
+set, so no personal team id sits in a public repo.
+
+### Jump straight to a screen
+
+For screenshots and QA, the app takes launch arguments:
+
+```bash
+xcrun simctl launch "iPhone 17 Pro" com.hayden.DeutschBegleiter --tab course --course g1
+xcrun simctl launch "iPhone 17 Pro" com.hayden.DeutschBegleiter --tab cards
+xcrun simctl io "iPhone 17 Pro" screenshot /tmp/shot.png
+```
+
+`--tab` takes `home · speak · course · cards · settings`; `--course` takes a rule
+or pattern id.
+
 ## Snapshots
 
 The app renders its own screens offscreen — no screen-recording permission needed:
@@ -219,9 +246,13 @@ a 595-card queue.
 
 Working: course reader over all processed material, deck library over the real
 Brainscape chunks, custom decks (in memory only), SM-2 scheduling in a local SQLite
-log, due counts on Home, English/German chrome.
+log, due counts on Home, English/German chrome. Verified on the iOS simulator, not
+just in the offscreen renderer.
 
 Not yet wired: speech, the DeepSeek tutor, cloud sync, Keychain storage, custom-deck
 persistence, and any link between a pattern and the cards that drill it. Tables wider
-than a phone screen wrap rather than scroll, which is honest but cramped for the
-largest grids.
+than a phone screen wrap rather than scroll.
+
+The offscreen snapshot harness cannot see layout that depends on real safe areas —
+the tab-bar overlap and the letterboxed window were both only visible in the
+simulator.

@@ -76,7 +76,7 @@ struct HomeScreen: View {
         .overlay(alignment: .bottomTrailing) {
             Dackel(mood: .happy)
                 .frame(width: 200, height: 100)
-                .padding(.trailing, 6)
+                .padding(.trailing, 20)
                 .padding(.bottom, 4)
         }
     }

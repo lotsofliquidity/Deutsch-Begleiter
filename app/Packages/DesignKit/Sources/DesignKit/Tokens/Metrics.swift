@@ -5,6 +5,8 @@ public enum Metrics {
     public static let buttonRadius: CGFloat = 22
     public static let pad: CGFloat = 20
     public static let gap: CGFloat = 12
+    /// Height reserved for the floating tab bar.
+    public static let tabBarClearance: CGFloat = 92
 }
 
 public enum Typography {

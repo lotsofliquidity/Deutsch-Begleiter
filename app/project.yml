@@ -38,14 +38,18 @@ targets:
         CURRENT_PROJECT_VERSION: "1"
         ENABLE_USER_SCRIPT_SANDBOXING: YES
         CODE_SIGN_STYLE: Automatic
-        DEVELOPMENT_TEAM: VV9S22YAS2
-        # Mac builds sign locally; a device build uses the team above.
+        # Simulator and Mac only — no provisioning profile needed, and no
+        # personal team id in a public repo. Add DEVELOPMENT_TEAM if you ever
+        # build for a physical device.
         "CODE_SIGN_IDENTITY[sdk=macosx*]": "-"
         INFOPLIST_KEY_CFBundleDisplayName: Deutsch-Begleiter
         INFOPLIST_KEY_NSMicrophoneUsageDescription: Übe Deutsch, indem du sprichst.
         INFOPLIST_KEY_NSSpeechRecognitionUsageDescription: Erkennt deine Aussprache.
-        "INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]": YES
-        "INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]": YES
+        # No [sdk=iphoneos*] condition: the simulator SDK is
+        # "iphonesimulator" and does not match, which left the app without a
+        # launch screen and letterboxed in an iPhone-8-sized window.
+        INFOPLIST_KEY_UIApplicationSceneManifest_Generation: YES
+        INFOPLIST_KEY_UILaunchScreen_Generation: YES
         "INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone": UIInterfaceOrientationPortrait
       configs:
         Debug:

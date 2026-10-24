@@ -7,7 +7,9 @@ struct CourseTab: View {
     @Environment(\.coursePack) private var pack: CoursePack
 
     @State private var shelf: Shelf = .units
-    @State private var route: Route?
+    @State private var route: Route? = LaunchArgument.value(after: "--course").map { id in
+        id.hasPrefix("g") ? .rule(id) : .pattern(id)
+    }
 
     enum Shelf: String, CaseIterable, Identifiable {
         case units, grammar, patterns
