@@ -219,9 +219,13 @@ tutor's instructions, not just a label:
 
 | Level | Turns | Grammar allowed | Voice |
 |---|---|---|---|
-| A1 | ≤ 6 words | present only | 0.40 |
-| A2 | 1–2 short sentences | present + Perfekt | 0.46 |
-| B1 | 2 sentences with connectors | subordinate clauses | 0.50 |
+| A1 | ≤ 6 words | present only, no subordinate clauses | 0.40 |
+| A2 | 1–2 short sentences | present, Perfekt, and *weil / dass / wenn* clauses (verb final) | 0.46 |
+| B1 | 2 sentences | relative clauses, *obwohl / nachdem / damit / während*, *deshalb / trotzdem* | 0.50 |
+
+Subordinate clauses are **A2**, not B1 — `course/a2.1/notes.md` covers *Kausalsätze
+mit „weil"* in U5 and *dass*-Sätze in U6. B1 adds relatives and the harder
+conjunctions.
 
 At A1 the tutor offers choices ("Kaffee oder Tee?") instead of open questions, and
 turns a one-word answer into a full sentence. The lightbulb button asks for one

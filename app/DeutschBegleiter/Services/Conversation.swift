@@ -40,13 +40,15 @@ final class Conversation: ObservableObject {
                 """
             case .a2:
                 return """
-                Niveau A2. Antworte mit einem oder zwei kurzen Sätzen (höchstens zehn Wörter).
-                Präsens und Perfekt. Genau eine einfache Frage pro Antwort.
+                Niveau A2. Antworte mit einem oder zwei kurzen Sätzen (höchstens zwölf Wörter).
+                Präsens, Perfekt und Nebensätze mit weil, dass und wenn sind erlaubt — Verb am
+                Ende ("…, weil ich müde bin"). Genau eine einfache Frage pro Antwort.
                 """
             case .b1:
                 return """
-                Niveau B1. Antworte mit zwei kurzen Sätzen und benutze Konnektoren
-                (weil, deshalb, obwohl, wenn). Genau eine Frage pro Antwort.
+                Niveau B1. Antworte mit zwei kurzen Sätzen. Benutze auch Relativsätze und
+                Nebensätze mit obwohl, nachdem, damit und während, dazu Konnektoren wie
+                deshalb und trotzdem. Genau eine Frage pro Antwort.
                 """
             }
         }
