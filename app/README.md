@@ -59,8 +59,10 @@ app/
   DeutschBegleiter/
     App/                          # entry point, tab shell, UIText, snapshot harness
     Models/Deck.swift             # Level, DeckOrigin, Deck, DeckStore
+    Models/Course.swift           # course pack + block decoding
     Models/ReviewStore.swift      # GRDB review log, replay, due queue
-    Screens/                      # Home, Speak, Grammar, Settings
+    Screens/                      # Home, Speak, Settings
+    Screens/Course/               # shelves + block reader (tables, chunks)
     Screens/Cards/                # library, detail, editor, study + routing
   Snapshots/                      # generated phone baselines
 ```
@@ -111,6 +113,37 @@ source of truth; the JSON is generated and loaded at launch.
 | A1 | 595 | built in (a1.1 297 + a1.2 298) |
 | A2 | 594 | built in (a2.1 300 + a2.2 294) |
 | B1 | 0 | empty shelf — nothing in the repo produces B1 cards yet |
+
+## Course content
+
+All of the processed course material ships inside the app: 30 units across A1.1,
+A1.2 and A2.1, the 15 grammar rules, and the 178 patterns. Nothing is fetched at
+runtime — the reader works offline.
+
+```bash
+python3 tools/export_course.py           # rewrite course.json
+python3 tools/export_course.py --check   # fail if the pack is stale
+```
+
+Source is the **markdown** in `course/**` and `patterns/patterns.md`, not the PDFs
+in `courses/`. Those PDFs are layout-heavy booklets; the repo already did the
+extraction, and re-parsing them at runtime would be strictly worse.
+
+Markdown is parsed into typed blocks — heading, paragraph, list, table, callout —
+rather than rendered as markdown. That is not fussiness: the material contains
+**2,904 table rows**, and `AttributedString(markdown:)` collapses every table into
+a paragraph of pipe characters. SwiftUI then lays the blocks out with the design
+system, which is what makes the content behave like the rest of the app:
+
+- **Gender grids colour themselves.** When a table's header is `m · f · n · pl`,
+  each column takes its noun colour — so *die* is pink in the feminine column and
+  purple in the plural column, in the same frame. No per-cell guessing.
+- **Chunk tables are self-tests.** Every unit's Dialog table is tappable: *Hide
+  meanings* blanks the English, tap a row to reveal one.
+- **Patterns are searchable** in the Patterns shelf.
+
+The reader is reached from the **Course** tab: Units (by level) · Grammar (the 15
+rules by number) · Patterns.
 
 ## Spaced repetition
 
@@ -184,10 +217,11 @@ a 595-card queue.
 
 ## Status
 
-Working: deck library over the real Brainscape chunks, custom decks (in memory
-only — they reset on relaunch), SM-2 scheduling in a local SQLite log, due counts
-on Home, English/German chrome.
+Working: course reader over all processed material, deck library over the real
+Brainscape chunks, custom decks (in memory only), SM-2 scheduling in a local SQLite
+log, due counts on Home, English/German chrome.
 
-Not yet wired: speech, the DeepSeek tutor, cloud sync, Keychain storage of the API
-key, and custom-deck persistence. The study queue is due-then-new; there is no
-session summary yet and no way to edit the daily new-card cap from the UI.
+Not yet wired: speech, the DeepSeek tutor, cloud sync, Keychain storage, custom-deck
+persistence, and any link between a pattern and the cards that drill it. Tables wider
+than a phone screen wrap rather than scroll, which is honest but cramped for the
+largest grids.

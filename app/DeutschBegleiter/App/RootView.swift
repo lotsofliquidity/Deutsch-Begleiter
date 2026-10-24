@@ -2,7 +2,7 @@ import SwiftUI
 import DesignKit
 
 enum Tab: String, CaseIterable, Identifiable {
-    case home, speak, grammar, cards, settings
+    case home, speak, course, cards, settings
 
     var id: String { rawValue }
 
@@ -10,7 +10,7 @@ enum Tab: String, CaseIterable, Identifiable {
         switch self {
         case .home: text.tabHome
         case .speak: text.tabSpeak
-        case .grammar: text.tabGrammar
+        case .course: text.tabCourse
         case .cards: text.tabCards
         case .settings: text.tabSettings
         }
@@ -20,7 +20,7 @@ enum Tab: String, CaseIterable, Identifiable {
         switch self {
         case .home: "house.fill"
         case .speak: "waveform"
-        case .grammar: "tablecells"
+        case .course: "book.closed.fill"
         case .cards: "rectangle.on.rectangle.angled"
         case .settings: "gearshape.fill"
         }
@@ -30,6 +30,7 @@ enum Tab: String, CaseIterable, Identifiable {
 struct RootView: View {
     @StateObject private var store = DeckStore()
     @StateObject private var reviews = RenderMode.isRendering ? ReviewStore.inMemory() : ReviewStore()
+    @State private var pack = CoursePack.load()
     @AppStorage("uiLanguage") private var language: UILanguage = .en
     @State private var tab: Tab
     @Environment(\.colorScheme) private var scheme
@@ -54,7 +55,7 @@ struct RootView: View {
                 switch tab {
                 case .home: HomeScreen()
                 case .speak: SpeakScreen()
-                case .grammar: GrammarScreen()
+                case .course: CourseTab()
                 case .cards: CardsTab()
                 case .settings: SettingsScreen()
                 }
@@ -70,6 +71,7 @@ struct RootView: View {
         }
         .environmentObject(store)
         .environmentObject(reviews)
+        .environment(\.coursePack, pack)
         .environment(\.uiText, UIText(language: language))
         .animation(Motion.card, value: tab)
     }

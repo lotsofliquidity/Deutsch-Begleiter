@@ -54,6 +54,36 @@ enum Snapshot {
         )
         UserDefaults.standard.set("en", forKey: "uiLanguage")
 
+        // the course reader is the only place tables are laid out
+        let pack = CoursePack.load()
+        if let rule = pack.grammar.first {
+            render(
+                ZStack {
+                    MeadowScene(horizon: 0.58)
+                    CourseReader(
+                        title: rule.title,
+                        subtitle: "§\(rule.number)",
+                        blocks: rule.blocks,
+                        onBack: {}
+                    )
+                }
+                .environment(\.coursePack, pack)
+                .frame(width: 440, height: 900),
+                to: directory.appendingPathComponent("course-rule-phone.png")
+            )
+        }
+        if let unit = pack.levels.first?.units.first {
+            render(
+                ZStack {
+                    MeadowScene(horizon: 0.58)
+                    CourseReader(title: unit.title, subtitle: nil, blocks: unit.blocks, onBack: {})
+                }
+                .environment(\.coursePack, pack)
+                .frame(width: 440, height: 900),
+                to: directory.appendingPathComponent("course-unit-phone.png")
+            )
+        }
+
         // the deck flow is three levels deep, so the tab render never reaches it
         let store = DeckStore()
         if let a1 = store.decks.first(where: { $0.level == .a1 }) {

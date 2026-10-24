@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		00EB234C9396156D4BEC643C /* GrammarScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54D7AF416F49E364807F8E7C /* GrammarScreen.swift */; };
 		04B2DFA49F1028AB160EF847 /* SettingsScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5AAD805BF7311DD47AB7775 /* SettingsScreen.swift */; };
 		10C544C544AB1FF4B19C0379 /* CardsTab.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDA0AC254F5DD20DD2B5014D /* CardsTab.swift */; };
 		24EA0A6D8C513623BD218057 /* ReviewStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75904C635862D34A76C13E75 /* ReviewStore.swift */; };
@@ -21,28 +20,35 @@
 		8896D44B20131B24E7C18207 /* GRDB in Frameworks */ = {isa = PBXBuildFile; productRef = CDC00A2F0300D20FED550866 /* GRDB */; };
 		8A4B88E02DF22B057087821E /* RootView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA1A4A2392C5703D44216BBC /* RootView.swift */; };
 		9C0DBC94E799DAD273899B3A /* Snapshot.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6B54A89BAAA318D4457D348 /* Snapshot.swift */; };
+		A52AE13D20834C729D2379B4 /* Course.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2463BD15EFCB2EC77AB12689 /* Course.swift */; };
 		B6E0224404E02721F81F98A5 /* DeckLibraryScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7ABB23CE784E653ADF0EA32 /* DeckLibraryScreen.swift */; };
 		BFA19C59DB85AB9D00EEAB4B /* decks.json in Resources */ = {isa = PBXBuildFile; fileRef = 05D78ED0E4D625A7F70CE483 /* decks.json */; };
 		BFD02930C19604DD71C02158 /* DeckEditorScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B86FDDE278305E2BC2901EA /* DeckEditorScreen.swift */; };
+		C42367FF9566B92702691A39 /* course.json in Resources */ = {isa = PBXBuildFile; fileRef = 4FE267F5D0F7CDA979BB7391 /* course.json */; };
+		C56424779108A5F69347016A /* CourseTab.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0F0A0C51892B6A082FC22F6 /* CourseTab.swift */; };
 		C733DB2CACEA904AD7F9170A /* Deck.swift in Sources */ = {isa = PBXBuildFile; fileRef = F82A40236589E411E0D7E910 /* Deck.swift */; };
 		D6D05B2FCCC064EB5177BC24 /* UIText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E5592E74BA9D6F7A3112CC5 /* UIText.swift */; };
 		ED75D7772AC46333DE0A7F75 /* DeckDetailScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = C513548934C4C020E2FEA74E /* DeckDetailScreen.swift */; };
+		F23EE1C21A26AA9607E24765 /* CourseReader.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC1440142495C85B5087A752 /* CourseReader.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		05D78ED0E4D625A7F70CE483 /* decks.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = decks.json; sourceTree = "<group>"; };
 		18833BEC03468342F3041C13 /* HomeScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeScreen.swift; sourceTree = "<group>"; };
+		2463BD15EFCB2EC77AB12689 /* Course.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Course.swift; sourceTree = "<group>"; };
 		2DB29743B884974C162CFDD7 /* DesignKit */ = {isa = PBXFileReference; lastKnownFileType = folder; name = DesignKit; path = Packages/DesignKit; sourceTree = SOURCE_ROOT; };
 		2E5592E74BA9D6F7A3112CC5 /* UIText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIText.swift; sourceTree = "<group>"; };
 		4484A1EE227A87C00B73EC36 /* DeutschBegleiterApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeutschBegleiterApp.swift; sourceTree = "<group>"; };
-		54D7AF416F49E364807F8E7C /* GrammarScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GrammarScreen.swift; sourceTree = "<group>"; };
+		4FE267F5D0F7CDA979BB7391 /* course.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = course.json; sourceTree = "<group>"; };
 		556514C53CDE7AE39278A8F1 /* DeutschBegleiter.app */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.application; path = DeutschBegleiter.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		75904C635862D34A76C13E75 /* ReviewStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReviewStore.swift; sourceTree = "<group>"; };
 		7B86FDDE278305E2BC2901EA /* DeckEditorScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeckEditorScreen.swift; sourceTree = "<group>"; };
 		A05DB31A3E03A02A1A48190E /* SRSKit */ = {isa = PBXFileReference; lastKnownFileType = folder; name = SRSKit; path = Packages/SRSKit; sourceTree = SOURCE_ROOT; };
 		A7ABB23CE784E653ADF0EA32 /* DeckLibraryScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeckLibraryScreen.swift; sourceTree = "<group>"; };
 		B5AAD805BF7311DD47AB7775 /* SettingsScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsScreen.swift; sourceTree = "<group>"; };
+		C0F0A0C51892B6A082FC22F6 /* CourseTab.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseTab.swift; sourceTree = "<group>"; };
 		C513548934C4C020E2FEA74E /* DeckDetailScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeckDetailScreen.swift; sourceTree = "<group>"; };
+		CC1440142495C85B5087A752 /* CourseReader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseReader.swift; sourceTree = "<group>"; };
 		CDA0AC254F5DD20DD2B5014D /* CardsTab.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardsTab.swift; sourceTree = "<group>"; };
 		CDDFA45D3BEA5345F0CEDBD3 /* SelfTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelfTest.swift; sourceTree = "<group>"; };
 		D58435CA06BF24AC15BE3E66 /* StudyScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudyScreen.swift; sourceTree = "<group>"; };
@@ -69,11 +75,11 @@
 		0FA432823874CBBA85506284 /* Screens */ = {
 			isa = PBXGroup;
 			children = (
-				54D7AF416F49E364807F8E7C /* GrammarScreen.swift */,
 				18833BEC03468342F3041C13 /* HomeScreen.swift */,
 				B5AAD805BF7311DD47AB7775 /* SettingsScreen.swift */,
 				DB6152906D580F4C760F7F3D /* SpeakScreen.swift */,
 				6DB636A83D43824092B06313 /* Cards */,
+				52BD79649362D3411EB1D2C7 /* Course */,
 			);
 			path = Screens;
 			sourceTree = "<group>";
@@ -84,6 +90,15 @@
 				556514C53CDE7AE39278A8F1 /* DeutschBegleiter.app */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		52BD79649362D3411EB1D2C7 /* Course */ = {
+			isa = PBXGroup;
+			children = (
+				CC1440142495C85B5087A752 /* CourseReader.swift */,
+				C0F0A0C51892B6A082FC22F6 /* CourseTab.swift */,
+			);
+			path = Course;
 			sourceTree = "<group>";
 		};
 		6DB636A83D43824092B06313 /* Cards */ = {
@@ -112,6 +127,7 @@
 		D69D72352DAD2958038E65B2 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				4FE267F5D0F7CDA979BB7391 /* course.json */,
 				05D78ED0E4D625A7F70CE483 /* decks.json */,
 			);
 			path = Resources;
@@ -150,6 +166,7 @@
 		F77B68619A58DFDA2502F2B2 /* Models */ = {
 			isa = PBXGroup;
 			children = (
+				2463BD15EFCB2EC77AB12689 /* Course.swift */,
 				F82A40236589E411E0D7E910 /* Deck.swift */,
 				75904C635862D34A76C13E75 /* ReviewStore.swift */,
 			);
@@ -224,6 +241,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C42367FF9566B92702691A39 /* course.json in Resources */,
 				BFA19C59DB85AB9D00EEAB4B /* decks.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -236,12 +254,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				10C544C544AB1FF4B19C0379 /* CardsTab.swift in Sources */,
+				A52AE13D20834C729D2379B4 /* Course.swift in Sources */,
+				F23EE1C21A26AA9607E24765 /* CourseReader.swift in Sources */,
+				C56424779108A5F69347016A /* CourseTab.swift in Sources */,
 				C733DB2CACEA904AD7F9170A /* Deck.swift in Sources */,
 				ED75D7772AC46333DE0A7F75 /* DeckDetailScreen.swift in Sources */,
 				BFD02930C19604DD71C02158 /* DeckEditorScreen.swift in Sources */,
 				B6E0224404E02721F81F98A5 /* DeckLibraryScreen.swift in Sources */,
 				713CC103323DD28DFD33501D /* DeutschBegleiterApp.swift in Sources */,
-				00EB234C9396156D4BEC643C /* GrammarScreen.swift in Sources */,
 				7BC049084187EC79288A9CB7 /* HomeScreen.swift in Sources */,
 				24EA0A6D8C513623BD218057 /* ReviewStore.swift in Sources */,
 				8A4B88E02DF22B057087821E /* RootView.swift in Sources */,

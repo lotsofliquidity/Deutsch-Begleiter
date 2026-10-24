@@ -26,7 +26,13 @@ struct UIText: Sendable {
 
     var tabHome: String { t("Home", "Heim") }
     var tabSpeak: String { t("Speak", "Sprechen") }
-    var tabGrammar: String { t("Grammar", "Grammatik") }
+    var tabCourse: String { t("Course", "Kurs") }
+    var units: String { t("Units", "Einheiten") }
+    var grammar: String { t("Grammar", "Grammatik") }
+    var patterns: String { t("Patterns", "Muster") }
+    var search: String { t("Search", "Suchen") }
+    var hideMeanings: String { t("Hide meanings", "Bedeutungen aus") }
+    var showMeanings: String { t("Show meanings", "Bedeutungen an") }
     var tabCards: String { t("Cards", "Karten") }
     var tabSettings: String { t("Settings", "Einstellungen") }
 
