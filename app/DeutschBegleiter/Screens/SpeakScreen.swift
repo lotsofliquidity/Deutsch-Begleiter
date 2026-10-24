@@ -27,15 +27,40 @@ struct SpeakScreen: View {
     }
 
     private func header(_ t: SceneTokens) -> some View {
-        HStack(alignment: .firstTextBaseline) {
+        HStack(alignment: .center) {
             Text(text.speaking)
                 .font(Typography.display(28))
                 .foregroundStyle(t.ink)
             Spacer()
-            Chip(chat.scenario.title, symbol: "text.bubble.fill", tint: Color(hex: 0xCDEBA0))
+            levelPicker(t)
         }
         .padding(.horizontal, Metrics.pad)
         .padding(.top, 8)
+    }
+
+    /// Level is the one control that changes how hard the tutor is, so it sits
+    /// in the header rather than behind a menu.
+    private func levelPicker(_ t: SceneTokens) -> some View {
+        HStack(spacing: 4) {
+            ForEach(Conversation.Level.allCases) { candidate in
+                let isOn = candidate == chat.level
+                Button {
+                    guard !isOn else { return }
+                    chat.level = candidate
+                    Task { await chat.restart() }
+                } label: {
+                    Text(candidate.rawValue)
+                        .font(.system(size: 12, weight: .heavy, design: .rounded))
+                        .foregroundStyle(isOn ? .white : t.ink.opacity(0.6))
+                        .padding(.horizontal, 11)
+                        .padding(.vertical, 6)
+                        .background {
+                            Capsule().fill(isOn ? t.ink.opacity(0.85) : t.surface.opacity(0.9))
+                        }
+                }
+                .buttonStyle(.plain)
+            }
+        }
     }
 
     private func scenarioPicker(_ t: SceneTokens) -> some View {
@@ -112,9 +137,9 @@ struct SpeakScreen: View {
 
     private func controls(_ t: SceneTokens) -> some View {
         VStack(spacing: 10) {
-            HStack(spacing: 14) {
+            HStack(spacing: 10) {
                 Dackel(mood: chat.phase == .listening ? .listening : .idle)
-                    .frame(width: 104, height: 52)
+                    .frame(width: 74, height: 37)
 
                 Button {
                     Task {
@@ -125,10 +150,26 @@ struct SpeakScreen: View {
                         }
                     }
                 } label: {
-                    SpeechOrb(level: chat.listener.level, isListening: chat.phase == .listening)
+                    SpeechOrb(
+                        level: chat.listener.level,
+                        isListening: chat.phase == .listening,
+                        size: 158
+                    )
                 }
                 .buttonStyle(.plain)
                 .disabled(chat.phase == .thinking)
+
+                Button {
+                    Task { await chat.hint() }
+                } label: {
+                    Image(systemName: "lightbulb.fill")
+                        .font(.system(size: 16, weight: .bold))
+                        .foregroundStyle(t.ink)
+                        .frame(width: 42, height: 42)
+                        .background(Circle().fill(t.surface.opacity(0.92)))
+                }
+                .buttonStyle(.plain)
+                .disabled(chat.messages.isEmpty || chat.phase == .thinking)
 
                 Button {
                     Task { await chat.finish() }

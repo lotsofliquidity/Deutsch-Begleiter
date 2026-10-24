@@ -214,6 +214,19 @@ and is the way to test the loop without a microphone.
 
 Scenarios: Im Café, Im Hotel, Wohnungssuche, Beim Arzt, Small Talk, Beim Einkaufen.
 
+**Level** — A1 / A2 / B1, chosen in the header and remembered. It changes the
+tutor's instructions, not just a label:
+
+| Level | Turns | Grammar allowed | Voice |
+|---|---|---|---|
+| A1 | ≤ 6 words | present only | 0.40 |
+| A2 | 1–2 short sentences | present + Perfekt | 0.46 |
+| B1 | 2 sentences with connectors | subordinate clauses | 0.50 |
+
+At A1 the tutor offers choices ("Kaffee oder Tee?") instead of open questions, and
+turns a one-word answer into a full sentence. The lightbulb button asks for one
+sentence you could say next, with the English in brackets.
+
 ### Audio callback safety
 
 `AVAudioEngine`'s tap and `SFSpeechRecognizer`'s handler both run off the main

@@ -10,6 +10,10 @@ import SRSKit
 enum SelfTest {
     static func runIfRequested() -> Bool {
         if CommandLine.arguments.contains("--selftest-voice") {
+            for level in Conversation.Level.allCases {
+                let words = level.guidance.split(separator: " ").prefix(9).joined(separator: " ")
+                print("level \(level.rawValue): rate \(level.speechRate) · \"\(words)…\"")
+            }
             let voices = AVSpeechSynthesisVoice.speechVoices().filter { $0.language.hasPrefix("de") }
             print("German voices installed: \(voices.count)")
             for voice in voices.prefix(6) {

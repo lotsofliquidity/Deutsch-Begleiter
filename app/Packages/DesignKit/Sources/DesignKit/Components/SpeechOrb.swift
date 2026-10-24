@@ -5,13 +5,15 @@ import SwiftUI
 public struct SpeechOrb: View {
     private var level: Double
     private var isListening: Bool
+    private var size: CGFloat
     @State private var breathe: CGFloat = 0
     @Environment(\.colorScheme) private var scheme
     @Environment(\.accessibilityReduceMotion) private var reduceMotion
 
-    public init(level: Double = 0, isListening: Bool = true) {
+    public init(level: Double = 0, isListening: Bool = true, size: CGFloat = 190) {
         self.level = max(0, min(1, level))
         self.isListening = isListening
+        self.size = size
     }
 
     public var body: some View {
@@ -42,7 +44,7 @@ public struct SpeechOrb: View {
                 .font(.system(size: 30, weight: .bold))
                 .foregroundStyle(t.ink.opacity(0.55))
         }
-        .frame(width: 190, height: 190)
+        .frame(width: size, height: size)
         .onAppear {
             guard !reduceMotion else { return }
             withAnimation(Motion.breathe.repeatForever(autoreverses: true)) {

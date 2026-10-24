@@ -25,7 +25,7 @@ final class GermanSpeaker: NSObject, ObservableObject {
             ?? german.first
     }
 
-    func speak(_ text: String) {
+    func speak(_ text: String, rate: Float = 0.48) {
         guard !text.isEmpty else { return }
         stop()
 
@@ -41,7 +41,7 @@ final class GermanSpeaker: NSObject, ObservableObject {
 
         let utterance = AVSpeechUtterance(string: text)
         utterance.voice = Self.germanVoice()
-        utterance.rate = 0.48
+        utterance.rate = rate
         utterance.pitchMultiplier = 1.0
         synthesizer.speak(utterance)
         isSpeaking = true

@@ -11,6 +11,47 @@ final class Conversation: ObservableObject {
         case failed(String)
     }
 
+    /// Speaking difficulty. A1 keeps turns to a handful of words and offers
+    /// choices instead of open questions, which is what makes a session feel
+    /// survivable at the very beginning.
+    enum Level: String, CaseIterable, Identifiable {
+        case a1 = "A1"
+        case a2 = "A2"
+        case b1 = "B1"
+
+        var id: String { rawValue }
+
+        var speechRate: Float {
+            switch self {
+            case .a1: 0.40
+            case .a2: 0.46
+            case .b1: 0.50
+            }
+        }
+
+        var guidance: String {
+            switch self {
+            case .a1:
+                return """
+                Niveau A1. Antworte mit höchstens sechs Wörtern, nur Präsens, nur häufige Wörter.
+                Stelle einfache Fragen, oft mit zwei Möglichkeiten: "Kaffee oder Tee?"
+                Sage ich nur ein Wort, mache daraus in deiner Antwort einen ganzen Satz.
+                Frage nie nach etwas, das ich noch nicht gesagt habe.
+                """
+            case .a2:
+                return """
+                Niveau A2. Antworte mit einem oder zwei kurzen Sätzen (höchstens zehn Wörter).
+                Präsens und Perfekt. Genau eine einfache Frage pro Antwort.
+                """
+            case .b1:
+                return """
+                Niveau B1. Antworte mit zwei kurzen Sätzen und benutze Konnektoren
+                (weil, deshalb, obwohl, wenn). Genau eine Frage pro Antwort.
+                """
+            }
+        }
+    }
+
     struct Scenario: Identifiable, Hashable {
         let id: String
         let title: String
@@ -30,11 +71,20 @@ final class Conversation: ObservableObject {
     @Published private(set) var phase: Phase = .idle
     @Published var scenario: Scenario = Scenario.all[0]
     @Published var draft = ""
+    @Published var level: Level {
+        didSet { UserDefaults.standard.set(level.rawValue, forKey: Self.levelKey) }
+    }
 
     let listener = GermanListener()
     let speaker = GermanSpeaker()
 
+    private static let levelKey = "speakLevel"
     private var started = false
+
+    init() {
+        let stored = UserDefaults.standard.string(forKey: Self.levelKey)
+        level = Level(rawValue: stored ?? "") ?? .a1
+    }
 
     private var systemPrompt: String {
         """
@@ -42,9 +92,8 @@ final class Conversation: ObservableObject {
         \(scenario.setting)
 
         Regeln:
-        - Antworte immer auf Deutsch, ein bis zwei kurze Sätze, dann genau eine Rückfrage.
-        - Bleib im Szenario und wechsle nie ins Englische.
-        - Niveau A2: einfache Sätze, alltägliche Wörter.
+        \(level.guidance)
+        - Antworte immer auf Deutsch und wechsle nie ins Englische.
         - Macht mein Fehler die Bedeutung unklar, wiederhole meine Aussage beiläufig \
         korrekt, ohne zu erklären ("Ach, du bist also gestern gekommen?").
         - Keine Aufzählungen, keine Erklärungen, kein Lob.
@@ -73,6 +122,22 @@ final class Conversation: ObservableObject {
         messages.append(.user(trimmed))
         draft = ""
         await send()
+    }
+
+    /// Asks for a sentence the learner could say next — the difference between
+    /// being stuck and being able to keep going.
+    func hint() async {
+        guard !messages.isEmpty, phase != .thinking else { return }
+        speaker.stop()
+        await send(
+            instruction: """
+            \(systemPrompt)
+
+            Ich weiß gerade nicht weiter. Gib mir EINEN kurzen deutschen Satz, den ich jetzt \
+            sagen könnte, passend zum Szenario und zu meinem Niveau — dann in Klammern die \
+            englische Bedeutung. Sonst nichts.
+            """
+        )
     }
 
     /// Wraps up with corrections instead of continuing the roleplay.
@@ -105,7 +170,7 @@ final class Conversation: ObservableObject {
             let reply = try await DeepSeekClient(apiKey: key).reply(to: payload)
             messages.append(.assistant(reply))
             phase = .speaking
-            speaker.speak(reply)
+            speaker.speak(reply, rate: level.speechRate)
             phase = .idle
         } catch {
             phase = .failed(error.localizedDescription)
