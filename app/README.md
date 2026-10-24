@@ -19,7 +19,12 @@ xcodebuild -project DeutschBegleiter.xcodeproj -scheme DeutschBegleiter \
 ```
 
 `project.yml` is the source of truth for the project; the `.xcodeproj` is generated,
-so new Swift files need a `xcodegen generate` before Xcode sees them. Running from
+so new Swift files need a `xcodegen generate` before Xcode sees them.
+
+**Quit Xcode before regenerating.** Xcode keeps the project it loaded in memory and
+does not reload a `.xcodeproj` rewritten underneath it — it will report missing
+products for packages added since it opened, and no amount of cache clearing fixes
+that while it is running. Running from
 Xcode needs a signing team on the target — the CLI build above bypasses that.
 
 ## Run it
