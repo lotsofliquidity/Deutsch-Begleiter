@@ -214,6 +214,23 @@ and is the way to test the loop without a microphone.
 
 Scenarios: Im Café, Im Hotel, Wohnungssuche, Beim Arzt, Small Talk, Beim Einkaufen.
 
+### Audio callback safety
+
+`AVAudioEngine`'s tap and `SFSpeechRecognizer`'s handler both run off the main
+thread. Because they are formed inside a `@MainActor` method, Swift infers
+main-actor isolation for them unless they are `@Sendable` — and then the first
+audio buffer traps with *"Block was expected to execute on queue [main]"*. Both
+callbacks are marked `@Sendable` for that reason; removing it reintroduces the
+crash.
+
+Regression check, no microphone or key needed:
+
+```bash
+xcrun simctl launch "iPhone 17 Pro" com.hayden.DeutschBegleiter --probe-audio
+# then read Documents/probe.txt in the app container:
+# 0 entered … 10 slept buffers=30 peak=0.08 … 11 stopped
+```
+
 ### What is not verified
 
 The audio path has not been exercised end to end — that needs a real key and a

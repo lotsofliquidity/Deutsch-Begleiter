@@ -16,7 +16,14 @@ struct SpeakScreen: View {
             transcript(t)
             controls(t)
         }
-        .task { await chat.begin() }
+        .task {
+            #if DEBUG
+            if ProcessInfo.processInfo.arguments.contains("--probe-audio") {
+                await chat.listener.probeTap()
+            }
+            #endif
+            await chat.begin()
+        }
     }
 
     private func header(_ t: SceneTokens) -> some View {
