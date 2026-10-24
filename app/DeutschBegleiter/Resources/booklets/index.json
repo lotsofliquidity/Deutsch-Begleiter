@@ -1,0 +1,1114 @@
+{
+ "booklets": [
+  {
+   "id": "a1.1",
+   "name": "A1.1",
+   "file": "a1.1.pdf",
+   "pages": 230,
+   "offset": 6,
+   "units": [
+    {
+     "number": 1,
+     "title": "Hallo, wie geht’s?",
+     "setting": "Im Flugzeug",
+     "dialogs": [
+      {
+       "number": 1,
+       "title": "Woher kommst du?",
+       "start": 8,
+       "end": 14
+      },
+      {
+       "number": 2,
+       "title": "Welche Sprachen sprichst du?",
+       "start": 15,
+       "end": 23
+      },
+      {
+       "number": 3,
+       "title": "Wie heißt du?",
+       "start": 24,
+       "end": 31
+      }
+     ],
+     "start": 8,
+     "end": 31
+    },
+    {
+     "number": 2,
+     "title": "Ich brauche Hilfe!",
+     "setting": "Im Flughafen",
+     "dialogs": [
+      {
+       "number": 1,
+       "title": "Ich habe eine Frage.",
+       "start": 32,
+       "end": 36
+      },
+      {
+       "number": 2,
+       "title": "Wie heißt das?",
+       "start": 37,
+       "end": 44
+      },
+      {
+       "number": 3,
+       "title": "Ich brauche eine Karte.",
+       "start": 45,
+       "end": 50
+      }
+     ],
+     "start": 32,
+     "end": 50
+    },
+    {
+     "number": 3,
+     "title": "Wie bitte?",
+     "setting": "Im Taxi",
+     "dialogs": [
+      {
+       "number": 1,
+       "title": "Sind Sie frei?",
+       "start": 51,
+       "end": 59
+      },
+      {
+       "number": 2,
+       "title": "Woher kommen Sie?",
+       "start": 60,
+       "end": 66
+      },
+      {
+       "number": 3,
+       "title": "Bar oder mit Karte?",
+       "start": 67,
+       "end": 72
+      }
+     ],
+     "start": 51,
+     "end": 72
+    },
+    {
+     "number": 4,
+     "title": "Willkommen Frau Koch!",
+     "setting": "Im Hotel",
+     "dialogs": [
+      {
+       "number": 1,
+       "title": "Ich habe eine Reservierung.",
+       "start": 73,
+       "end": 78
+      },
+      {
+       "number": 2,
+       "title": "Wo ist mein Zimmer?",
+       "start": 79,
+       "end": 85
+      },
+      {
+       "number": 3,
+       "title": "Ist hier eine Apotheke?",
+       "start": 86,
+       "end": 92
+      }
+     ],
+     "start": 73,
+     "end": 92
+    },
+    {
+     "number": 5,
+     "title": "Sonst noch etwas?",
+     "setting": "Beim Einkaufen",
+     "dialogs": [
+      {
+       "number": 1,
+       "title": "Ich hätte gerne Erdbeeren.",
+       "start": 93,
+       "end": 100
+      },
+      {
+       "number": 2,
+       "title": "Das ist kein Brot.",
+       "start": 101,
+       "end": 109
+      },
+      {
+       "number": 3,
+       "title": "Meinen Sie Hähnchenbrust?",
+       "start": 110,
+       "end": 117
+      }
+     ],
+     "start": 93,
+     "end": 117
+    },
+    {
+     "number": 6,
+     "title": "Bist du Programmierer?",
+     "setting": "Im Café",
+     "dialogs": [
+      {
+       "number": 1,
+       "title": "Ist der Platz noch frei?",
+       "start": 118,
+       "end": 124
+      },
+      {
+       "number": 2,
+       "title": "Oh, Liebling!",
+       "start": 125,
+       "end": 130
+      },
+      {
+       "number": 3,
+       "title": "Freut mich.",
+       "start": 131,
+       "end": 141
+      }
+     ],
+     "start": 118,
+     "end": 141
+    },
+    {
+     "number": 7,
+     "title": "Wo ist die S-Bahn?",
+     "setting": "Im Bahnhof",
+     "dialogs": [
+      {
+       "number": 1,
+       "title": "Der Fahrkartenautomat",
+       "start": 142,
+       "end": 151
+      },
+      {
+       "number": 2,
+       "title": "Am Schalter",
+       "start": 152,
+       "end": 158
+      },
+      {
+       "number": 3,
+       "title": "Im Zug",
+       "start": 159,
+       "end": 166
+      }
+     ],
+     "start": 142,
+     "end": 166
+    },
+    {
+     "number": 8,
+     "title": "Was ist ein Rathaus?",
+     "setting": "In der Stadt unterwegs",
+     "dialogs": [
+      {
+       "number": 1,
+       "title": "Ich bin jetzt dein Stadtführer.",
+       "start": 167,
+       "end": 173
+      },
+      {
+       "number": 2,
+       "title": "Die Stadtführung beginnt.",
+       "start": 174,
+       "end": 180
+      },
+      {
+       "number": 3,
+       "title": "Vorsicht!",
+       "start": 181,
+       "end": 186
+      }
+     ],
+     "start": 167,
+     "end": 186
+    },
+    {
+     "number": 9,
+     "title": "Was möchten Sie bestellen?",
+     "setting": "Im Restaurant",
+     "dialogs": [
+      {
+       "number": 1,
+       "title": "Ich nehme den Schweinebraten.",
+       "start": 187,
+       "end": 194
+      },
+      {
+       "number": 2,
+       "title": "Ich nehme einen Weißwein.",
+       "start": 195,
+       "end": 202
+      },
+      {
+       "number": 3,
+       "title": "Zusammen oder getrennt?",
+       "start": 203,
+       "end": 209
+      }
+     ],
+     "start": 187,
+     "end": 209
+    },
+    {
+     "number": 10,
+     "title": "Ich suche eine WG.",
+     "setting": "Auf Wohnungssuche",
+     "dialogs": [
+      {
+       "number": 1,
+       "title": "Wie spät ist es?",
+       "start": 210,
+       "end": 218
+      },
+      {
+       "number": 2,
+       "title": "Vielleicht am Dienstag?",
+       "start": 219,
+       "end": 224
+      },
+      {
+       "number": 3,
+       "title": "Morgen haben wir Zeit.",
+       "start": 225,
+       "end": 230
+      }
+     ],
+     "start": 210,
+     "end": 230
+    }
+   ]
+  },
+  {
+   "id": "a1.2",
+   "name": "A1.2",
+   "file": "a1.2.pdf",
+   "pages": 284,
+   "offset": 0,
+   "units": [
+    {
+     "number": 1,
+     "title": "Unsere WG",
+     "setting": "Wohnungsbesichtigung",
+     "dialogs": [
+      {
+       "number": 1,
+       "title": "Es ist wirklich multikulti!",
+       "start": 9,
+       "end": 17
+      },
+      {
+       "number": 2,
+       "title": "Das Bett ist so richtig groß!",
+       "start": 18,
+       "end": 28
+      },
+      {
+       "number": 3,
+       "title": "Da muss ich erst mal schauen.",
+       "start": 29,
+       "end": 37
+      }
+     ],
+     "start": 9,
+     "end": 37
+    },
+    {
+     "number": 2,
+     "title": "Meine neue Familie",
+     "setting": "Im Wohnzimmer",
+     "dialogs": [
+      {
+       "number": 1,
+       "title": "Sie sieht ja verrückt aus!",
+       "start": 38,
+       "end": 46
+      },
+      {
+       "number": 2,
+       "title": "Und das hier ist deine Mutti?",
+       "start": 47,
+       "end": 57
+      },
+      {
+       "number": 3,
+       "title": "Hast du Geschwister?",
+       "start": 58,
+       "end": 65
+      }
+     ],
+     "start": 38,
+     "end": 65
+    },
+    {
+     "number": 3,
+     "title": "Quark macht stark!",
+     "setting": "Im Supermarkt",
+     "dialogs": [
+      {
+       "number": 1,
+       "title": "Wo schlafe ich?",
+       "start": 66,
+       "end": 71
+      },
+      {
+       "number": 2,
+       "title": "Das ist eine Überraschung!",
+       "start": 72,
+       "end": 82
+      },
+      {
+       "number": 3,
+       "title": "Das ist viel zu teuer.",
+       "start": 83,
+       "end": 92
+      }
+     ],
+     "start": 66,
+     "end": 92
+    },
+    {
+     "number": 4,
+     "title": "Prost!",
+     "setting": "In der Küche",
+     "dialogs": [
+      {
+       "number": 1,
+       "title": "Ich habe Durst.",
+       "start": 93,
+       "end": 100
+      },
+      {
+       "number": 2,
+       "title": "Guten Morgen, du Schlafmütze!",
+       "start": 101,
+       "end": 108
+      },
+      {
+       "number": 3,
+       "title": "Das Fleisch ist zu salzig!",
+       "start": 109,
+       "end": 115
+      }
+     ],
+     "start": 93,
+     "end": 115
+    },
+    {
+     "number": 5,
+     "title": "Viel Spaß beim Deutschlernen!",
+     "setting": "Im Deutschkurs",
+     "dialogs": [
+      {
+       "number": 1,
+       "title": "Meine Oma ist Deutsche.",
+       "start": 116,
+       "end": 124
+      },
+      {
+       "number": 2,
+       "title": "Wie ist Ihre Adresse?",
+       "start": 125,
+       "end": 136
+      },
+      {
+       "number": 3,
+       "title": "Nehmen Sie meinen Kuli!",
+       "start": 137,
+       "end": 145
+      }
+     ],
+     "start": 116,
+     "end": 145
+    },
+    {
+     "number": 6,
+     "title": "Wie war dein Tag?",
+     "setting": "Auf dem Balkon",
+     "dialogs": [
+      {
+       "number": 1,
+       "title": "Ich hatte heute frei.",
+       "start": 146,
+       "end": 153
+      },
+      {
+       "number": 2,
+       "title": "Du hattest eine Frau?",
+       "start": 154,
+       "end": 160
+      },
+      {
+       "number": 3,
+       "title": "Fleisch ist mein Gemüse.",
+       "start": 161,
+       "end": 169
+      }
+     ],
+     "start": 146,
+     "end": 169
+    },
+    {
+     "number": 7,
+     "title": "Was ist passiert?",
+     "setting": "Auf dem Sofa",
+     "dialogs": [
+      {
+       "number": 1,
+       "title": "Ich bin total kaputt.",
+       "start": 170,
+       "end": 179
+      },
+      {
+       "number": 2,
+       "title": "Du bist eingeschlafen?",
+       "start": 180,
+       "end": 186
+      },
+      {
+       "number": 3,
+       "title": "Sehr geehrte Frau Stock",
+       "start": 187,
+       "end": 198
+      }
+     ],
+     "start": 170,
+     "end": 198
+    },
+    {
+     "number": 8,
+     "title": "Ich liebe Fußball!",
+     "setting": "Im Park",
+     "dialogs": [
+      {
+       "number": 1,
+       "title": "Hast du Lust?",
+       "start": 199,
+       "end": 209
+      },
+      {
+       "number": 2,
+       "title": "Katie van Gogh",
+       "start": 210,
+       "end": 218
+      },
+      {
+       "number": 3,
+       "title": "Ich werde 28.",
+       "start": 219,
+       "end": 227
+      }
+     ],
+     "start": 199,
+     "end": 227
+    },
+    {
+     "number": 9,
+     "title": "Kleider machen Leute",
+     "setting": "Im Kleidergeschäft",
+     "dialogs": [
+      {
+       "number": 1,
+       "title": "Was ziehe ich morgen an?",
+       "start": 228,
+       "end": 236
+      },
+      {
+       "number": 2,
+       "title": "Blau ist nicht meine Farbe.",
+       "start": 237,
+       "end": 250
+      },
+      {
+       "number": 3,
+       "title": "Die Hose passt mir nicht.",
+       "start": 251,
+       "end": 259
+      }
+     ],
+     "start": 228,
+     "end": 259
+    },
+    {
+     "number": 10,
+     "title": "Alles Gute!",
+     "setting": "Geburtstagsparty",
+     "dialogs": [
+      {
+       "number": 1,
+       "title": "Guten Morgen, Geburtstagskind!",
+       "start": 260,
+       "end": 268
+      },
+      {
+       "number": 2,
+       "title": "Hoch soll sie leben!",
+       "start": 269,
+       "end": 276
+      },
+      {
+       "number": 3,
+       "title": "Was für ein Krach!",
+       "start": 277,
+       "end": 284
+      }
+     ],
+     "start": 260,
+     "end": 284
+    }
+   ]
+  },
+  {
+   "id": "a2.1",
+   "name": "A2.1",
+   "file": "a2.1.pdf",
+   "pages": 324,
+   "offset": 0,
+   "units": [
+    {
+     "number": 1,
+     "title": "Haus & Nachbarn",
+     "setting": "Im Hof",
+     "dialogs": [
+      {
+       "number": 1,
+       "title": "Wollen Sie beide einen Kaffee?",
+       "start": 9,
+       "end": 21
+      },
+      {
+       "number": 2,
+       "title": "Meine Süße!",
+       "start": 22,
+       "end": 34
+      },
+      {
+       "number": 3,
+       "title": "Ihr kennt euch?",
+       "start": 35,
+       "end": 44
+      }
+     ],
+     "start": 9,
+     "end": 44
+    },
+    {
+     "number": 2,
+     "title": "Kinder und Enkelkinder",
+     "setting": "Im Treppenhaus",
+     "dialogs": [
+      {
+       "number": 1,
+       "title": "Sagen Sie nichts meiner Freundin!",
+       "start": 45,
+       "end": 55
+      },
+      {
+       "number": 2,
+       "title": "Das ist aber weit weg!",
+       "start": 56,
+       "end": 69
+      },
+      {
+       "number": 3,
+       "title": "So eine brotlose Kunst!",
+       "start": 70,
+       "end": 80
+      }
+     ],
+     "start": 45,
+     "end": 80
+    },
+    {
+     "number": 3,
+     "title": "Technologie & Internet",
+     "setting": "Am Computer",
+     "dialogs": [
+      {
+       "number": 1,
+       "title": "Sorry, mein Rechner ist kaputt.",
+       "start": 81,
+       "end": 89
+      },
+      {
+       "number": 2,
+       "title": "Brauchst du noch lange?",
+       "start": 90,
+       "end": 101
+      },
+      {
+       "number": 3,
+       "title": "Was? Gutaussehend?",
+       "start": 102,
+       "end": 113
+      }
+     ],
+     "start": 81,
+     "end": 113
+    },
+    {
+     "number": 4,
+     "title": "Kennenlernen",
+     "setting": "Beim Date",
+     "dialogs": [
+      {
+       "number": 1,
+       "title": "Ja, ein Held in Uniform!",
+       "start": 114,
+       "end": 122
+      },
+      {
+       "number": 2,
+       "title": "Umwerfend!",
+       "start": 123,
+       "end": 134
+      },
+      {
+       "number": 3,
+       "title": "Hast du ein Boot?",
+       "start": 135,
+       "end": 147
+      }
+     ],
+     "start": 114,
+     "end": 147
+    },
+    {
+     "number": 5,
+     "title": "Sommer und Picknick",
+     "setting": "Im Park",
+     "dialogs": [
+      {
+       "number": 1,
+       "title": "Mir ist langweilig!",
+       "start": 148,
+       "end": 156
+      },
+      {
+       "number": 2,
+       "title": "Hier sind wir!",
+       "start": 157,
+       "end": 166
+      },
+      {
+       "number": 3,
+       "title": "Etwas Süßes für meine Süße!",
+       "start": 167,
+       "end": 175
+      }
+     ],
+     "start": 148,
+     "end": 175
+    },
+    {
+     "number": 6,
+     "title": "Ämter und Behörden",
+     "setting": "Auf dem Einwohnermeldeamt",
+     "dialogs": [
+      {
+       "number": 1,
+       "title": "Ich möchte mich anmelden.",
+       "start": 176,
+       "end": 192
+      },
+      {
+       "number": 2,
+       "title": "Muss ich jetzt Bußgeld zahlen?",
+       "start": 193,
+       "end": 198
+      },
+      {
+       "number": 3,
+       "title": "Das kann nicht wahr sein!",
+       "start": 199,
+       "end": 209
+      }
+     ],
+     "start": 176,
+     "end": 209
+    },
+    {
+     "number": 7,
+     "title": "Essen bestellen",
+     "setting": "Zu Hause",
+     "dialogs": [
+      {
+       "number": 1,
+       "title": "Gogo kann nicht kochen.",
+       "start": 210,
+       "end": 220
+      },
+      {
+       "number": 2,
+       "title": "Ich wusste es!",
+       "start": 221,
+       "end": 227
+      },
+      {
+       "number": 3,
+       "title": "Ah, riecht das lecker!",
+       "start": 228,
+       "end": 237
+      }
+     ],
+     "start": 210,
+     "end": 237
+    },
+    {
+     "number": 8,
+     "title": "Wollen wir einen Film gucken?",
+     "setting": "Auf der Couch",
+     "dialogs": [
+      {
+       "number": 1,
+       "title": "Wie wär's mit Titanic?",
+       "start": 238,
+       "end": 248
+      },
+      {
+       "number": 2,
+       "title": "Wie wär’s mit einer Komödie?",
+       "start": 249,
+       "end": 257
+      },
+      {
+       "number": 3,
+       "title": "Hast du schon Pläne fürs Wochenende?",
+       "start": 258,
+       "end": 267
+      }
+     ],
+     "start": 238,
+     "end": 267
+    },
+    {
+     "number": 9,
+     "title": "Kundenservice",
+     "setting": "Am Telefon",
+     "dialogs": [
+      {
+       "number": 1,
+       "title": "Gewalt ist doch keine Lösung.",
+       "start": 268,
+       "end": 277
+      },
+      {
+       "number": 2,
+       "title": "Was kann ich für Sie tun?",
+       "start": 278,
+       "end": 287
+      },
+      {
+       "number": 3,
+       "title": "Da kann ich leider nicht.",
+       "start": 288,
+       "end": 308
+      }
+     ],
+     "start": 268,
+     "end": 308
+    },
+    {
+     "number": 10,
+     "title": "Ausgehen am Wochenende",
+     "setting": "Auf dem Konzert",
+     "dialogs": [
+      {
+       "number": 2,
+       "title": "Lust auf Schokokekse?",
+       "start": 309,
+       "end": 317
+      },
+      {
+       "number": 3,
+       "title": "Lass uns tanzen!",
+       "start": 318,
+       "end": 324
+      }
+     ],
+     "start": 309,
+     "end": 324
+    }
+   ]
+  },
+  {
+   "id": "a2.2",
+   "name": "A2.2",
+   "file": "a2.2.pdf",
+   "pages": 306,
+   "offset": 0,
+   "units": [
+    {
+     "number": 1,
+     "title": "Nach dem Unfall",
+     "setting": "Im Krankenhaus",
+     "dialogs": [
+      {
+       "number": 1,
+       "title": "Warum sprichst du Spanisch?",
+       "start": 9,
+       "end": 16
+      },
+      {
+       "number": 2,
+       "title": "Haben Sie Kopfschmerzen?",
+       "start": 17,
+       "end": 28
+      },
+      {
+       "number": 3,
+       "title": "Versprochen!",
+       "start": 29,
+       "end": 40
+      }
+     ],
+     "start": 9,
+     "end": 40
+    },
+    {
+     "number": 2,
+     "title": "Der Krankenbesuch",
+     "setting": "Zu Hause",
+     "dialogs": [
+      {
+       "number": 1,
+       "title": "Ich hab’ mir solche Sorgen gemacht.",
+       "start": 41,
+       "end": 48
+      },
+      {
+       "number": 2,
+       "title": "Gute Wahl.",
+       "start": 49,
+       "end": 59
+      },
+      {
+       "number": 3,
+       "title": "Eine Leseratte?",
+       "start": 60,
+       "end": 69
+      }
+     ],
+     "start": 41,
+     "end": 69
+    },
+    {
+     "number": 3,
+     "title": "Die Überraschung",
+     "setting": "Im Wohnzimmer",
+     "dialogs": [
+      {
+       "number": 1,
+       "title": "Ich dachte, du musst studieren.",
+       "start": 70,
+       "end": 78
+      },
+      {
+       "number": 2,
+       "title": "Meinst du das ernst?",
+       "start": 79,
+       "end": 88
+      },
+      {
+       "number": 3,
+       "title": "Auf gar keinen Fall!",
+       "start": 89,
+       "end": 98
+      }
+     ],
+     "start": 70,
+     "end": 98
+    },
+    {
+     "number": 4,
+     "title": "Gesund leben",
+     "setting": "Zu Hause beim Sport",
+     "dialogs": [
+      {
+       "number": 1,
+       "title": "Versprich es!",
+       "start": 99,
+       "end": 109
+      },
+      {
+       "number": 2,
+       "title": "Los, beweg dich!",
+       "start": 110,
+       "end": 122
+      },
+      {
+       "number": 3,
+       "title": "Nicht so laut!",
+       "start": 123,
+       "end": 131
+      }
+     ],
+     "start": 99,
+     "end": 131
+    },
+    {
+     "number": 5,
+     "title": "Körperpflege",
+     "setting": "Im Bad",
+     "dialogs": [
+      {
+       "number": 1,
+       "title": "Ist da jemand?",
+       "start": 132,
+       "end": 140
+      },
+      {
+       "number": 2,
+       "title": "Du musst mir helfen!",
+       "start": 141,
+       "end": 149
+      },
+      {
+       "number": 3,
+       "title": "Schnipp Schnapp, Haare ab!",
+       "start": 150,
+       "end": 158
+      }
+     ],
+     "start": 132,
+     "end": 158
+    },
+    {
+     "number": 6,
+     "title": "Auf Schnäppchenjagd",
+     "setting": "Auf dem Flohmarkt",
+     "dialogs": [
+      {
+       "number": 1,
+       "title": "Ist das ein Hut?",
+       "start": 159,
+       "end": 167
+      },
+      {
+       "number": 2,
+       "title": "Hallo, ihr Hübschen.",
+       "start": 168,
+       "end": 176
+      },
+      {
+       "number": 3,
+       "title": "Jetzt übertreib mal nicht!",
+       "start": 177,
+       "end": 186
+      }
+     ],
+     "start": 159,
+     "end": 186
+    },
+    {
+     "number": 7,
+     "title": "Arbeitsleben",
+     "setting": "Im Biergarten",
+     "dialogs": [
+      {
+       "number": 1,
+       "title": "Geld verdienen ist nicht alles!",
+       "start": 187,
+       "end": 196
+      },
+      {
+       "number": 2,
+       "title": "Wer lesen kann, ist klar im Vorteil!",
+       "start": 197,
+       "end": 203
+      },
+      {
+       "number": 3,
+       "title": "Prost, ihr Langsamtrinker!",
+       "start": 204,
+       "end": 212
+      }
+     ],
+     "start": 187,
+     "end": 212
+    },
+    {
+     "number": 8,
+     "title": "Eine Reise planen",
+     "setting": "Zu Hause",
+     "dialogs": [
+      {
+       "number": 1,
+       "title": "Ab in den Süden!",
+       "start": 213,
+       "end": 225
+      },
+      {
+       "number": 2,
+       "title": "Das klingt doch super!",
+       "start": 226,
+       "end": 234
+      },
+      {
+       "number": 3,
+       "title": "Wer ist denn George?",
+       "start": 235,
+       "end": 244
+      }
+     ],
+     "start": 213,
+     "end": 244
+    },
+    {
+     "number": 9,
+     "title": "Liebeskummer & Autokauf",
+     "setting": "Beim Autohändler",
+     "dialogs": [
+      {
+       "number": 1,
+       "title": "Willst du dir ein Auto kaufen?",
+       "start": 245,
+       "end": 251
+      },
+      {
+       "number": 2,
+       "title": "Der ist doch unbezahlbar!",
+       "start": 252,
+       "end": 263
+      },
+      {
+       "number": 3,
+       "title": "Die Ampel ist gelb.",
+       "start": 264,
+       "end": 278
+      }
+     ],
+     "start": 245,
+     "end": 278
+    },
+    {
+     "number": 10,
+     "title": "Ein Bankkonto eröffnen",
+     "setting": "In der Bank",
+     "dialogs": [
+      {
+       "number": 1,
+       "title": "Was kann ich für Sie tun?",
+       "start": 279,
+       "end": 290
+      },
+      {
+       "number": 2,
+       "title": "Ich würde gern ein Konto eröffnen.",
+       "start": 291,
+       "end": 297
+      },
+      {
+       "number": 3,
+       "title": "Hände hoch!",
+       "start": 298,
+       "end": 306
+      }
+     ],
+     "start": 279,
+     "end": 306
+    }
+   ]
+  }
+ ]
+}

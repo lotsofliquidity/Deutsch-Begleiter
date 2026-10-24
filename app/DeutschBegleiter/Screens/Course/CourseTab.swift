@@ -7,9 +7,12 @@ struct CourseTab: View {
     @Environment(\.coursePack) private var pack: CoursePack
 
     @State private var shelf: Shelf = .units
-    @State private var route: Route? = LaunchArgument.value(after: "--course").map { id in
-        id.hasPrefix("g") ? .rule(id) : .pattern(id)
-    }
+    @State private var route: Route? = {
+        if let unit = LaunchArgument.value(after: "--unit") { return .unit(unit) }
+        return LaunchArgument.value(after: "--course").map { id in
+            id.hasPrefix("g") ? .rule(id) : .pattern(id)
+        }
+    }()
 
     enum Shelf: String, CaseIterable, Identifiable {
         case units, grammar, patterns
@@ -37,15 +40,7 @@ struct CourseTab: View {
     private func reader(for route: Route) -> some View {
         switch route {
         case .unit(let id):
-            if let unit = pack.unit(id) {
-                CourseReader(
-                    title: unit.title,
-                    subtitle: unitSubtitle(unit),
-                    blocks: unit.blocks
-                ) { self.route = nil }
-            } else {
-                EmptyView()
-            }
+            UnitScreen(unitID: id) { self.route = nil }
         case .rule(let id):
             if let rule = pack.rule(id) {
                 CourseReader(

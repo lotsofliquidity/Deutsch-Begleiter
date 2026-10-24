@@ -31,6 +31,9 @@ struct UIText: Sendable {
     var grammar: String { t("Grammar", "Grammatik") }
     var patterns: String { t("Patterns", "Muster") }
     var search: String { t("Search", "Suchen") }
+    var booklet: String { t("Booklet", "Heft") }
+    var notes: String { t("Notes", "Notizen") }
+    var overview: String { t("Unit", "Einheit") }
     var hideMeanings: String { t("Hide meanings", "Bedeutungen aus") }
     var showMeanings: String { t("Show meanings", "Bedeutungen an") }
     var tabCards: String { t("Cards", "Karten") }

@@ -8,3 +8,6 @@ app/**/DerivedData/
 app/**/.build/
 app/**/SourcePackages/
 app/**/.swiftpm/
+
+# booklet PDFs are copied from courses/ at export time, not tracked twice
+app/DeutschBegleiter/Resources/booklets/*.pdf

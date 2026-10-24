@@ -92,6 +92,7 @@ app/
     App/                          # entry point, tab shell, UIText, snapshot harness
     Models/Deck.swift             # Level, DeckOrigin, Deck, DeckStore
     Models/Course.swift           # course pack + block decoding
+    Models/BookletIndex.swift     # unit/dialog page ranges from the PDFs
     Models/ReviewStore.swift      # GRDB review log, replay, due queue
     Screens/                      # Home, Speak, Settings
     Screens/Course/               # shelves + block reader (tables, chunks)
@@ -148,34 +149,45 @@ source of truth; the JSON is generated and loaded at launch.
 
 ## Course content
 
-All of the processed course material ships inside the app: 30 units across A1.1,
-A1.2 and A2.1, the 15 grammar rules, and the 178 patterns. Nothing is fetched at
-runtime — the reader works offline.
+Two views of the same material:
+
+**Booklet** — the actual PDF pages. Each unit opens on its own dialogue, with
+chips for *Unit · Dialog 1 · Dialog 2 · Dialog 3*. This is the default because the
+booklets are two-column layouts: dialogue script with the English beside it,
+footnote boxes on particles, *Neue Chunks* cloze tables, grammar tables and
+exercises. Re-typesetting them loses all of that, which is what the first attempt
+did.
+
+**Notes** — the markdown in `course/**`, rendered as blocks.
 
 ```bash
-python3 tools/export_course.py           # rewrite course.json
-python3 tools/export_course.py --check   # fail if the pack is stale
+python3 tools/export_booklet.py           # index the PDFs, stage them for the app
+python3 tools/export_booklet.py --check   # fail if the index is stale
 ```
 
-Source is the **markdown** in `course/**` and `patterns/patterns.md`, not the PDFs
-in `courses/`. Those PDFs are layout-heavy booklets; the repo already did the
-extraction, and re-parsing them at runtime would be strictly worse.
+### How the indexing works
 
-Markdown is parsed into typed blocks — heading, paragraph, list, table, callout —
-rather than rendered as markdown. That is not fussiness: the material contains
-**2,904 table rows**, and `AttributedString(markdown:)` collapses every table into
-a paragraph of pipe characters. SwiftUI then lays the blocks out with the design
-system, which is what makes the content behave like the rest of the app:
+There are no "Dialog 1" headings in the body of a booklet — the titles exist only
+on the contents page. So the index is built from two facts:
 
-- **Gender grids colour themselves.** When a table's header is `m · f · n · pl`,
-  each column takes its noun colour — so *die* is pink in the feminine column and
-  purple in the plural column, in the same frame. No per-cell guessing.
-- **Chunk tables are self-tests.** Every unit's Dialog table is tappable: *Hide
-  meanings* blanks the English, tap a row to reveal one.
-- **Patterns are searchable** in the Patterns shelf.
+1. **Printed page numbers** from the contents page give each dialog's start.
+2. **Page footers** (a bare number on the last line) give the offset between
+   printed pages and PDF pages — 6 for A1.1, 0 for the rest. The median across
+   every page is used, so one odd footer cannot shift the whole book.
 
-The reader is reached from the **Course** tab: Units (by level) · Grammar (the 15
-rules by number) · Patterns.
+Two adjustments matter: the page a dialog starts on is usually the **unit divider**
+(`Unit 1: … -Im Flugzeug-`), so the index steps past any page beginning with
+`Unit N:` to the first real page of text.
+
+Result: 40 units, 119 dialogs across A1.1, A1.2, A2.1 and A2.2.
+
+### Copyright
+
+The booklets are © Anja Winter LTD, all rights reserved. `tools/export_booklet.py`
+**copies** the PDFs into `Resources/booklets/` for the app to read, and those copies
+are gitignored — the app bundle is a private build, not a redistribution. The
+originals in `courses/` are already tracked in this repo; that is a separate
+decision from this pipeline.
 
 ## Spaced repetition
 

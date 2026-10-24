@@ -45,6 +45,7 @@ struct RootView: View {
     @StateObject private var store = DeckStore()
     @StateObject private var reviews = RenderMode.isRendering ? ReviewStore.inMemory() : ReviewStore()
     @State private var pack = CoursePack.load()
+    @State private var booklets = BookletIndex.load()
     @AppStorage("uiLanguage") private var language: UILanguage = .en
     @State private var tab: Tab
     @Environment(\.colorScheme) private var scheme
@@ -95,6 +96,7 @@ struct RootView: View {
         .environmentObject(store)
         .environmentObject(reviews)
         .environment(\.coursePack, pack)
+        .environment(\.bookletIndex, booklets)
         .environment(\.uiText, UIText(language: language))
         .animation(Motion.card, value: tab)
     }
