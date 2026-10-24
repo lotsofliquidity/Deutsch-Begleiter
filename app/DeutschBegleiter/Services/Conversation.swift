@@ -121,9 +121,9 @@ final class Conversation: ObservableObject {
             return
         }
         listener.start()
-        phase = listener.isListening
-            ? .listening
-            : .failed(listener.failure ?? L10n.t("Could not start listening.", "Start fehlgeschlagen."))
+        // the listener publishes asynchronously now, so trust the
+        // attempt here and let the orb reflect the real state
+        phase = .listening
     }
 
     func stopListening() async {
