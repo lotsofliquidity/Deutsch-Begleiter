@@ -7,3 +7,4 @@ app/**/xcuserdata/
 app/**/DerivedData/
 app/**/.build/
 app/**/SourcePackages/
+app/**/.swiftpm/
