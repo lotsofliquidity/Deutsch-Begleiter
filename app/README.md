@@ -94,6 +94,7 @@ app/
     Models/Course.swift           # course pack + block decoding
     Models/BookletIndex.swift     # unit/dialog page ranges from the PDFs
     Models/ReviewStore.swift      # GRDB review log, replay, due queue
+    Services/                     # DeepSeek, speech in/out, conversation turn
     Screens/                      # Home, Speak, Settings
     Screens/Course/               # shelves + block reader (tables, chunks)
     Screens/Cards/                # library, detail, editor, study + routing
@@ -188,6 +189,38 @@ The booklets are © Anja Winter LTD, all rights reserved. `tools/export_booklet.
 are gitignored — the app bundle is a private build, not a redistribution. The
 originals in `courses/` are already tracked in this repo; that is a separate
 decision from this pipeline.
+
+## Speaking practice
+
+A turn is: **listen → transcribe → DeepSeek → speak**.
+
+| Part | Implementation | Notes |
+|---|---|---|
+| Ears | `SFSpeechRecognizer`, `de-DE` | on-device when the model is installed, otherwise server |
+| Mouth | `AVSpeechSynthesizer` | picks the best German voice; `--selftest-voice` lists them |
+| Brain | `DeepSeekClient` (`deepseek-flash`) | one call per turn, temperature 1.3 |
+
+The roleplay prompt keeps replies to one or two German sentences plus a single
+question, at A2, and recasts mistakes instead of explaining them. The flag button
+ends the session and asks for 2–3 corrections in the form *ich: … → besser: …*.
+
+**API key**: Settings → API key, stored in the keychain. `--selftest-voice` proves
+the keychain round-trip. A CLI run can also read `DEEPSEEK_API_KEY` from the
+environment, which is how the headless tests avoid touching the keychain.
+
+**Try it**: add a key, press *Test* (one cheap call), then tap the orb. The first
+tap asks for speech and microphone permission. Typing in German works identically
+and is the way to test the loop without a microphone.
+
+Scenarios: Im Café, Im Hotel, Wohnungssuche, Beim Arzt, Small Talk, Beim Einkaufen.
+
+### What is not verified
+
+The audio path has not been exercised end to end — that needs a real key and a
+microphone. Verified so far: both builds, the keychain round-trip, 9 installed
+German voices, the missing-key failure, and the screen layout. Speech recognition
+in the simulator uses the Mac's microphone and can be flaky; a device is more
+reliable.
 
 ## Spaced repetition
 

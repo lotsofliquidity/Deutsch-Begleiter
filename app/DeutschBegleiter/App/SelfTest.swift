@@ -1,3 +1,4 @@
+import AVFoundation
 import Foundation
 import SRSKit
 
@@ -8,6 +9,21 @@ import SRSKit
 @MainActor
 enum SelfTest {
     static func runIfRequested() -> Bool {
+        if CommandLine.arguments.contains("--selftest-voice") {
+            let voices = AVSpeechSynthesisVoice.speechVoices().filter { $0.language.hasPrefix("de") }
+            print("German voices installed: \(voices.count)")
+            for voice in voices.prefix(6) {
+                print("  \(voice.name) · \(voice.language) · \(voice.quality == .premium ? "premium" : voice.quality == .enhanced ? "enhanced" : "default")")
+            }
+            print("chosen: \(GermanSpeaker.germanVoice()?.name ?? "none")")
+
+            Keychain.save("selftest-key-123")
+            let loaded = Keychain.load()
+            Keychain.delete()
+            print("keychain round-trip: \(loaded == "selftest-key-123" ? "OK" : "FAILED") · cleared: \(Keychain.load() == nil)")
+            return true
+        }
+
         guard CommandLine.arguments.contains("--selftest") else { return false }
 
         let url = FileManager.default.temporaryDirectory

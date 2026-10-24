@@ -38,7 +38,7 @@ public struct SpeechOrb: View {
                 )
                 .shadow(color: t.accent.opacity(0.40), radius: 26, y: 10)
 
-            Image(systemName: isListening ? "waveform" : "pause.fill")
+            Image(systemName: isListening ? "waveform" : "mic.fill")
                 .font(.system(size: 30, weight: .bold))
                 .foregroundStyle(t.ink.opacity(0.55))
         }

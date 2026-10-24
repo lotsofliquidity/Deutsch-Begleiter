@@ -9,7 +9,8 @@ struct SettingsScreen: View {
     @Environment(\.uiText) private var text
     @Environment(\.colorScheme) private var scheme
 
-    @State private var apiKey = ""
+    @State private var apiKey = Keychain.load() ?? ""
+    @State private var keyStatus = ""
     @State private var packSource = "https://github.com/lotsofliquidity/Deutsch-Begleiter/releases/latest"
 
     var body: some View {
@@ -29,11 +30,25 @@ struct SettingsScreen: View {
                         Text(text.apiKeyDetail)
                             .font(Typography.caption).foregroundStyle(t.inkSoft)
                         SecretField("sk-…", text: $apiKey)
+                            .onChange(of: apiKey) { _, value in
+                                Keychain.save(value)
+                                keyStatus = ""
+                            }
                         HStack(spacing: 8) {
-                            Button(text.test) {}
-                                .buttonStyle(ChunkyButtonStyle(
-                                    fill: t.surface, edge: t.sand, ink: t.ink, compact: true))
+                            Button(text.test) {
+                                keyStatus = "…"
+                                Task {
+                                    keyStatus = await DeepSeekClient.test(apiKey)
+                                }
+                            }
+                            .buttonStyle(ChunkyButtonStyle(
+                                fill: t.surface, edge: t.sand, ink: t.ink, compact: true))
                             Chip("deepseek-flash", tint: Color(hex: 0xBFE0FF))
+                        }
+                        if !keyStatus.isEmpty {
+                            Text(keyStatus)
+                                .font(.system(size: 11, weight: .semibold, design: .rounded))
+                                .foregroundStyle(keyStatus.contains("works") ? t.success : t.inkSoft)
                         }
                     }
                 }

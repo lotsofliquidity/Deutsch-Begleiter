@@ -61,7 +61,11 @@ struct UIText: Sendable {
 
     // MARK: speak
 
-    var justStartTalking: String { t("Just start talking — or tap Hint.", "Sprich einfach los — oder tippe Tipp.") }
+    var justStartTalking: String { t("Just start talking — or type below.", "Sprich einfach los — oder tippe unten.") }
+    var tapToSpeak: String { t("Tap the orb to speak", "Tippe auf den Kreis, um zu sprechen") }
+    var listeningNow: String { t("Listening — tap again to send", "Ich höre zu — tippe zum Senden") }
+    var thinking: String { t("Thinking…", "Ich denke…") }
+    var typeInstead: String { t("Or type in German", "Oder tippe auf Deutsch") }
     var hint: String { t("Hint", "Tipp") }
     var again: String { t("Again", "Nochmal") }
     var slower: String { t("Slower", "Langsamer") }
@@ -123,6 +127,18 @@ struct UIText: Sendable {
     var installed: String { t("Installed", "Installiert") }
     var notInstalled: String { t("Not available", "Nicht verfügbar") }
     var unlevelled: String { t("10 cards unlevelled", "10 Karten ohne Niveau") }
+}
+
+/// Chrome strings for services, which have no environment access. Content is
+/// always German; these are only status and error lines.
+enum L10n {
+    static var isGerman: Bool {
+        (UserDefaults.standard.string(forKey: "uiLanguage") ?? "en") == "de"
+    }
+
+    static func t(_ english: String, _ german: String) -> String {
+        isGerman ? german : english
+    }
 }
 
 private struct UITextKey: EnvironmentKey {
